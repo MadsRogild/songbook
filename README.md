@@ -5,11 +5,17 @@ To use it first install the required packages: rstr and reportlab. Do this using
 It has x options
 
 -c, --camp              To tell the program that it is used for a camp, also sets unf to true
+
 -u, --unf               If the songbook is UNF related
+
 -e, --empty             If one wants an empty first page
+
 -l, --logo <file>       Used to specify logo to be used on the first page (cannot be used with -e)
+
 -n, --name              The name/title for the songbook
+
 -s, --style             Specifies the pagenumber style to be used
+
 -p, --new_style         Specifies a new style to be added.
 
 Usage example: python Sangbog.py -n Mat -c -s hex -l pic.svg
