@@ -10,13 +10,13 @@ It has 7 options
 
 -e, --empty                                       If one wants an empty first page
 
--l, --logo <file>                                 Used to specify logo to be used on the first page (cannot be used with -e)
+-l, --logo "file"                                 Used to specify logo to be used on the first page (cannot be used with -e)
 
--n, --name <name>                                 The name/title for the songbook
+-n, --name "name"                                 The name/title for the songbook
 
--s, --style                               Specifies the pagenumber style to be used
+-s, --style "style"                               Specifies the pagenumber style to be used
 
--p, --new_style <name regular expression>         Specifies a new style to be added.
+-p, --new_style "name regular expression"         Specifies a new style to be added.
 
 
 Usage example: python Sangbog.py -n Mat -c -s hex -l pic.svg
