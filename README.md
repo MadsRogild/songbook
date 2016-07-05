@@ -4,7 +4,7 @@ To use it first install the required packages: rstr and reportlab. Do this using
 
 It has x options
 
--c, --camp              To tell the program that it is used for a camp, also sets unf to true
+-c, --camp              To tell the program that it is used for a camp, also sets unf to true\n
 -u, --unf               If the songbook is UNF related
 -e, --empty             If one wants an empty first page
 -l, --logo <file>       Used to specify logo to be used on the first page (cannot be used with -e)
