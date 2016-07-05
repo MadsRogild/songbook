@@ -12,7 +12,7 @@ It has 7 options
 
 -l, --logo <file>                                 Used to specify logo to be used on the first page (cannot be used with -e)
 
--n, --name  <name>                                The name/title for the songbook
+-n, --name <name>                                 The name/title for the songbook
 
 -s, --style                               Specifies the pagenumber style to be used
 
