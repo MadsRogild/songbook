@@ -1,0 +1,90 @@
+\beginsong{Åh, Maple}[sr={Melodi: Westlife - Mandy}
+,
+by={ FysikRevy 2015}
+,
+cr={}]
+\beginverse
+Husker dengang jeg var rus
+MatIntro, tog det lidt på sjus'
+
+\endverse
+\beginverse
+En skygge af et blad
+Et håb om at ku løse
+Funktionen foran mig
+Var det muligt
+
+\endverse
+\beginverse
+Onsdag formiddag og jeg
+Mærker "deadline" nærme sig
+Skriver den funktion
+
+\endverse
+\beginverse
+Og beder dig plot' den
+Og alt du giver mig
+Er blot en fejlmelding åh Maple
+
+\endverse
+\beginverse
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Selvom jeg prøver at være kærlig
+Ignorerer du mig, åååh Maple
+
+\endverse
+\beginverse
+Jeg sidder til eksamen nu
+Er maple noget jeg ka' brug?
+Men RootOfCSC?
+Hvad fanden betyder det?
+Har du andre svar
+End errorfunktioner, Åh Maple
+
+\endverse
+\beginverse
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Når jeg bruger græske symboler
+Ja, så fatter du hat! Åh Maple
+
+\endverse
+\beginverse
+Du siger "export to Latex"
+Hvad fuck er det, det virker ik'
+Men jeg klare'd den eksam'
+Jeg fik det hele gjort
+Og hjælpen du gav mig
+Var fem liniers rødt lort, åh Maple
+
+\endverse
+\beginverse
+Bare tænk, hvis jeg var til eksamen
+Uden dig på min PC, åh maple
+Selvom jeg prøver at være kærlig,
+Ignorerer du mig, åh Maple
+
+\endverse
+\beginverse
+TI-89
+Og Matlab og Mathcat
+Er ubrugelig'
+Men intet er værre end Maple
+
+\endverse
+\beginverse
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Selvom jeg prøver at være kærlig
+Ignorerer du mig, åååh Maple
+
+\endverse
+\beginverse
+Bare tænk, hvis jeg var til eksamen
+Uden dig på min PC, åh maple
+Selvom jeg prøver at være kærlig,
+Skider du i munden på mig, åh Maple
+
+\endverse
+\endsong

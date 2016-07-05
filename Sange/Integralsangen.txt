@@ -1,0 +1,29 @@
+\beginsong{Integralsangen}[sr={Melodi: Peberkagebagesangen}
+,
+by={ MatematikRevy 2008}
+,
+cr={}]
+\beginverse
+Hvis\ldots
+integralet du skal løse,
+må du ikke bare sløse.
+Du skal give det dit bedste,
+og så ikke blive gal.
+Og hvis stamfunktionen findes,
+er det bare om at mindes:
+Differens af indsat grænser
+det er vores areal.
+
+\endverse
+\beginverse
+Hvis du ikke kender grænser,
+differens du ikke ænser;
+du skal find’ de tal der matcher
+de værdier som du har.
+Hvis konstanten ellers stemmer,
+vores resultat vi kender.
+Din instruktor bliver glad,
+og jeres opgave er klar.
+
+\endverse
+\endsong

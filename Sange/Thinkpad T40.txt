@@ -1,0 +1,67 @@
+\beginsong{Thinkpad T40}[sr={Melodi: Roger and Over - Volvo B18-210}
+,
+by={ DIKUrevy 2014}
+,
+cr={}]
+\beginverse
+Vi så hinanden første gang
+i Store UP(1)
+Du var slukket, jeg var fuld -
+din ejer han var væk
+Gik en lille tur med dig,
+i Kantinen var der plads
+Jeg satte mig, og tændte dig
+fik stød og det gjord' nas
+
+\endverse
+\beginverse
+Du er min Thinkpad T40, og du er slidt
+Du mangler lidt RAM, og du lugter lidt af kridt
+68 graders kerne, hver gang du starter op
+Og dit lunefulde drev, før mig til at ta' backup
+
+\endverse
+\beginverse
+Du var en gammeldags maskine
+Det med 'nyt' det var lidt svært
+Men du holdte mig allig'vel
+Underholdt med lidt af hvert
+Du havde kræfter til at spille
+gamle spil fra MS-DOS,
+de kalder dig en bærbar
+men du er sgu lidt en klods
+
+\endverse
+\beginverse
+Du er min Thinkpad T40, og du er slidt
+Du mangler lidt RAM, og du lugter lidt af kridt
+68 graders kerne, hver gang du starter op
+Og dit lunefulde drev, får mig til at ta' backup
+
+\endverse
+\beginverse
+Du er min Thinkpad T40, og du er slidt
+Du mangler lidt RAM, og du lugter lidt af kridt
+68 graders kerne, hver gang du starter op
+Og dit lunefulde drev, får mig til at ta' backup
+
+\endverse
+\beginverse
+Vi skrev bachelor sammen,
+med gcc og vim
+Når du laved' sjov, og sletted' alt,
+så skrev jeg det igen
+Det var dagen før min deadline,
+jeg sku' oversæt' min TeX
+Jeg låste dig, men ik' min dør
+og pludselig var du væk
+
+\endverse
+\beginverse
+Du var min Thinkpad T40, og du var slidt
+Du mangled' lidt RAM, og du lugted' lidt af kridt
+68 graders kerne, hver gang du started' op
+Og dit lunefulde drev, fik mig til at ta' backup
+
+\endverse
+\endsong

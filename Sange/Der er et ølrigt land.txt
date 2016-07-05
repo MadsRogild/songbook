@@ -1,0 +1,50 @@
+\beginsong{Der er et ølrigt land}[sr={Melodi: Der er et yndigt land}
+,
+by=%{ Holger Drachmann}
+,
+cr={}]
+\beginverse
+Der er et ølrigt land,
+det står med nød og næppe
+blandt alt det pokkers vand
+blandt alt det pokkers vand.
+Det bugter sig i bar og kro.
+Det hedder gamle Danmark,
+og her er øllen go'
+ja, hver en øl er go'.
+
+\endverse
+\beginverse
+Her drak i fordums tid
+hver tillakkede kæmper
+sin mjød af fad med flid
+sin mjød af fad med flid.
+Så prøved' han, ej uden mén
+at finde sine bene,
+men faldt ved hver en sten
+ja, hver en bautasten.
+
+\endverse
+\beginverse
+Den øl endnu er skøn,
+og gid den aldrig vælter.
+Lad baj'ren stå så grøn
+lad baj'ren stå så grøn.
+De ædle sorters skønne øer
+med sutter, sulde svende
+og svimle danske møer
+ja, svimle danske møer.
+
+\endverse
+\beginverse
+Hil druk og fædreland.
+Hil hver en kølig bajer.
+Vi drikker dem vi kan
+vi drikker dem vi kan.
+Vort gamle Danmark -- SKÅL! -- bestå
+så længe øllet skummer,
+og næsen den bli'r blå
+med røde prikker på.
+
+\endverse
+\endsong
