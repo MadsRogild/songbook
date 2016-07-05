@@ -14,7 +14,7 @@ It has 7 options
 
 -n, --name  <name>                                The name/title for the songbook
 
--s, --style <style>                               Specifies the pagenumber style to be used
+-s, --style                               Specifies the pagenumber style to be used
 
 -p, --new_style <name regular expression>         Specifies a new style to be added.
 
