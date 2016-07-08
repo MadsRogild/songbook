@@ -1,0 +1,60 @@
+﻿\beginsong{Hymne til Matematik Camp}[sr={Melodi: I Danmark er jeg født}
+,
+by={Søren Møller, Matematik Camp 2014}
+,
+cr={}]
+\beginverse
+På campen har jeg lært, der har jeg hjemme
+Der er alt sandt, derfra min fremtid går.
+Du mat'matik, du er min egen stemme,
+så klart beviserne min hjerne når.
+Min tankes $\pi$ og $\rho$,
+hvor Euklids elementer
+står mellem algebra og rentesrenter.
+Dig agter jeg -- MatCamp mit origo.
+\endverse
+
+\beginverse
+Hvor lægges næste år mon sommerskolen?
+Mon ik' det er ved jydens Unisø.
+Et yndigt sted hvor alle knækker koden,
+så dejligt som på Danas egen ø.
+Min tankes $\pi$ og $\rho$,
+hvor aksiomer holder.
+Gauss gav os alt, han er sandhedens tolder.
+Dig agter jeg -- MatCamp mit origo.
+\endverse
+
+\beginverse
+Engang du herre var i kloges færden.
+Bød over dumhed - nu du kaldes led.
+Et lille fag som dog ved alt om verden,
+og hører vores sang og troskabsed.
+Min tankes $\pi$ og $\rho$
+funktioners nulpunkt finder.
+Gauss giv dig rødder, som vi gi'r dig minder.
+Dig agter jeg -- MatCamp mit origo.
+\endverse
+
+\beginverse
+Se divergens ved polyedrets kanter,
+der gi'r uend'ligt mange mindre skridt;
+og symmetri blandt vores kommutanter
+gør stadig majoranten lige skidt.
+Min tankes $\pi$ og $\rho$,
+hvor grænser frit bestemmes,
+og ingen sig ved udvælgelsen græmmes.
+Dig agter jeg -- MatCamp mit origo
+\endverse
+
+\beginverse
+Du camp hvor jeg har lært, hvor jeg har hjemme,
+hvor alt er sandt, hvorfra min fremtid går,
+hvor mat'matik er livets klare stemme,
+og klart beviserne min hjerne når
+Min tankes $\pi$ og $\rho$
+ved videnskabens kilde.
+I mat'matik min hjerne alt vil vide.
+Dig agter jeg -- MatCamp mit origo.
+\endverse
+\endsong
