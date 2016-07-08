@@ -6,7 +6,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, sort):
+def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -38,12 +38,32 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
             line0 = sang.readline()         #read the first line of the song, which contain the title
             title = re.search('(?<=song{)(.*?)}',line0)     #get the title
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
-            songs.append((title, fil))          #put the title in a list along with its respective filename
-            sang.close()        
+            if "%" in line0:
+                order = int(float(line0[line0.index("%")+1]))
+            else:
+                order = 999999
+            songs.append((title, fil, order))          #put the title in a list along with its respective filename
+            sang.close()       
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
-
-        
+    if fixed:
+        songs = sorted(songs, key=lambda songs: songs[2])
+        temp = []
+        index = []
+        for i in range(0,len(songs)-1):
+            (_,_,o) = songs[i]
+            if o < 999999:
+                temp.append(songs[i])
+                index.append(i)
+        for ind in index:
+            del songs[ind]
+        songs = sorted(songs, key=lambda songs: songs[0])
+        for i in range(0,len(temp)-1):
+            (_,_,o) = temp[i]
+            songs.insert(o, temp[i]) 
+             
+       
+ 
     temp = []
     if [item for item in songs if "Fulbert og Beatrice" in item]:       #if Fulbert and Beatrice is in the list of songs
         i = songs.index([item for item in songs if "Fulbert og Beatrice" in item][0])       #get the index of Fulbert and Beatrice
@@ -78,7 +98,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
     counter = 0
     f = open("Sanghaefte.tex",'a')      #open the tex file for the songbook
     for tup in songs:                   #go through the list of songtitles and files
-        (title, fil) = tup              #get the title and filename for each song
+        (title, fil,order) = tup              #get the title and filename for each song
         if fil.endswith(".txt"):        #only use txt files
             sang = open("""Sange/"""+fil, 'r')      #open the song
 #            text = """\\label{song""" + str(counter) + """}\n"""        #make a label
@@ -127,7 +147,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
 
 
     for i in range(0, len(songs)):
-        (title,_) = songs[i]            #get the title of the songs
+        (title,_,_) = songs[i]            #get the title of the songs
         index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(i) + "} På side: \pageref{song" + str(i) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
 
@@ -141,7 +161,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
 
 def usage():
     print("Usage: "+sys.argv[0]+" -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of sangbook> -l <file for logo, svg or png>")
-    print("Options: -c (if it is a camp) -u (if it is UNF) -e (if you do no want a front page)")
+    print("Options: -c (if it is a camp) -u (if it is UNF) -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number)")
 
 def main(argv):
     name = ""           #name of the songbook
@@ -152,8 +172,9 @@ def main(argv):
     empty = False       #if you want a front page or not
     logo = ""           #the file containing the logo for the front page
     sort = False
+    fixed = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:S",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort"])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sf",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed"])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -182,6 +203,8 @@ def main(argv):
                 empty = True
         elif opt in ("-S","--sort"):
             sort = True
+        elif opt in ("-f","--fixed"):
+            fixed = True
         else:
             usage()
             sys.exit()
@@ -192,7 +215,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, sort)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed)         #call to create sangbog
 
 
 if __name__=='__main__':
