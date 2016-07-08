@@ -95,7 +95,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
                 start += """\\setcounter{temppage}{\\value{page}}       
 \\pagenumbering{arabic}
 \\setcounter{page}{10}"""           #set counter to the current page number, change the pagenumbering to arabic and change the page number to 10
-                text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n" + text[j+1:] + """
+                text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """
 \\newpage
 """ + end           #put all the pieces together and make a hypertarget for use in pagereferences ind indexing
                 next_page = 2
@@ -136,7 +136,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort):
     index_file.close()
     call(["pdflatex", "Sanghaefte.tex"])
     call(["pdflatex", "Sanghaefte.tex"])
-    os.remove("Sanghaefte.tex")
+#    os.remove("Sanghaefte.tex")
 
 
 def usage():
@@ -153,7 +153,7 @@ def main(argv):
     logo = ""           #the file containing the logo for the front page
     sort = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:S:",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort="])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:S",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort"])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
