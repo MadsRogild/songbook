@@ -40,7 +40,8 @@ def create_sangbog(unf, camp, name, style, logo, empty):
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
             songs.append((title, fil))          #put the title in a list along with its respective filename
             sang.close()        
-    songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
+    if sort:
+        songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
 
         
     temp = []
@@ -150,8 +151,9 @@ def main(argv):
     unf = False         #if its for UNF or not
     empty = False       #if you want a front page or not
     logo = ""           #the file containing the logo for the front page
+    sort = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:",["help","unf","camp","empty","new_style=","number_style=","name=", "logo="])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:S:",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -159,7 +161,7 @@ def main(argv):
         if opt in ("-h","--help"):          #option used to print usage
             usage()
             sys.exit()
-        elif opt in ("-p", "--new_style"):          #option used for making a new pagenumber style
+        elif opt in ("-p", "--style"):          #option used for making a new pagenumber style
             new_style = arg
         elif opt in ("-s", "--number_style"):       #option used to set the pagenumber style in the tex file
             style = arg
@@ -178,6 +180,8 @@ def main(argv):
                 sys.exit()
             else:
                 empty = True
+        elif opt in ("-S","--sort"):
+            sort = True
         else:
             usage()
             sys.exit()
@@ -188,7 +192,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, sort)         #call to create sangbog
 
 
 if __name__=='__main__':
