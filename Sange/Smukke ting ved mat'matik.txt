@@ -1,4 +1,4 @@
-\beginsong{Smukke ting ved mat'matik}[sr={Melodi: Pocahontas - Colours of the Wind}
+﻿\beginsong{Smukke ting ved mat'matik}[sr={Melodi: Pocahontas - Colours of the Wind}
 ,
 by={ MatematikRevy 2008}
 ,
@@ -60,7 +60,7 @@ Kan I ikke finde charmen ved en ligning
 Kan I se de smukke ting ved mat’matik
 læs nu blot på jeres fag
 men det sker nu nok en dag
-at I ser...de smukke ting ved...mat’matik...
+at I ser\ldots de smukke ting ved\ldots mat’matik\ldots
 
 \endverse
 \endsong
