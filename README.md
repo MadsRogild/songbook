@@ -18,6 +18,10 @@ It has 7 options
 
 -p, --new_style "name regular expression"         Specifies a new style to be added.
 
+-S, --sort                                        Specifies the songs to be sorted in alphabetic order
+
+-f, --fixed                                       This makes it order them by a specified number set in the song files. Read more below.
+
 
 Usage example: python Sangbog.py -n Mat -c -s hex -l pic.svg
 This gives a songbook where the title is Mat, and it is a camo, it uses hexadecimal as pagenumbers, and the logo is pic.svg.
@@ -28,3 +32,9 @@ For the new_style option one has to enter the new style of form: "name [regular 
 Logos have to be either svg, png or jpg.
 
 If the style specified in the option --style does not exist then arabic style will be used.
+
+The sorting by fixed numbers works by putting a comment followed by a number in the songs file, so the first line of any song will look like:
+
+\beginsong{song title}[options]%5
+
+This means the song will be number 5. For the songs that have no number specified they will get sorted by title.
