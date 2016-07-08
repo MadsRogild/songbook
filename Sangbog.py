@@ -41,9 +41,27 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             if "%" in line0:
                 order = int(float(line0[line0.index("%")+1]))
             else:
-                order = 999999
+                order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
-            sang.close()       
+            sang.close()      
+
+    temp = []
+    if [item for item in songs if "Fulbert og Beatrice" in item]:       #if Fulbert and Beatrice is in the list of songs
+        i = songs.index([item for item in songs if "Fulbert og Beatrice" in item][0])       #get the index of Fulbert and Beatrice
+        if i != 12:
+            temp.append(songs[i])       #if its not number 12, then put it in a list
+            del songs[i]                #and remove it from the list of songs
+    if [item for item in songs if "I Morgen er Verden Vor" in item]:        #if I Morgen er Verden Vor is in the list of songs
+        i = songs.index([item for item in songs if "I Morgen er Verden Vor" in item][0])        #get the index of I Morgen er Verden Vor
+        if i != 42:
+            temp.append(songs[i])   #if its not number 42, then put it in a list
+            del songs[i]            #and remove it from the list of songs
+    if [item for item in songs if "DAT62(1/2)80 Slagsang" in item]:     #if DAT62(1/2)80 Slagsang is in the list of songs
+        i = songs.index([item for item in songs if "DAT62(1/2)80 Slagsang" in item][0])         #get the index of DAT62(1/2)80 Slagsang
+        if i != 43:
+            temp.append(songs[i])   #if its not number 43, then put it in a list
+            del songs[i]            #and remove it from the list of songs
+ 
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
     if fixed:
@@ -64,24 +82,6 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
              
        
  
-    temp = []
-    if [item for item in songs if "Fulbert og Beatrice" in item]:       #if Fulbert and Beatrice is in the list of songs
-        i = songs.index([item for item in songs if "Fulbert og Beatrice" in item][0])       #get the index of Fulbert and Beatrice
-        if i != 12:
-            temp.append(songs[i])       #if its not number 12, then put it in a list
-            del songs[i]                #and remove it from the list of songs
-    if [item for item in songs if "I Morgen er Verden Vor" in item]:        #if I Morgen er Verden Vor is in the list of songs
-        i = songs.index([item for item in songs if "I Morgen er Verden Vor" in item][0])        #get the index of I Morgen er Verden Vor
-        if i != 42:
-            temp.append(songs[i])   #if its not number 42, then put it in a list
-            del songs[i]            #and remove it from the list of songs
-    if [item for item in songs if "DAT62(1/2)80 Slagsang" in item]:     #if DAT62(1/2)80 Slagsang is in the list of songs
-        i = songs.index([item for item in songs if "DAT62(1/2)80 Slagsang" in item][0])         #get the index of DAT62(1/2)80 Slagsang
-        if i != 43:
-            temp.append(songs[i])   #if its not number 43, then put it in a list
-            del songs[i]            #and remove it from the list of songs
-
-
     for i in range(0,len(temp)):
         if "Fulbert og Beatrice" == temp[i][0]:
             songs.insert(12, temp[i])       #insert Fulbert og Beatrice in place 12
