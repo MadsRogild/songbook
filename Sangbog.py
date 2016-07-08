@@ -31,6 +31,13 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     os.system("""./check""")    #run the file check
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
+    if style == "hex":
+        style = "\\renewcommand*{\\thepage}{0x\\hex{\\value{page}}}"
+    elif style == "binary":
+        style = "\\renewcommand*{\\thepage}{\\binary{\\value{page}}}"
+    elif style == "binary":
+        style = "\\renewcommand*{\\thepage}{0\\oct{\\value{page}}}"
+
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
@@ -44,7 +51,6 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
-
     temp = []
     if [item for item in songs if "Fulbert og Beatrice" in item]:       #if Fulbert and Beatrice is in the list of songs
         i = songs.index([item for item in songs if "Fulbert og Beatrice" in item][0])       #get the index of Fulbert and Beatrice
@@ -68,7 +74,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         songs = sorted(songs, key=lambda songs: songs[2])
         temp = []
         index = []
-        for i in range(0,len(songs)-1):
+        for i in range(0,len(songs)):
             (_,_,o) = songs[i]
             if o < 999999:
                 temp.append(songs[i])
@@ -76,8 +82,10 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         for ind in index:
             del songs[ind]
         songs = sorted(songs, key=lambda songs: songs[0])
-        for i in range(0,len(temp)-1):
+        for i in range(0,len(temp)):
             (_,_,o) = temp[i]
+            print o
+            print temp[i]
             songs.insert(o, temp[i]) 
              
        
