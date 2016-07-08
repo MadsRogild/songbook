@@ -72,21 +72,19 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
     if fixed:
         songs = sorted(songs, key=lambda songs: songs[2])
-        temp = []
+        order = []
         index = []
         for i in range(0,len(songs)):
             (_,_,o) = songs[i]
-            if o < 999999:
+            if o < sys.maxint:
                 temp.append(songs[i])
                 index.append(i)
         for ind in index:
             del songs[ind]
         songs = sorted(songs, key=lambda songs: songs[0])
-        for i in range(0,len(temp)):
-            (_,_,o) = temp[i]
-            print o
-            print temp[i]
-            songs.insert(o, temp[i]) 
+        for i in range(0,len(order)):
+            (_,_,o) = order[i]
+            songs.insert(o, order[i]) 
              
        
  
@@ -141,7 +139,10 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                 text = text[:j+1] + """\\hypertarget{""" + title.replace('\\','') + """}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """\n"""     #make a hypertarget for use in pagereferences in the index 
                 next_page = next_page - 1
                 if next_page == 0:
-                    text += """\\pagenumbering{""" + style + """}\n"""          #change the style back to the set style
+                    if """renew""" in style:
+                        text += """""" + style + """\n"""
+                    else:
+                        text += """\\pagenumbering{""" + style + """}\n"""          #change the style back to the set style
                     text += """\\setcounter{page}{\\value{temppage}}\n"""       #and change the pagenumber back to what it was
             f.write("""\n""" + text + """\n""")
             counter += 1
