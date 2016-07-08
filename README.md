@@ -35,6 +35,13 @@ If the style specified in the option --style does not exist then arabic style wi
 
 The sorting by fixed numbers works by putting a comment followed by a number in the songs file, so the first line of any song will look like:
 
-\beginsong{song title}[options]%5
+line1: \beginsong{song title}[options]%5
+line2-x: song
+
+The declaration of the song can be split up over several lines so it becomes
+
+line1-x: \beginsong{song title}[options%5
+line x: ]
+line x+1-y: song
 
 This means the song will be number 5. For the songs that have no number specified they will get sorted by title.
