@@ -35,7 +35,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         style = "\\renewcommand*{\\thepage}{0x\\hex{\\value{page}}}"
     elif style == "binary":
         style = "\\renewcommand*{\\thepage}{\\binary{\\value{page}}}"
-    elif style == "binary":
+    elif style == "oct":
         style = "\\renewcommand*{\\thepage}{0\\oct{\\value{page}}}"
 
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file

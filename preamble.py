@@ -2,6 +2,8 @@
 import sys, os, getopt, re
 from PIL import Image
 from reportlab import pdfbase
+#    from svglib.svglib import svg2rlg
+#else:
 from svglibbuild3 import svg2rlg
 from reportlab.graphics import renderPDF
 
@@ -39,9 +41,9 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\pagestyle{empty}
 \\begin{center}""")     #start the document
         if camp:
-            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year""")        #if it is a camp write the name plus camp
+            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year\n""")        #if it is a camp write the name plus camp
         else:
-            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year""")         #otherwise just write name
+            tempf.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #otherwise just write name
         tempf.write("""\\end{center}
 
 \\end{document}""")         #end the document
@@ -69,12 +71,11 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage{hyperref}
 \\usepackage{multicol}
 \\setlength{\columnsep}{2cm}
-\\input{page_numbering}
 \\newindex{titleidx}{titlefile}
 \\sepindexesfalse
-\\title{Sangbog """ + name + """ \\the\\year}""")           #create preamble
+\\title{Sangbog """ + name + """ \\the\\year}\n""")           #create preamble
     if camp or unf:
-        f.write("""\\author{Ungdommens Naturvidenskabelige Forening}""")        #and UNF as author if its a camp or UNF songbook
+        f.write("""\\author{Ungdommens Naturvidenskabelige Forening}\n""")        #and UNF as author if its a camp or UNF songbook
     f.write("""\\date{\\today}
 \\addtolength{\\headwidth}{\\marginparsep}
 \\addtolength{\\headwidth}{\\marginparwidth}
@@ -82,21 +83,25 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\renewcommand{\\footrulewidth}{0.4pt}
 \\fancyhead[LE,RO]{\\LHeadFont Sangbog}
 \\fancyhead[CE,CO]{\\CHeadFont\\thepage}
-\\fancyhead[RE,LO]{\\RHeadFont\\RelDate}
-\\pagenumbering{""" + style + """}
-\\begin{document}
+\\fancyhead[RE,LO]{\\RHeadFont\\RelDate}\n""")
+    if """renew""" in style:
+        f.write("""\input binhex\n""" + style + """\n""")
+    else:
+        f.write("""\\input{page_numbering}
+\\pagenumbering{""" + style + """}\n""")
+    f.write("""\\begin{document}
 \\newcounter{temp}
-\\newcounter{temppage}""")          #continue preamble
+\\newcounter{temppage}\n""")          #continue preamble
     if not empty:       #if empty is not specified start writing a front page
         f.write("""\\thispagestyle{empty}
 \\centering
 \\phantom{test}
-\\vspace{1cm}""")          
+\\vspace{1cm}\n""")          
         if """.svg""" in logo:
             scale_height = 736.75 / height_l
             scale_width = 460.625 / width_l
             scale = (min(scale_height, scale_width)) - 0.15         #calculate how much the logo can be scaled
-            f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+file_name+"""}}""")       #include the logo in the tex file and scale it
+            f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+file_name+"""}}\n""")       #include the logo in the tex file and scale it
         elif """.jpg""" in logo or """.png""" in logo:      #if its not a vector graphic image
             img = Image.open(logo)
             width, height = img.size            #get the height and width of the image
@@ -104,16 +109,18 @@ def create_preamble(unf, camp, name, style, logo, empty):
             scale_width = 520.625 / width
             scale = min(scale_width, scale_height)      #get the smallest of the two 
             if scale < 1:       #if the lowest is less than 1 we need to scale down so it can fit in the page, otherwise we do no scale up
-                f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}""")
+                f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
+            else:
+                f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
         else:
-            f.write("""\\includegraphics[]{"""+logo+"""}}""")
+            f.write("""\\includegraphics[]{"""+logo+"""}}\n""")
         f.write("""\\vspace{1cm}
-    \\begin{center}""")
+\\begin{center}\n""")
         if camp:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year""")        #put the title for the songbook below the logo
+            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year\n""")        #put the title for the songbook below the logo
         else:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year""")         #put the title for the songbook below the logo
-        f.write("""\\end{center}""")
+            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #put the title for the songbook below the logo
+        f.write("""\\end{center}\n""")
     f.write("""\\vspace{2.5cm}
 \\newpage
 \\setcounter{page}{0}
