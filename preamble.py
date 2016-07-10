@@ -74,6 +74,8 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\setlength{\columnsep}{2cm}
 \\newindex{titleidx}{titlefile}
 \\sepindexesfalse
+\\noversenumbers
+\\setlength{\parindent}{2cm}
 \\title{Sangbog """ + name + """ \\the\\year}\n""")           #create preamble
     if camp or unf:
         f.write("""\\author{Ungdommens Naturvidenskabelige Forening}\n""")        #and UNF as author if its a camp or UNF songbook
