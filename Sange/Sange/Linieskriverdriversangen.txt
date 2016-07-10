@@ -1,0 +1,91 @@
+\beginsong{Linieskriverdriversangen}[sr={Melodi:Dyrene i Hakkebakkeskoven "Peberkagebagesangen"}
+,
+by={ DIKUrevy 2005}
+,
+cr={}]
+\beginverse
+Når en skriverdriverskriver
+skriver linieskriverdriver
+skal en skriverdriver skrive
+linieskriverdrivprogram.
+
+\endverse
+\beginverse
+For det hedder ikke driver
+nej, det' bare nog't man skriver
+men bar' fordi Microsoft de skriver
+driver bliver driver ikke nødvendigvis korrekt, vel?
+
+\endverse
+\beginverse
+Hvis en lagerlærer lærer
+andre lagerlærer's lære
+bør der's lagerlærdom lagres
+i et lærelagerlag.
+
+\endverse
+\beginverse
+Men det er jo så'n med lærer
+at de ik' ka' lagre lære
+for de kager rundt og tager
+jo slet ikke hinanden alvorligt, vel?
+
+\endverse
+\beginverse
+Når processor'n processerer
+og processerne bli'r flere
+og professor'n ik' ka' 'pere
+fler' processer i hans RAM.
+
+\endverse
+\beginverse
+{colb}
+Ja, så må vi allokere
+fler' studerende med mere
+lager end der's lagerlærer
+har i lagerlærerlag.
+
+\endverse
+\beginverse
+Ja, så må vi allokere
+fler' studerende med mere
+tid til at studere negre
+så de ka' forny mit professorat! Ikke sandt?
+
+\endverse
+\beginverse
+Når din vektorlektor nægter
+at en sektorvektorhægter
+peger på en sektorvektor
+er din vektorlektor gal.
+
+\endverse
+\beginverse
+For en sektorvektorhægter
+hægter kun til sektorvekt're
+og det' nytter ik' at lektor
+nægter hægters eksistens.
+
+\endverse
+\beginverse
+For en sektorvektorhægter
+hægter kun til sektorvekt're
+selvom alle vor's indtægter
+mistes når en vektorlektor møder vektorlektorinspektoren, ikke?
+
+\endverse
+\beginverse
+Hvis din pegerpeger peger
+På noget andet end en peger
+Så' din pegerpegers pegning
+Gået hen og blevet gal
+
+\endverse
+\beginverse
+For en pegerpeger plejer
+Kun at peg' på andre peger
+Så vi retter pegerpeger'n
+For at den kan bli' normal
+
+\endverse
+\endsong

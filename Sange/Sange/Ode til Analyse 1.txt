@@ -1,0 +1,62 @@
+\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
+,
+by={ MatematikRevy 2013}
+,
+cr={}]
+\beginverse
+Hvordan gi’r vi mening til
+Et uend’ligt summespil?
+Tallene bli’r fler og fler
+Tjek om delsum konverger’
+
+\endverse
+\beginverse
+Sum af n’te del i p
+Forholdstest og rottesten
+Vi lærte om en dejlig ven
+Den hedder Grænsesammenligningstesten
+
+\endverse
+\beginverse
+\emph{[Omkvæd:]
+Denne sang den er til dig
+Åh Jan Philip Solovej
+Når funktionerne de ændrer sig
+Så ta’r vi det skridt for skridt
+Lært i Analyse 1
+Lad n gå mod uendeligt}
+
+\endverse
+\beginverse
+Nu blev faget mer’ abstrakt
+Vi fandt en sum for $\pi$ eksakt
+Lærte om vor tavlesvamp
+Valget tør og våd er\ldots ikke mer’ en kamp
+
+\endverse
+\beginverse
+\emph{[Omkvæd]}
+
+\endverse
+\beginverse
+Er du nu lang langt væk eller så nær?
+(Er du nu lang langt væk eller så nær?)
+
+\endverse
+\beginverse
+Er metrikken 0, så du er her?
+
+\endverse
+\beginverse
+Wowyeahhh
+
+\endverse
+\beginverse
+$2\,\times\,$\emph{[Omkvæd]}
+
+\endverse
+\beginverse
+\emph{Lad n gå mod uendeligt}
+
+\endverse
+\endsong

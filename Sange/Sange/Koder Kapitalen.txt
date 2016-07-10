@@ -1,0 +1,116 @@
+\beginsong{Koder Kapitalen}[sr={Melodi:Kim Hot - Smoker Industrien}
+,
+by={ DIKUrevy 2013}
+,
+cr={}]
+\beginverse
+For 20 år siden der vidste folk ik'
+at datalogi det ku' blive så fedt!
+Der var en mand, der vidste det lidt
+men han koded' slam og fortalt' det ik
+men den mand han ku' se, at der kom et sprog
+hvor alle der koded' ku' ligne et fjog!
+Det fucking køter sprog det kørt' i en VM
+og med \texttt{static void main} bli'r det hele så nemt!
+
+\endverse
+\beginverse
+Det var 20 år siden og hans navn var Karl Koder
+koded' slam for kapitalen, havde syge frynsegoder
+Bawlet i Eclipse og spurgt': "Har du et problem?"
+Så skal Karl nok kom' og kode dit system.
+
+\endverse
+\beginverse
+Der var en konkurrence hvor han ik' sagde slut,
+for Karl han sgu battle mod motherfucking Knuth!
+Hans første linjer kode de var ik' særligt dope,
+men resten de var bomben, for de brugte nemlig SOAP!
+
+\endverse
+\beginverse
+Karl vandt og ham Knuth fik piveren på!
+Tog tilbage til Stanford den BØSSEKAL!
+Karl han sagde til den anden: "Pas godt på køter Java",
+for det' fremtidssproget, der bliver fuldstændig fucked,
+vi skal kode det hele! Forstår du det?
+Og det skal kodes i Java, der må ik' vær' noget C!
+Så fuck købsaftalen, tør røv med manualen
+navnet er Køter Karl, og vi koder kapitalen!
+
+\endverse
+\beginverse
+Koder ik i C,
+heller ej VB,
+eller det der lodne PHP
+han koder Java,
+kongen af Java,
+han koder altid,
+alting i Java!
+
+\endverse
+\beginverse
+Koder ik i C,
+heller ej VB,
+eller det der lodne PHP
+han koder Java,
+kongen af Java,
+kongen af Java,
+kongen af Java!
+
+\endverse
+\beginverse
+Nu står jeg her igen! Mand mod mand
+Parat til at kod' hvad du ik' kan!
+For datalogi det er blevet så fedt,
+man kan lave en service på internet!
+Og når den bli'r sat op, så kører den på Tomcat
+og så ta'r Karl hjem, og holder sig en sabbat,
+og så si'r han til sin chef:
+"Fuck din kode! Det er UML din BØSSEKAL!"
+Det skal kodes i Java! Det skal kodes med SOAP
+I en managed verden uden at tænke på scope.
+Hvor man elsker Swing, og bli'r fuldstændig fucked,
+Så længe man koder Java, så går det godt!
+Så alle de svanser, som der koder det i VB
+Det skal nok blive godt med nog't Java på jeres CV
+Så tag hjem fra regn'centralen og kod kapitalen!
+Fræse lortet ned med SOAP, regulere hele dagen!
+
+\endverse
+\beginverse
+Koder ik i C ...
+Koder ik i C ...
+
+\endverse
+\beginverse
+Når nu dikufanter de vil sælge kod' til nogen,
+kan de lære et par hacks inde på Kongens kodeskole
+Det første øvel'shold, det hedder SOAP-vold
+Man bli'r låst inde i Hel, og skal håndkod' XML!
+Den anden disciplin, den er ik' så nem at gætte,
+man bli'r tævet med klassestil til man ka' Javaetikette.
+Den tredje disciplin, det' alt for fedt
+Du skal kode noget Java for HI-PER-FIT.
+Man sletter GHC, starter Java-IDE
+Fucker deres lambda, det en syg idé
+Man lærer de svanser at hyle som en kat
+når man breaker deres build hver eneste nat
+Den allersidste time er lavningsdisciplin,
+for når du koder Java, så bli'r damerne til dine,
+Så fuck kvaliteten og skid på omtalen
+Foran terminalen kan du kode kapitalen!
+
+\endverse
+\beginverse
+Koder ik i C ...
+Koder ik i C ...
+Koder ik i C ...
+Koder ik i C ...
+
+\endverse
+\beginverse
+Koder Karl...
+
+\endverse
+\endsong
