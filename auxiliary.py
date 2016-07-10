@@ -1,6 +1,6 @@
 import re
 
-standard = ["arabic", "roman", "Roman", "alph", "Alph"]         #the standard defined pagenumber styles in latex
+standard = ["arabic", "roman", "Roman", "alph", "Alph", "binary", "oct", "hex"]         #the standard defined pagenumber styles in latex
 
 
 """This function is used to search for a specific pagenumber style,
