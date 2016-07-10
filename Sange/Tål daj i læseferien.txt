@@ -38,7 +38,6 @@ Der er fest i aften.
 \endverse
 
 \beginverse
-\columnbreak
 På den 7. da’ i læseferien\ldots
 Hvor er min bog nu.
 \endverse

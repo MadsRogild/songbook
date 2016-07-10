@@ -14,20 +14,18 @@ Bar' de ku brug':
 \endverse
 
 \beginverse
-\verb|fancyhdr|, \verb|itemize|,
-\verb|verbatim| og \verb|normalsize|,
+\texttt{fancyhdr}, \texttt{itemize},
+\texttt{verbatim} og \texttt{normalsize},
 hvis det skal vær' tjekket.
-\verb|tabular|, \verb|\begin{align}|,
-hundredvis af \verb|$|'tegn,
+\texttt{tabular}, \texttt{$\backslash$begin$\{$align$\}$},
+hundredvis af \texttt{\$}'tegn,
 så skal det vær' \TeX'et.
 \TeX, jeg vil ha' \TeX, jeg må ha' \TeX.
 \TeX, jeg vil ha' \TeX, jeg må ha' \TeX.
-\TeX, \TeX, \TeX, \TeX, \TeX,
-jeg må ha' T\!$_{\text{\normalsize E}}$-$_{\text{\normalsize EEEE}}$\!X.
+\TeX, \TeX, \TeX, \TeX, \TeX, jeg må ha' T\!$_{\text{\normalsize E}}$-$_{\text{\normalsize EEEE}}$\!X.
 \endverse
 
 \beginverse
-\columnbreak
 Mellemugen bringer os et kursus.
 Fjerner al den vanvid;
 jeg skal lære dem at \TeX'e.
@@ -38,7 +36,7 @@ Så kan de brug':
 \endverse
 
 \beginverse
-\verb|fancyhdr|, \verb|itemize|, \ldots
+\texttt{fancyhdr}, \texttt{itemize}, \ldots
 \endverse
 
 \beginverse
@@ -52,10 +50,10 @@ og drømmer nu så sødt om:
 \endverse
 
 \beginverse
-\verb|fancyhdr|, \verb|itemize|, \ldots
+\texttt{fancyhdr}, \texttt{itemize}, \ldots
 \endverse
 
 \beginverse
-\verb|fancyhdr|, \verb|itemize|, \ldots
+\texttt{fancyhdr}, \texttt{itemize}, \ldots
 \endverse
 \endsong
