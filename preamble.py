@@ -70,6 +70,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage[none]{hyphenat}
 \\usepackage{hyperref}
 \\usepackage{multicol}
+\\input binhex
 \\setlength{\columnsep}{2cm}
 \\newindex{titleidx}{titlefile}
 \\sepindexesfalse
@@ -85,7 +86,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\fancyhead[CE,CO]{\\CHeadFont\\thepage}
 \\fancyhead[RE,LO]{\\RHeadFont\\RelDate}\n""")
     if """renew""" in style:
-        f.write("""\input binhex\n""" + style + """\n""")
+        f.write("""""" + style + """\n""")
     else:
         f.write("""\\input{page_numbering}
 \\pagenumbering{""" + style + """}\n""")
