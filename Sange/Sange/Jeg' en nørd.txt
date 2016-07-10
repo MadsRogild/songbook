@@ -1,0 +1,88 @@
+\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
+,
+by={ FysikRevy 2010}
+,
+cr={}]
+\beginverse
+AD\&D det er min leg,
+og go det er min sport.
+Nyt tøj, det bytter jeg
+til sjældne magickort.
+
+\endverse
+\beginverse
+World of Warcraft er så fedt.
+Jeg spiller natten lang.
+Back to the Future har jeg set,
+for 85. gang!
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Jeg’ stolt af det.
+Jeg læser XKCD.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Skriiiiiiiver i \LaTeX
+og jeg tænder på dx.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Nu er jeg ved
+at finde en at nørde med,
+som ka’ ta’ min uskyldighed.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Og jeg er stolt af det!
+Yeaaahh…
+
+\endverse
+\beginverse
+Jeg er level 10 i sværd,
+så spil nu ikke smart.
+I min bæltetaske er
+der terninger parat.
+
+\endverse
+\beginverse
+Sig at det skal være os
+og mærk min energi.
+Når jeg læser Hitchhikers’
+Guide to the Galaxy.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Jeg’ stolt af det.
+Jeg læser XKCD.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Skriiiiiver i \LaTeX
+og jeg tænder på dx.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Nu er jeg ved
+at finde en at nørde med,
+som ka’ ta’ min uskyldighed.
+
+\endverse
+\beginverse
+JEG’ EN NØRD!
+Jeg er stolt af det.
+
+\endverse
+\beginverse
+Jeg er stolt af det.
+JEG’ EN NØRD!
+
+\endverse
+\endsong

@@ -1,0 +1,102 @@
+\beginsong{Koder Hele Natten}[sr={Melodi:Rage Against The Machine - Killing In The Name Of}
+,
+by={ DIKUrevy 2011}
+,
+cr={}]
+\beginverse
+De bruger magt, til at rykke os til HCØ.
+De bruger magt, til at fjerne vores kantine.
+De bruger magt, til at fjerne vores rusture.
+Nu er det nok, vi sætter hårdt mod hårdt
+Vi er anonyme, vi er DIKU!
+
+\endverse
+\beginverse
+Koder hele natten!
+
+\endverse
+\beginverse
+Der er dem der koder VB, det er dem uden et CV
+Der er dem der koder Brainfuck, de kan ikke få det hårdt nok
+Der er dem der koder Java, det' det en'ste de kan lave.
+Der er dem der koder ML, det er os der gør det hel' selv!
+Kod!
+
+\endverse
+\beginverse
+Koder hele natten!
+Koder hele natten!
+
+\endverse
+\beginverse
+I skærmens lys vi skal kode
+Vi skal besejre hvor klode
+Ved DIKU danner vi pagten
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode
+Vi skal besejre hvor klode
+Ved DIKU danner vi pagten
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode
+Vi skal besejre hvor klode
+Ved DIKU danner vi pagten
+Med cyberkrig får vi magten!
+
+\endverse
+\beginverse
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
+For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
+For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
+
+\endverse
+\beginverse
+Der er dem der koder VB, det er dem uden et CV ...
+
+\endverse
+\beginverse
+Koder hele natten!
+Koder hele natten!
+
+\endverse
+\beginverse
+I skærmens lys vi skal kode
+Vi skal besejre hvor klode
+Ved DIKU danner vi pagten
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode (hver en bit vi vil se)
+Vi skal besejre hvor klode (bestem' alt der skal ske)
+Ved DIKU danner vi pagten (datalog'r når' de størst)
+Med cyberkrig får vi magten (nettet slukker hvor tørst)
+I skærmens lys vi skal kode (hver en bit vi vil se)
+Vi skal besejre hvor klode (bestem' alt der skal ske)
+Ved DIKU danner vi pagten (datalog'r når' de størst)
+Med cyberkrig får vi magten
+
+\endverse
+\beginverse
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
+For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
+For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
+Kod nu!
+
+\endverse
+\beginverse
+Kod! Kod nu!
+
+\endverse
+\beginverse
+DIKU, det er nu de skal lære
+DIKU, vi vil kæmp' for din ære!
+DIKU, det er nu de skal lære
+DIKU, vi vil kæmp' for din ære!
+Hack dem, det er nu i skal kode
+Hack dem, vi besejrer vor klode
+Hack dem, det er nu i skal kode
+Hack dem, vi besejrer vor klode
+Moderkoder!
+Kod!
+
+\endverse
+\endsong

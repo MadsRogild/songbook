@@ -1,0 +1,61 @@
+\beginsong{Jeg er en matematiker fra HCØ}[sr={Melodi: Jeg er en papegøje fra Amerika}
+,
+by={ Kennie Nybo Mortensen, Jens Gustav Jensen, Kennet Andersen, Christian C. Harhoff og Povl Aage}
+,
+cr={}]
+\beginverse
+Jeg er en matematiker fra HCØ;
+jeg var en tur i byen det var dejligt.
+Da mødte jeg en pige, hun var rigtig sød,
+men hør nu her hvordan det blev forfejlet.
+Hun spurgte mig, åh falderi åh faldera,
+``hva' laver du når du ikke er på bar?''
+Da svared' jeg, åh falderi åh faldera,
+``jeg skriver mit speciale i $C^*$-algebra.''
+
+\endverse
+\beginverse
+``Hvor interessant med stjerner er du astrolog?
+Hvad sker der næste måned, jeg er tvilling?''
+``Det rimer fint, for jeg er nemlig pædagog.''
+Her brød jeg ind, fortalte om min stilling.
+Så sagde jeg, åh falderi åh faldera,
+``du misforstod mig,'' for jeg var jo rar;
+og fortsatte, åh falderi åh faldera,
+``det drejer sig om operatoralgebra.''
+
+\endverse
+\beginverse
+``Aha, hva' si’r du algebrator opera?
+Så må du være noget ved musikken.
+Men stjerner og musik, hvad er nu det, forklar!''
+Da måtte jeg dosere matematiken.
+Så sagde jeg, åh falderi åh faldera,
+``tag $B(H)$, så er vi næsten klar,
+hvor $H$ det er, åh falderi åh faldera,
+et Banachrum med prikprodukt, halvandenlinear.''
+
+\endverse
+\beginverse
+``BH'en af i Bjarnes rum, og Bjarne hvem?!
+Er Bjarne en af dine sjofle venner?
+Næ, jeg må hel're se at vende snuden hjem;
+ta'r ikke hjem til en jeg ikke kender.''
+Så råbte hun, åh falderi åh faldera,
+``er du tenor, eller er jeg blot til nar?!''
+Så tænkte jeg, åh falderi åh faldera,
+``hvis det skal blive til noget, må beskeden være klar.''
+
+\endverse
+\beginverse
+Så sagde jeg, og det var løgn, ``jeg synger bas
+i komponisten Eulers sidste stykke.''
+Hun smilte sødt. ``Det ærlig snak, ej mere gas.
+Tag med mig hjem, der vil du gøre lykke!''
+Moralen er, åh falderi åh faldera:
+Hvis du skal score når du er på bar,
+så tal ej sandt, åh falderi åh faldera.
+Fortæl hende hel're at du spiller elguitar.
+
+\endverse
+\endsong

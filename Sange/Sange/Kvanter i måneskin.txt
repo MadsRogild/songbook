@@ -1,0 +1,46 @@
+\beginsong{Kvanter i måneskin}[sr={Melodi: Danse i måneskin}
+,
+by={ FysikRevy 2004}
+,
+cr={}]
+\beginverse
+Ved tavlen er jeg en charmør,
+og pigerne bli’r bløde som smør.
+Når jeg pertuberer, mere,
+så får jeg topkarakterer.
+I dag er det fredag, jeg går
+ned på Cafeen? og får
+en Guld Tuborg fra hanen, til
+ganen.
+Og så går jeg hjem til mig selv.
+
+\endverse
+\beginverse
+%[Omkvæd:]
+Og kvanter i måneskin.
+Jeg regner ud og ind
+på energi og spin.
+Kvanter i måneskin.
+
+\endverse
+\beginverse
+Når piger de synes, jeg er sær,
+så si’r jeg: ”Det’ sådan jeg er.”
+Jeg regner på atomer, tro mig,
+der er mindst ti millioner.
+Jeg sidder og læser Euklid,
+Hun siger, jeg spilder min tid.
+Hun siger: ”Jeg vil ha’ dig. Ta’
+mig!”
+Og så går jeg hjem til mig selv!
+
+\endverse
+\beginverse
+%[Omkvæd]
+Og kvanter i måneskin.
+Jeg regner ud og ind
+på energi og spin.
+Kvanter i måneskin.
+
+\endverse
+\endsong
