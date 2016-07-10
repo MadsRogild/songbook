@@ -165,7 +165,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         (title,_,_) = songs[i]
         idxsongs.append((title,i))  #make list of titles and song number
         
-    idxsongs = sorted(idxsongs, key=lambda idxsongs: idxsongs[0])    #sort index alphabetically, disregarind song numbers
+    idxsongs = sorted(idxsongs, key=lambda idxsongs: idxsongs[0])    #sort index alphabetically, remembering the song numbers
     
     for i in range(0, len(idxsongs)):
         (title,songnumber) = idxsongs[i]            #get the title of the songs
