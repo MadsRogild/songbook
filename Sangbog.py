@@ -160,10 +160,16 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
-
+    idxsongs = []
     for i in range(0, len(songs)):
-        (title,_,_) = songs[i]            #get the title of the songs
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(i) + "} På side: \pageref{song" + str(i) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+        (title,_,_) = songs[i]
+        idxsongs.append((title,i))  #make list of titles and song number
+        
+    idxsongs = sorted(idxsongs, key=lambda idxsongs: idxsongs[0])    #sort index alphabetically, disregarind song numbers
+    
+    for i in range(0, len(idxsongs)):
+        (title,songnumber) = idxsongs[i]            #get the title of the songs
+        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(songnumber) + "} P{\\aa} side: \\pageref{song" + str(songnumber) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
 
     index_file.write("""\\end{idxblock}""")     #end index
