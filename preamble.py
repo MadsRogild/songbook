@@ -60,6 +60,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage[a4paper,includeheadfoot,margin=2.5cm]{geometry}
 \\usepackage[lyric]{songs}
 \\usepackage[utf8]{inputenc}
+\\DeclareUnicodeCharacter{FEFF}{}
 \\usepackage[danish, english]{babel}
 \\usepackage{amssymb}
 \\usepackage{stmaryrd}
