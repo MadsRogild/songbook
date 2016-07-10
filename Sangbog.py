@@ -46,7 +46,13 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             title = re.search('(?<=song{)(.*?)}',line0)     #get the title
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
             if "%" in line0:
-                order = int(float(line0[line0.index("%")+1]))
+                try:
+                    order = int(float(line0[line0.index("%")+1]))
+                except ValueError:
+                    order = sys.maxint
+                    print("Misplaced % in file: " + fil)
+                    import time
+                    time.sleep(4)
             else:
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
