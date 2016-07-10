@@ -1,4 +1,4 @@
-﻿\beginsong{Hjemmebrænderiet}[sr=%{Melodi: Hjemmebrænderiet}
+﻿\beginsong{Hjemmebrænderiet}[sr={}
 ,
 by={De Gyldne Løver -- Variant: TÅGEKAMMERET}
 ,

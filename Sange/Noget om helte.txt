@@ -1,4 +1,4 @@
-﻿\beginsong{Noget om helte}[sr=%{Melodi: Robert Normann}
+﻿\beginsong{Noget om helte}[sr={}
 ,
 by={Tekst: Halfdan Rasmussen -- Melodi: Robert Normann}
 ,

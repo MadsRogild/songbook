@@ -1,4 +1,4 @@
-﻿\beginsong{Midsommervisen -- Vi elsker vort land}[sr=%{Melodi: Vi lister os afsted på tå}
+﻿\beginsong{Midsommervisen -- Vi elsker vort land}[sr={}
 ,
 by={Holger Drachmann}
 ,

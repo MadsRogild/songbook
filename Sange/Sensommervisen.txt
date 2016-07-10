@@ -1,4 +1,4 @@
-﻿\beginsong{Sensommervisen}[sr=%{Melodi: Joan Jett - I Love Rock 'n' Roll}
+﻿\beginsong{Sensommervisen}[sr={}
 ,
 by={Kirsten og Finn Jørgensen}
 ,

@@ -1,4 +1,4 @@
-﻿\beginsong{Kringsatt av fiender}[sr=%{Melodi: Joan Jett - I Love Rock 'n' Roll}
+﻿\beginsong{Kringsatt av fiender}[sr={}
 ,
 by={Tekst: Nordahl Grieg -- Melodi: Otto Mortensen}
 ,

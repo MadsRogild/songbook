@@ -1,4 +1,4 @@
-﻿\beginsong{På mat'matik}[sr={Melodi: Disney -- Havet er skønt}
+﻿\beginsong{På mat'matik}[sr={Melodi: Den Lille Havfrue -- Havet er skønt}
 ,
 by={MatematikRevy 2007}
 ,

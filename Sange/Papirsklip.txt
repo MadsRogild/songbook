@@ -1,4 +1,4 @@
-﻿\beginsong{Papirsklip}[sr=%{Melodi: Disney -- Havet er skønt}
+﻿\beginsong{Papirsklip}[sr={}
 ,
 by={Kim Larsen}
 ,

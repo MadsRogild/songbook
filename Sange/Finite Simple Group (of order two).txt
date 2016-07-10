@@ -1,4 +1,4 @@
-\beginsong{Finite Simple Group (of order two)}[sr=%{Melodi: Peberkagebagesangen}
+\beginsong{Finite Simple Group (of order two)}[sr={}
 ,
 by={ The Klein Four Group}
 ,

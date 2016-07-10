@@ -1,6 +1,6 @@
 ﻿\beginsong{Fulbert og Beatrice}[by={},
 ,
-by=%{ MatematikRevy 2008}
+by={}
 ,
 cr={}]
 \beginverse
