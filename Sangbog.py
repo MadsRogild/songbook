@@ -77,7 +77,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         for i in range(0,len(songs)):
             (_,_,o) = songs[i]
             if o < sys.maxint:
-                temp.append(songs[i])
+                order.append(songs[i])
                 index.append(i)
         for ind in index:
             del songs[ind]
