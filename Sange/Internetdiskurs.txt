@@ -1,33 +1,33 @@
 \beginsong{Internetdiskurs}[sr={Melodi: 4 Non Blonde - What's Up}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse
 Jeg har altid syn's at det var let
-(At) finde spas pÃ¥ internet
+(At) finde spas på internet
 og mail
-og og-sÃ¥ pÃ¥ YouTube
+og og-så på YouTube
 
 \endverse
 \beginverse
-Der sker det tit   at jeg gÃ¸r mig klar
+Der sker det tit   at jeg gør mig klar
 til at skrive en   farlig kommentar
 af had
-NÃ¥r an-dre taler pÃ¦nt
+Når an-dre taler pænt
 
 \endverse
 \beginverse
-  Jeg kan at du har en veltrÃ¦net kat
-TrÃ¦ner du den dog mon med tunsalat?
-jeg gÃ¸r, men nu er den, sÃ¥ tyk den kan rulle
+  Jeg kan at du har en veltrænet kat
+Træner du den dog mon med tunsalat?
+jeg gør, men nu er den, så tyk den kan rulle
 
 \endverse
 \beginverse
-Nu gÃ¥r jeg frivilligt ud af mit gode skind
+Nu går jeg frivilligt ud af mit gode skind
 For nu
-skal de sÃ¦ttes pÃ¥ plads
-"HÃ¸r lige her!"
+skal de sættes på plads
+"Hør lige her!"
 
 \endverse
 \beginverse
@@ -47,23 +47,23 @@ Mmmhmmmhmmmhmmm
 
 \endverse
 \beginverse
-Det er hÃ¥-Ã¥rdt
-Ã…h min Gud, det er hÃ¥-Ã¥rdt
+Det er hå-årdt
+Åh min Gud, det er hå-årdt
 For folk de tager fejl
-PÃ¥ internettet!!
- 
+På internettet!!
+
 Alle de folk burd' bannes  fra   internet
 Men de plejer nu mest at banne mig
-Ã…h nej
+Åh nej
   Hvor skal jeg, hvor kan jeg nu skrive
 
 \endverse
 \beginverse
-Jeg tror jeg prÃ¸-ver med /b/ inde pÃ¥ fire-chan
-Men jeg bli'r skrÃ¦mt af en blo-dig tissemand
+Jeg tror jeg prø-ver med /b/ inde på fire-chan
+Men jeg bli'r skræmt af en blo-dig tissemand
 Den er
- SÃ¥ klam at jeg bli'r bang'
-"Lad vÃ¦r' med det!"
+ Så klam at jeg bli'r bang'
+"Lad vær' med det!"
 
 \endverse
 \beginverse
@@ -84,9 +84,9 @@ giver til sidst op i afmagt
 
 \endverse
 \beginverse
-Nu er der kun Ã©n side som er rar
-og man fÃ¥r karma for at vÃ¦r' en nar
-Ã¥h ja... 
+Nu er der kun én side som er rar
+og man får karma for at vær' en nar
+åh ja...
 Hurra for Reddit
 
 \endverse

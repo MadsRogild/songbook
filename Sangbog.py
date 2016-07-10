@@ -163,7 +163,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 
     for i in range(0, len(songs)):
         (title,_,_) = songs[i]            #get the title of the songs
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(i) + "} På side: \pageref{song" + str(i) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(i) + "} P{\\aa} side: \\pageref{song" + str(i) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
 
     index_file.write("""\\end{idxblock}""")     #end index

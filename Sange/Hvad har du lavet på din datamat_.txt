@@ -1,106 +1,106 @@
-\beginsong{Hvad har du lavet pÃ¥ din datamat?}[sr={Melodi: Cirkusrevyen 1967 - Hvem har du kysset i din gadedÃ¸r?}
+\beginsong{Hvad har du lavet på din datamat?}[sr={Melodi: Cirkusrevyen 1967 - Hvem har du kysset i din gadedør?}
 ,
-by={ DIKUrevy 2015}
+by={DIKUrevy 2015}
 ,
 cr={}]
 \beginverse
-Jeg er 30 Ã¥r og bachelor,
-her pÃ¥ data( - )logi
-Vores log har set du brugte Tor, 
-her til morgen, klokken ni.   
-Hr. Betjent, det mÃ¥ man gerne
-Har du mÃ¥ske glemt din hjerne?
-    
-Hvad har du (jeg) lavet pÃ¥ din (min) datamat, 
+Jeg er 30 år og bachelor,
+her på data( - )logi
+Vores log har set du brugte Tor,
+her til morgen, klokken ni.
+Hr. Betjent, det må man gerne
+Har du måske glemt din hjerne?
+
+Hvad har du (jeg) lavet på din (min) datamat,
 i dit (mit) hackeri?
-Jeg har blot Ã¸vet pÃ¥ min kandidat
+Jeg har blot øvet på min kandidat
 Det kan jeg godt li'!
-    
-NÃ¦h, du vil bare surfe ud'n kontrol
-SÃ¥ du kan se pÃ¥ dÃ¸d og vold
-Fodre et kÃ¦ledyr med alkohol
+
+Næh, du vil bare surfe ud'n kontrol
+Så du kan se på død og vold
+Fodre et kæledyr med alkohol
 Og andet svineri!
-        
-Kan du sÃ¥ gÃ¥ din vej med dit forhÃ¸r?
-SÃ… unÃ¸dvendig' 
+
+Kan du så gå din vej med dit forhør?
+SÅ unødvendig'
 
 \endverse
 \beginverse
-Hvad har du lavet pÃ¥ din (min) datamat
+Hvad har du lavet på din (min) datamat
 I dit hackeri?!
 Fyyyyh..!
-Nej, men du forstÃ¥r slet ikke hvad jeg har gang i. 
-Det er en BOMBE under den nuvÃ¦rende infrastruktur.
-jeg kommer til at sprÃ¦nge muren for effektivitet!
+Nej, men du forstår slet ikke hvad jeg har gang i.
+Det er en BOMBE under den nuværende infrastruktur.
+jeg kommer til at sprænge muren for effektivitet!
 
 \endverse
 \beginverse
 Du skal ikke bombe noget som helst
-Det er regulÃ¦r terrÃ³r
-Hr. Betjent, du misforstÃ¥r mig vidst
+Det er regulær terrór
+Hr. Betjent, du misforstår mig vidst
 Det var blot en metafor!
-Nej, men det kan vÃ¦r' det samme
+Nej, men det kan vær' det samme
 Metaforer de er klamme!
 
 \endverse
 \beginverse
-Hvad har du lavet pÃ¥ din datamat
+Hvad har du lavet på din datamat
 I dit hackeri?
-Hvem sÃ¥ dig sidste ug' i Labitat?
+Hvem så dig sidste ug' i Labitat?
 Det gjord' politi!
-Det er mÃ¥ske en... naaaarko-pizza?
-  Jeg tror at du har hentet programmel 
+Det er måske en... naaaarko-pizza?
+  Jeg tror at du har hentet programmel
   fra www.kriminel
-  Den slags man bruger til at slÃ¥ ihjel 
-  Oh fy, oh fÃ¸j, forbudt! 
+  Den slags man bruger til at slå ihjel
+  Oh fy, oh føj, forbudt!
 
 \endverse
 \beginverse
-  Deeeeeeeeet har man bestemt derned' i Bruxelles 
-  Fine lille snut! 
-  Hvad har du (jeg) kodet pÃ¥ din datamat? 
+  Deeeeeeeeet har man bestemt derned' i Bruxelles
+  Fine lille snut!
+  Hvad har du (jeg) kodet på din datamat?
   I dit (mit) hackeri?
 
 \endverse
 \beginverse
-Det er mÃ¥ske en... naaaarko-pizza?
-  Jeg tror at du har hentet programmel 
-  fra www.kriminel 
-  Den slags man bruger til at slÃ¥ ihjel 
-  Oh fy, oh fÃ¸j, forbudt! 
+Det er måske en... naaaarko-pizza?
+  Jeg tror at du har hentet programmel
+  fra www.kriminel
+  Den slags man bruger til at slå ihjel
+  Oh fy, oh føj, forbudt!
 
 \endverse
 \beginverse
-  Deeeeeeeeet har man bestemt derned' i Bruxelles 
-  Fine lille snut! 
-  Hvad har du (jeg) kodet pÃ¥ din datamat? 
+  Deeeeeeeeet har man bestemt derned' i Bruxelles
+  Fine lille snut!
+  Hvad har du (jeg) kodet på din datamat?
   I dit (mit) hackeri?
 
 \endverse
 \beginverse
-Du er sand'lig haft det ganske nemt, 
-Jeg har fikset Rejsekort 
-Du har forbrudt dig pÃ¥ danske softwarepatenter. Det mÃ¥ man ikke!
+Du er sand'lig haft det ganske nemt,
+Jeg har fikset Rejsekort
+Du har forbrudt dig på danske softwarepatenter. Det må man ikke!
 IH! DET.. DET ER IHVERTFALD BARE MEGA ULOVLIGT!
-Hr. Betjent, du mÃ¥ vÃ¦r' ra-ar 
-Lad mig bare kort forklare. 
-Det, som jeg laved' pÃ¥ min datamat, 
-i mit hackeri 
-var blot at fixe hele Rejsekort, 
-sÃ¥, tag du bare fri 
+Hr. Betjent, du må vær' ra-ar
+Lad mig bare kort forklare.
+Det, som jeg laved' på min datamat,
+i mit hackeri
+var blot at fixe hele Rejsekort,
+så, tag du bare fri
 
 \endverse
 \beginverse
-Men den slags rebeller kan vi ikke li' 
-I vores demo-bureaukrati, 
-og inden at du har fÃ¥et talt til ti 
-Da bli'r du sat fast! 
-Ingen' dataloger de mÃ¥ rÃ¸re ved 
-Statens kort af plast! 
+Men den slags rebeller kan vi ikke li'
+I vores demo-bureaukrati,
+og inden at du har fået talt til ti
+Da bli'r du sat fast!
+Ingen' dataloger de må røre ved
+Statens kort af plast!
 
 \endverse
 \beginverse
-  SÃ¥ nu er du (jeg) anholdt i dit (mit) hackeri 
+  Så nu er du (jeg) anholdt i dit (mit) hackeri
   Du' under arrest!
 
 \endverse

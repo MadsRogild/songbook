@@ -1,6 +1,6 @@
-\beginsong{Finite Simple Group (of order two)}[sr=%{Melodi: Peberkagebagesangen}
+\beginsong{Finite Simple Group (of order two)}[sr={}
 ,
-by={ The Klein Four Group}
+by={The Klein Four Group}
 ,
 cr={}]
 \beginverse
@@ -58,8 +58,7 @@ But we're a mirror pair, me and you,
 So let's apply forgetful functors to the past
 And be a finite simple group,
 be a finite simple group,
-Let's be a finite simple group of order two
-(Why not three?)
+Let's be a finite simple group of order two (Why not three?)
 
 \endverse
 \beginverse

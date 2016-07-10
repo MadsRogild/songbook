@@ -1,32 +1,32 @@
-\beginsong{SÃ¥ spiller vi spil}[sr={Melodi: HÃ¶hner - Viva Colonia}
+\beginsong{Så spiller vi spil}[sr={Melodi: Höhner - Viva Colonia}
 ,
-by={ DIKUrevy 2006}
+by={DIKUrevy 2006}
 ,
 cr={}]
 \beginverse
 For en fattig studer'ne
-er dagligdagen svÃ¦r.
-LÃ¦ser mange tykke bÃ¸g'r,
+er dagligdagen svær.
+Læser mange tykke bøg'r,
 laver meget her.
-Alle vore timer gÃ¥r med hjernegymnastik;
-hvordan vi kan klare det, forstÃ¥r man ik'.
+Alle vore timer går med hjernegymnastik;
+hvordan vi kan klare det, forstår man ik'.
 
 \endverse
 \beginverse
-Vi har sÃ¥ travlt til dagligt,
-der krÃ¦ves mange svar.
-NÃ¥r opgaven er fÃ¦rdig,
-sÃ¥ er den nÃ¦ste klar.
-Vi fÃ¥r skrevet hundred' sider
+Vi har så travlt til dagligt,
+der kræves mange svar.
+Når opgaven er færdig,
+så er den næste klar.
+Vi får skrevet hundred' sider
 i gennemsnit hver dag,
-men nÃ¥r en weekend nÃ¦rmer sig, ja sÃ¥
-sÃ¥ slapper vi af.
+men når en weekend nærmer sig, ja så
+så slapper vi af.
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d] SÃ¥ spiller vi spil, hele dagen
+\emph{[Omkvæd] Så spiller vi spil, hele dagen
 ved datamaterne.
-Vi lever og Ã¥nder
+Vi lever og ånder
 for Doom og Quake med mer',
 med World of Warcrack morer vi os
 her foran vor's PCer.}
@@ -35,35 +35,34 @@ her foran vor's PCer.}
 \beginverse
 Dengang i gamle dage
 da gjord' rapporter ondt.
-SÃ¥ fik vi blokstrukturen,
+Så fik vi blokstrukturen,
 men det var ikke sundt.
-Vi har stress og dÃ¥rlig' nerver.
+Vi har stress og dårlig' nerver.
 Vi sveder angstens sved.
-Og beder tit en stille bÃ¸n til at
-at DIKU gÃ¥r ned.
+Og beder tit en stille bøn til at
+at DIKU går ned.
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d] SÃ¥ spiller vi spil\ldots}
-\emph{[OmkvÃ¦d] SÃ¥ spiller vi spil\ldots}
+\emph{[Omkvæd] Så spiller vi spil\ldots}
+\emph{[Omkvæd] Så spiller vi spil\ldots}
 
 \endverse
 \beginverse
 Og pluds'lig er det morgen,
-sÃ¥ hurtigt kan det gÃ¥.
-Man burde mÃ¥ske lÃ¦se,
-hvis nu vi skal bestÃ¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥Ã¥....
+så hurtigt kan det gå.
+Man burde måske læse,
+hvis nu vi skal beståååååååå....
 {}[Siges] men det bliver ikke... nu.
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d, stille og langsomt stigende]
-Nu spiller vi spil\ldots}
-\emph{[OmkvÃ¦d] SÃ¥ spiller vi spil\ldots}
+\emph{[Omkvæd, stille og langsomt stigende] Nu spiller vi spil\ldots}
+\emph{[Omkvæd] Så spiller vi spil\ldots}
 
 \endverse
 \beginverse
-SÃ¥ spiller vi spil!
+Så spiller vi spil!
 
 \endverse
 \endsong

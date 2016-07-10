@@ -1,19 +1,19 @@
 \beginsong{diff}[sr={Melodi:Aqua - Doctor Jones}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse
 Ofte er filerne ens
 Lige nu er de det ikke
-Hvem har mon rÃ¸rt min C-fil?
+Hvem har mon rørt min C-fil?
 Hvad har de indsat i koden?
 
 \endverse
 \beginverse
 \texttt{void public static}
 \texttt{void main}, wat?
-\texttt{void abstract class}, Ã¸v!
+\texttt{void abstract class}, øv!
 
 \endverse
 \beginverse
@@ -26,25 +26,25 @@ en som kan redde mig nu
 \beginverse
 R: Hey baby, hva' mangler du
 S: At finde forskelle
-R: Ska' det vÃ¦re lige nu?
+R: Ska' det være lige nu?
 S: Kom nu og \texttt{diff}
-R: Jeg kigger pÃ¥ din' filer nu
-S: Hva' sker der nÃ¥r du ser?
+R: Jeg kigger på din' filer nu
+S: Hva' sker der når du ser?
 R: Jeg kan nu ingen forskel se, pyt, det kan jo ske
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff,
+René Diff, Diff,
 Tjekker filerne.
-RenÃ© Diff, RenÃ© Diff,
+René Diff, René Diff,
 Er de ens!
 De er ens!
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff,
+René Diff, Diff,
 filernes sherif.
-RenÃ© Diff, RenÃ© Diff,
+René Diff, René Diff,
 Er de ens!
 De er ens!
 
@@ -60,7 +60,7 @@ De er ens!
 \beginverse
 Er der klasser i C?
 Nej, det er da vist i Java
-RenÃ©, kan du ikk' se?
+René, kan du ikk' se?
 Du er et levn fra halvfemserne
 
 \endverse
@@ -71,21 +71,21 @@ R: Lad mig tjekke den her, du
 S: Det er en \texttt{.gif}!
 R: (host) det er et billed' af en grif
 S: Du var min diff-kalif!
-R: Hvad vil' du gÃ¸re uden mig, jeg er da for sej
+R: Hvad vil' du gøre uden mig, jeg er da for sej
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff,
+René Diff, Diff,
 lad mig gi' et fif
-RenÃ© Diff, RenÃ© Diff,
+René Diff, René Diff,
 Styrtflyver!
 Du lyver!
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff,
-synger nÃ¦ste riff
-RenÃ© Diff, RenÃ© Diff,
+René Diff, Diff,
+synger næste riff
+René Diff, René Diff,
 Hvad vil du!
 Ha' ret nu!
 
@@ -106,13 +106,13 @@ Brug'r nu diff3
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff,
-vÃ¥gn op nu
-RenÃ© Diff, Diff,
-forstÃ¥ nu
-RenÃ© Diff, Diff,
+René Diff, Diff,
+vågn op nu
+René Diff, Diff,
+forstå nu
+René Diff, Diff,
 du er sgu
-RenÃ© Diff, Diff,
+René Diff, Diff,
 i udu
 
 \endverse
@@ -125,19 +125,19 @@ i udu
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff
+René Diff, Diff
 Giv min fil et snif
-RenÃ© Diff, RenÃ© Diff
+René Diff, René Diff
 Han tog fejl
 Det gjor' jeg
 
 \endverse
 \beginverse
-RenÃ© Diff, Diff
+René Diff, Diff
 Bruger sans serif
-RenÃ© Diff, RenÃ© Diff
+René Diff, René Diff
 Farvel nu!
-NÃ¥ Ã¸v du
+Nå øv du
 
 \endverse
 \endsong

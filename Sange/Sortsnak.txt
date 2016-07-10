@@ -1,6 +1,6 @@
-\beginsong{Sortsnak}[sr={Melodi: CÃ¦sar -\newline Storkespringvandet}
+\beginsong{Sortsnak}[sr={Melodi: Cæsar -- Storkespringvandet}
 ,
-by=%{ Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+by={}
 ,
 cr={}]
 \beginverse
@@ -12,7 +12,7 @@ $\chi\ \chi\ \pi\ \aleph\ \lambda\ \aleph$
 
 \endverse
 \beginverse
-[For de Ã¸vede:]
+[For de øvede:]
 \large
 $\beta\ \beta\ \beta\ \beta\ \xi$
 $\beta\ \beta\ \beta\ \psi$

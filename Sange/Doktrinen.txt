@@ -1,13 +1,13 @@
-\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sÃ¸mÃ¦nd er glade for piger}
+\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
 ,
-by={ DIKUrevy 2009}
+by={DIKUrevy 2009}
 ,
 cr={}]
 \beginverse
-Alle russer skal lÃ¦re doktrinen
+Alle russer skal lære doktrinen
 man skal kode i Moscow ML
-men de modsÃ¦tter sig disciplinen
-nÃ¥r de sidder bag skÃ¦rmene selv
+men de modsætter sig disciplinen
+når de sidder bag skærmene selv
 
 \endverse
 \beginverse
@@ -21,18 +21,18 @@ og Visual Basic med MySQL
 Som instruktor er ansvaret mit
 russers uvaner skal rettes ind
 de skal ik' tro at valget er frit
-for de lÃ¦rer jo ikke en pind
+for de lærer jo ikke en pind
 
 \endverse
 \beginverse
-NÃ¥r de koder i Java, C\# eller Ada ...
+Når de koder i Java, C\# eller Ada ...
 
 \endverse
 \beginverse
-Efter tolv Ã¥r er jeg kandidat
-Kapitalen den kalder pÃ¥ mig
+Efter tolv år er jeg kandidat
+Kapitalen den kalder på mig
 min doktrin havde nul resultat
-for pÃ¥ arbejdet der sidder jeg
+for på arbejdet der sidder jeg
 
 \endverse
 \beginverse

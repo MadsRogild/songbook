@@ -1,6 +1,6 @@
 \beginsong{Server'n er Crashed}[sr={Melodi:Backstreet Boys - I Want It That Way}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse
@@ -23,11 +23,11 @@ den server, der crashed.
 
 \endverse
 \beginverse
-For Ã¥h nej.
-Vi sku' ha kÃ¸bt et nyt raid
-For Ã¥h nej
+For åh nej.
+Vi sku' ha købt et nyt raid
+For åh nej
 Jeg var sgu' ikke beredt.
-fÃ¸r vi sÃ¥
+før vi så
 undtagelsen den kasted.
 Server'n er crashed
 
@@ -42,39 +42,39 @@ ja, server'n er crashed.
 
 \endverse
 \beginverse
-For Ã¥h nej ...
+For åh nej ...
 
 \endverse
 \beginverse
-TÃ¦nkte, jeg fikser det bare i mor'n
+Tænkte, jeg fikser det bare i mor'n
 da den stod der og kasted' fejl
 yeah
 Jeg burde ha' tjekket, men surfede porn
-Nu er den sgu' gÃ¥e't sin vej.
+Nu er den sgu' gåe't sin vej.
 
 \endverse
 \beginverse
 Det' ikk'
-sÃ¥ skid' rart
+så skid' rart
 Jeg ta'r
 en genstart
 Men nej
-Ã¥h nej
-Ã¥h nej
-Ã¥h nej
+åh nej
+åh nej
+åh nej
 Det fucking neder'n!
 
 \endverse
 \beginverse
 Den fejler nu ved startup
 Vi har sgu ingen backup
-Disken er sikkert kvÃ¦stet
+Disken er sikkert kvæstet
 Server'n er crashed
 
 \endverse
 \beginverse
-For Ã¥h nej ...
-For Ã¥h nej ...
+For åh nej ...
+For åh nej ...
 
 \endverse
 \beginverse

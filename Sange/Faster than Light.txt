@@ -1,6 +1,6 @@
 \beginsong{Faster than Light}[sr={Melodi:Backstreet Boys - Larger than Life}
 ,
-by={ FysikRevy  2012}
+by={FysikRevy  2012}
 ,
 cr={}]
 \beginverse

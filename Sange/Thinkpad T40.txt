@@ -1,34 +1,34 @@
 \beginsong{Thinkpad T40}[sr={Melodi: Roger and Over - Volvo B18-210}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse
-Vi sÃ¥ hinanden fÃ¸rste gang
+Vi så hinanden første gang
 i Store UP(1)
 Du var slukket, jeg var fuld -
-din ejer han var vÃ¦k
+din ejer han var væk
 Gik en lille tur med dig,
 i Kantinen var der plads
-Jeg satte mig, og tÃ¦ndte dig
-fik stÃ¸d og det gjord' nas
+Jeg satte mig, og tændte dig
+fik stød og det gjord' nas
 
 \endverse
 \beginverse
 Du er min Thinkpad T40, og du er slidt
 Du mangler lidt RAM, og du lugter lidt af kridt
 68 graders kerne, hver gang du starter op
-Og dit lunefulde drev, fÃ¸r mig til at ta' backup
+Og dit lunefulde drev, før mig til at ta' backup
 
 \endverse
 \beginverse
 Du var en gammeldags maskine
-Det med 'nyt' det var lidt svÃ¦rt
+Det med 'nyt' det var lidt svært
 Men du holdte mig allig'vel
 Underholdt med lidt af hvert
-Du havde krÃ¦fter til at spille
+Du havde kræfter til at spille
 gamle spil fra MS-DOS,
-de kalder dig en bÃ¦rbar
+de kalder dig en bærbar
 men du er sgu lidt en klods
 
 \endverse
@@ -36,25 +36,25 @@ men du er sgu lidt en klods
 Du er min Thinkpad T40, og du er slidt
 Du mangler lidt RAM, og du lugter lidt af kridt
 68 graders kerne, hver gang du starter op
-Og dit lunefulde drev, fÃ¥r mig til at ta' backup
+Og dit lunefulde drev, får mig til at ta' backup
 
 \endverse
 \beginverse
 Du er min Thinkpad T40, og du er slidt
 Du mangler lidt RAM, og du lugter lidt af kridt
 68 graders kerne, hver gang du starter op
-Og dit lunefulde drev, fÃ¥r mig til at ta' backup
+Og dit lunefulde drev, får mig til at ta' backup
 
 \endverse
 \beginverse
 Vi skrev bachelor sammen,
 med gcc og vim
-NÃ¥r du laved' sjov, og sletted' alt,
-sÃ¥ skrev jeg det igen
-Det var dagen fÃ¸r min deadline,
-jeg sku' oversÃ¦t' min TeX
-Jeg lÃ¥ste dig, men ik' min dÃ¸r
-og pludselig var du vÃ¦k
+Når du laved' sjov, og sletted' alt,
+så skrev jeg det igen
+Det var dagen før min deadline,
+jeg sku' oversæt' min TeX
+Jeg låste dig, men ik' min dør
+og pludselig var du væk
 
 \endverse
 \beginverse

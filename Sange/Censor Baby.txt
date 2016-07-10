@@ -1,22 +1,22 @@
 \beginsong{Censor Baby}[sr={Melodi: Eartha Kitt - Santa Baby}
 ,
-by={ MBKrevy 2014}
+by={MBKrevy 2014}
 ,
 cr={}]
 \beginverse
-Censor baby, sÃ¥ er vi til eksamen igen, min ven
-Jeg har arbejdet hÃ¥rdt
-Censor baby, sÃ¥ giv mig det tolv-tal i dag
+Censor baby, så er vi til eksamen igen, min ven
+Jeg har arbejdet hårdt
+Censor baby, så giv mig det tolv-tal i dag
 
 \endverse
 \beginverse
-Censor baby, og hvilket spÃ¸rgsmÃ¥l holder du af, i dag?
-Lad mig svare pÃ¥ det
-Censor baby, sÃ¥ giv mig nu det tolv-tal i dag
+Censor baby, og hvilket spørgsmål holder du af, i dag?
+Lad mig svare på det
+Censor baby, så giv mig nu det tolv-tal i dag
 
 \endverse
 \beginverse
-TÃ¦nk nu pÃ¥ min karakter
+Tænk nu på min karakter
 Se hvordan jeg virk'lig gerne vil ha' mer'
 Jeg vil helst ikke ta' den om
 Men under 12 er en unfair dom
@@ -24,43 +24,43 @@ Men under 12 er en unfair dom
 \endverse
 \beginverse
 Censor baby, nu kender jeg min spektroskopi, fordi
-Jeg har studeret det hÃ¥rdt
-Censor baby, sÃ¥ giv mig nu det tolv-tal i dag
+Jeg har studeret det hårdt
+Censor baby, så giv mig nu det tolv-tal i dag
 
 \endverse
 \beginverse
 Censor sveske, jeg synes, at du er et geni, ka' du li'
 En molbos anatomi
-Censor cutie, sÃ¥ giv mig nu det tolv-tal i dag
+Censor cutie, så giv mig nu det tolv-tal i dag
 
 \endverse
 \beginverse
-SpÃ¸rg om alt, jeg skulle lÃ¦re
-Men skal vi ikke sige, at du lader vÃ¦re
-BestÃ¥r du mig, sÃ¥ vil jeg gi
+Spørg om alt, jeg skulle lære
+Men skal vi ikke sige, at du lader være
+Består du mig, så vil jeg gi
 Privatlektion i blomst og bi
 
 \endverse
 \beginverse
-FlÃ¦nser baby, jeg tror censor vil sige et ord
+Flænser baby, jeg tror censor vil sige et ord
 Jeg tror, at du skal lytte til ham
-FlÃ¦nser baby, votering er en to-sidet sag
+Flænser baby, votering er en to-sidet sag
 
 \endverse
 \beginverse
-Se hvor har jeg vÃ¦ret sÃ¸d
-TÃ¦nk pÃ¥ al' de Fernet shots jeg ikke nÃ¸d
-NÃ¥r du streger med din pen
-SÃ¥ husk, jeg er din bedste ven
+Se hvor har jeg været sød
+Tænk på al' de Fernet shots jeg ikke nød
+Når du streger med din pen
+Så husk, jeg er din bedste ven
 
 \endverse
 \beginverse
-Censor baby, jeg mangler kun at nÃ¦vne en ting, Latex-s
+Censor baby, jeg mangler kun at nævne en ting, Latex-s
 Ikke kun kodning for mig
 
 \endverse
 \beginverse
-Censor baby, sÃ¥ giv mig nu det tolv-tal i dag
+Censor baby, så giv mig nu det tolv-tal i dag
 Giv mig nu det tolv-tal i dag
 Et tolv-tal...i nat
 

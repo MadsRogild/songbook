@@ -1,10 +1,10 @@
 \beginsong{$\lambda$-kalkylen}[sr={Melodi: The Llama Song}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse
-Her et lambda, dÃ©r et lambda
+Her et lambda, dér et lambda
 Og et ganske lille lambda
 ML-lambda, Haskell-lambda
 Lambda, lambda
@@ -12,7 +12,7 @@ Fail!
 
 \endverse
 \beginverse
-Ã†g og alligator-lambda
+Æg og alligator-lambda
 Java har slet ikke lambda
 Lambda i .NET, Omega
 Lambda, lambda
@@ -20,26 +20,26 @@ Fail!
 
 \endverse
 \beginverse
-Jeg har fÃ¥et value
+Jeg har fået value
 og drukket meget te
-Jeg har lÃ¦rt om Hitler
+Jeg har lært om Hitler
 Dinosaurer og VB
-Jeg har kodet uafbrudt i 42 dÃ¸gn
-Men sÃ¥ dÃ¸de jeg af sult
-for kagen var en lÃ¸gn
+Jeg har kodet uafbrudt i 42 døgn
+Men så døde jeg af sult
+for kagen var en løgn
 
 \endverse
 \beginverse
 Har du nog'nsinde set et lamdba
-i et lambda, pÃ¥ et lambda
-Lambda x dot fÃ¦rdig med x
+i et lambda, på et lambda
+Lambda x dot færdig med x
 Lambda, lambda
 Fail!
 
 \endverse
 \beginverse
 Om nom nom nom nom nom lambda
-Og et A forklÃ¦dt som lambda
+Og et A forklædt som lambda
 Lambda i \LaTeX, Omega
 Lambda, lambda
 Fail!
@@ -48,12 +48,11 @@ Fail!
 \beginverse
 Jeg har kodet Brainfuck
 og dyrket lidt motion
-Jeg har vÃ¦ret udenfor
+Jeg har været udenfor
 det var en perversion
-Jeg har skrevet kode fyldt med
-map og head og tail
+Jeg har skrevet kode fyldt med map og head og tail
 Nu vil jeg blive kandidat
-og gÃ¥ ned med fail.
+og gå ned med fail.
 
 \endverse
 \endsong

@@ -1,27 +1,27 @@
-\beginsong{Hjemmehackeriet}[sr={Melodi: HjemmebrÃ¦nderiet}
+\beginsong{Hjemmehackeriet}[sr={Melodi: Hjemmebrænderiet}
 ,
-by={ DIKUrevy 2001}
+by={DIKUrevy 2001}
 ,
 cr={}]
 \beginverse
-Jeg bor her i IshÃ¸j pÃ¥ syvende sal
+Jeg bor her i Ishøj på syvende sal
 i en lejlighed der stort set er normal.
-En stue, et kÃ¸kken, et bad med WC
+En stue, et køkken, et bad med WC
 og et kammer hvor jeg har min hjemme-PC.
 
 \endverse
 \beginverse
 \emph{Jeg hacker, jeg cracker, jeg downloader spil,
-og jeg logger ind lig' prÃ¦cis hvor jeg vil.
-Jeg kender dit password, jeg lÃ¦ser din post;
+og jeg logger ind lig' præcis hvor jeg vil.
+Jeg kender dit password, jeg læser din post;
 for en hacker som mig er den slags hverdagskost.}
 
 \endverse
 \beginverse
-Min fÃ¦tter har hacket i Pentagons net.
-De tro'ed det var svÃ¦rt, men han syn's det var let.
-De fandt ham dog efter en lÃ¦ngere jagt,
-sÃ¥ nu er han ansat som sikkerhedsvagt.
+Min fætter har hacket i Pentagons net.
+De tro'ed det var svært, men han syn's det var let.
+De fandt ham dog efter en længere jagt,
+så nu er han ansat som sikkerhedsvagt.
 
 \endverse
 \beginverse
@@ -30,9 +30,9 @@ sÃ¥ nu er han ansat som sikkerhedsvagt.
 \endverse
 \beginverse
 Jeg laved' en virus som hed ``I Love You''.
-Jeg indrÃ¸mmer dog, jeg fortryder det nu.
-Da jeg gik i banken, min lÃ¸n for at fÃ¥,
-havde virusen sat der's computer i stÃ¥.
+Jeg indrømmer dog, jeg fortryder det nu.
+Da jeg gik i banken, min løn for at få,
+havde virusen sat der's computer i stå.
 
 \endverse
 \beginverse
@@ -40,10 +40,10 @@ havde virusen sat der's computer i stÃ¥.
 
 \endverse
 \beginverse
-Hvis du sku' fÃ¥ lyst til at hacke lidt selv,
-jeg Ã¸nsker dig al mulig lykke og held.
+Hvis du sku' få lyst til at hacke lidt selv,
+jeg ønsker dig al mulig lykke og held.
 Det giver dig magt som om du var en gud,
-og du kan endda fÃ¥ din pizza bragt ud.
+og du kan endda få din pizza bragt ud.
 
 \endverse
 \beginverse

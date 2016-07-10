@@ -1,56 +1,55 @@
-\beginsong{Kvantepartiklen}[sr={Melodi: ShuBiDua - Den rÃ¸de trÃ¥d}
+\beginsong{Kvantepartiklen}[sr={Melodi: ShuBiDua - Den røde tråd}
 ,
-by={ FysikRevy 2014}
+by={FysikRevy 2014}
 ,
 cr={}]
 \beginverse
-Hvor mon er fÃ¸r man bli'r set?
-I Timbuktu, mÃ¥ske Tibet?
+Hvor mon er før man bli'r set?
+I Timbuktu, måske Tibet?
 Fordeling af sandsynlighed?
-Man mÃ¥ for fa'n have vÃ¦ret et sted!
+Man må for fa'n have været et sted!
 
 \endverse
 \beginverse
 I dobbeltspalten var kun mig.
-Hvordan sku' jeg vÃ¦lge vej?
-Og jeg indsÃ¥ til mit held
+Hvordan sku' jeg vælge vej?
+Og jeg indså til mit held
 inteferensen med mig selv.
 
 \endverse
 \beginverse
 Potentialesymmetri
-kan vÃ¦re ulig' eller lig'.
-Der findes intet bedre sÃ¦t,
+kan være ulig' eller lig'.
+Der findes intet bedre sæt,
 du ved min basis er komplet.
 
 \endverse
 \beginverse
-%[OmkvÃ¦d:]
+%[Omkvæd:]
 \emph{Helt nede
 Livslede
 Hvorfor kan jeg ej kendes?
-Jeg lÃ¦nges efter vished, efter sikkerhed.}
+Jeg længes efter vished, efter sikkerhed.}
 
 \endverse
 \beginverse
-%
 Endli' fik jeg position,
 blev til en deltafunktion.
 Operator'n gav et sted.
-Nu har jeg endelig fÃ¥et fred.
+Nu har jeg endelig fået fred.
 
 \endverse
 \beginverse
 \emph{Helt nede
 Livslede
 Min position forsvinder.
-Kun minder om at vÃ¦re endegyldigt kendt.}
+Kun minder om at være endegyldigt kendt.}
 
 \endverse
 \beginverse
-Hvad mon man er fÃ¸r man bli'r set?
-Partikel-bÃ¸lge dualitet?
-BÃ¸lgefunktion, en fermion?
+Hvad mon man er før man bli'r set?
+Partikel-bølge dualitet?
+Bølgefunktion, en fermion?
 Blot matematisk abstraktion.
 
 \endverse

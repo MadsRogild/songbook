@@ -1,58 +1,58 @@
 \beginsong{Bust'ed}[sr={Melodi: Buster}
 ,
-by={ Erik SÃ¸e SÃ¸rensen og Troels Bjerre SÃ¸rensen, Majrevy 2003}
+by={Erik Søe Sørensen og Troels Bjerre Sørensen, Majrevy 2003}
 ,
 cr={}]
 \beginverse
-Stille, stille, stille, jeg har tÃ¸mmermÃ¦nd
+Stille, stille, stille, jeg har tømmermænd
 og min hjerne er vist svundet
-det sidste jeg sÃ¥ var en lunken Top
+det sidste jeg så var en lunken Top
 som blev for hurtigt bundet.
 
 \endverse
 \beginverse
 Det hyler og tuder i min hjerne nu
-vÃ¦k er spiritussens charmer
-pÃ¥ gaden kÃ¸rer bilerne hurtigt forbi
+væk er spiritussens charmer
+på gaden kører bilerne hurtigt forbi
 og fuglene de larmer.
 
 \endverse
 \beginverse
-Jegâ€™r busted
-Ã¥h, busted
-Jeg har brÃ¦kket mig i cisternerne
-og Ã¸nsker mig langt ud i det blÃ¥.
+Jeg’r busted
+åh, busted
+Jeg har brækket mig i cisternerne
+og ønsker mig langt ud i det blå.
 
 \endverse
 \beginverse
-Stille, stille, stille, jeg har tÃ¸mmermÃ¦nd
+Stille, stille, stille, jeg har tømmermænd
 der er larm, selv under dynen
-jeg strÃ¦kker mig efter en doven Top
+jeg strækker mig efter en doven Top
 og putter den i trynen
 
 \endverse
 \beginverse
-I aftes gjordâ€™ jeg noget som man ikke skal
+I aftes gjord’ jeg noget som man ikke skal
 man skal nemlig ikke tylle
-til sidst sagâ€™ jeg dav til en stor og mÃ¦gtig spand
-som jeg nÃ¦sten kuâ€™ fylde
+til sidst sag’ jeg dav til en stor og mægtig spand
+som jeg næsten ku’ fylde
 
 \endverse
 \beginverse
-Jegâ€™r busted
-Ã¥h, busted
-Jeg tog vist en pige pÃ¥ lanternerne
-min kind er nu langt ud i det blÃ¥
+Jeg’r busted
+åh, busted
+Jeg tog vist en pige på lanternerne
+min kind er nu langt ud i det blå
 
 \endverse
 \beginverse
-Jegâ€™r busted
-Ã¥h, busted
+Jeg’r busted
+åh, busted
 Som sprunget ud af et mareridt
-tager tÃ¸mmeren hÃ¦vn, og han krÃ¦ver sit
-Ã¥h-nej\ldots
-Jeg Ã¸nsker ham langt ud i det blÃ¥
-Jegâ€™r busted â€“ Ã¥h, busted.
+tager tømmeren hævn, og han kræver sit
+åh-nej\ldots
+Jeg ønsker ham langt ud i det blå
+Jeg’r busted – åh, busted.
 
 \endverse
 \endsong

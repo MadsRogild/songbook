@@ -1,50 +1,50 @@
-\beginsong{Der er et Ã¸lrigt land}[sr={Melodi: Der er et yndigt land}
+\beginsong{Der er et ølrigt land}[sr={Melodi: Der er et yndigt land}
 ,
-by=%{ Holger Drachmann}
+by={}
 ,
 cr={}]
 \beginverse
-Der er et Ã¸lrigt land,
-det stÃ¥r med nÃ¸d og nÃ¦ppe
+Der er et ølrigt land,
+det står med nød og næppe
 blandt alt det pokkers vand
 blandt alt det pokkers vand.
 Det bugter sig i bar og kro.
 Det hedder gamle Danmark,
-og her er Ã¸llen go'
-ja, hver en Ã¸l er go'.
+og her er øllen go'
+ja, hver en øl er go'.
 
 \endverse
 \beginverse
 Her drak i fordums tid
-hver tillakkede kÃ¦mper
-sin mjÃ¸d af fad med flid
-sin mjÃ¸d af fad med flid.
-SÃ¥ prÃ¸ved' han, ej uden mÃ©n
+hver tillakkede kæmper
+sin mjød af fad med flid
+sin mjød af fad med flid.
+Så prøved' han, ej uden mén
 at finde sine bene,
 men faldt ved hver en sten
 ja, hver en bautasten.
 
 \endverse
 \beginverse
-Den Ã¸l endnu er skÃ¸n,
-og gid den aldrig vÃ¦lter.
-Lad baj'ren stÃ¥ sÃ¥ grÃ¸n
-lad baj'ren stÃ¥ sÃ¥ grÃ¸n.
-De Ã¦dle sorters skÃ¸nne Ã¸er
+Den øl endnu er skøn,
+og gid den aldrig vælter.
+Lad baj'ren stå så grøn
+lad baj'ren stå så grøn.
+De ædle sorters skønne øer
 med sutter, sulde svende
-og svimle danske mÃ¸er
-ja, svimle danske mÃ¸er.
+og svimle danske møer
+ja, svimle danske møer.
 
 \endverse
 \beginverse
-Hil druk og fÃ¦dreland.
-Hil hver en kÃ¸lig bajer.
+Hil druk og fædreland.
+Hil hver en kølig bajer.
 Vi drikker dem vi kan
 vi drikker dem vi kan.
-Vort gamle Danmark -- SKÃ…L! -- bestÃ¥
-sÃ¥ lÃ¦nge Ã¸llet skummer,
-og nÃ¦sen den bli'r blÃ¥
-med rÃ¸de prikker pÃ¥.
+Vort gamle Danmark -- SKÅL! -- bestå
+så længe øllet skummer,
+og næsen den bli'r blå
+med røde prikker på.
 
 \endverse
 \endsong

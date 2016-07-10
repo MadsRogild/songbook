@@ -4,8 +4,8 @@ sr={Melodi:Tomorrow belongs to me - Cabaret}
 cr={}]
 \beginverse
 Se solen, der skinner
-pÃ¥ kalv og pÃ¥ kid.
-Se parken, der dufter af vÃ¥r.
+på kalv og på kid.
+Se parken, der dufter af vår.
 Nu sammen vi hilser
 den nye tid.
 I morgen er verden vor!
@@ -13,29 +13,29 @@ I morgen er verden vor!
 \beginverse
 Professoren giver
 af alt hvad han ved.
-Studerende sandheden fÃ¥r.
-Og Ã¦ren den venter
-pÃ¥ os et sted.
+Studerende sandheden får.
+Og æren den venter
+på os et sted.
 I morgen er verden vor!
 \endverse
 \beginverse
 Der tastes og kigges
-pÃ¥ skÃ¦rmene - se!
-Det spirer, hvor Haarder han sÃ¥r.
+på skærmene - se!
+Det spirer, hvor Haarder han sår.
 Men snart hvisker alle
 BRUG  E D B
 I MORGEN ER VERDEN VOR!
 \endverse
 \beginverse
-Ã…H EDB, EDB,
+ÅH EDB, EDB,
 DU ER DET ORD,
-DER FÃ˜RER OS FREM MOD DE Ã…R,
+DER FØRER OS FREM MOD DE ÅR,
 HVOR VERDEN BLI'R STYRET AF DATALOG'R
 I MORGEN ER VOR
 I MORGEN ER VOR
 I MORGEN ER VERDEN VOR!!
 \endverse
 \beginverse
-\tiny{GÃ¥ direkte til 43!}
+\tiny{Gå direkte til 43!}
 \endverse
 \endsong

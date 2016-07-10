@@ -1,37 +1,37 @@
-\beginsong{Ã…h, Maple}[sr={Melodi: Westlife - Mandy}
+\beginsong{Åh, Maple}[sr={Melodi: Westlife - Mandy}
 ,
-by={ FysikRevy 2015}
+by={FysikRevy 2015}
 ,
 cr={}]
 \beginverse
 Husker dengang jeg var rus
-MatIntro, tog det lidt pÃ¥ sjus'
+MatIntro, tog det lidt på sjus'
 
 \endverse
 \beginverse
 En skygge af et blad
-Et hÃ¥b om at ku lÃ¸se
+Et håb om at ku løse
 Funktionen foran mig
 Var det muligt
 
 \endverse
 \beginverse
 Onsdag formiddag og jeg
-MÃ¦rker "deadline" nÃ¦rme sig
+Mærker "deadline" nærme sig
 Skriver den funktion
 
 \endverse
 \beginverse
 Og beder dig plot' den
 Og alt du giver mig
-Er blot en fejlmelding Ã¥h Maple
+Er blot en fejlmelding åh Maple
 
 \endverse
 \beginverse
-For du gÃ¸r mig sÃ¥ skingrende sindssyg
-NÃ¥r jeg plotter funktioner, Ã¥Ã¥h Maple
-Selvom jeg prÃ¸ver at vÃ¦re kÃ¦rlig
-Ignorerer du mig, Ã¥Ã¥Ã¥h Maple
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Selvom jeg prøver at være kærlig
+Ignorerer du mig, åååh Maple
 
 \endverse
 \beginverse
@@ -40,14 +40,14 @@ Er maple noget jeg ka' brug?
 Men RootOfCSC?
 Hvad fanden betyder det?
 Har du andre svar
-End errorfunktioner, Ã…h Maple
+End errorfunktioner, Åh Maple
 
 \endverse
 \beginverse
-For du gÃ¸r mig sÃ¥ skingrende sindssyg
-NÃ¥r jeg plotter funktioner, Ã¥Ã¥h Maple
-NÃ¥r jeg bruger grÃ¦ske symboler
-Ja, sÃ¥ fatter du hat! Ã…h Maple
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Når jeg bruger græske symboler
+Ja, så fatter du hat! Åh Maple
 
 \endverse
 \beginverse
@@ -55,36 +55,36 @@ Du siger "export to Latex"
 Hvad fuck er det, det virker ik'
 Men jeg klare'd den eksam'
 Jeg fik det hele gjort
-Og hjÃ¦lpen du gav mig
-Var fem liniers rÃ¸dt lort, Ã¥h Maple
+Og hjælpen du gav mig
+Var fem liniers rødt lort, åh Maple
 
 \endverse
 \beginverse
-Bare tÃ¦nk, hvis jeg var til eksamen
-Uden dig pÃ¥ min PC, Ã¥h maple
-Selvom jeg prÃ¸ver at vÃ¦re kÃ¦rlig,
-Ignorerer du mig, Ã¥h Maple
+Bare tænk, hvis jeg var til eksamen
+Uden dig på min PC, åh maple
+Selvom jeg prøver at være kærlig,
+Ignorerer du mig, åh Maple
 
 \endverse
 \beginverse
 TI-89
 Og Matlab og Mathcat
 Er ubrugelig'
-Men intet er vÃ¦rre end Maple
+Men intet er værre end Maple
 
 \endverse
 \beginverse
-For du gÃ¸r mig sÃ¥ skingrende sindssyg
-NÃ¥r jeg plotter funktioner, Ã¥Ã¥h Maple
-Selvom jeg prÃ¸ver at vÃ¦re kÃ¦rlig
-Ignorerer du mig, Ã¥Ã¥Ã¥h Maple
+For du gør mig så skingrende sindssyg
+Når jeg plotter funktioner, ååh Maple
+Selvom jeg prøver at være kærlig
+Ignorerer du mig, åååh Maple
 
 \endverse
 \beginverse
-Bare tÃ¦nk, hvis jeg var til eksamen
-Uden dig pÃ¥ min PC, Ã¥h maple
-Selvom jeg prÃ¸ver at vÃ¦re kÃ¦rlig,
-Skider du i munden pÃ¥ mig, Ã¥h Maple
+Bare tænk, hvis jeg var til eksamen
+Uden dig på min PC, åh maple
+Selvom jeg prøver at være kærlig,
+Skider du i munden på mig, åh Maple
 
 \endverse
 \endsong

@@ -1,42 +1,42 @@
 \beginsong{Koder Kapitalen}[sr={Melodi:Kim Hot - Smoker Industrien}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse
-For 20 Ã¥r siden der vidste folk ik'
-at datalogi det ku' blive sÃ¥ fedt!
+For 20 år siden der vidste folk ik'
+at datalogi det ku' blive så fedt!
 Der var en mand, der vidste det lidt
 men han koded' slam og fortalt' det ik
 men den mand han ku' se, at der kom et sprog
 hvor alle der koded' ku' ligne et fjog!
-Det fucking kÃ¸ter sprog det kÃ¸rt' i en VM
-og med \texttt{static void main} bli'r det hele sÃ¥ nemt!
+Det fucking køter sprog det kørt' i en VM
+og med \texttt{static void main} bli'r det hele så nemt!
 
 \endverse
 \beginverse
-Det var 20 Ã¥r siden og hans navn var Karl Koder
+Det var 20 år siden og hans navn var Karl Koder
 koded' slam for kapitalen, havde syge frynsegoder
 Bawlet i Eclipse og spurgt': "Har du et problem?"
-SÃ¥ skal Karl nok kom' og kode dit system.
+Så skal Karl nok kom' og kode dit system.
 
 \endverse
 \beginverse
 Der var en konkurrence hvor han ik' sagde slut,
 for Karl han sgu battle mod motherfucking Knuth!
-Hans fÃ¸rste linjer kode de var ik' sÃ¦rligt dope,
+Hans første linjer kode de var ik' særligt dope,
 men resten de var bomben, for de brugte nemlig SOAP!
 
 \endverse
 \beginverse
-Karl vandt og ham Knuth fik piveren pÃ¥!
-Tog tilbage til Stanford den BÃ˜SSEKAL!
-Karl han sagde til den anden: "Pas godt pÃ¥ kÃ¸ter Java",
-for det' fremtidssproget, der bliver fuldstÃ¦ndig fucked,
-vi skal kode det hele! ForstÃ¥r du det?
-Og det skal kodes i Java, der mÃ¥ ik' vÃ¦r' noget C!
-SÃ¥ fuck kÃ¸bsaftalen, tÃ¸r rÃ¸v med manualen
-navnet er KÃ¸ter Karl, og vi koder kapitalen!
+Karl vandt og ham Knuth fik piveren på!
+Tog tilbage til Stanford den BØSSEKAL!
+Karl han sagde til den anden: "Pas godt på køter Java",
+for det' fremtidssproget, der bliver fuldstændig fucked,
+vi skal kode det hele! Forstår du det?
+Og det skal kodes i Java, der må ik' vær' noget C!
+Så fuck købsaftalen, tør røv med manualen
+navnet er Køter Karl, og vi koder kapitalen!
 
 \endverse
 \beginverse
@@ -60,22 +60,22 @@ kongen af Java!
 
 \endverse
 \beginverse
-Nu stÃ¥r jeg her igen! Mand mod mand
+Nu står jeg her igen! Mand mod mand
 Parat til at kod' hvad du ik' kan!
-For datalogi det er blevet sÃ¥ fedt,
-man kan lave en service pÃ¥ internet!
-Og nÃ¥r den bli'r sat op, sÃ¥ kÃ¸rer den pÃ¥ Tomcat
-og sÃ¥ ta'r Karl hjem, og holder sig en sabbat,
-og sÃ¥ si'r han til sin chef:
-"Fuck din kode! Det er UML din BÃ˜SSEKAL!"
+For datalogi det er blevet så fedt,
+man kan lave en service på internet!
+Og når den bli'r sat op, så kører den på Tomcat
+og så ta'r Karl hjem, og holder sig en sabbat,
+og så si'r han til sin chef:
+"Fuck din kode! Det er UML din BØSSEKAL!"
 Det skal kodes i Java! Det skal kodes med SOAP
-I en managed verden uden at tÃ¦nke pÃ¥ scope.
-Hvor man elsker Swing, og bli'r fuldstÃ¦ndig fucked,
-SÃ¥ lÃ¦nge man koder Java, sÃ¥ gÃ¥r det godt!
-SÃ¥ alle de svanser, som der koder det i VB
-Det skal nok blive godt med nog't Java pÃ¥ jeres CV
-SÃ¥ tag hjem fra regn'centralen og kod kapitalen!
-FrÃ¦se lortet ned med SOAP, regulere hele dagen!
+I en managed verden uden at tænke på scope.
+Hvor man elsker Swing, og bli'r fuldstændig fucked,
+Så længe man koder Java, så går det godt!
+Så alle de svanser, som der koder det i VB
+Det skal nok blive godt med nog't Java på jeres CV
+Så tag hjem fra regn'centralen og kod kapitalen!
+Fræse lortet ned med SOAP, regulere hele dagen!
 
 \endverse
 \beginverse
@@ -84,21 +84,21 @@ Koder ik i C ...
 
 \endverse
 \beginverse
-NÃ¥r nu dikufanter de vil sÃ¦lge kod' til nogen,
-kan de lÃ¦re et par hacks inde pÃ¥ Kongens kodeskole
-Det fÃ¸rste Ã¸vel'shold, det hedder SOAP-vold
-Man bli'r lÃ¥st inde i Hel, og skal hÃ¥ndkod' XML!
-Den anden disciplin, den er ik' sÃ¥ nem at gÃ¦tte,
-man bli'r tÃ¦vet med klassestil til man ka' Javaetikette.
+Når nu dikufanter de vil sælge kod' til nogen,
+kan de lære et par hacks inde på Kongens kodeskole
+Det første øvel'shold, det hedder SOAP-vold
+Man bli'r låst inde i Hel, og skal håndkod' XML!
+Den anden disciplin, den er ik' så nem at gætte,
+man bli'r tævet med klassestil til man ka' Javaetikette.
 Den tredje disciplin, det' alt for fedt
 Du skal kode noget Java for HI-PER-FIT.
 Man sletter GHC, starter Java-IDE
-Fucker deres lambda, det en syg idÃ©
-Man lÃ¦rer de svanser at hyle som en kat
-nÃ¥r man breaker deres build hver eneste nat
+Fucker deres lambda, det en syg idé
+Man lærer de svanser at hyle som en kat
+når man breaker deres build hver eneste nat
 Den allersidste time er lavningsdisciplin,
-for nÃ¥r du koder Java, sÃ¥ bli'r damerne til dine,
-SÃ¥ fuck kvaliteten og skid pÃ¥ omtalen
+for når du koder Java, så bli'r damerne til dine,
+Så fuck kvaliteten og skid på omtalen
 Foran terminalen kan du kode kapitalen!
 
 \endverse
