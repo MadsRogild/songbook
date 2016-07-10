@@ -1,47 +1,47 @@
-\beginsong{Få det læst}[sr={Melodi: The Beatles - Let it Be}
+ï»¿\beginsong{FÃ¥ det lÃ¦st}[sr={Melodi: The Beatles - Let it Be}
 ,
 by={MatematikRevy 2006}
 ,
 cr={}]
 \beginverse
-Når jeg sidder og skal læse lektier bliver jeg en doven rad
-Jeg kan ikke ta’ det, få det læst!
-Jeg bliver så let lidt distraheret, tv, spil og aftensmad
-Ta’ dig nu lidt sammen, få det læst!
+NÃ¥r jeg sidder og skal lÃ¦se lektier bliver jeg en doven rad
+Jeg kan ikke taâ€™ det, fÃ¥ det lÃ¦st!
+Jeg bliver sÃ¥ let lidt distraheret, tv, spil og aftensmad
+Taâ€™ dig nu lidt sammen, fÃ¥ det lÃ¦st!
 \endverse
 
 \beginverse
-Få det læst, få det læst, få det læst, få det læst
-Ta’ dig nu lidt sammen, få det læst.
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st
+Taâ€™ dig nu lidt sammen, fÃ¥ det lÃ¦st.
 \endverse
 
 \beginverse
-Jeg syn’s at matematik er herligt, frem for alle andre fag
-Så jeg bør jo kunne få det læst.
-Men der er andet man kan lave, drikke løs og fyr’ den af
-Jeg kan ikke klare det, få det læst!
+Jeg synâ€™s at matematik er herligt, frem for alle andre fag
+SÃ¥ jeg bÃ¸r jo kunne fÃ¥ det lÃ¦st.
+Men der er andet man kan lave, drikke lÃ¸s og fyrâ€™ den af
+Jeg kan ikke klare det, fÃ¥ det lÃ¦st!
 \endverse
 
 \beginverse
-Få det læst, få det læst, få det læst, få det læst!
-Jeg kan ikke klare det, få det læst.
-Få det læst, få det læst, få det læst, få det læst!
-Ta’ dig nu lidt sammen, få det læst.
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st!
+Jeg kan ikke klare det, fÃ¥ det lÃ¦st.
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st!
+Taâ€™ dig nu lidt sammen, fÃ¥ det lÃ¦st.
 \endverse
 
 \beginverse
-Og selv når jeg har læseferie, går det ikke særlig nemt
-Venter til det sidste, få det læst!
+Og selv nÃ¥r jeg har lÃ¦seferie, gÃ¥r det ikke sÃ¦rlig nemt
+Venter til det sidste, fÃ¥ det lÃ¦st!
 Men jeg er tvunget for at huske tusind ting som jeg har glemt
-Se nu på de formler, få det læst!
+Se nu pÃ¥ de formler, fÃ¥ det lÃ¦st!
 \endverse
 
 \beginverse
-Få det læst, få det læst, få det læst, få det læst!
-Se nu på de formler, få det læst!
-Få det læst, få det læst, få det læst, få det læst!
-Ta’ dig nu lidt sammen, få det læst!
-Få det læst, få det læst, få det læst, få det læst!
-Hvis du vil bestå så få det læst!
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st!
+Se nu pÃ¥ de formler, fÃ¥ det lÃ¦st!
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st!
+Taâ€™ dig nu lidt sammen, fÃ¥ det lÃ¦st!
+FÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st, fÃ¥ det lÃ¦st!
+Hvis du vil bestÃ¥ sÃ¥ fÃ¥ det lÃ¦st!
 \endverse
 \endsong

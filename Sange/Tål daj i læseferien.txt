@@ -1,72 +1,72 @@
-\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}
+ï»¿\beginsong{TÃ¥l daj i lÃ¦seferien}[sr={Melodi: 12 days of Christmas}
 ,
-by={Mona Holm og Marianne Bangsø, Julerevy 1987}
+by={Mona Holm og Marianne BangsÃ¸, Julerevy 1987}
 ,
 cr={}]
 \beginverse
-Husk: der skal skåles efter 4. vers -- hver gang!
+Husk: der skal skÃ¥les efter 4. vers -- hver gang!
 \endverse
 
 \beginverse
-På den 1. da’ i læseferien sa’ jeg til mig selv:
-Der er god tid, jeg pjækker i dag.
+PÃ¥ den 1. daâ€™ i lÃ¦seferien saâ€™ jeg til mig selv:
+Der er god tid, jeg pjÃ¦kker i dag.
 \endverse
 
 \beginverse
-På den 2. da’ i læseferien\ldots
-Mat’matik er trist.
+PÃ¥ den 2. daâ€™ i lÃ¦seferien\ldots
+Matâ€™matik er trist.
 \endverse
 
 \beginverse
-På den 3. da’ i læseferien\ldots
-Jeg er træt.
+PÃ¥ den 3. daâ€™ i lÃ¦seferien\ldots
+Jeg er trÃ¦t.
 \endverse
 
 \beginverse
-På den 4. da’ i læseferien\ldots
-Tror jeg går på druk.
+PÃ¥ den 4. daâ€™ i lÃ¦seferien\ldots
+Tror jeg gÃ¥r pÃ¥ druk.
 \endverse
 
 \beginverse
-På den 5. da’ i læseferien\ldots
-Åh, tømmermænd.
+PÃ¥ den 5. daâ€™ i lÃ¦seferien\ldots
+Ã…h, tÃ¸mmermÃ¦nd.
 \endverse
 
 \beginverse
-På den 6. da’ i læseferien\ldots
+PÃ¥ den 6. daâ€™ i lÃ¦seferien\ldots
 Der er fest i aften.
 \endverse
 
 \beginverse
-På den 7. da’ i læseferien\ldots
+PÃ¥ den 7. daâ€™ i lÃ¦seferien\ldots
 Hvor er min bog nu.
 \endverse
 
 \beginverse
-På den 8. da’ i læseferien\ldots
+PÃ¥ den 8. daâ€™ i lÃ¦seferien\ldots
 Der' film i TV.
 \endverse
 
 \beginverse
-På den 9. da’ i læseferien\ldots
+PÃ¥ den 9. daâ€™ i lÃ¦seferien\ldots
 Savner mine venner.
 \endverse
 
 \beginverse
-På den 10. da’ i læseferien\ldots
-Mon jeg kan nå det.
+PÃ¥ den 10. daâ€™ i lÃ¦seferien\ldots
+Mon jeg kan nÃ¥ det.
 \endverse
 
 \beginverse
-På den 11. da’ i læseferien\ldots
-Nu skal der læses.
+PÃ¥ den 11. daâ€™ i lÃ¦seferien\ldots
+Nu skal der lÃ¦ses.
 \endverse
 
 \beginverse
-På den 12. da’ i læseferien\ldots
+PÃ¥ den 12. daâ€™ i lÃ¦seferien\ldots
 Gud, det' i morgen.
 \hspace{0em}\phantom{M}\vdots
-Mat’matik er trist.
-Så'n gik tiden -- jeg dumped' i dag!
+Matâ€™matik er trist.
+SÃ¥'n gik tiden -- jeg dumped' i dag!
 \endverse
 \endsong
