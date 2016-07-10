@@ -1,6 +1,6 @@
-\beginsong{Sortsnak}[sr={Melodi: Cæsar -\newline Storkespringvandet}
+﻿\beginsong{Sortsnak}[sr={Melodi: Cæsar -- Storkespringvandet}
 ,
-by=%{ Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+by={}
 ,
 cr={}]
 \beginverse

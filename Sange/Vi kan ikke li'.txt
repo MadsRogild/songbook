@@ -1,17 +1,14 @@
-\beginsong{Vi kan ikke li'}[sr={Melodi: Vores buschauffør kan ikke køre bus}
+﻿\beginsong{Vi kan ikke li'}[sr={Melodi: Vores buschauffør kan ikke køre bus}
 ,
-by=%{ Terese og andre}
+by={}
 ,
 cr={}]
 \beginverse
-Vi kan ikke li' folk
-vi ik' kan li'
-Vi kan ikke li' folk
-vi ik' kan li'
+Vi kan ikke li' folk vi ik' kan li'
+Vi kan ikke li' folk vi ik' kan li'
 For vi kan sgu ikke li' dem,
 de skulle hellere tage at blive hjemme
-Vi kan ikke li' folk
-vi ik' kan li'
+Vi kan ikke li' folk vi ik' kan li'
 
 \endverse
 \beginverse
@@ -80,12 +77,12 @@ De er fjolser uden hjerner
 der går rundt og ser på stjerner
 
 \endverse
-\beginverse
+%\beginverse
 %Vi kan ikke li' folk fra iNano\ldots
 %bagfra blir' de lidt for kække
 %synes Ångstrøm de er frække
 
-\endverse
+%\endverse
 \beginverse
 Vi kan ikke li' folk fra økonomi\ldots
 For de regner på budgettet
@@ -122,24 +119,24 @@ Datalogcirkusartister;
 de er næsten humanister
 
 \endverse
-\beginverse
+%\beginverse
 %Vi kan ikke li' folk der har tek-fys\ldots
 %for de har en bærbar PC
 %læser mails når de' på WC
 
-\endverse
-\beginverse
+%\endverse
+%\beginverse
 %Vi kan ikke li' folk fra statskundskab\ldots
 %for de gider kun at kom' for- di
 %de tror de møder Lomborg
 
-\endverse
-\beginverse
+%\endverse
+%\beginverse
 %Vi kan ikke li' folk fra farmaceutisk kemi\ldots
 %de fungerer som en buffer
 %der i alle emner skuffer
 
-\endverse
+%\endverse
 \beginverse
 Vi kan ikke li' folk fra medicin\ldots
 For de går i hvide kitler,
@@ -147,8 +144,7 @@ og det rimer jo på Hitler
 
 \endverse
 \beginverse
-Vi kan ikke li' folk fra molekylær
-(biologi)\ldots
+Vi kan ikke li' folk fra molekylær(biologi)\ldots
 for de kloner små kaniner
 splejser dem med appelsiner
 

@@ -1,0 +1,46 @@
+﻿\beginsong{Papirsklip}[sr={}
+,
+by={Kim Larsen}
+,
+cr={}]
+\beginverse
+Når nu min verden bliver kold og forladt
+finder jeg trøst i min kæreste skat
+klipper motiver med drømme og saks
+papirsilhuetter af den fineste slags.
+\endverse
+
+\beginverse
+Her er et af min far og min mor
+de som gav mig til denne jord
+kærlige kys og en duft af jasmin
+altid solskin og sødeste min.
+Livet er langt
+lykken er kort
+salig er den der tør give det bort.
+\endverse
+
+\beginverse
+Her er et af min bedste ven
+utallige klip går igen og igen
+et aldrig færdigt eller fuldendt motiv
+sort silhuet af kvinden i mit liv.
+Livet er langt\ldots
+\endverse
+
+\beginverse
+Domine et sanctus
+Domine et sanctus
+Domine et sanctus
+\endverse
+
+\beginverse
+Når nu min verden bliver kold og forladt
+finder jeg trøst i min kæreste skat
+klipper motiver med drømme og saks
+papirsilhuetter af den fineste slags.
+\lrep Livet er langt
+lykken er kort
+salig er den der tør give det bort.\rrep
+\endverse
+\endsong

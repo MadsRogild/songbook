@@ -1,0 +1,61 @@
+﻿\beginsong{Studiedag}[sr={Melodi: Hjemmebrænderiet}
+,
+by={MatematikRevy 2012}
+,
+cr={}]
+\beginverse
+Min time den starter ved kvart over ni.
+Jeg stiller min cykel, når klokken slår ti.
+Jeg skynder min ned for at lære lidt SaSt,
+og jeg håber at lidt af det sætter sig fast.
+\endverse
+
+\beginverse
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+De regler om spredning dem kender jeg vagt,
+men jeg håber da stadig jeg bli'r kandidat.}
+\endverse
+
+\beginverse
+En gang efter frokost der har vi LinAlg.
+En matrix er vigtig, har Morten fortalt.
+Jeg bli'r lidt forsinket, det bli'r jeg konstant,
+og jeg fatter vist aldrig den determinant.
+\endverse
+
+\beginverse
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+De regler om søjler dem kender jeg vagt,
+men jeg håber da stadig jeg bli'r kandidat.}
+\endverse
+
+\beginverse
+Jeg ta'r på Caféen? og køber et shot,
+men dankort-maskinen den afviser blot.
+Mit kort er vist spærret -- jeg fatter det ik',
+for min SU bør gå ind per automatik.
+\endverse
+
+\beginverse
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+De regler om SU dem kender jeg vagt,
+men jeg håber da stadig jeg bli'r kandidat.}
+\endverse
+
+\beginverse
+Jeg dumper LinAlg og sidenhen SaSt,
+så dropper jeg studiet og kører helt fast.
+Jeg skylder en hel masse penge til mor,
+og det er et problem for hun ved hvor jeg bor.
+\endverse
+
+\beginverse
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+Men regler i Netto dem kan jeg forstå,
+for jeg ved båd' hvor ketchup og dåser skal stå.}
+\endverse
+\endsong

@@ -1,0 +1,83 @@
+﻿\beginsong{Primtal}[sr={Melodi: Robbie Williams - Candy}
+,
+by={Matematikrevyen 2014}
+,
+cr={}]
+\beginverse
+Lad os definere
+de tal der fascinerer.
+For primtal skal der gælde
+faktorer trivielle.
+Elegant og simpelt, det kan man let forstå.
+Men trods det er det fulde billed’
+umuligt at opnå.
+Men hør nu:
+\endverse
+
+\beginverse
+Euler og Euklid de viste,
+blandt primtal er der slet intet sidste.
+Givet $n$ kan primtal skrives
+helt entydigt, vi har uniqueness.
+\endverse
+
+\beginverse
+Skriv nu $p$ og $q$.
+Der’ så meg’t der ikk’ er vist endnu.
+Uden dem går teori itu,
+for alt er smukt ved primtal.
+Skriv nu $p$ og $q$.
+De er overalt, det vides jo.
+Også selvom det er svært at tro,
+for alt er smukt ved primtal.
+\endverse
+
+\beginverse
+Deres heltalsringe
+dem kan man let frembringe.
+For vilkårligt $p$
+er der meget at indse.
+Man kan se tendenser
+og smukke kongruenser.
+Perfekt at anerkende,
+forbundet med Mersenne.
+\endverse
+
+\beginverse
+Goldbach havde en formodning.
+Og kryptologer brug’r dem i kodning.
+Dankortkøb forløber sikkert fordi
+vi slipper primtal fri.
+Hvad gjord’ vi uden dem?
+Så kom nu!!
+\endverse
+
+\beginverse
+Skriv nu $p$ og $q$\ldots
+\endverse
+
+\beginverse
+$\pi(x)$ er asymptotisk.
+Distribueringen dog ej logisk.
+Sylows sætning hjælper os til at se
+grupper af orden $p$.
+%\vleftofline{9x }
+Hvad gjord’ vi uden dem?\rep{9}
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+\endverse
+
+\beginverse
+Skriv nu $p$ og $q$\ldots
+\endverse
+
+\beginverse
+Skriv nu $p$ og $q$\ldots
+\endverse
+\endsong

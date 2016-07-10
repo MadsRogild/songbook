@@ -1,4 +1,4 @@
-\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
+﻿\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
 ,
 by={ MatematikRevy 2013}
 ,
@@ -11,7 +11,7 @@ Tjek om delsum konverger’
 
 \endverse
 \beginverse
-Sum af n’te del i p
+Sum af $n$’te del i $p$
 Forholdstest og rottesten
 Vi lærte om en dejlig ven
 Den hedder Grænsesammenligningstesten
@@ -24,7 +24,7 @@ Denne sang den er til dig
 Når funktionerne de ændrer sig
 Så ta’r vi det skridt for skridt
 Lært i Analyse 1
-Lad n gå mod uendeligt}
+Lad $n$ gå mod uendeligt}
 
 \endverse
 \beginverse
@@ -52,11 +52,11 @@ Wowyeahhh
 
 \endverse
 \beginverse
-$2\,\times\,$\emph{[Omkvæd]}
+\emph{[Omkvæd]}\rep{2}
 
 \endverse
 \beginverse
-\emph{Lad n gå mod uendeligt}
+\emph{Lad $n$ gå mod uendeligt}
 
 \endverse
 \endsong
