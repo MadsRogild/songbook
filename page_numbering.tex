@@ -36,7 +36,7 @@
 }
 
 
-\newcommand*{\binary}[1]{%
+\renewcommand*{\binary}[1]{%
   \expandafter\@binary\csname c@#1\endcsname
 }
 
@@ -4139,7 +4139,7 @@ $\ifcase#1
 \or1111111111110000\or1111111111110001\or1111111111110010\or1111111111110011\or1111111111110100\or1111111111110101\or1111111111110110\or1111111111110111\or1111111111111000\or1111111111111001\or1111111111111010\or1111111111111011\or1111111111111100\or1111111111111101\or1111111111111110
 \else\@ctrerr\fi$
 }
-\newcommand*{\oct}[1]{%
+\renewcommand*{\oct}[1]{%
   \expandafter\@oct\csname c@#1\endcsname
 }
 
@@ -8243,7 +8243,7 @@ $\ifcase#1
 \or0177760\or0177761\or0177762\or0177763\or0177764\or0177765\or0177766\or0177767\or0177770\or0177771\or0177772\or0177773\or0177774\or0177775\or0177776
 \else\@ctrerr\fi$
 }
-\newcommand*{\hex}[1]{%
+\renewcommand*{\hex}[1]{%
   \expandafter\@hex\csname c@#1\endcsname
 }
 
