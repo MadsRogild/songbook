@@ -1,6 +1,6 @@
 \beginsong{Steve Hawking}[sr={Melodi: Postman Pat}
 ,
-by={ FysikRevy 2015}
+by={FysikRevy 2015}
 ,
 cr={}]
 \beginverse

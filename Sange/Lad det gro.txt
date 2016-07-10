@@ -1,6 +1,6 @@
 \beginsong{Lad det gro}[sr={Melodi:Frozen - Let It Go}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse

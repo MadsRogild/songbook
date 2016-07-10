@@ -1,6 +1,6 @@
 ﻿\beginsong{Hvem sidder foran skærmen}[sr={Melodi: Jens Vejmand}
 ,
-by={ FysikRevy 2001}
+by={FysikRevy 2001}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,6 @@
 ﻿\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
 ,
-by={ FysikRevy 2010}
+by={FysikRevy 2010}
 ,
 cr={}]
 \beginverse

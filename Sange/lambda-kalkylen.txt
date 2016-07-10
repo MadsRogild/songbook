@@ -1,6 +1,6 @@
 ﻿\beginsong{$\lambda$-kalkylen}[sr={Melodi: The Llama Song}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse

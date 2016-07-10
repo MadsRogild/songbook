@@ -1,6 +1,6 @@
 \beginsong{Når Jeg Kloner Min Kat}[sr={Melodi: Westlife - When You're Looking Like That}
 ,
-by={ BIOrevy 2012}
+by={BIOrevy 2012}
 ,
 cr={}]
 \beginverse

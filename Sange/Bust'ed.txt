@@ -1,6 +1,6 @@
 \beginsong{Bust'ed}[sr={Melodi: Buster}
 ,
-by={ Erik Søe Sørensen og Troels Bjerre Sørensen, Majrevy 2003}
+by={Erik Søe Sørensen og Troels Bjerre Sørensen, Majrevy 2003}
 ,
 cr={}]
 \beginverse

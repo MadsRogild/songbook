@@ -1,6 +1,6 @@
 \beginsong{Åh, Maple}[sr={Melodi: Westlife - Mandy}
 ,
-by={ FysikRevy 2015}
+by={FysikRevy 2015}
 ,
 cr={}]
 \beginverse

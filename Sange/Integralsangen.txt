@@ -1,6 +1,6 @@
 \beginsong{Integralsangen}[sr={Melodi: Peberkagebagesangen}
 ,
-by={ MatematikRevy 2008}
+by={MatematikRevy 2008}
 ,
 cr={}]
 \beginverse

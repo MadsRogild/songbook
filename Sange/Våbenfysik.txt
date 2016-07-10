@@ -1,6 +1,6 @@
 \beginsong{Våbenfysik}[sr={Melodi: Jutlandia}
 ,
-by={ FysikRevy 2003}
+by={FysikRevy 2003}
 ,
 cr={}]
 \beginverse

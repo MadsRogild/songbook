@@ -1,6 +1,6 @@
 \beginsong{Jeg er en matematiker fra HCØ}[sr={Melodi: Jeg er en papegøje fra Amerika}
 ,
-by={ Kennie Nybo Mortensen, Jens Gustav Jensen, Kennet Andersen, Christian C. Harhoff og Povl Aage}
+by={Kennie Nybo Mortensen, Jens Gustav Jensen, Kennet Andersen, Christian C. Harhoff og Povl Aage}
 ,
 cr={}]
 \beginverse

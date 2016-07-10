@@ -1,6 +1,6 @@
 ﻿\beginsong{Så spiller vi spil}[sr={Melodi: Höhner - Viva Colonia}
 ,
-by={ DIKUrevy 2006}
+by={DIKUrevy 2006}
 ,
 cr={}]
 \beginverse

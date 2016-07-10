@@ -1,6 +1,6 @@
 \beginsong{Minken Mink}[sr={Melodi:Bjørnen Bjørn er en bjørn}
 ,
-by={ Computer Science Camp 2015}
+by={Computer Science Camp 2015}
 ,
 cr={}]
 \beginverse

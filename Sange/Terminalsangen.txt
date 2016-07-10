@@ -1,6 +1,6 @@
 \beginsong{Terminalsangen}[sr={Melodi: Shubidua - vuffelivov}
 ,
-by={ DIKUrevy 1978}
+by={DIKUrevy 1978}
 ,
 cr={}]
 \beginverse

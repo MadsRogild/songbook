@@ -1,6 +1,6 @@
 \beginsong{Den kanoniske matematikersang}[sr={Melodi: Bamses fødselsdag}
 ,
-by={ Esben "Med Hår" Bistrup Halvorsen og Rasmus "Rus" Resen Amossen}
+by={Esben "Med Hår" Bistrup Halvorsen og Rasmus "Rus" Resen Amossen}
 ,
 cr={}]
 \beginverse

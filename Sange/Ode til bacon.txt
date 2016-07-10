@@ -1,6 +1,6 @@
 \beginsong{Ode til bacon}[sr={Melodi: Backstreet boys -- I want it that way}
 ,
-by={ Rasmus Fruergaard-Pedersen, Julerevy 2005}
+by={Rasmus Fruergaard-Pedersen, Julerevy 2005}
 ,
 cr={}]
 \beginverse

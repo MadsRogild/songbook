@@ -1,6 +1,6 @@
 ﻿\beginsong{Jeg har set en rigtig .*}[sr={Melodi: Jeg har set en rigtig negermand}
 ,
-by={ DIKUrevy/Sommerfest 2002}
+by={DIKUrevy/Sommerfest 2002}
 ,
 cr={}]
 \beginverse

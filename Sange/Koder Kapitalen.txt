@@ -1,6 +1,6 @@
 \beginsong{Koder Kapitalen}[sr={Melodi:Kim Hot - Smoker Industrien}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse

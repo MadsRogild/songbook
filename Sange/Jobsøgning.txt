@@ -1,6 +1,6 @@
 \beginsong{Jobsøgning}[sr={Melodi:Klokkeren fra Notre Dame - Hell fire}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse

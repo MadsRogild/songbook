@@ -1,6 +1,6 @@
 \beginsong{Der er et ølrigt land}[sr={Melodi: Der er et yndigt land}
 ,
-by=%{ Holger Drachmann}
+by={}
 ,
 cr={}]
 \beginverse

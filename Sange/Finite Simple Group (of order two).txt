@@ -1,6 +1,6 @@
 \beginsong{Finite Simple Group (of order two)}[sr={}
 ,
-by={ The Klein Four Group}
+by={The Klein Four Group}
 ,
 cr={}]
 \beginverse
