@@ -1,62 +1,62 @@
-\beginsong{VÃ¥benfysik}[sr={Melodi: Jutlandia}
+\beginsong{Våbenfysik}[sr={Melodi: Jutlandia}
 ,
 by={ FysikRevy 2003}
 ,
 cr={}]
 \beginverse
 Det var i 1945 og nu
-ville man haâ€™ fred,
+ville man ha’ fred,
 men der var krig i Japan.
 Der blev samlet uran nok og det
 blev kastet ned,
 for der var krig i Japan.
-De fik at se hvad fysikken formÃ¥r,
-og sjove bÃ¸rn de nÃ¦ste mange Ã¥r.
+De fik at se hvad fysikken formår,
+og sjove børn de næste mange år.
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d:]
-Hey-Ho for vÃ¥benfysik!
-Vi blÃ¦ser pÃ¥ alle traktater.
+\emph{[Omkvæd:]
+Hey-Ho for våbenfysik!
+Vi blæser på alle traktater.
 Bomber her, bomber der, bomber
 for fred!
 Hvad skal man med diplomaaaaater?}
 
 \endverse
 \beginverse
-Vi flyver gennem natten og giâ€™r
-din fjende smÃ¦k.
+Vi flyver gennem natten og gi’r
+din fjende smæk.
 Han ser os ikke komme.
-Vi stiller ingen spÃ¸rgsmÃ¥l, og
-sÃ¥ snart vi har din check,
-sÃ¥ er krigen omme.
-Hvis du giâ€™r, fyrer vi den sgu af.
-Det er det, de unge vil haâ€™.
+Vi stiller ingen spørgsmål, og
+så snart vi har din check,
+så er krigen omme.
+Hvis du gi’r, fyrer vi den sgu af.
+Det er det, de unge vil ha’.
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d]}
+\emph{[Omkvæd]}
 
 \endverse
 \beginverse
-Vores salgskontor har Ã¥bent hele
-dÃ¸gnet â€“ bare ring;
-du skal ikke tÃ¸ve.
+Vores salgskontor har åbent hele
+døgnet – bare ring;
+du skal ikke tøve.
 Vacuum, brint og EMP og andre
 sjove ting,
-dem vil vi gerne prÃ¸ve.
+dem vil vi gerne prøve.
 Her er ugens tilbudskatalog:
 Start tre krige og betal for to!
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d]}
+\emph{[Omkvæd]}
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d (Ã¦ndret):]
-Hey-Ho for vÃ¥benfysik!
-Vi blÃ¦ser pÃ¥ alle traktater.
+\emph{[Omkvæd (ændret):]
+Hey-Ho for våbenfysik!
+Vi blæser på alle traktater.
 Bomber her, bomber der, bomber
 for fred!
 Vi nakker de slyngelstaaaaater.}

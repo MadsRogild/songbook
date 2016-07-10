@@ -4,59 +4,59 @@ by={ DIKUrevy 2013}
 ,
 cr={}]
 \beginverse
-Ret din peger mod dit datasÃ¦t
-fÃ¸lg nu med, lad vÃ¦r' at blive trÃ¦t.
+Ret din peger mod dit datasæt
+følg nu med, lad vær' at blive træt.
 Algoritmen listen traverserer
 data vi sorterer ret.
 
 \endverse
 \beginverse
-Tag to tal og se pÃ¥ deres vÃ¦rdi
+Tag to tal og se på deres værdi
 er det mindre, bytter vi fordi
-facit sÃ¸ges, korrekthed Ã¸ges.
-SÃ¥'n er datalogi.
+facit søges, korrekthed øges.
+Så'n er datalogi.
 
 \endverse
 \beginverse
 Lad dem boble, boble, boble,
-bytte om pÃ¥ de her to
+bytte om på de her to
 blot programmet terminerer,
-kan jeg sagtens her bestÃ¥.
+kan jeg sagtens her bestå.
 
 \endverse
 \beginverse
-NÃ¥r man fÃ¸rst sit emne trÃ¦kker
+Når man først sit emne trækker
 og hukommelsen den strejker
-hÃ¥ber gavmildheden rÃ¦kker
-bare manglerne er fÃ¥.
+håber gavmildheden rækker
+bare manglerne er få.
 
 \endverse
 \beginverse
-Jeg behÃ¸ver aldrig lÃ¦re fler'
+Jeg behøver aldrig lære fler'
 hvis jeg kan bevise denne her
-andre algoritmer de er svÃ¦re
-siger vores lÃ¦rebog.
+andre algoritmer de er svære
+siger vores lærebog.
 
 \endverse
 \beginverse
-NÃ¥r engang jeg bobler helt pÃ¥ plads
-er al tiden gÃ¥et er mit sats.
+Når engang jeg bobler helt på plads
+er al tiden gået er mit sats.
 Min metode er langsom kod'
-Pawels spÃ¸rgsmÃ¥l gÃ¸r nas.
+Pawels spørgsmål gør nas.
 
 \endverse
 \beginverse
 Lad dem boble, boble, boble,
-bytte om pÃ¥ de her to
+bytte om på de her to
 vi kan se det terminerer,
-ergo pensum jeg forstÃ¥r.
+ergo pensum jeg forstår.
 
 \endverse
 \beginverse
-NÃ¥r I nu om lidt voterer
-skal I husk' hvad jeg prÃ¦sterer:
+Når I nu om lidt voterer
+skal I husk' hvad jeg præsterer:
 Algoritmen terminerer
-sÃ¥ lad mig nu bestÃ¥!
+så lad mig nu bestå!
 
 \endverse
 \endsong

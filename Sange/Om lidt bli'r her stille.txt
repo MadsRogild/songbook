@@ -1,38 +1,38 @@
-ï»¿\beginsong{Om lidt bli'r her stille}[sr={}
+\beginsong{Om lidt bli'r her stille}[sr={}
 ,
 by={Kim Larsen}
 ,
 cr={}]
 \beginverse
-Om lidt bliâ€™r her stille.
+Om lidt bli’r her stille.
 Om lidt er det forbi.
 Fik du set det du ville?
-Fik du hÃ¸rt din melodi?
+Fik du hørt din melodi?
 \endverse
 
 \beginverse
 Forladt og alene
 danser cirkus prinsessen rundt.
-GÃ¥r i stÃ¥ --- pÃ¥ sin line
-i et sanselÃ¸st sekund.
+Går i stå --- på sin line
+i et sanseløst sekund.
 \endverse
 
 \beginverse
 \emph{Om lidt om lidt
 er vi borte.
-Vi ses mÃ¥ske igen.}
+Vi ses måske igen.}
 \endverse
 
 \beginverse
-Om lidt bliâ€™r her stille.
+Om lidt bli’r her stille.
 Om lidt er det forbi.
 Fik du set det du ville?
-Fik du hÃ¸rt din melodi?
+Fik du hørt din melodi?
 \endverse
 
 \beginverse
 \lrep\emph{Om lidt, om lidt
 er vi borte.
-Vi ses mÃ¥ske igen.}\rrep
+Vi ses måske igen.}\rrep
 \endverse
 \endsong

@@ -1,73 +1,73 @@
-ï»¿\beginsong{TÃ¥l daj i lÃ¦seferien}[sr={Melodi: 12 days of Christmas}
+\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}
 ,
-by={Mona Holm og Marianne BangsÃ¸, Julerevy 1987}
+by={Mona Holm og Marianne Bangsø, Julerevy 1987}
 ,
 cr={}]
 \beginverse
-Husk: der skal skÃ¥les efter 4. vers -- hver gang!
+Husk: der skal skåles efter 4. vers -- hver gang!
 \endverse
 
 \beginverse
-PÃ¥ den 1. daâ€™ i lÃ¦seferien saâ€™ jeg til mig selv:
-Der er god tid, jeg pjÃ¦kker i dag.
+På den 1. da’ i læseferien sa’ jeg til mig selv:
+Der er god tid, jeg pjækker i dag.
 \endverse
 
 \beginverse
-PÃ¥ den 2. daâ€™ i lÃ¦seferien\ldots
-Matâ€™matik er trist.
+På den 2. da’ i læseferien\ldots
+Mat’matik er trist.
 \endverse
 
 \beginverse
-PÃ¥ den 3. daâ€™ i lÃ¦seferien\ldots
-Jeg er trÃ¦t.
+På den 3. da’ i læseferien\ldots
+Jeg er træt.
 \endverse
 
 \beginverse
-PÃ¥ den 4. daâ€™ i lÃ¦seferien\ldots
-Tror jeg gÃ¥r pÃ¥ druk.
+På den 4. da’ i læseferien\ldots
+Tror jeg går på druk.
 \endverse
 
 \beginverse
-PÃ¥ den 5. daâ€™ i lÃ¦seferien\ldots
-Ã…h, tÃ¸mmermÃ¦nd.
+På den 5. da’ i læseferien\ldots
+Åh, tømmermænd.
 \endverse
 
 \beginverse
-PÃ¥ den 6. daâ€™ i lÃ¦seferien\ldots
+På den 6. da’ i læseferien\ldots
 Der er fest i aften.
 \endverse
 
 \beginverse
 \columnbreak
-PÃ¥ den 7. daâ€™ i lÃ¦seferien\ldots
+På den 7. da’ i læseferien\ldots
 Hvor er min bog nu.
 \endverse
 
 \beginverse
-PÃ¥ den 8. daâ€™ i lÃ¦seferien\ldots
+På den 8. da’ i læseferien\ldots
 Der' film i TV.
 \endverse
 
 \beginverse
-PÃ¥ den 9. daâ€™ i lÃ¦seferien\ldots
+På den 9. da’ i læseferien\ldots
 Savner mine venner.
 \endverse
 
 \beginverse
-PÃ¥ den 10. daâ€™ i lÃ¦seferien\ldots
-Mon jeg kan nÃ¥ det.
+På den 10. da’ i læseferien\ldots
+Mon jeg kan nå det.
 \endverse
 
 \beginverse
-PÃ¥ den 11. daâ€™ i lÃ¦seferien\ldots
-Nu skal der lÃ¦ses.
+På den 11. da’ i læseferien\ldots
+Nu skal der læses.
 \endverse
 
 \beginverse
-PÃ¥ den 12. daâ€™ i lÃ¦seferien\ldots
+På den 12. da’ i læseferien\ldots
 Gud, det' i morgen.
 \hspace{0em}\phantom{M}\vdots
-Matâ€™matik er trist.
-SÃ¥'n gik tiden -- jeg dumped' i dag!
+Mat’matik er trist.
+Så'n gik tiden -- jeg dumped' i dag!
 \endverse
 \endsong

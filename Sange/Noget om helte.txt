@@ -1,26 +1,26 @@
-ï»¿\beginsong{Noget om helte}[sr={}
+\beginsong{Noget om helte}[sr={}
 ,
 by={Tekst: Halfdan Rasmussen -- Melodi: Robert Normann}
 ,
 cr={}]
 \beginverse
 Livet er en morgengave,
-sjÃ¦len er et pilgrimskor.
-Der stÃ¥r krokus i min have,
-der stÃ¥r Ã¸ller pÃ¥ mit bord.
-Under himlen hÃ¦nger lÃ¦rken
-som et fjernt bevinget frÃ¸,
-for en lÃ¦rke tÃ¦nker hverken
-pÃ¥ at kÃ¦mpe eller dÃ¸.
+sjælen er et pilgrimskor.
+Der står krokus i min have,
+der står øller på mit bord.
+Under himlen hænger lærken
+som et fjernt bevinget frø,
+for en lærke tænker hverken
+på at kæmpe eller dø.
 \endverse
 
 \beginverse
 Her er fredeligt og stille,
-her er ingen larm og stÃ¸j.
-Jeg har sÃ¥et kruspersille,
-og et brev med pure lÃ¸g.
-Lad alverden slÃ¥ for panden
-og bekÃ¦mpe spe med spot,
+her er ingen larm og støj.
+Jeg har sået kruspersille,
+og et brev med pure løg.
+Lad alverden slå for panden
+og bekæmpe spe med spot,
 jeg vil enes med hinanden
 og mig selv og ha' det godt.
 \endverse
@@ -29,52 +29,52 @@ og mig selv og ha' det godt.
 Samson gik og styrted' templer,
 Peter Freuchen knak sit ben.
 Ak mod disse to eksempler
-er min dÃ¥d en sÃ¸lle Ã©n.
-Jeg har aldrig drÃ¦bt filistre
-eller kÃ¦mpet med en haj,
-og nÃ¥r stÃ¦rke mÃ¦nd blir bistre,
+er min dåd en sølle én.
+Jeg har aldrig dræbt filistre
+eller kæmpet med en haj,
+og når stærke mænd blir bistre,
 syn's jeg det er synd for mig.
 \endverse
 
 \beginverse
-Der er nok som gÃ¥r og sysler
-med at sprÃ¦nge kloden vÃ¦k.
-Jeg vil ikke ha skÃ¦rmydsler
-og kanoner bag min hÃ¦k.
-Mens de andre gÃ¥r og sveder
+Der er nok som går og sysler
+med at sprænge kloden væk.
+Jeg vil ikke ha skærmydsler
+og kanoner bag min hæk.
+Mens de andre går og sveder
 for at gi hinanden lak,
-vil jeg pusle med rÃ¸dbeder,
+vil jeg pusle med rødbeder,
 selleri og pastinak.
 \endverse
 
 \beginverse
-Jeg vil ikke slÃ¥s med bisser,
-jeg vil sÃ¥ og ikke slÃ¥.
-Selv de rÃ¸deste radiser
-kan man roligt lide pÃ¥.
+Jeg vil ikke slås med bisser,
+jeg vil så og ikke slå.
+Selv de rødeste radiser
+kan man roligt lide på.
 Der er nok af danske helte
 som er danske hele dag'n,
-og gÃ¥r rundt og spÃ¦nder bÃ¦lte,
-mens de rÃ¥ber; Fy for Fan.
+og går rundt og spænder bælte,
+mens de råber; Fy for Fan.
 \endverse
 
 \beginverse
-Tiden gÃ¥r og tiden hverver
-store mÃ¦nd til mandig dÃ¥d.
+Tiden går og tiden hverver
+store mænd til mandig dåd.
 Jeg reserven blandt reserver
-bryder ofte ud i grÃ¥d.
-Jeg fÃ¥r nerver og migrÃ¦ne
-blot jeg skÃ¦r' mig pÃ¥ en dolk,
-og vil hell're slÃ¥ min plÃ¦ne,
-end slÃ¥ lÃ¸s pÃ¥ pÃ¦ne folk.
+bryder ofte ud i gråd.
+Jeg får nerver og migræne
+blot jeg skær' mig på en dolk,
+og vil hell're slå min plæne,
+end slå løs på pæne folk.
 \endverse
 
 \beginverse
 Livet er en dejlig gave,
 jorden er en herlig jord.
-der er Ã¸ller i min mave,
-der stÃ¥r krokus pÃ¥ mit bord.
-NÃ¥r reserverne skal stille
+der er øller i min mave,
+der står krokus på mit bord.
+Når reserverne skal stille
 for at splitte kloden ad
 skriver jeg med kruspersille
 verdens mindste heltekvad.

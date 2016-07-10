@@ -6,28 +6,28 @@ cr={}]
 
 \endverse
 \beginverse
-MÃ¥ vi spy i datamaten,
-mÃ¥ vi tÃ¦ve den med kÃ¸ller
-mÃ¥ vi smadre automaten
-for at fÃ¥ en masse Ã¸ller
-mÃ¥ vi gÃ¥ til forelÃ¦sning
-i DIKUs hÃ¸je sale
-mÃ¥ vi rÃ¥be Ã¸v og foo og bar
-og hÃ¥ndkÃ¸re som gale
+Må vi spy i datamaten,
+må vi tæve den med køller
+må vi smadre automaten
+for at få en masse øller
+må vi gå til forelæsning
+i DIKUs høje sale
+må vi råbe øv og foo og bar
+og håndkøre som gale
 
 \endverse
 \beginverse
-Ja ja ja ja ja - det mÃ¥ vi gerne
+Ja ja ja ja ja - det må vi gerne
 
 \endverse
 \beginverse
-Ã˜rhn Ã˜rhn hent hent skÃ¥l skÃ¥l spy spy
-toogtredshalvfirs hent skÃ¥l skÃ¥l spy spy
+Ørhn Ørhn hent hent skål skål spy spy
+toogtredshalvfirs hent skål skål spy spy
 - det var flot!
 
 \endverse
 \beginverse
-Ja det mÃ¥ vi godt!
+Ja det må vi godt!
 
 \endverse
 \endsong

@@ -1,20 +1,20 @@
-ï»¿\beginsong{Studiedag}[sr={Melodi: HjemmebrÃ¦nderiet}
+\beginsong{Studiedag}[sr={Melodi: Hjemmebrænderiet}
 ,
 by={MatematikRevy 2012}
 ,
 cr={}]
 \beginverse
 Min time den starter ved kvart over ni.
-Jeg stiller min cykel, nÃ¥r klokken slÃ¥r ti.
-Jeg skynder min ned for at lÃ¦re lidt SaSt,
-og jeg hÃ¥ber at lidt af det sÃ¦tter sig fast.
+Jeg stiller min cykel, når klokken slår ti.
+Jeg skynder min ned for at lære lidt SaSt,
+og jeg håber at lidt af det sætter sig fast.
 \endverse
 
 \beginverse
-\emph{Jeg elsker at lÃ¦se pÃ¥ matematik.
-De andre er rare, og sÃ¥ bli'r jeg kvik.
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
 De regler om spredning dem kender jeg vagt,
-men jeg hÃ¥ber da stadig jeg bli'r kandidat.}
+men jeg håber da stadig jeg bli'r kandidat.}
 \endverse
 
 \beginverse
@@ -25,37 +25,37 @@ og jeg fatter vist aldrig den determinant.
 \endverse
 
 \beginverse
-\emph{Jeg elsker at lÃ¦se pÃ¥ matematik.
-De andre er rare, og sÃ¥ bli'r jeg kvik.
-De regler om sÃ¸jler dem kender jeg vagt,
-men jeg hÃ¥ber da stadig jeg bli'r kandidat.}
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+De regler om søjler dem kender jeg vagt,
+men jeg håber da stadig jeg bli'r kandidat.}
 \endverse
 
 \beginverse
-Jeg ta'r pÃ¥ CafÃ©en? og kÃ¸ber et shot,
+Jeg ta'r på Caféen? og køber et shot,
 men dankort-maskinen den afviser blot.
-Mit kort er vist spÃ¦rret -- jeg fatter det ik',
-for min SU bÃ¸r gÃ¥ ind per automatik.
+Mit kort er vist spærret -- jeg fatter det ik',
+for min SU bør gå ind per automatik.
 \endverse
 
 \beginverse
-\emph{Jeg elsker at lÃ¦se pÃ¥ matematik.
-De andre er rare, og sÃ¥ bli'r jeg kvik.
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
 De regler om SU dem kender jeg vagt,
-men jeg hÃ¥ber da stadig jeg bli'r kandidat.}
+men jeg håber da stadig jeg bli'r kandidat.}
 \endverse
 
 \beginverse
 Jeg dumper LinAlg og sidenhen SaSt,
-sÃ¥ dropper jeg studiet og kÃ¸rer helt fast.
+så dropper jeg studiet og kører helt fast.
 Jeg skylder en hel masse penge til mor,
 og det er et problem for hun ved hvor jeg bor.
 \endverse
 
 \beginverse
-\emph{Jeg elsker at lÃ¦se pÃ¥ matematik.
-De andre er rare, og sÃ¥ bli'r jeg kvik.
-Men regler i Netto dem kan jeg forstÃ¥,
-for jeg ved bÃ¥d' hvor ketchup og dÃ¥ser skal stÃ¥.}
+\emph{Jeg elsker at læse på matematik.
+De andre er rare, og så bli'r jeg kvik.
+Men regler i Netto dem kan jeg forstå,
+for jeg ved båd' hvor ketchup og dåser skal stå.}
 \endverse
 \endsong

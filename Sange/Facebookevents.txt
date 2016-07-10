@@ -1,4 +1,4 @@
-\beginsong{Facebookevents}[sr={Melodi:TV2 - Det MÃ¸rke Jylland}
+\beginsong{Facebookevents}[sr={Melodi:TV2 - Det Mørke Jylland}
 ,
 by={ DIKUrevy 2014}
 ,
@@ -6,57 +6,57 @@ cr={}]
 \beginverse
 Jeg tjekker mails, der er intet nyt
 Jeg er ikk' inviteret
-For jeg er nemlig, slet ikk' pÃ¥ facebook 
+For jeg er nemlig, slet ikk' på facebook 
 Men jeg vil stadig med
 
 \endverse
 \beginverse
-FÃ¸r i tiden, der fik man en mail
-NÃ¥r der var fest og sjov
+Før i tiden, der fik man en mail
+Når der var fest og sjov
 Og uden facebook, der ved jeg ikk'
-HvornÃ¥r der er gilde
+Hvornår der er gilde
 
 \endverse
 \beginverse
-Jeg ved at jeg sandsynligvis gÃ¥r glip af noget
-Og tÃ¦nk hvis jeg nu ikke fÃ¥r det hele med
+Jeg ved at jeg sandsynligvis går glip af noget
+Og tænk hvis jeg nu ikke får det hele med
 
 \endverse
 \beginverse
-PÃ¥ facebook hav-de jeg tilmeldt mig
-et sÃ¥ vildt event
-Det var fedt, og jeg havd' glÃ¦det mig
+På facebook hav-de jeg tilmeldt mig
+et så vildt event
+Det var fedt, og jeg havd' glædet mig
 Men jeg kom ikk' af sted
 
 \endverse
 \beginverse
-(For) jeg sku' lige ha' tjekket min vÃ¦g
-Og like hvad jeg sÃ¥
-Havde fÃ¥'t notifikation
+(For) jeg sku' lige ha' tjekket min væg
+Og like hvad jeg så
+Havde få't notifikation
 Sku' lige poke en ven
 
 \endverse
 \beginverse
-Jeg ved at jeg sandsynligvis gÃ¥r glip af noget
-Og tÃ¦nk hvis jeg nu ikke fÃ¥r det hele med
+Jeg ved at jeg sandsynligvis går glip af noget
+Og tænk hvis jeg nu ikke får det hele med
 Der gik livet lig' forbi med klar besked
-Mens jeg selv var vÃ¦k et Ã¸jeblik
+Mens jeg selv var væk et øjeblik
 Et helt andet sted
 
 \endverse
 \beginverse
 Jeg sidder her til mit eget party
-Men hvor bli'r gÃ¦sterne af?
+Men hvor bli'r gæsterne af?
 De meldte sig alle til mit event
 Men logged' ah-aldrig af
 
 \endverse
 \beginverse
 Der gik livet lig' forbi med klar besked
-Mens jeg selv var vÃ¦k et Ã¸jeblik
+Mens jeg selv var væk et øjeblik
 Et helt andet sted
 Der gik livet lig' forbi med klar besked
-Mens jeg selv var vÃ¦k et Ã¸jeblik
+Mens jeg selv var væk et øjeblik
 Et helt andet sted
 
 \endverse

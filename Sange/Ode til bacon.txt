@@ -4,76 +4,76 @@ by={ Rasmus Fruergaard-Pedersen, Julerevy 2005}
 ,
 cr={}]
 \beginverse
-Gik hen i FÃ¸\TeX.
+Gik hen i Fø\TeX.
 Det var en refleks.
-Det var med en rÃ¦son.
-Jeg skuâ€™ haâ€™ bacon.
+Det var med en ræson.
+Jeg sku’ ha’ bacon.
 
 \endverse
 \beginverse
-Jeg sÃ¥ i disken,
-helt tom. Jeg fÃ¸lte
-pÃ¥ min vom â€“ var som beton.
-Den skal haâ€™ bacon.
+Jeg så i disken,
+helt tom. Jeg følte
+på min vom – var som beton.
+Den skal ha’ bacon.
 
 \endverse
 \beginverse
 \emph{Hvorfor er
-der tomt i kÃ¸ledisken?
+der tomt i køledisken?
 Hvorfor er
-der ingen lÃ¦kkerbidsken?
+der ingen lækkerbidsken?
 Og hvor er
-den gris derâ€™ skÃ¥ret i facon?
-Jeg vil haâ€™ bacon.}
+den gris der’ skåret i facon?
+Jeg vil ha’ bacon.}
 
 \endverse
 \beginverse
-Jeg sÃ¥ i vantro.
-(VÃ¦gt)-vogterne de stod og lo.
+Jeg så i vantro.
+(Vægt)-vogterne de stod og lo.
 Kom nu herhen smag vor karton.
-Nej, jeg vil haâ€™ bacon.
+Nej, jeg vil ha’ bacon.
 
 \endverse
 \beginverse
 \emph{Hvorfor er
-der tomt i kÃ¸ledisken?
+der tomt i køledisken?
 Hvorfor er
-der ingen lÃ¦kkerbidsken?
+der ingen lækkerbidsken?
 Og hvor er
-den gris derâ€™ skÃ¥ret i facon?
-Jeg vil haâ€™ bacon.}
+den gris der’ skåret i facon?
+Jeg vil ha’ bacon.}
 
 \endverse
 \beginverse
 Smagen kan give dig lysten til livet,
 selvom du er vegetar, Aaah!
-Du blir hvad du spiser, sÃ¥ blir jeg en gris, ja.
-Detâ€™ helâ€™re end hundredâ€™ Ã¥r!
+Du blir hvad du spiser, så blir jeg en gris, ja.
+Det’ hel’re end hundred’ år!
 
 \endverse
 \beginverse
-Stegt let med smÃ¸r til.
-SvÃ¸bt om pÃ¸lser pÃ¥ grill.
-Stegt sprÃ¸dt,
-stegt sprÃ¸dt, stegt sprÃ¸dt, stegt sprÃ¸dt\ldots
-SvÃ¸b flÃ¦sk i bacon!
+Stegt let med smør til.
+Svøbt om pølser på grill.
+Stegt sprødt,
+stegt sprødt, stegt sprødt, stegt sprødt\ldots
+Svøb flæsk i bacon!
 
 \endverse
 \beginverse
-Stegt i smÃ¸r eller helt naturel.
-FÃ¸ler mig sÃ¥ hÃ¸j og kulturel.
-Jeg kuâ€™ synge ud fra en balkon:
-``Jeg vil haâ€™ bacon.''
+Stegt i smør eller helt naturel.
+Føler mig så høj og kulturel.
+Jeg ku’ synge ud fra en balkon:
+``Jeg vil ha’ bacon.''
 
 \endverse
 \beginverse
-\emph{Smag pÃ¥ lidt
-bacon svÃ¸bt om dejlig mÃ¸rksej.
-Smag pÃ¥ lidt
+\emph{Smag på lidt
+bacon svøbt om dejlig mørksej.
+Smag på lidt
 bacon fyldt i julepostej.
-Smag pÃ¥ lidt
-bacon strÃ¸get let med stÃ¦rk dijon, dijon.
-Smag pÃ¥ lidt bacon.}
+Smag på lidt
+bacon strøget let med stærk dijon, dijon.
+Smag på lidt bacon.}
 
 \endverse
 \beginverse
@@ -82,9 +82,9 @@ bacon-krydder-frikadelle.
 Jeg har lyst
 til en saltet stegt fedtcelle.
 Hvem laver
-mig en saltet flÃ¦skesvÃ¦rs-bonbon?
+mig en saltet flæskesværs-bonbon?
 Jeg hylder bacon.
-For jeg vil haâ€™ baco-o-o-n-n-n-n.}
+For jeg vil ha’ baco-o-o-n-n-n-n.}
 
 \endverse
 \endsong

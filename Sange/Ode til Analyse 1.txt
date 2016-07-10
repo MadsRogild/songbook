@@ -1,50 +1,50 @@
-ï»¿\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kÃ¦rlighed}
+\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
 ,
 by={ MatematikRevy 2013}
 ,
 cr={}]
 \beginverse
-Hvordan giâ€™r vi mening til
-Et uendâ€™ligt summespil?
-Tallene bliâ€™r fler og fler
-Tjek om delsum konvergerâ€™
+Hvordan gi’r vi mening til
+Et uend’ligt summespil?
+Tallene bli’r fler og fler
+Tjek om delsum konverger’
 
 \endverse
 \beginverse
-Sum af $n$â€™te del i $p$
+Sum af $n$’te del i $p$
 Forholdstest og rottesten
-Vi lÃ¦rte om en dejlig ven
-Den hedder GrÃ¦nsesammenligningstesten
+Vi lærte om en dejlig ven
+Den hedder Grænsesammenligningstesten
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d:]
+\emph{[Omkvæd:]
 Denne sang den er til dig
-Ã…h Jan Philip Solovej
-NÃ¥r funktionerne de Ã¦ndrer sig
-SÃ¥ taâ€™r vi det skridt for skridt
-LÃ¦rt i Analyse 1
-Lad $n$ gÃ¥ mod uendeligt}
+Åh Jan Philip Solovej
+Når funktionerne de ændrer sig
+Så ta’r vi det skridt for skridt
+Lært i Analyse 1
+Lad $n$ gå mod uendeligt}
 
 \endverse
 \beginverse
-Nu blev faget merâ€™ abstrakt
+Nu blev faget mer’ abstrakt
 Vi fandt en sum for $\pi$ eksakt
-LÃ¦rte om vor tavlesvamp
-Valget tÃ¸r og vÃ¥d er\ldots ikke merâ€™ en kamp
+Lærte om vor tavlesvamp
+Valget tør og våd er\ldots ikke mer’ en kamp
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d]}
+\emph{[Omkvæd]}
 
 \endverse
 \beginverse
-Er du nu lang langt vÃ¦k eller sÃ¥ nÃ¦r?
-(Er du nu lang langt vÃ¦k eller sÃ¥ nÃ¦r?)
+Er du nu lang langt væk eller så nær?
+(Er du nu lang langt væk eller så nær?)
 
 \endverse
 \beginverse
-Er metrikken 0, sÃ¥ du er her?
+Er metrikken 0, så du er her?
 
 \endverse
 \beginverse
@@ -52,11 +52,11 @@ Wowyeahhh
 
 \endverse
 \beginverse
-\emph{[OmkvÃ¦d]}\rep{2}
+\emph{[Omkvæd]}\rep{2}
 
 \endverse
 \beginverse
-\emph{Lad $n$ gÃ¥ mod uendeligt}
+\emph{Lad $n$ gå mod uendeligt}
 
 \endverse
 \endsong

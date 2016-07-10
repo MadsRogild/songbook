@@ -1,61 +1,61 @@
-\beginsong{Jeg er en matematiker fra HCÃ˜}[sr={Melodi: Jeg er en papegÃ¸je fra Amerika}
+\beginsong{Jeg er en matematiker fra HCØ}[sr={Melodi: Jeg er en papegøje fra Amerika}
 ,
 by={ Kennie Nybo Mortensen, Jens Gustav Jensen, Kennet Andersen, Christian C. Harhoff og Povl Aage}
 ,
 cr={}]
 \beginverse
-Jeg er en matematiker fra HCÃ˜;
+Jeg er en matematiker fra HCØ;
 jeg var en tur i byen det var dejligt.
-Da mÃ¸dte jeg en pige, hun var rigtig sÃ¸d,
-men hÃ¸r nu her hvordan det blev forfejlet.
-Hun spurgte mig, Ã¥h falderi Ã¥h faldera,
-``hva' laver du nÃ¥r du ikke er pÃ¥ bar?''
-Da svared' jeg, Ã¥h falderi Ã¥h faldera,
+Da mødte jeg en pige, hun var rigtig sød,
+men hør nu her hvordan det blev forfejlet.
+Hun spurgte mig, åh falderi åh faldera,
+``hva' laver du når du ikke er på bar?''
+Da svared' jeg, åh falderi åh faldera,
 ``jeg skriver mit speciale i $C^*$-algebra.''
 
 \endverse
 \beginverse
 ``Hvor interessant med stjerner er du astrolog?
-Hvad sker der nÃ¦ste mÃ¥ned, jeg er tvilling?''
-``Det rimer fint, for jeg er nemlig pÃ¦dagog.''
-Her brÃ¸d jeg ind, fortalte om min stilling.
-SÃ¥ sagde jeg, Ã¥h falderi Ã¥h faldera,
+Hvad sker der næste måned, jeg er tvilling?''
+``Det rimer fint, for jeg er nemlig pædagog.''
+Her brød jeg ind, fortalte om min stilling.
+Så sagde jeg, åh falderi åh faldera,
 ``du misforstod mig,'' for jeg var jo rar;
-og fortsatte, Ã¥h falderi Ã¥h faldera,
+og fortsatte, åh falderi åh faldera,
 ``det drejer sig om operatoralgebra.''
 
 \endverse
 \beginverse
-``Aha, hva' siâ€™r du algebrator opera?
-SÃ¥ mÃ¥ du vÃ¦re noget ved musikken.
+``Aha, hva' si’r du algebrator opera?
+Så må du være noget ved musikken.
 Men stjerner og musik, hvad er nu det, forklar!''
-Da mÃ¥tte jeg dosere matematiken.
-SÃ¥ sagde jeg, Ã¥h falderi Ã¥h faldera,
-``tag $B(H)$, sÃ¥ er vi nÃ¦sten klar,
-hvor $H$ det er, Ã¥h falderi Ã¥h faldera,
+Da måtte jeg dosere matematiken.
+Så sagde jeg, åh falderi åh faldera,
+``tag $B(H)$, så er vi næsten klar,
+hvor $H$ det er, åh falderi åh faldera,
 et Banachrum med prikprodukt, halvandenlinear.''
 
 \endverse
 \beginverse
 ``BH'en af i Bjarnes rum, og Bjarne hvem?!
 Er Bjarne en af dine sjofle venner?
-NÃ¦, jeg mÃ¥ hel're se at vende snuden hjem;
+Næ, jeg må hel're se at vende snuden hjem;
 ta'r ikke hjem til en jeg ikke kender.''
-SÃ¥ rÃ¥bte hun, Ã¥h falderi Ã¥h faldera,
+Så råbte hun, åh falderi åh faldera,
 ``er du tenor, eller er jeg blot til nar?!''
-SÃ¥ tÃ¦nkte jeg, Ã¥h falderi Ã¥h faldera,
-``hvis det skal blive til noget, mÃ¥ beskeden vÃ¦re klar.''
+Så tænkte jeg, åh falderi åh faldera,
+``hvis det skal blive til noget, må beskeden være klar.''
 
 \endverse
 \beginverse
-SÃ¥ sagde jeg, og det var lÃ¸gn, ``jeg synger bas
+Så sagde jeg, og det var løgn, ``jeg synger bas
 i komponisten Eulers sidste stykke.''
-Hun smilte sÃ¸dt. ``Det Ã¦rlig snak, ej mere gas.
-Tag med mig hjem, der vil du gÃ¸re lykke!''
-Moralen er, Ã¥h falderi Ã¥h faldera:
-Hvis du skal score nÃ¥r du er pÃ¥ bar,
-sÃ¥ tal ej sandt, Ã¥h falderi Ã¥h faldera.
-FortÃ¦l hende hel're at du spiller elguitar.
+Hun smilte sødt. ``Det ærlig snak, ej mere gas.
+Tag med mig hjem, der vil du gøre lykke!''
+Moralen er, åh falderi åh faldera:
+Hvis du skal score når du er på bar,
+så tal ej sandt, åh falderi åh faldera.
+Fortæl hende hel're at du spiller elguitar.
 
 \endverse
 \endsong

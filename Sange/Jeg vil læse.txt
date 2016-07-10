@@ -1,141 +1,141 @@
-\beginsong{Jeg vil lÃ¦se *}[sr={Melodi:Regnvejrsdag i november}
+\beginsong{Jeg vil læse *}[sr={Melodi:Regnvejrsdag i november}
 ,
 by={ DIKUrevy 2008}
 ,
 cr={}]
 \beginverse
-Jeg vil lÃ¦se retorik
+Jeg vil læse retorik
 for jeg fatter ik' en brik
-jeg vil lÃ¦r' om sprogfinesser
-og gÃ¥ op i petitesser
+jeg vil lær' om sprogfinesser
+og gå op i petitesser
 jeg bli'r nok en stor professor
-jeg vil lÃ¦se retorik
+jeg vil læse retorik
 
 \endverse
 \beginverse
-Jeg vil vÃ¦re teolog
-selvom lÃ¸nnen ik' er god
-tro pÃ¥ gud det er det sande
-ogsÃ¥ nÃ¥r man trÃ¦der vande
-missionÃ©re i fjerne lande
-jeg vil vÃ¦re teolog
+Jeg vil være teolog
+selvom lønnen ik' er god
+tro på gud det er det sande
+også når man træder vande
+missionére i fjerne lande
+jeg vil være teolog
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se medicin
+Jeg vil læse medicin
 tjene penge som et svin
-jeg vil skÃ¦r i dÃ¸de men'sker
-men jeg er jo ogsÃ¥ svensker
-klÃ¦de mig i \LaTeX handsker
-jeg vil lÃ¦se medicin
+jeg vil skær i døde men'sker
+men jeg er jo også svensker
+klæde mig i \LaTeX handsker
+jeg vil læse medicin
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se pÃ¥ kemi
-hÃ¥rde stoffer kan jeg li'
-jeg er skÃ¦v fra ni til sytten
-finsprit hÃ¦lder jeg i bÃ¸tten
-sÃ¥ jeg ender nok pÃ¥ stÃ¸tten
-jeg vil lÃ¦se pÃ¥ kemi
+Jeg vil læse på kemi
+hårde stoffer kan jeg li'
+jeg er skæv fra ni til sytten
+finsprit hælder jeg i bøtten
+så jeg ender nok på støtten
+jeg vil læse på kemi
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se cand.polit
+Jeg vil læse cand.polit
 for mit men'skesyn er skidt
-jeg vil skÃ¦r pÃ¥ hospitaler
-og pÃ¥ skoler uden kvaler
+jeg vil skær på hospitaler
+og på skoler uden kvaler
 mens jeg holder falske taler
-jeg vil lÃ¦se cand.polit
+jeg vil læse cand.polit
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se pÃ¥ fysik
-lÃ¦re kvantemekanik
-jeg gÃ¥r op Einsteins tanker
+Jeg vil læse på fysik
+lære kvantemekanik
+jeg går op Einsteins tanker
 og jeg er en rigtig dranker
-kÃ¦ler for mit fadÃ¸lsanker
-Jeg vil lÃ¦se pÃ¥ fysik
+kæler for mit fadølsanker
+Jeg vil læse på fysik
 
 \endverse
 \beginverse
-Jeg vil vÃ¦re officÃ©r
-i den danske dronnings hÃ¦r
+Jeg vil være officér
+i den danske dronnings hær
 jeg vil skyde talibaner
 vifte med de danske faner
-sprede dÃ¸d i lange baner
-jeg vil vÃ¦re officÃ©r
+sprede død i lange baner
+jeg vil være officér
 
 \endverse
 \beginverse
 Historie er mit liv
-stÃ¸ver rundt i et arkiv
-LÃ¦ser i de gamle skrifter
-selvom jeg fÃ¥r mange rifter
+støver rundt i et arkiv
+Læser i de gamle skrifter
+selvom jeg får mange rifter
 Jeg ved alt om Neros drifter
 For historie er mit liv
 
 \endverse
 \beginverse
-Jeg vil vÃ¦re pÃ¦dagog
+Jeg vil være pædagog
 rende rundt i maosko
-hjÃ¦lpe bÃ¸rn i overtÃ¸jet
-sÃ¥ de ikke bli'r tilmÃ¸jet
-du kan tro de er fornÃ¸jet
-jeg vil vÃ¦re pÃ¦dagog
+hjælpe børn i overtøjet
+så de ikke bli'r tilmøjet
+du kan tro de er fornøjet
+jeg vil være pædagog
 
 \endverse
 \beginverse
-Jeg vil vÃ¦re aktuar
-hvor min skÃ¦bne den er klar
+Jeg vil være aktuar
+hvor min skæbne den er klar
 Forsikringsvidenskab er sagen
 jeg vil ta' en bid af kagen
 Mens jeg sylter kundeklagen
-Jeg vil vÃ¦re aktuar
+Jeg vil være aktuar
 
 \endverse
 \beginverse
-Jeg vil muge ud hos kÃ¸er
-kÃ¸re rundt med trillebÃ¸r
-sidde i en kÃ¦mpe traktor
+Jeg vil muge ud hos køer
+køre rundt med trillebør
+sidde i en kæmpe traktor
 moms det er en ukendt faktor
 nu skal grisen ned til slagter
-jeg vil muge ud hos kÃ¸er
+jeg vil muge ud hos køer
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se pÃ¥ MI
+Jeg vil læse på MI
 for musik kan alle li'
 Selvom jeg var sidst i klassen
 Kan jeg stadig score kassen
-blot jeg lÃ¦r' at spille bassen
+blot jeg lær' at spille bassen
 Men jeg kan ikke holde takten
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se Ã¦stetik
+Jeg vil læse æstetik
 i dansenes mystik
-Svanens dÃ¸d den kan jeg lide
-skÃ¸nt jeg ej er en sylfide
+Svanens død den kan jeg lide
+skønt jeg ej er en sylfide
 vil jeg over scenen glide
-Jeg vil lÃ¦se Ã¦stetik
+Jeg vil læse æstetik
 
 \endverse
 \beginverse
-Jeg vil lÃ¦se nano tech
-for min hjerne drak jeg vÃ¦k
-sidte fredag pÃ¥ CafÃ©en?
-da jeg rigtig sku' gÃ¥ te'n
-og jeg vÃ¦lted om i sneen
-jeg vil lÃ¦se nano tech
+Jeg vil læse nano tech
+for min hjerne drak jeg væk
+sidte fredag på Caféen?
+da jeg rigtig sku' gå te'n
+og jeg vælted om i sneen
+jeg vil læse nano tech
 
 \endverse
 \beginverse
-Jeg vil vÃ¦re datalog
+Jeg vil være datalog
 og min fremtid den er god
 gcc det er en gave
 jeg blir nok en kodeslave
-jeg vil gerne prÃ¸v' at snave
-jeg vil vÃ¦re datalog
+jeg vil gerne prøv' at snave
+jeg vil være datalog
 
 \endverse
 \endsong

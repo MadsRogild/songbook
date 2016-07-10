@@ -1,17 +1,17 @@
-\beginsong{Biologiske VÃ¥ben}[by={ MBKrevy 2012}
+\beginsong{Biologiske Våben}[by={ MBKrevy 2012}
 sr={Melodi: Nordahl Grieg - Kringsav av fiender}
 ,
 ,
 cr={}]
 \beginverse
 Genmodifikation
-GÃ¸r mig til gud!
+Gør mig til gud!
 Skaber en pathogen
 Sender den ud!
-Hvad vil du gÃ¸re nu?
-Din krop er Ã¥ben:
+Hvad vil du gøre nu?
+Din krop er åben:
 Sygdomment venter dig,
-Den er mit vÃ¥ben
+Den er mit våben
 
 \endverse
 \beginverse
@@ -19,43 +19,43 @@ Giftstoffer spreder sig,
 Gennem din krop:
 Skabt til at ramme alt,
 Gi'r hjertestop.
-Lammer fÃ¸rst nerverne,
-KvÃ¦ler din rÃ¥ben,
+Lammer først nerverne,
+Kvæler din råben,
 Toksiner skader dig
-De er mit vÃ¥ben!
+De er mit våben!
 
 \endverse
 \beginverse
-MÃ¸d mutationerne
-Du stÃ¥r for skud,
+Mød mutationerne
+Du står for skud,
 Tumorne vokser frem,
 Under din hud!
-UhÃ¦mmet cellevÃ¦kst,
-Skrigen og rÃ¥ben
-KrÃ¦ften den spreder sig
-Den er mit vÃ¥ben!
+Uhæmmet cellevækst,
+Skrigen og råben
+Kræften den spreder sig
+Den er mit våben!
 
 \endverse
 \beginverse
 Din krop, min legeplads,
 Vi gi'r dig HIV!
-DÃ¸r dit immunforsvar,
+Dør dit immunforsvar,
 Ta'r vi dit liv
-Du fÃ¥r en infektion
-Drop blot din hÃ¥ben
+Du får en infektion
+Drop blot din håben
 For retrovirussen
-Den er mit vÃ¥ben.
+Den er mit våben.
 
 \endverse
 \beginverse
-LÃ¸ftet det lyder nu
+Løftet det lyder nu
 Forsker til folk
 Vi vil jer skade med
 Forskningens dolk
-Dit barn vil fÃ¸des dÃ¸dt
-HÃ¸r mÃ¸dres rÃ¥ben
+Dit barn vil fødes dødt
+Hør mødres råben
 Angsten vil sprede sig
-MÃ¦rk vores vÃ¥ben!
+Mærk vores våben!
 
 \endverse
 \endsong

@@ -1,4 +1,4 @@
-ï»¿\beginsong{Vi kan ikke li'}[sr={Melodi: Vores buschauffÃ¸r kan ikke kÃ¸re bus}
+\beginsong{Vi kan ikke li'}[sr={Melodi: Vores buschauffør kan ikke køre bus}
 ,
 by={}
 ,
@@ -13,32 +13,32 @@ Vi kan ikke li' folk vi ik' kan li'
 \endverse
 \beginverse
 Vi kan ikke li' folk fra teologi\ldots
-For de er nogle hÃ¦ngemuler,
-tror at helligÃ¥nden puler
+For de er nogle hængemuler,
+tror at helligånden puler
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra biologi\ldots
-For de gÃ¥r i strikketrÃ¸jer,
-og med dyrene sig fornÃ¸jer
+For de går i strikketrøjer,
+og med dyrene sig fornøjer
 
 \endverse
 \beginverse
 Vi kan ikke li' folk der har fysik\ldots
 For de har sgu nogle testikler
-der er pÃ¥ stÃ¸rrelse med partikler
+der er på størrelse med partikler
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra musikvidenskab\ldots
-For de er nogle lamme nÃ¸dder,
-passer ikke pÃ¥ versefÃ¸dder
+For de er nogle lamme nødder,
+passer ikke på versefødder
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra nano-tek\ldots
-De gÃ¥r rundt med sure miner,
-laver bittesmÃ¥ maskiner
+De går rundt med sure miner,
+laver bittesmå maskiner
 
 \endverse
 \beginverse
@@ -48,57 +48,57 @@ mens de hel're burde feste
 
 \endverse
 \beginverse
-Vi kan ikke li' folk fra arkÃ¦ologi\ldots
+Vi kan ikke li' folk fra arkæologi\ldots
 fordi de graver og de graver
-og pÃ¥ gamle mennesker rager
+og på gamle mennesker rager
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra filosofi\ldots
-for de gÃ¥r bar' og funderer
+for de går bar' og funderer
 om de selv mon eksisterer
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra farmaci\ldots
-for de gÃ¥r og triller piller
+for de går og triller piller
 og tabletter og pastiller
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra geologi\ldots
-For de gÃ¥r og ser pÃ¥ stenene
-nÃ¥r de burde sprede benene
+For de går og ser på stenene
+når de burde sprede benene
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra astronomi\ldots
 De er fjolser uden hjerner
-der gÃ¥r rundt og ser pÃ¥ stjerner
+der går rundt og ser på stjerner
 
 \endverse
 %\beginverse
 %Vi kan ikke li' folk fra iNano\ldots
-%bagfra blir' de lidt for kÃ¦kke
-%synes Ã…ngstrÃ¸m de er frÃ¦kke
+%bagfra blir' de lidt for kække
+%synes Ångstrøm de er frække
 
 %\endverse
 \beginverse
-Vi kan ikke li' folk fra Ã¸konomi\ldots
-For de regner pÃ¥ budgettet
-nÃ¥r de sidder pÃ¥ toilettet
+Vi kan ikke li' folk fra økonomi\ldots
+For de regner på budgettet
+når de sidder på toilettet
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra lingvistik\ldots
 Kulli waffli zarka gunku
-emfle birnan smÃ¶ja dunku
+emfle birnan smöja dunku
 
 \endverse
 \beginverse
 Vi kan ikke li' folk der har kemi\ldots
 For de hedder Ion og Ester
-mens de luften stÃ¦rkt forpester
+mens de luften stærkt forpester
 
 \endverse
 \beginverse
@@ -110,25 +110,25 @@ indtil $2$ plus $3$ bli'r $4$
 \beginverse
 Vi kan ikke li' folk der har IT\ldots
 Uni skaffer studiejobbet
-Det er nÃ¦sten alt for snobbet
+Det er næsten alt for snobbet
 
 \endverse
 \beginverse
 Vi kan ikke li' folk der har dat-mult\ldots
 Datalogcirkusartister;
-de er nÃ¦sten humanister
+de er næsten humanister
 
 \endverse
 %\beginverse
 %Vi kan ikke li' folk der har tek-fys\ldots
-%for de har en bÃ¦rbar PC
-%lÃ¦ser mails nÃ¥r de' pÃ¥ WC
+%for de har en bærbar PC
+%læser mails når de' på WC
 
 %\endverse
 %\beginverse
 %Vi kan ikke li' folk fra statskundskab\ldots
 %for de gider kun at kom' for- di
-%de tror de mÃ¸der Lomborg
+%de tror de møder Lomborg
 
 %\endverse
 %\beginverse
@@ -139,20 +139,20 @@ de er nÃ¦sten humanister
 %\endverse
 \beginverse
 Vi kan ikke li' folk fra medicin\ldots
-For de gÃ¥r i hvide kitler,
-og det rimer jo pÃ¥ Hitler
+For de går i hvide kitler,
+og det rimer jo på Hitler
 
 \endverse
 \beginverse
-Vi kan ikke li' folk fra molekylÃ¦r(biologi)\ldots
-for de kloner smÃ¥ kaniner
+Vi kan ikke li' folk fra molekylær(biologi)\ldots
+for de kloner små kaniner
 splejser dem med appelsiner
 
 \endverse
 \beginverse
 Vi kan ikke li' folk fra psykologi\ldots
-For de vader rundt i lÃ¦der,
-og de hader deres fÃ¦dre
+For de vader rundt i læder,
+og de hader deres fædre
 
 \endverse
 \beginverse
@@ -168,9 +168,9 @@ og et job de aldrig finder
 
 \endverse
 \beginverse
-Vi kan ikke li' folk der har idrÃ¦t\ldots
-For de ligner jo rÃ¸dbeder,
-nÃ¥r de render rundt og sveder
+Vi kan ikke li' folk der har idræt\ldots
+For de ligner jo rødbeder,
+når de render rundt og sveder
 
 \endverse
 \beginverse

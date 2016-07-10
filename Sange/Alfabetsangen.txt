@@ -1,4 +1,4 @@
-ï»¿\beginsong{$\alpha\beta$-sangen}[sr={Melodi: I en kÃ¦lder sort som kul}
+\beginsong{$\alpha\beta$-sangen}[sr={Melodi: I en kælder sort som kul}
 ,
 by={Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
 ,
@@ -11,7 +11,7 @@ $\eta\ \theta\ \iota\ \kappa$\hspace{-2.5pt}\protect\colorbox{white}{\phantom{$\
 $o\ \pi\ \rho\ \sigma$
 $\tau\ \upsilon\ \varphi\ \chi\ \psi$
 $\omega$ er sidste
-$24$ pÃ¥ liste!
+$24$ på liste!
 \endverse
 
 \beginverse
@@ -22,6 +22,6 @@ pa lambda my ny ksi
 omikron pi rho sigma
 tau ypsilon phi chi psi
 omega er sidste
-fireogtyve pÃ¥ liste!
+fireogtyve på liste!
 \endverse
 \endsong

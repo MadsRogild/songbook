@@ -1,40 +1,40 @@
-ï»¿\beginsong{Sensommervisen}[sr={}
+\beginsong{Sensommervisen}[sr={}
 ,
-by={Kirsten og Finn JÃ¸rgensen}
+by={Kirsten og Finn Jørgensen}
 ,
 cr={}]
 \beginverse
-Ã†bler lyser rÃ¸dt pÃ¥ trÃ¦ernes grene,
-hÃ¸sten gÃ¥r ind.
-GÃ¥r igennem skoven ganske alene,
+Æbler lyser rødt på træernes grene,
+høsten går ind.
+Går igennem skoven ganske alene,
 stille i sind.
 \emph{Gyldne farver og sensommerbrise
 fylder hjertet med vemodig musik
-GÃ¥r og nynner en sensommervise
+Går og nynner en sensommervise
 fjernt fra byens larmende trafik.}
 \endverse
 
 \beginverse
-Sommerbrisen danner krusning pÃ¥ sÃ¸en,
+Sommerbrisen danner krusning på søen,
 mystisk og sort.
-StÃ¦reflokke svÃ¦ver hÃ¸jt over Ã¸en
-snart taÂ´r de bort.
+Stæreflokke svæver højt over øen
+snart ta´r de bort.
 \emph{Gyldne farver\ldots}
 \endverse
 
 \beginverse
-Duft af brÃ¦nderÃ¸g blandt brunlige bregner,
-blÃ¥sorte bÃ¦r.
+Duft af brænderøg blandt brunlige bregner,
+blåsorte bær.
 Stille summen mellem blade, som blegner
-aftÂ´nen er nÃ¦r.
+aft´nen er nær.
 \emph{Gyldne farver\ldots}
 \endverse
 
 \beginverse
-Modne rÃ¸nnebÃ¦r bag dybgrÃ¸nne grene
-rÃ¸dt titter frem.
-GÃ¥r igennem skoven ganske alene
-nu mÃ¥ jeg hjem!
+Modne rønnebær bag dybgrønne grene
+rødt titter frem.
+Går igennem skoven ganske alene
+nu må jeg hjem!
 \emph{Gyldne farver\ldots}
 \endverse
 \endsong

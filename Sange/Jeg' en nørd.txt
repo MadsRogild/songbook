@@ -1,4 +1,4 @@
-ï»¿\beginsong{Jeg' en nÃ¸rd}[sr={Melodi: tema fra PokÃ©mon}
+\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
 ,
 by={ FysikRevy 2010}
 ,
@@ -6,83 +6,83 @@ cr={}]
 \beginverse
 AD\&D det er min leg,
 og go det er min sport.
-Nyt tÃ¸j, det bytter jeg
-til sjÃ¦ldne magickort.
+Nyt tøj, det bytter jeg
+til sjældne magickort.
 
 \endverse
 \beginverse
-World of Warcraft er sÃ¥ fedt.
+World of Warcraft er så fedt.
 Jeg spiller natten lang.
 Back to the Future har jeg set,
 for 85. gang!
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
-Jegâ€™ stolt af det.
-Jeg lÃ¦ser XKCD.
+JEG’ EN NØRD!
+Jeg’ stolt af det.
+Jeg læser XKCD.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Skriiiiiiiver i \LaTeX
-og jeg tÃ¦nder pÃ¥ $dx$.
+og jeg tænder på $dx$.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Nu er jeg ved
-at finde en at nÃ¸rde med,
-som kaâ€™ taâ€™ min uskyldighed.
+at finde en at nørde med,
+som ka’ ta’ min uskyldighed.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Og jeg er stolt af det!
-Yeaaahhâ€¦
+Yeaaahh…
 
 \endverse
 \beginverse
-Jeg er level 10 i svÃ¦rd,
-sÃ¥ spil nu ikke smart.
-I min bÃ¦ltetaske er
+Jeg er level 10 i sværd,
+så spil nu ikke smart.
+I min bæltetaske er
 der terninger parat.
 
 \endverse
 \beginverse
-Sig at det skal vÃ¦re os
-og mÃ¦rk min energi.
-NÃ¥r jeg lÃ¦ser Hitchhikersâ€™
+Sig at det skal være os
+og mærk min energi.
+Når jeg læser Hitchhikers’
 Guide to the Galaxy.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
-Jegâ€™ stolt af det.
-Jeg lÃ¦ser XKCD.
+JEG’ EN NØRD!
+Jeg’ stolt af det.
+Jeg læser XKCD.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Skriiiiiver i \LaTeX
-og jeg tÃ¦nder pÃ¥ $dx$.
+og jeg tænder på $dx$.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Nu er jeg ved
-at finde en at nÃ¸rde med,
-som kaâ€™ taâ€™ min uskyldighed.
+at finde en at nørde med,
+som ka’ ta’ min uskyldighed.
 
 \endverse
 \beginverse
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 Jeg er stolt af det.
 
 \endverse
 \beginverse
 Jeg er stolt af det.
-JEGâ€™ EN NÃ˜RD!
+JEG’ EN NØRD!
 
 \endverse
 \endsong

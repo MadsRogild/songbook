@@ -1,26 +1,26 @@
-ï»¿\beginsong{Hvem Sidder Der Ved SkÃ¦rmen}[sr={Melodi: Jens Vejmand}
+\beginsong{Hvem Sidder Der Ved Skærmen}[sr={Melodi: Jens Vejmand}
 ,
 by={ DIKUrevy 1973}
 ,
 cr={}]
 \beginverse
-Hvem sidder der ved skÃ¦rmen
-med strimler om sin hÃ¥nd
+Hvem sidder der ved skærmen
+med strimler om sin hånd
 med hulkort op til halsen
-og om sin sko et bÃ¥nd?
-Det er sÃ¥mÃ¦nd en dat'er
+og om sin sko et bånd?
+Det er såmænd en dat'er
 som sidder dagen lang
-ved skÃ¦rmen og forvandler
+ved skærmen og forvandler
 sit Algol 5 til Slang.
 \endverse
 
 \beginverse
-Og vÃ¥gner du en morgen
-i allerfÃ¸rste gry
-og ser at skÃ¦rmen skriver
-pÃ¥ ny, pÃ¥ ny, pÃ¥ ny --
-det er sÃ¥mÃ¦nd vor dat'er
-som pÃ¥ dig sindssygt glor
+Og vågner du en morgen
+i allerførste gry
+og ser at skærmen skriver
+på ny, på ny, på ny --
+det er såmænd vor dat'er
+som på dig sindssygt glor
 og taster vildt og blodigt
 ved terminalens bord.
 \endverse
@@ -28,44 +28,44 @@ ved terminalens bord.
 \beginverse
 Og vandrer du til stuen
 hvor alt er fint i stand,
-og mÃ¸der du en stakkel
-hvis Ã¸jne stÃ¥r i vand --
-det er sÃ¥mÃ¦nd vor Dat'er
-som kommer dig pÃ¥ tvÃ¦rs
+og møder du en stakkel
+hvis øjne står i vand --
+det er såmænd vor Dat'er
+som kommer dig på tværs
 og ikke mer' kan finde
 en fejl i line halvfjerds.
 \endverse
 
 \beginverse
 Og vender du tilbage
-i byger og i blÃ¦st,
-mens aftenstjernen skÃ¦lver
+i byger og i blæst,
+mens aftenstjernen skælver
 af kulde fra nordvest,
 og klinger terminalen
-bag ryggen ganske nÃ¦r --
-det er sÃ¥mÃ¦nd vor dat'er
-som endnu sidder dÃ©r.
+bag ryggen ganske nær --
+det er såmænd vor dat'er
+som endnu sidder dér.
 \endverse
 
 \beginverse
-Dog dataskÃ¦rmen jÃ¦vned
+Dog dataskærmen jævned
 for ham den slemme vej,
 men da det led mod julen,
-da sagde skÃ¦rmen nej;
-det var sÃ¥mÃ¦nd vor dat'er
+da sagde skærmen nej;
+det var såmænd vor dat'er
 hans fingre slap den brat,
-de bar ham vÃ¦k fra stuen
+de bar ham væk fra stuen
 en kold december-nat.
 \endverse
 
 \beginverse
-Der er pÃ¥ opslagstavlen
-et gammelt grÃ¸nnet kort
+Der er på opslagstavlen
+et gammelt grønnet kort
 hvor hulningen er ussel
 og skriften ganske bort.
-Det tilhÃ¸rte vor dat'er
+Det tilhørte vor dat'er
 som aldrig gav et gny,
-men pÃ¥ hans plads ved skÃ¦rmen
+men på hans plads ved skærmen
 der sidder nu en ny.
 \endverse
 \endsong

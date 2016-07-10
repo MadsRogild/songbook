@@ -1,18 +1,18 @@
-\beginsong{JobsÃ¸gning}[sr={Melodi:Klokkeren fra Notre Dame - Hell fire}
+\beginsong{Jobsøgning}[sr={Melodi:Klokkeren fra Notre Dame - Hell fire}
 ,
 by={ DIKUrevy 2013}
 ,
 cr={}]
 \beginverse
-HÃ¸r her, kÃ¦re venner,
+Hør her, kære venner,
 I ved at jeg er helt speciel,
 I ved at jeg aldrig koder slam
 
 \endverse
 \beginverse
-HÃ¸r her, kÃ¦re venner,
+Hør her, kære venner,
 I ved at jeg er bedre end
-En gennemsnitlig Java-programmÃ¸r
+En gennemsnitlig Java-programmør
 
 \endverse
 \beginverse
@@ -20,9 +20,9 @@ Han imponerer!
 
 \endverse
 \beginverse
-SÃ¥ sig mig nu, venner,
+Så sig mig nu, venner,
 Hvorfor har jeg intet job,
-NÃ¥r underkoderne bli'r revet vÃ¦k?
+Når underkoderne bli'r revet væk?
 
 \endverse
 \beginverse
@@ -30,13 +30,13 @@ Vi ved det ikke!
 
 \endverse
 \beginverse
-HvornÃ¥r vil de lÃ¦re
+Hvornår vil de lære
 At fremtiden er funktionel,
-At PHP og Python snart vil dÃ¸!?
+At PHP og Python snart vil dø!?
 
 \endverse
 \beginverse
-SÃ¥ kom og kod for ooos!
+Så kom og kod for ooos!
 
 \endverse
 \beginverse
@@ -44,7 +44,7 @@ Med Haskell
 Og Erlang
 Bliver jeg overset
 De job jeg
-BegÃ¦rer
+Begærer
 Bli'r aldrig mig til del...
 
 \endverse
@@ -62,7 +62,7 @@ Vi har kaffe!
 \endverse
 \beginverse
 Det' kapitalens valg af sprog
-der gÃ¸r det svÃ¦rt!
+der gør det svært!
 
 \endverse
 \beginverse
@@ -70,7 +70,7 @@ der gÃ¸r det svÃ¦rt!
 
 \endverse
 \beginverse
-Du kan ogsÃ¥ fÃ¥ pizza!
+Du kan også få pizza!
 
 \endverse
 \beginverse
@@ -90,7 +90,7 @@ Eller kage?
 
 \endverse
 \beginverse
-GÃ¥r konkurs fordi de sagde nej til mig!
+Går konkurs fordi de sagde nej til mig!
 
 \endverse
 \beginverse
@@ -99,18 +99,18 @@ Sig nu ja, vi vil ha' dig!
 \endverse
 \beginverse
 Hvorfor skal man bare
-Acceptere dÃ¥rlig stil,
+Acceptere dårlig stil,
 Finde sig i BlueJ og Eclipse?
 
 \endverse
 \beginverse
-Og ofre sin sjÃ¦l pÃ¥
+Og ofre sin sjæl på
 Javas alter for et job?
 Jeg vil aldrig kode OOP!
 
 \endverse
 \beginverse
-Ã˜h, Rasmus? Google har ringet - IGEN.
+Øh, Rasmus? Google har ringet - IGEN.
 
 \endverse
 \beginverse
@@ -118,11 +118,11 @@ HVAD?!
 
 \endverse
 \beginverse
-De mangler altsÃ¥ virkelig en HaskellprogrammÃ¸r...
+De mangler altså virkelig en Haskellprogrammør...
 
 \endverse
 \beginverse
-For pokker... SÃ¥ sig at jeg kun koder... Ã¸h... ALGOL! Og smut sÃ¥.
+For pokker... Så sig at jeg kun koder... øh... ALGOL! Og smut så.
 
 \endverse
 \beginverse
@@ -131,7 +131,7 @@ Og Agda
 Holder jeg mig obskur.
 De fanger
 Mig aldrig
-Undslipper gang pÃ¥ gang!
+Undslipper gang på gang!
 
 \endverse
 \beginverse
@@ -147,11 +147,11 @@ Vil du have det job?
 
 \endverse
 \beginverse
-Hvis de bare indsÃ¥...
+Hvis de bare indså...
 
 \endverse
 \beginverse
-Han fÃ¥r aldrig et job.
+Han får aldrig et job.
 
 \endverse
 \beginverse

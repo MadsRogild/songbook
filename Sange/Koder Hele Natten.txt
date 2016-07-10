@@ -4,10 +4,10 @@ by={ DIKUrevy 2011}
 ,
 cr={}]
 \beginverse
-De bruger magt, til at rykke os til HCÃ˜.
+De bruger magt, til at rykke os til HCØ.
 De bruger magt, til at fjerne vores kantine.
 De bruger magt, til at fjerne vores rusture.
-Nu er det nok, vi sÃ¦tter hÃ¥rdt mod hÃ¥rdt
+Nu er det nok, vi sætter hårdt mod hårdt
 Vi er anonyme, vi er DIKU!
 
 \endverse
@@ -17,9 +17,9 @@ Koder hele natten!
 \endverse
 \beginverse
 Der er dem der koder VB, det er dem uden et CV
-Der er dem der koder Brainfuck, de kan ikke fÃ¥ det hÃ¥rdt nok
+Der er dem der koder Brainfuck, de kan ikke få det hårdt nok
 Der er dem der koder Java, det' det en'ste de kan lave.
-Der er dem der koder ML, det er os der gÃ¸r det hel' selv!
+Der er dem der koder ML, det er os der gør det hel' selv!
 Kod!
 
 \endverse
@@ -29,24 +29,24 @@ Koder hele natten!
 
 \endverse
 \beginverse
-I skÃ¦rmens lys vi skal kode
+I skærmens lys vi skal kode
 Vi skal besejre hvor klode
 Ved DIKU danner vi pagten
-Med cyberkrig fÃ¥r vi magten
-I skÃ¦rmens lys vi skal kode
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode
 Vi skal besejre hvor klode
 Ved DIKU danner vi pagten
-Med cyberkrig fÃ¥r vi magten
-I skÃ¦rmens lys vi skal kode
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode
 Vi skal besejre hvor klode
 Ved DIKU danner vi pagten
-Med cyberkrig fÃ¥r vi magten!
+Med cyberkrig får vi magten!
 
 \endverse
 \beginverse
-Rejs jer op, tÃ¸m jeres kop, i fÃ¦llesskab fÃ¥r vi DIKU op!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
 For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
-Rejs jer op, tÃ¸m jeres kop, i fÃ¦llesskab fÃ¥r vi DIKU op!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
 For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
 
 \endverse
@@ -60,24 +60,24 @@ Koder hele natten!
 
 \endverse
 \beginverse
-I skÃ¦rmens lys vi skal kode
+I skærmens lys vi skal kode
 Vi skal besejre hvor klode
 Ved DIKU danner vi pagten
-Med cyberkrig fÃ¥r vi magten
-I skÃ¦rmens lys vi skal kode (hver en bit vi vil se)
+Med cyberkrig får vi magten
+I skærmens lys vi skal kode (hver en bit vi vil se)
 Vi skal besejre hvor klode (bestem' alt der skal ske)
-Ved DIKU danner vi pagten (datalog'r nÃ¥r' de stÃ¸rst)
-Med cyberkrig fÃ¥r vi magten (nettet slukker hvor tÃ¸rst)
-I skÃ¦rmens lys vi skal kode (hver en bit vi vil se)
+Ved DIKU danner vi pagten (datalog'r når' de størst)
+Med cyberkrig får vi magten (nettet slukker hvor tørst)
+I skærmens lys vi skal kode (hver en bit vi vil se)
 Vi skal besejre hvor klode (bestem' alt der skal ske)
-Ved DIKU danner vi pagten (datalog'r nÃ¥r' de stÃ¸rst)
-Med cyberkrig fÃ¥r vi magten
+Ved DIKU danner vi pagten (datalog'r når' de størst)
+Med cyberkrig får vi magten
 
 \endverse
 \beginverse
-Rejs jer op, tÃ¸m jeres kop, i fÃ¦llesskab fÃ¥r vi DIKU op!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
 For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
-Rejs jer op, tÃ¸m jeres kop, i fÃ¦llesskab fÃ¥r vi DIKU op!
+Rejs jer op, tøm jeres kop, i fællesskab får vi DIKU op!
 For all' skal vid', med dataslid, vi genvinder nu DIKUs storhedstid!
 Kod nu!
 
@@ -87,10 +87,10 @@ Kod! Kod nu!
 
 \endverse
 \beginverse
-DIKU, det er nu de skal lÃ¦re
-DIKU, vi vil kÃ¦mp' for din Ã¦re!
-DIKU, det er nu de skal lÃ¦re
-DIKU, vi vil kÃ¦mp' for din Ã¦re!
+DIKU, det er nu de skal lære
+DIKU, vi vil kæmp' for din ære!
+DIKU, det er nu de skal lære
+DIKU, vi vil kæmp' for din ære!
 Hack dem, det er nu i skal kode
 Hack dem, vi besejrer vor klode
 Hack dem, det er nu i skal kode

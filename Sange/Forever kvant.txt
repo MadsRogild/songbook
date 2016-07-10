@@ -1,81 +1,81 @@
-ï»¿\beginsong{Forever kvant}[sr={Melodi: Forever Young}
+\beginsong{Forever kvant}[sr={Melodi: Forever Young}
 ,
 by={FysikRevy 2011}
 ,
 cr={}]
 \beginverse
-Jeg er til revy, det er min fÃ¸rste gang,
+Jeg er til revy, det er min første gang,
 tiden til Kvant 1 den virker pludselig lang.
 Jeg griner med for jeg synes det' flovt,
-at jeg ik' forstÃ¥r at kvant er sjovt.
+at jeg ik' forstår at kvant er sjovt.
 \endverse
 
 \beginverse
-Jeg skrÃ¥ler med pÃ¥ ``Kvanter i mÃ¥neskin'',
-men egentlig sÃ¥ fatter jeg ik' en pind.
+Jeg skråler med på ``Kvanter i måneskin'',
+men egentlig så fatter jeg ik' en pind.
 Ja, jeg kan hverken regne ud eller ind
-pÃ¥ energi og kvantespin.
+på energi og kvantespin.
 \endverse
 
 \beginverse
-TÃ¦nk at forstÃ¥ blot en enkel sang,
+Tænk at forstå blot en enkel sang,
 grine af en sketch blot en enkel gang,
-vide hvem Per HedegÃ¥rd egentlig er.
+vide hvem Per Hedegård egentlig er.
 De andre griner,
 men jeg
 \endverse
 
 \beginverse
-forstÃ¥r det ik',
-fÃ¸r jeg fÃ¥r kvantemekanik!
-Alle andre griner hÃ¸jt omkring mig,
+forstår det ik',
+før jeg får kvantemekanik!
+Alle andre griner højt omkring mig,
 men ik' mig,
 men ik' mig!
 \endverse
 
 \beginverse
-ForstÃ¥r det ik',
-fÃ¸r jeg fÃ¥r kvantemekanik!
-Hva' en hÃ¦veoperator egentlig?
+Forstår det ik',
+før jeg får kvantemekanik!
+Hva' en hæveoperator egentlig?
 Jeg ved det ik'.
 \endverse
 
 \beginverse
-Newtons tre love kan jeg godt forstÃ¥,
-og termodynamik ku' jeg bestÃ¥.
-Jeg har fÃ¸r hÃ¸rt om SchrÃ¶dinger, men
+Newtons tre love kan jeg godt forstå,
+og termodynamik ku' jeg bestå.
+Jeg har før hørt om Schrödinger, men
 hvem er Hr. Milton? (Hamilton)
 \endverse
 
 \beginverse
-Sku' lÃ¦re LinAlg, men ved ikke hvorfor.
-Er deltafunktion noget jeg fÃ¥r brug for?
-Hvordan kan tid vÃ¦re imaginÃ¦r?
+Sku' lære LinAlg, men ved ikke hvorfor.
+Er deltafunktion noget jeg får brug for?
+Hvordan kan tid være imaginær?
 Og hvor er det der Hilbertrum?
 \endverse
 
 \beginverse
-Kan bra og ket hjÃ¦lpe med at projicer'?
-Hvad sker der nÃ¥r man pertuberer mer'?
-Hvor'n er det at kvante i mÃ¥neskin?
+Kan bra og ket hjælpe med at projicer'?
+Hvad sker der når man pertuberer mer'?
+Hvor'n er det at kvante i måneskin?
 Er jeg til grin?
 \endverse
 
 \beginverse
-ForstÃ¥r det ik',
-fÃ¸r jeg fÃ¥r kvantemekanik!
-Alle andre griner hÃ¸jt omkring mig,
+Forstår det ik',
+før jeg får kvantemekanik!
+Alle andre griner højt omkring mig,
 men ik' mig,
 men ik' mig!
 \endverse
 
 \beginverse
-ForstÃ¥r det ik',
-fÃ¸r jeg fÃ¥r kvantemekanik!
-Alle andre griner hÃ¸jt omkring mig,
+Forstår det ik',
+før jeg får kvantemekanik!
+Alle andre griner højt omkring mig,
 men ik' mig,
 men ik' mig!
-ForstÃ¥r det ik',
+Forstår det ik',
 for jeg har ik' haft nok fysik.
 Ikke nok til FysikRevyen.
 \endverse

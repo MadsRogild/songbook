@@ -1,4 +1,4 @@
-ï»¿\beginsong{Jeg er fysiker}[sr={Melodi: Monty Python - The Lumberjack Song}
+\beginsong{Jeg er fysiker}[sr={Melodi: Monty Python - The Lumberjack Song}
 ,
 by={MatematikRevy 2007}
 ,
@@ -15,9 +15,9 @@ Han kan sin Schaums bog uden ad!
 
 \beginverse
 Ampere her, promille der,
-jeg gÃ¸r et Maple-plot.
+jeg gør et Maple-plot.
 Jeg plotter i den farve,
-min kone siâ€™r er flot!
+min kone si’r er flot!
 \endverse
 
 \beginverse
@@ -29,14 +29,14 @@ Han er fysiker \ldots
 \endverse
 
 \beginverse
-EksperimentÃ©r, analyser,
+Eksperimentér, analyser,
 og spis en masse slik!
-Jeg lÃ¦ser en artikel,
+Jeg læser en artikel,
 og leger med min rubikskube\ldots
 \endverse
 
 \beginverse
-EksperimentÃ©r, \ldots
+Eksperimentér, \ldots
 \endverse
 
 \beginverse
@@ -45,13 +45,13 @@ Jeg kan formlen for min urin!
 \endverse
 
 \beginverse
-Jeg rÃ¦kkeudvikler pÃ¥ alt
-fordi det har jeg lÃ¦rt.
-Hvis blot jeg lÃ¦ste mat'matik
-som ham der Erik KjÃ¦r!
+Jeg rækkeudvikler på alt
+fordi det har jeg lært.
+Hvis blot jeg læste mat'matik
+som ham der Erik Kjær!
 \endverse
 
 \beginverse
-Han rÃ¦kkeudvikler \ldots
+Han rækkeudvikler \ldots
 \endverse
 \endsong

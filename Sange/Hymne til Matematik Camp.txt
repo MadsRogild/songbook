@@ -1,24 +1,24 @@
-ï»¿\beginsong{Hymne til Matematik Camp}[sr={Melodi: I Danmark er jeg fÃ¸dt}
+\beginsong{Hymne til Matematik Camp}[sr={Melodi: I Danmark er jeg født}
 ,
-by={SÃ¸ren MÃ¸ller, Matematik Camp 2014}
+by={Søren Møller, Matematik Camp 2014}
 ,
 cr={}]
 \beginverse
-PÃ¥ campen har jeg lÃ¦rt, der har jeg hjemme
-Der er alt sandt, derfra min fremtid gÃ¥r.
+På campen har jeg lært, der har jeg hjemme
+Der er alt sandt, derfra min fremtid går.
 Du mat'matik, du er min egen stemme,
-sÃ¥ klart beviserne min hjerne nÃ¥r.
+så klart beviserne min hjerne når.
 Min tankes $\pi$ og $\rho$,
 hvor Euklids elementer
-stÃ¥r mellem algebra og rentesrenter.
+står mellem algebra og rentesrenter.
 Dig agter jeg -- MatCamp mit origo.
 \endverse
 
 \beginverse
-Hvor lÃ¦gges nÃ¦ste Ã¥r mon sommerskolen?
-Mon ik' det er ved jydens UnisÃ¸.
-Et yndigt sted hvor alle knÃ¦kker koden,
-sÃ¥ dejligt som pÃ¥ Danas egen Ã¸.
+Hvor lægges næste år mon sommerskolen?
+Mon ik' det er ved jydens Unisø.
+Et yndigt sted hvor alle knækker koden,
+så dejligt som på Danas egen ø.
 Min tankes $\pi$ og $\rho$,
 hvor aksiomer holder.
 Gauss gav os alt, han er sandhedens tolder.
@@ -26,13 +26,13 @@ Dig agter jeg -- MatCamp mit origo.
 \endverse
 
 \beginverse
-Engang du herre var i kloges fÃ¦rden.
-BÃ¸d over dumhed - nu du kaldes led.
+Engang du herre var i kloges færden.
+Bød over dumhed - nu du kaldes led.
 Et lille fag som dog ved alt om verden,
-og hÃ¸rer vores sang og troskabsed.
+og hører vores sang og troskabsed.
 Min tankes $\pi$ og $\rho$
 funktioners nulpunkt finder.
-Gauss giv dig rÃ¸dder, som vi gi'r dig minder.
+Gauss giv dig rødder, som vi gi'r dig minder.
 Dig agter jeg -- MatCamp mit origo.
 \endverse
 
@@ -40,18 +40,18 @@ Dig agter jeg -- MatCamp mit origo.
 Se divergens ved polyedrets kanter,
 der gi'r uend'ligt mange mindre skridt;
 og symmetri blandt vores kommutanter
-gÃ¸r stadig majoranten lige skidt.
+gør stadig majoranten lige skidt.
 Min tankes $\pi$ og $\rho$,
-hvor grÃ¦nser frit bestemmes,
-og ingen sig ved udvÃ¦lgelsen grÃ¦mmes.
+hvor grænser frit bestemmes,
+og ingen sig ved udvælgelsen græmmes.
 Dig agter jeg -- MatCamp mit origo
 \endverse
 
 \beginverse
-Du camp hvor jeg har lÃ¦rt, hvor jeg har hjemme,
-hvor alt er sandt, hvorfra min fremtid gÃ¥r,
+Du camp hvor jeg har lært, hvor jeg har hjemme,
+hvor alt er sandt, hvorfra min fremtid går,
 hvor mat'matik er livets klare stemme,
-og klart beviserne min hjerne nÃ¥r
+og klart beviserne min hjerne når
 Min tankes $\pi$ og $\rho$
 ved videnskabens kilde.
 I mat'matik min hjerne alt vil vide.

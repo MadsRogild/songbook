@@ -1,4 +1,4 @@
-\beginsong{Minken Mink}[sr={Melodi:BjÃ¸rnen BjÃ¸rn er en bjÃ¸rn}
+\beginsong{Minken Mink}[sr={Melodi:Bjørnen Bjørn er en bjørn}
 ,
 by={ Computer Science Camp 2015}
 ,
@@ -6,13 +6,13 @@ cr={}]
 \beginverse
 Minken Mink er en mink.
 Minken Mink er en mink.
-Og den kan li' de fleste, den er sÃ¥ flink,
+Og den kan li' de fleste, den er så flink,
 For Minken Mink er en mink
 
 \endverse
 \beginverse
-Nogen tror at Minken er en rÃ¦v.
-Nogen tror at Minken er en husmÃ¥r.
+Nogen tror at Minken er en ræv.
+Nogen tror at Minken er en husmår.
 Nogen tror at Minken er en kat.
 Men Minken Mink er en mink.
 Ja Minken Mink er en mink!
@@ -21,13 +21,13 @@ Ja Minken Mink er en mink!
 \beginverse
 Minken Mink er en mink.
 Minken Mink er en mink.
-Og den kan li' arrangÃ¸rer for de er pink
+Og den kan li' arrangører for de er pink
 For Minken Mink er en mink
 
 \endverse
 \beginverse
-Nogen tror at Minken er en rÃ¦v.
-Nogen tror at Minken er en husmÃ¥r.
+Nogen tror at Minken er en ræv.
+Nogen tror at Minken er en husmår.
 Nogen tror at Minken er en kat.
 Men Minken Mink er en mink.
 Ja Minken Mink er en mink!

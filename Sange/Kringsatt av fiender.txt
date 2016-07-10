@@ -1,86 +1,86 @@
-ï»¿\beginsong{Kringsatt av fiender}[sr={}
+\beginsong{Kringsatt av fiender}[sr={}
 ,
 by={Tekst: Nordahl Grieg -- Melodi: Otto Mortensen}
 ,
 cr={}]
 \beginverse
-Kringsatt av fiender, gÃ¥
+Kringsatt av fiender, gå
 inn i din tid!
 Under en blodig storm,
 vi deg til strid!
- Kanskje du spÃ¸r i angst,
-udekket, Ã¥pen:
+ Kanskje du spør i angst,
+udekket, åpen:
  ``Hva skal jeg kjempe med,
-hva er mitt vÃ¥pen?''
+hva er mitt våpen?''
 \endverse
 
 \beginverse
 
 Her er ditt vern mot vold,
 her er ditt sverd:
- troen pÃ¥ livet vÃ¥rt,
+ troen på livet vårt,
 menneskets verd.
- For all vÃ¥r fremtids skyld,
-sÃ¸k det og dyrk det,
- dÃ¸ om du mÃ¥, men
-Ã¸k det og styrk det!
+ For all vår fremtids skyld,
+søk det og dyrk det,
+ dø om du må, men
+øk det og styrk det!
 \endverse
 
 \beginverse
 
-Stilt gÃ¥r granatenes
-glidende bÃ¥nd.
- Stans deres drift mot dÃ¸d,
-stans dem med Ã¥nd.
+Stilt går granatenes
+glidende bånd.
+ Stans deres drift mot død,
+stans dem med ånd.
  Krig er forakt for liv,
-fred er Ã¥ skape.
+fred er å skape.
  Kast dine krefter inn,
-dÃ¸den skal tape.
+døden skal tape.
 \endverse
 
 \beginverse
 
-Elsk - og berik med drÃ¸m -
+Elsk - og berik med drøm -
 alt stort som var.
- GÃ¥ mot det ukjente,
+ Gå mot det ukjente,
 fravrist det svar!
  Ubygde kraftverker,
-ukjente stjerner â€“
- skap dem, med skÃ¥net livs
+ukjente stjerner –
+ skap dem, med skånet livs
 dristige hjerner.
 \endverse
 
 \beginverse
 Edelt er mennesket,
 jorden er rik.
- Finnes her nÃ¸d og sult,
+ Finnes her nød og sult,
 skyldes det svik.
  Knus det! I livets navn
 skal urett falle.
- Solskinn og brÃ¸d og Ã¥nd
+ Solskinn og brød og ånd
 eies av alle.
 \endverse
 
 \beginverse
-Da synker vÃ¥pnene
-makteslÃ¸s ned!
+Da synker våpnene
+maktesløs ned!
  Skaper vi menneskeverd,
 skaper vi fred.
- Den som med hÃ¸yre arm
-bÃ¦rer en byrde,
+ Den som med høyre arm
+bærer en byrde,
  dyr og umistelig,
 kan ikke myrde.
 \endverse
 
 \beginverse
 
-Dette er lÃ¸ftet vÃ¥rt
+Dette er løftet vårt
 fra bror til bror:
  Vi vil bli gode mot
 menneskenes jord.
- Vi vil ta vare pÃ¥
-skjÃ¸nnheten, varmen â€“
+ Vi vil ta vare på
+skjønnheten, varmen –
  som om vi bar et barn
-varsomt pÃ¥ armen.
+varsomt på armen.
 \endverse
 \endsong

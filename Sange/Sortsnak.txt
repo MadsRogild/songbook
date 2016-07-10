@@ -1,4 +1,4 @@
-ï»¿\beginsong{Sortsnak}[sr={Melodi: CÃ¦sar -- Storkespringvandet}
+\beginsong{Sortsnak}[sr={Melodi: Cæsar -- Storkespringvandet}
 ,
 by={}
 ,
@@ -12,7 +12,7 @@ $\chi\ \chi\ \pi\ \aleph\ \lambda\ \aleph$
 
 \endverse
 \beginverse
-[For de Ã¸vede:]
+[For de øvede:]
 \large
 $\beta\ \beta\ \beta\ \beta\ \xi$
 $\beta\ \beta\ \beta\ \psi$

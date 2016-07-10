@@ -4,10 +4,10 @@ by={ FysikRevy  2013}
 ,
 cr={}]
 \beginverse
-SÃ¥ tak os for at masse faktisk oss' er energi
-og tak os for konstant forÃ¸gelse af entropi
+Så tak os for at masse faktisk oss' er energi
+og tak os for konstant forøgelse af entropi
 og tak os for at tyngdekraften virker overalt
-for vi fÃ¸lger Newtons kald
+for vi følger Newtons kald
 
 \endverse
 \beginverse
@@ -18,10 +18,10 @@ Ren Fysik det bli'r vor svar!
 
 \endverse
 \beginverse
-SÃ¥ tak os for at verd'nen er en superposition
+Så tak os for at verd'nen er en superposition
 og tak os for at elektronen er en fermion
 og tak os for at kvantemekanik er mer' end ord
-UdtÃ¦nkt af vor Niels Bohr
+Udtænkt af vor Niels Bohr
 
 \endverse
 \beginverse
@@ -29,10 +29,10 @@ Mat'matik approksimeres ...
 
 \endverse
 \beginverse
-Vi diff'rentierer step-funktioner uden megt' besvÃ¦r
+Vi diff'rentierer step-funktioner uden megt' besvær
 Vi indekserer kun med 1 og nester for-loops her
-PÃ¥ KUA har I kommunister, drÃ¦n og meta-vrÃ¸vl
-Kom an, vi gir' jer hÃ¸vl
+På KUA har I kommunister, dræn og meta-vrøvl
+Kom an, vi gir' jer høvl
 
 \endverse
 \beginverse
@@ -40,10 +40,10 @@ Mat'matik approksimeres ...
 
 \endverse
 \beginverse
-SÃ¥ tak os for at alting overhoved' eksister',
-og tak os for de svÃ¦re ting vi dagligt integrer'.
-Og tak os for at sÃ¦tte flotte streger gennem $h$
-ren fysik det vil bestÃ¥
+Så tak os for at alting overhoved' eksister',
+og tak os for de svære ting vi dagligt integrer'.
+Og tak os for at sætte flotte streger gennem $h$
+ren fysik det vil bestå
 
 \endverse
 \beginverse

@@ -12,11 +12,11 @@ og kan ikke brug's til sidst.
 
 \endverse
 \beginverse
-Nu skal I hÃ¸r':
+Nu skal I hør':
 Jeg er ham der Klaes, jeg har ECTS-behov,
 men kurserne jeg tager, de gi'r mig aldrig lov.
-De taler mig i sÃ¸vne, her til forelÃ¦sningen
-Og nÃ¥r den sÃ¥ er ovre, har jeg det hele glemt igen.
+De taler mig i søvne, her til forelæsningen
+Og når den så er ovre, har jeg det hele glemt igen.
 
 \endverse
 \beginverse
@@ -33,10 +33,10 @@ Humanist - en KUAist ...
 
 \endverse
 \beginverse
-Se, de fleste gÃ¥r og drÃ¸mmer om at arbejde med kode,
-men jeg vil bar' vÃ¦re fÃ¦rdig - arbejdslÃ¸shed er pÃ¥ mode!
-Jeg er ligeglad med penge, jeg har bÃ¸rneopsparing
-Og nÃ¥r den sÃ¥ lÃ¸ber tÃ¸r, kan jeg pizza udbring'.
+Se, de fleste går og drømmer om at arbejde med kode,
+men jeg vil bar' være færdig - arbejdsløshed er på mode!
+Jeg er ligeglad med penge, jeg har børneopsparing
+Og når den så løber tør, kan jeg pizza udbring'.
 Hvorfor skulle arbejd', og ikke ha' tid til leg?
 Det er derfor, at jeg siger: "Der er en nem're vej"
 
@@ -51,14 +51,14 @@ Humanist - en KUAist ...
 \endverse
 \beginverse
 Nu er det ovre, jeg er endelig blevet fri
-Er blevet kandidat i Ã¸strigsk eskimologi
+Er blevet kandidat i østrigsk eskimologi
 Der findes intet job hvori denne grad kan bruges
-SÃ¥ alle jobsamtaler sluttes af med at der buh'es.
+Så alle jobsamtaler sluttes af med at der buh'es.
 
 \endverse
 \beginverse
-Her er det sÃ¥, jeg fortryder jeg droppede ud
-Hvis bare jeg kunne kode, sÃ¥ fremtiden lysere ud
+Her er det så, jeg fortryder jeg droppede ud
+Hvis bare jeg kunne kode, så fremtiden lysere ud
 
 \endverse
 \beginverse
@@ -72,7 +72,7 @@ Humanist - en KUAist ...
 \beginverse
 Datalog - han er jo god
 Datalog - han er jo god
-Datalog - fÃ¥r job, vÃ¦rsgo'
+Datalog - får job, værsgo'
 Det ta'r dem 20 semestre
 men i det mindste kan de kode.
 

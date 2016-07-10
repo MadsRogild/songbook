@@ -1,68 +1,68 @@
-ï»¿\beginsong{Matematiksangen}[sr={Melodi: Svedbanken - Rollespilssangen}
+\beginsong{Matematiksangen}[sr={Melodi: Svedbanken - Rollespilssangen}
 ,
 by={Matematikrevyen 2014}
 ,
 cr={}]
 \beginverse
-Det er ikke sjovt, sÃ¥â€™n at trÃ¦ngâ€™ til kaffe
-og vÃ¦re lÃ¸bet tÃ¸r.
+Det er ikke sjovt, så’n at træng’ til kaffe
+og være løbet tør.
 Hvor ku' jeg godt drik' en god kop kaffe,
 men ingen kaffe til mig.
 \endverse
 
 \beginverse
-Mine briller er grÃ¥ og store,
+Mine briller er grå og store,
 og min ryg er krum.
-Jeg har ikâ€™ hÃ¸rt om ham der Gustav,
-sÃ¥ alle synes jeg er dum.
+Jeg har ik’ hørt om ham der Gustav,
+så alle synes jeg er dum.
 \endverse
 
 \beginverse
-Men nÃ¥r jegâ€™ sÃ¥ regner en uend'lig sum,
-sÃ¥ bliver enhver der driller pluds'lig stum.
+Men når jeg’ så regner en uend'lig sum,
+så bliver enhver der driller pluds'lig stum.
 \endverse
 
 \beginverse
-For jeg lÃ¦ser matâ€™matik her pÃ¥ HCÃ˜.
-Jeg vil ikkâ€™ holde op, sÃ¥ heller' dÃ¸.
-Med ortonormale fÃ¸lger i Hilbertrum
-fÃ¥r alle andre klÃ¸.
+For jeg læser mat’matik her på HCØ.
+Jeg vil ikk’ holde op, så heller' dø.
+Med ortonormale følger i Hilbertrum
+får alle andre klø.
 \endverse
 
 \beginverse
-Det er ikke sjov at folk synâ€™s jeg lugter
+Det er ikke sjov at folk syn’s jeg lugter
 og siger min sang er grum.
-Folk forstÃ¥r ikkâ€™ de sjove ordspil:
+Folk forstår ikk’ de sjove ordspil:
 En aftenringnigs skum?
 \endverse
 
 \beginverse
-Men nÃ¥r jegâ€™ sÃ¥ regner en uend'lig sum,
-sÃ¥ bliver enhver der driller pluds'lig stum.
+Men når jeg’ så regner en uend'lig sum,
+så bliver enhver der driller pluds'lig stum.
 \endverse
 
 \beginverse
-Ja jeg lÃ¦ser matâ€™matik, mens jeg spiser kagâ€™.
-Du mÃ¥ kun vÃ¦re med, hvis du kaâ€™ bagâ€™.
+Ja jeg læser mat’matik, mens jeg spiser kag’.
+Du må kun være med, hvis du ka’ bag’.
 Og jeg bruger theoremer, de viser vej.
- - sÃ¥ vis respekt for mig.
+ - så vis respekt for mig.
 \endverse
 
 \beginverse
 Kom nu, bare en lille smule respekt.
-Lyt nu - fordomme vÃ¦k - se mig!
+Lyt nu - fordomme væk - se mig!
 Kom nu!
 \endverse
 
 \beginverse
-For jeg lÃ¦ser matâ€™matik her pÃ¥ HCÃ˜.
-Jeg vil ikkâ€™ vÃ¦k herfra, sÃ¥ helâ€™re dÃ¸.
-Jeg lÃ¦ser matâ€™matik,
-lÃ¦s med mig, vÃ¦r med, vÃ¦r med, vÃ¦r med.
+For jeg læser mat’matik her på HCØ.
+Jeg vil ikk’ væk herfra, så hel’re dø.
+Jeg læser mat’matik,
+læs med mig, vær med, vær med, vær med.
 \endverse
 
 \beginverse
-Jeg lÃ¦ser matâ€™matik!
+Jeg læser mat’matik!
 Kom nu og skriv med kridt!! Skriv det! Skriv det! Kom med og skriv\ldots
 \endverse
 \endsong

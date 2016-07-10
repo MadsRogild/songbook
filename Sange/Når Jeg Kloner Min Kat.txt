@@ -1,100 +1,100 @@
-\beginsong{NÃ¥r Jeg Kloner Min Kat}[sr={Melodi: Westlife - When You're Looking Like That}
+\beginsong{Når Jeg Kloner Min Kat}[sr={Melodi: Westlife - When You're Looking Like That}
 ,
 by={ BIOrevy 2012}
 ,
 cr={}]
 \beginverse
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \beginverse
-Med en ny teknik kan os pÃ¥ bio skabe liv
+Med en ny teknik kan os på bio skabe liv
 Den ku' bruges ondt og klone Henrik Busch
-Til vi har en hÃ¦r
-Det er ikke det, vi gÃ¸r!
+Til vi har en hær
+Det er ikke det, vi gør!
 Bruger teknikken til at redde arter, men
-Sker der noget skidt med dyret vi elsker, sÃ¥
+Sker der noget skidt med dyret vi elsker, så
 
 \endverse
 \beginverse
-MÃ¥ mammutten vente
+Må mammutten vente
 Ikke tid til at grundforske
 
 \endverse
 \beginverse
 Ska' aldirg mere sig' farvel
-NÃ¥r jeg kloner min kat
-Vil altid vÃ¦re perfekt, nuttet, sÃ¸d
-For altid vÃ¦r' min skat
-Aldrig kÃ¸be mig en ny
-Aldrig kÃ¸be et erstatningskÃ¦ledyr
+Når jeg kloner min kat
+Vil altid være perfekt, nuttet, sød
+For altid vær' min skat
+Aldrig købe mig en ny
+Aldrig købe et erstatningskæledyr
 Ska' aldrig mere sig farvel
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \beginverse
 Jurassic Park var tyd'ligvis en succes
-Dinosaurus pÃ¥ jord ku' vÃ¦re fedt
-Men sig mig, hvordan gÃ¸r man det?
-IndsÃ¦t gen og skab superarter
-Nem vej til at skabe Ã¼ber seje dyr
-Men nÃ¥r katten forsvinder, har vi et hyr
+Dinosaurus på jord ku' være fedt
+Men sig mig, hvordan gør man det?
+Indsæt gen og skab superarter
+Nem vej til at skabe über seje dyr
+Men når katten forsvinder, har vi et hyr
 
 \endverse
 \beginverse
-SÃ¥ mammutten venter
+Så mammutten venter
 ikke tid til at grundforske
 
 \endverse
 \beginverse
 Ska' aldirg mere sig' farvel
-NÃ¥r jeg kloner min kat
-Vil altid vÃ¦re perfekt, nuttet, sÃ¸d
-For altid vÃ¦r' min skat
-Aldrig kÃ¸be mig en ny
-Aldrig kÃ¸bet et erstatningskÃ¦ledyr
+Når jeg kloner min kat
+Vil altid være perfekt, nuttet, sød
+For altid vær' min skat
+Aldrig købe mig en ny
+Aldrig købet et erstatningskæledyr
 Ska' aldrig mere sig farvel
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \beginverse
-Skal jeg sÃ¥ spÃ¸rge jer nu
+Skal jeg så spørge jer nu
 Hvilket studie har magt?
 Biologer har livets kraft
-SÃ¥ jeg kloner min kat
+Så jeg kloner min kat
 
 \endverse
 \beginverse
 Aldirg mere sig' farvel
-NÃ¥r jeg kloner min kat
-Vil altid vÃ¦re perfekt, nuttet, sÃ¸d
-For altid vÃ¦r' min skat
-Aldrig kÃ¸be mig en ny
-Aldrig kÃ¸bet et erstatningskÃ¦ledyr
+Når jeg kloner min kat
+Vil altid være perfekt, nuttet, sød
+For altid vær' min skat
+Aldrig købe mig en ny
+Aldrig købet et erstatningskæledyr
 Ska' aldrig mere sig farvel
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \beginverse
 Ska' aldirg mere sig' farvel
-NÃ¥r jeg kloner min kat
-Vil altid vÃ¦re perfekt, nuttet, sÃ¸d
-For altid vÃ¦r' min skat
-Aldrig kÃ¸be mig en ny
-Aldrig kÃ¸bet et erstatningskÃ¦ledyr
+Når jeg kloner min kat
+Vil altid være perfekt, nuttet, sød
+For altid vær' min skat
+Aldrig købe mig en ny
+Aldrig købet et erstatningskæledyr
 Ska' aldrig mere sig farvel
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \beginverse
 Ska' aldirg mere sig' farvel
-NÃ¥r jeg kloner min kat
-Vil altid vÃ¦re perfekt, nuttet, sÃ¸d
-For altid vÃ¦r' min skat
-Aldrig kÃ¸be mig en ny
-Aldrig kÃ¸bet et erstatningskÃ¦ledyr
+Når jeg kloner min kat
+Vil altid være perfekt, nuttet, sød
+For altid vær' min skat
+Aldrig købe mig en ny
+Aldrig købet et erstatningskæledyr
 Ska' aldrig mere sig farvel
-NÃ¥r jeg kloner min kat
+Når jeg kloner min kat
 
 \endverse
 \endsong

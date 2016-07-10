@@ -1,4 +1,4 @@
-ï»¿\beginsong{Primtal}[sr={Melodi: Robbie Williams - Candy}
+\beginsong{Primtal}[sr={Melodi: Robbie Williams - Candy}
 ,
 by={Matematikrevyen 2014}
 ,
@@ -6,12 +6,12 @@ cr={}]
 \beginverse
 Lad os definere
 de tal der fascinerer.
-For primtal skal der gÃ¦lde
+For primtal skal der gælde
 faktorer trivielle.
-Elegant og simpelt, det kan man let forstÃ¥.
-Men trods det er det fulde billedâ€™
-umuligt at opnÃ¥.
-Men hÃ¸r nu:
+Elegant og simpelt, det kan man let forstå.
+Men trods det er det fulde billed’
+umuligt at opnå.
+Men hør nu:
 \endverse
 
 \beginverse
@@ -23,19 +23,19 @@ helt entydigt, vi har uniqueness.
 
 \beginverse
 Skriv nu $p$ og $q$.
-Derâ€™ sÃ¥ megâ€™t der ikkâ€™ er vist endnu.
-Uden dem gÃ¥r teori itu,
+Der’ så meg’t der ikk’ er vist endnu.
+Uden dem går teori itu,
 for alt er smukt ved primtal.
 Skriv nu $p$ og $q$.
 De er overalt, det vides jo.
-OgsÃ¥ selvom det er svÃ¦rt at tro,
+Også selvom det er svært at tro,
 for alt er smukt ved primtal.
 \endverse
 
 \beginverse
 Deres heltalsringe
 dem kan man let frembringe.
-For vilkÃ¥rligt $p$
+For vilkårligt $p$
 er der meget at indse.
 Man kan se tendenser
 og smukke kongruenser.
@@ -45,11 +45,11 @@ forbundet med Mersenne.
 
 \beginverse
 Goldbach havde en formodning.
-Og kryptologer brugâ€™r dem i kodning.
-DankortkÃ¸b forlÃ¸ber sikkert fordi
+Og kryptologer brug’r dem i kodning.
+Dankortkøb forløber sikkert fordi
 vi slipper primtal fri.
-Hvad gjordâ€™ vi uden dem?
-SÃ¥ kom nu!!
+Hvad gjord’ vi uden dem?
+Så kom nu!!
 \endverse
 
 \beginverse
@@ -59,18 +59,18 @@ Skriv nu $p$ og $q$\ldots
 \beginverse
 $\pi(x)$ er asymptotisk.
 Distribueringen dog ej logisk.
-Sylows sÃ¦tning hjÃ¦lper os til at se
+Sylows sætning hjælper os til at se
 grupper af orden $p$.
 %\vleftofline{9x }
-Hvad gjordâ€™ vi uden dem?\rep{9}
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
-%Hvad gjordâ€™ vi uden dem?
+Hvad gjord’ vi uden dem?\rep{9}
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
+%Hvad gjord’ vi uden dem?
 \endverse
 
 \beginverse
