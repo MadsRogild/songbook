@@ -1,6 +1,6 @@
 \beginsong{Fag Facisme}[sr={Melodi:Julia Ward Howe - The Battle Hymn of the Republic}
 ,
-by={ FysikRevy  2013}
+by={FysikRevy  2013}
 ,
 cr={}]
 \beginverse

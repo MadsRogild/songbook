@@ -1,6 +1,6 @@
 \beginsong{Doom Doom}[sr={Melodi: Mabel - Boom Boom}
 ,
-by={ DIKUrevy 2006}
+by={DIKUrevy 2006}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,6 @@
 \beginsong{Censor Baby}[sr={Melodi: Eartha Kitt - Santa Baby}
 ,
-by={ MBKrevy 2014}
+by={MBKrevy 2014}
 ,
 cr={}]
 \beginverse

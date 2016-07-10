@@ -1,6 +1,6 @@
 \beginsong{Kvantepartiklen}[sr={Melodi: ShuBiDua - Den røde tråd}
 ,
-by={ FysikRevy 2014}
+by={FysikRevy 2014}
 ,
 cr={}]
 \beginverse

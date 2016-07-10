@@ -1,6 +1,6 @@
 \beginsong{function fib(n)}[sr={Melodi:Sarah Brightman og Andrea Bocelli - Time to say goodbye}
 ,
-by={ DIKUrevy 2009}
+by={DIKUrevy 2009}
 ,
 cr={}]
 \beginverse

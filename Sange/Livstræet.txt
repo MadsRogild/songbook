@@ -1,6 +1,6 @@
 \beginsong{Livstræet}[sr={}
 ,
-by={ Erik Lindebjerg og Hans Holm}
+by={Erik Lindebjerg og Hans Holm}
 ,
 cr={}]
 \beginverse

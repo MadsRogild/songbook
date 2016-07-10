@@ -1,6 +1,6 @@
 \beginsong{Bobbelsortering}[sr={Melodi:Liva Weel - Lad det boble}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse

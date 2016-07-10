@@ -1,6 +1,6 @@
 \beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
 ,
-by={ MatematikRevy 2013}
+by={Matematikrevyen 2013}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,6 @@
 \beginsong{Hvem Sidder Der Ved Skærmen}[sr={Melodi: Jens Vejmand}
 ,
-by={ DIKUrevy 1973}
+by={DIKUrevy 1973}
 ,
 cr={}]
 \beginverse

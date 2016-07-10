@@ -1,6 +1,6 @@
 \beginsong{Kvanter i måneskin}[sr={Melodi: Danse i måneskin}
 ,
-by={ FysikRevy 2004}
+by={FysikRevy 2004}
 ,
 cr={}]
 \beginverse

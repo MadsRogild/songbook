@@ -1,6 +1,6 @@
 \beginsong{Koder Hele Natten}[sr={Melodi:Rage Against The Machine - Killing In The Name Of}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse

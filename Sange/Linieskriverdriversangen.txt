@@ -1,6 +1,6 @@
 \beginsong{Linieskriverdriversangen}[sr={Melodi:Dyrene i Hakkebakkeskoven "Peberkagebagesangen"}
 ,
-by={ DIKUrevy 2005}
+by={DIKUrevy 2005}
 ,
 cr={}]
 \beginverse

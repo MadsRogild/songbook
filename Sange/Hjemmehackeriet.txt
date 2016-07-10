@@ -1,6 +1,6 @@
 \beginsong{Hjemmehackeriet}[sr={Melodi: Hjemmebrænderiet}
 ,
-by={ DIKUrevy 2001}
+by={DIKUrevy 2001}
 ,
 cr={}]
 \beginverse

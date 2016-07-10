@@ -1,6 +1,6 @@
 \beginsong{Hvad skal vi \TeX'e i nat?}[sr={Melodi: Hvor skal vi sove i nat?}
 ,
-by={ DIKUrevy 2007}
+by={DIKUrevy 2007}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,6 @@
 \beginsong{Sangen om Nick}[sr={Melodi: Quangs sang}
 ,
-by=%{ MatematikRevy 2008}
+by={}
 ,
 cr={}]
 \beginverse

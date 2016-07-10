@@ -1,6 +1,6 @@
 \beginsong{Spas i Waders}[sr={Melodi:Hit'n'Hide - Space Invaders}
 ,
-by={ Biorevy 2012}
+by={Biorevy 2012}
 ,
 cr={}]
 \beginverse

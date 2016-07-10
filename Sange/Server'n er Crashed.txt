@@ -1,6 +1,6 @@
 \beginsong{Server'n er Crashed}[sr={Melodi:Backstreet Boys - I Want It That Way}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse
