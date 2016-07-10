@@ -32,11 +32,11 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
-        style = "\\renewcommand*{\\thepage}{0x\\hex{\\value{page}}}"
+        style = "hexX"
     elif style == "binary":
-        style = "\\renewcommand*{\\thepage}{\\binary{\\value{page}}}"
+        style = "binaryX"
     elif style == "oct":
-        style = "\\renewcommand*{\\thepage}{0\\oct{\\value{page}}}"
+        style = "octX"
 
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
     for fil in filer:
