@@ -113,8 +113,6 @@ def create_preamble(unf, camp, name, style, logo, empty):
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
             else:
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
-        else:
-            f.write("""\\includegraphics[]{"""+logo+"""}}\n""")
         f.write("""\\vspace{1cm}
 \\begin{center}\n""")
         if camp:
