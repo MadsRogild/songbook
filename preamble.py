@@ -60,13 +60,13 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage[a4paper,includeheadfoot,margin=2.5cm]{geometry}
 \\usepackage[lyric]{songs}
 \\usepackage[utf8]{inputenc}
-\\usepackage[danish, english]{babel}
+%\\usepackage[danish, english]{babel}
+\\usepackage[english]{babel}
 \\usepackage{amssymb}
 \\usepackage{stmaryrd}
 \\usepackage{amsmath}
 \\usepackage{amsthm}
 \\usepackage[final]{pdfpages}
-\\usepackage{tabularx}
 \\usepackage[none]{hyphenat}
 \\usepackage{hyperref}
 \\usepackage{multicol}
