@@ -32,11 +32,11 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
-        style = "\\renewcommand*{\\thepage}{0x\\hex{\\value{page}}}"
+        style = "hexX"
     elif style == "binary":
-        style = "\\renewcommand*{\\thepage}{\\binary{\\value{page}}}"
+        style = "binaryX"
     elif style == "oct":
-        style = "\\renewcommand*{\\thepage}{0\\oct{\\value{page}}}"
+        style = "octX"
 
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
     for fil in filer:
@@ -160,17 +160,11 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
-    idxsongs = []
-    for i in range(0, len(songs)):
-        (title,_,_) = songs[i]
-        idxsongs.append((title,i))  #make list of titles and song number
-        
-    idxsongs = sorted(idxsongs, key=lambda idxsongs: idxsongs[0])    #sort index alphabetically, remembering the song numbers
-    
-    for i in range(0, len(idxsongs)):
-        (title,songnumber) = idxsongs[i]            #get the title of the songs
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(songnumber) + "} P{\\aa} side: \\pageref{song" + str(songnumber) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
-
+    songs_index = sorted(songs, key=lambda songs: songs[0])
+    for i in range(0, len(songs_index)):
+        (title,_,_) = songs_index[i]            #get the title of the songs
+        index = songs.index([item for item in songs if item[0] == title][0])
+        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
     index_file.write("""\\end{idxblock}""")     #end index
     f.close()
