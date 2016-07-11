@@ -158,15 +158,18 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 \\showindex[2]{Sange}{titleidx}
 \\end{document}""")                 #add the index
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
-    index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
+#    index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
+    index_file.write("""\\setlength{\parindent}{-4em}\\addtolength{\\leftskip}{4em}\n""")       #start writing the index
 
     songs_index = sorted(songs, key=lambda songs: songs[0])
     for i in range(0, len(songs_index)):
         (title,_,_) = songs_index[i]            #get the title of the songs
         index = songs.index([item for item in songs if item[0] == title][0])
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+#        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+        index_file.write("\makebox[2em][r]{\\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "}} {\idxtitlefont " + title + "}\ \dotfill\ side~\pageref{song" + str(index) + "}\n\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
-    index_file.write("""\\end{idxblock}""")     #end index
+
+#    index_file.write("""\\end{idxblock}""")     #end index
     f.close()
     index_file.close()
     call(["pdflatex", "Sanghaefte.tex"])
