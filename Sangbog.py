@@ -28,7 +28,6 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             elif "foo" in s and "bar" in s and "automaten" in s:
                 os.remove("""Sange/"""+fil)
     path = sys.path[0]          #set the path to our current folder
-    os.system("""./check""")    #run the file check
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
@@ -39,6 +38,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         style = "octX"
 
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
+    call(["./check",""])#os.system("""./check""")    #run the file check
     for fil in filer:
         if fil.endswith(".txt"):
             sang = open("""Sange/"""+fil, 'r')
@@ -52,7 +52,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                     order = sys.maxint
                     print("Misplaced % in file: " + fil)
                     import time
-                    time.sleep(4)
+                    time.sleep(3)
             else:
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
