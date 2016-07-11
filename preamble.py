@@ -7,7 +7,7 @@ from reportlab import pdfbase
 from svglibbuild3 import svg2rlg
 from reportlab.graphics import renderPDF
 
-standard = ["arabic", "roman", "Roman", "alph", "Alph"]
+standard = ["arabic", "roman", "Roman", "alph", "Alph","binary","hex","oct"]
 
 
 
@@ -129,7 +129,5 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\songpos{0}
 \\spenalty=-10
 \\vvpenalty=100
-\\begin{songs}{}
-\\setcounter{songnum}{0}
 """)        #end the preamble
     f.close()       #and close the file
