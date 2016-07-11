@@ -1,4 +1,4 @@
-\beginsong{Livstræet}[sr=%{Melodi: Joan Jett - I Love Rock 'n' Roll}
+\beginsong{Livstræet}[sr={Melodi: Joan Jett - I Love Rock 'n' Roll}
 ,
 by={ Erik Lindebjerg og Hans Holm}
 ,

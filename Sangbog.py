@@ -30,7 +30,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
             if "%" in line0:
                 try:
-                    order = int(float(line0[line0.index("%")+1]))
+                    order = int(float(line0[line0.index("%")+1:]))
                 except ValueError:
                     order = sys.maxint
                     print("Misplaced % in file: " + fil)
