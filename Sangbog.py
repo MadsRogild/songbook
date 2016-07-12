@@ -11,7 +11,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
 
-    path = sys.path[0]          #set the path to our current folder
+    path = sys.path[0]          #set the path t  our current folder
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
@@ -36,27 +36,16 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                     print("Misplaced % in file: " + fil)
                     import time
                     time.sleep(3)
+            elif "Fulbert og Beatrice" in title:
+                order = 12
+            elif "I Morgen er Verden Vor" in title:
+                order = 42
+            elif "DAT62(1/2)80 Slagsang" in title:
+                order = 43
             else:
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
-    temp = []
-    if [item for item in songs if "Fulbert og Beatrice" in item]:       #if Fulbert and Beatrice is in the list of songs
-        i = songs.index([item for item in songs if "Fulbert og Beatrice" in item][0])       #get the index of Fulbert and Beatrice
-        if i != 12:
-            temp.append(songs[i])       #if its not number 12, then put it in a list
-            del songs[i]                #and remove it from the list of songs
-    if [item for item in songs if "I Morgen er Verden Vor" in item]:        #if I Morgen er Verden Vor is in the list of songs
-        i = songs.index([item for item in songs if "I Morgen er Verden Vor" in item][0])        #get the index of I Morgen er Verden Vor
-        if i != 42:
-            temp.append(songs[i])   #if its not number 42, then put it in a list
-            del songs[i]            #and remove it from the list of songs
-    if [item for item in songs if "DAT62(1/2)80 Slagsang" in item]:     #if DAT62(1/2)80 Slagsang is in the list of songs
-        i = songs.index([item for item in songs if "DAT62(1/2)80 Slagsang" in item][0])         #get the index of DAT62(1/2)80 Slagsang
-        if i != 43:
-            temp.append(songs[i])   #if its not number 43, then put it in a list
-            del songs[i]            #and remove it from the list of songs
- 
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
     if fixed:
@@ -68,25 +57,14 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             if o < sys.maxint:
                 order.append(songs[i])
                 index.append(i)
-        for ind in index:
-            del songs[ind]
+
+        for i in range(len(index)-1,-1,-1):
+            del songs[i]
         songs = sorted(songs, key=lambda songs: songs[0])
         for i in range(0,len(order)):
             (_,_,o) = order[i]
-            songs.insert(o, order[i]) 
-             
+            songs.insert(o, order[i])
        
- 
-    for i in range(0,len(temp)):
-        if "Fulbert og Beatrice" == temp[i][0]:
-            songs.insert(12, temp[i])       #insert Fulbert og Beatrice in place 12
-        elif "I Morgen er Verden Vor" == temp[i][0]:
-            songs.insert(42, temp[i])       #insert I Morgen er Verden Vor in place 42
-        elif "DAT62(1/2)80 Slagsang" == temp[i][0]:
-            songs.insert(43, temp[i])       #insert DAT62(1/2)80 Slagsang in place 43
-
-
-
     next_page = 0
     next_song = 0
     text = ""
@@ -142,6 +120,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 \\end{document}""")                 #add the index
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
+
 
     songs_index = sorted(songs, key=lambda songs: songs[0])
     for i in range(0, len(songs_index)):
