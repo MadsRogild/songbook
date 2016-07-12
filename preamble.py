@@ -127,7 +127,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\songpos{0}
 \\spenalty=-10
 \\vvpenalty=100
-%\\begin{songs}{}
-%\\setcounter{songnum}{0}
+\\begin{songs}{}
+\\setcounter{songnum}{0}
 """)        #end the preamble
     f.close()       #and close the file
