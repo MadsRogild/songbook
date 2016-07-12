@@ -66,6 +66,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage{stmaryrd}
 \\usepackage{amsmath}
 \\usepackage{amsthm}
+\\usepackage{calculator}
 \\usepackage[final]{pdfpages}
 \\usepackage[none]{hyphenat}
 \\usepackage{hyperref}

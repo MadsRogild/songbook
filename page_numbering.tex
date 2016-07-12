@@ -1,5 +1,42 @@
 \makeatletter
 
+\newcommand*{\@basecount}[3]{% Syntax: \@basecount{alphabet}{alphabet length}{counter}
+  \ifnum #3 = 0
+    \csname @#1\endcsname{0}
+  \else
+    \expandafter{}{\@@basecount{#1}{#2}{#3}{}}
+  \fi
+}
+
+\newcount\@@baseQ
+\newcount\@@baseB
+\newcount\@@baseM
+\newcount\@@baseR
+\newcommand*{\@@basecount}[4]{% Syntax: \@@basecount{alphabet}{alphabet length}{counter}{accumulator}
+  \ifnum #3 = 0
+    #3--#4
+  \else{
+    #3--
+    \@@baseQ #3
+    \@@baseB #2
+    \divide\@@baseQ by\@@baseB
+    \@@baseM \@@baseQ
+    \multiply\@@baseM by\@@baseB
+    \@@baseR #3
+    \advance\@@baseR by-\@@baseM
+    \@@basecount{#1}{#2}{\the\@@baseQ}{\csname @#1\endcsname{\the\@@baseR}#4}
+  }\fi
+}
+
+\newcommand*{\greekX}[1]{%
+  \expandafter\@greekX{\csname c@#1\endcsname}
+}
+
+
+\newcommand*{\@greekX}[1]{%
+  \@basecount{greek}{6}{\number #1}
+}
+
 \newcommand*{\binaryX}[1]{%
   \expandafter\@binaryX\csname c@#1\endcsname
 }
@@ -24,7 +61,7 @@
 
 \newcommand*{\@greek}[1]{%
   $\ifcase#1
-  \or\alpha\or\beta\or\gamma\or\delta\or\varepsilon
+  \alpha\or\beta\or\gamma\or\delta\or\varepsilon
   \or\zeta\or\eta\or\theta\or\iota\or\kappa\or\lambda
   \or\mu\or\nu\or\xi\or o\or\pi\or\rho\or\sigma
   \or\tau\or\upsilon\or\varphi\or\chi\or\psi\or\omega
