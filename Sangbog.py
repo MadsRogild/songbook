@@ -2,11 +2,12 @@
 import sys, os, getopt, re
 import preamble, style_tex, auxiliary
 from subprocess import call
+from random import shuffle
 current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
+def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -48,6 +49,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             sang.close()      
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
+    if random:
+        shuffle(songs)
     if fixed:
         songs = sorted(songs, key=lambda songs: songs[2])
         order = []
@@ -60,7 +63,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 
         for i in range(len(index)-1,-1,-1):
             del songs[i]
-        songs = sorted(songs, key=lambda songs: songs[0])
+        if not(random):
+            songs = sorted(songs, key=lambda songs: songs[0])
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -150,8 +154,9 @@ def main(argv):
     logo = ""           #the file containing the logo for the front page
     sort = False
     fixed = False
+    random = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sf",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed"])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed","random"])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -182,6 +187,8 @@ def main(argv):
             sort = True
         elif opt in ("-f","--fixed"):
             fixed = True
+        elif opt in ("-r","--random"):
+            random = True
         else:
             usage()
             sys.exit()
@@ -192,7 +199,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random)         #call to create sangbog
 
 
 if __name__=='__main__':
