@@ -47,7 +47,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
     if sort:
-        songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
+        songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
     if fixed:
         songs = sorted(songs, key=lambda songs: songs[2])
         order = []
@@ -60,7 +60,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 
         for i in range(len(index)-1,-1,-1):
             del songs[i]
-        songs = sorted(songs, key=lambda songs: songs[0])
+        songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
