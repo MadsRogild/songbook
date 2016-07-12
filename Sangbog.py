@@ -48,7 +48,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
     if sort:
-        songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
+        songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
     if random:
         shuffle(songs)
     if fixed:
@@ -64,7 +64,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
         for i in range(len(index)-1,-1,-1):
             del songs[i]
         if not(random):
-            songs = sorted(songs, key=lambda songs: songs[0])
+            songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -126,7 +126,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
 
-    songs_index = sorted(songs, key=lambda songs: songs[0])
+    songs_index = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())
     for i in range(0, len(songs_index)):
         (title,_,_) = songs_index[i]            #get the title of the songs
         index = songs.index([item for item in songs if item[0] == title][0])
