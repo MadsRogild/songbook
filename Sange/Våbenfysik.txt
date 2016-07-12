@@ -1,4 +1,4 @@
-\beginsong{Våbenfysik}[sr={Melodi: Jutlandia}
+\beginsong{Våbenfysik}[sr={Melodi: Jutlandia}%37
 ,
 by={FysikRevy 2003}
 ,

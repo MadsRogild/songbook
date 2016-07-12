@@ -1,4 +1,4 @@
-\beginsong{function fib(n)}[sr={Melodi:Sarah Brightman og Andrea Bocelli - Time to say goodbye}
+\beginsong{Function fib(n)}[sr={Melodi:Sarah Brightman og Andrea Bocelli - Time to say goodbye}
 ,
 by={DIKUrevy 2009}
 ,

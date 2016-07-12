@@ -11,32 +11,15 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
 
-    for fil in filer:
-        if fil.endswith(".txt"):        #we only use txt files
-            sang = open("""Sange/"""+fil, 'r')      #we open the files
-            s = sang.read().lower()                 #read the song, and make all letters lowercase
-            s = s.replace(",","")                   #remove commas
-            s = s.replace(" ","")                   #remove spaces
-            s = s.replace(".","")                   #remove punctuations
-            sang.close()                            #close the file
-            if "morgenerverdenvor" in s:    #the if and elifs is used to check if the song is "I morgen er verden vor" or "DAT62(1/2)80 Slagsang"
-                os.remove("""Sange/"""+fil) #remove them if they are either of those two songs
-            elif "fooogbar" in s:
-                os.remove("""Sange/"""+fil)
-            elif "morgen" in s and "verden" in s and "vor" in s:
-                os.remove("""Sange/"""+fil)
-            elif "foo" in s and "bar" in s and "automaten" in s:
-                os.remove("""Sange/"""+fil)
     path = sys.path[0]          #set the path to our current folder
-    os.system("""./check""")    #run the file check
     fil = None
     style = auxiliary.search_styles(style)      #check if the specified style exist
     if style == "hex":
-        style = "\\renewcommand*{\\thepage}{0x\\hex{\\value{page}}}"
+        style = "hexX"
     elif style == "binary":
-        style = "\\renewcommand*{\\thepage}{\\binary{\\value{page}}}"
+        style = "binaryX"
     elif style == "oct":
-        style = "\\renewcommand*{\\thepage}{0\\oct{\\value{page}}}"
+        style = "octX"
 
     preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
     for fil in filer:
@@ -46,7 +29,13 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             title = re.search('(?<=song{)(.*?)}',line0)     #get the title
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
             if "%" in line0:
-                order = int(float(line0[line0.index("%")+1]))
+                try:
+                    order = int(float(line0[line0.index("%")+1:]))
+                except ValueError:
+                    order = sys.maxint
+                    print("Misplaced % in file: " + fil)
+                    import time
+                    time.sleep(3)
             else:
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
@@ -154,11 +143,11 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
-
-    for i in range(0, len(songs)):
-        (title,_,_) = songs[i]            #get the title of the songs
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(i) + "} På side: \pageref{song" + str(i) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
-
+    songs_index = sorted(songs, key=lambda songs: songs[0])
+    for i in range(0, len(songs_index)):
+        (title,_,_) = songs_index[i]            #get the title of the songs
+        index = songs.index([item for item in songs if item[0] == title][0])
+        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
     index_file.write("""\\end{idxblock}""")     #end index
     f.close()
