@@ -122,7 +122,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
 
-    songs_index = sorted(songs, key=lambda songs: songs[0])
+    songs_index = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())
     for i in range(0, len(songs_index)):
         (title,_,_) = songs_index[i]            #get the title of the songs
         index = songs.index([item for item in songs if item[0] == title][0])
