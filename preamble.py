@@ -89,8 +89,9 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\fancyhead{}
 \\fancyhead[CE,CO]{}
 \\fancyhead[RE,LO]{\\thepage}
-\\fancyfoot{}
-\pagestyle{fancy}\n""")
+\\fancyfoot{}\n""")
+    if twosided:
+        f.write("""\pagestyle{fancy}\n""")
     if """renew""" in style:
         f.write("""""" + style + """\n""")
     else:
