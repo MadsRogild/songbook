@@ -90,7 +90,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
                 text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """
 \\newpage
 """ + end           #put all the pieces together and make a hypertarget for use in pagereferences ind indexing
-                next_page = 2
+                next_page = 1
             elif title == "I Morgen er Verden Vor" and (songs.index(tup) != 42):
                 text = """\\setcounter{temp}{\\thesongnum}
 \\setcounter{songnum}{42}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n" + text[j+1:] + """
