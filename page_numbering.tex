@@ -1,12 +1,12 @@
 \makeatletter
 
-\newcommand*{\@basecount}[3]{% Syntax: \@basecount{alphabet}{alphabet length}{counter}
-  \ifnum #3 = 0
-    \csname @#1\endcsname{0}
-  \else
-    \expandafter\edef\csname @baseResult\endcsname{\noexpand\@@basecount{#1}{#2}{#3}{}}
-    \csname @baseResult\endcsname
-  \fi
+\DeclareRobustCommand{\@basecount}[3]{% Syntax: \@basecount{alphabet}{alphabet length}{counter}
+  \ifnum #3 = 0%
+    \csname @#1\endcsname{0}%
+  \else%
+    \expandafter\edef\csname @baseResult\endcsname{\noexpand\@@basecount{#1}{#2}{#3}{}}%
+    \csname @baseResult\endcsname%
+  \fi%
 }
 
 \newcount\@@baseQ
@@ -14,20 +14,20 @@
 \newcount\@@baseM
 \newcount\@@baseR
 \newcommand*{\@@basecount}[4]{% Syntax: \@@basecount{alphabet}{alphabet length}{counter}{accumulator}
-  \ifnum #3=0
-    #4
-  \else
-    \@@baseQ #3
-    \@@baseB #2
-    \divide\@@baseQ by\@@baseB
-    \@@baseM \@@baseQ
-    \multiply\@@baseM by\@@baseB
-    \@@baseR #3
-    \advance\@@baseR by-\@@baseM
-    \expandafter\edef\csname @@baseNext\endcsname{\the\@@baseQ}
-    \expandafter\edef\csname @@baseAcc\endcsname{\csname @#1\endcsname{\the\@@baseR}#4}
-    \@@basecount{#1}{#2}{\@@baseNext}{\@@baseAcc}
-  \fi
+  \ifnum #3=0%
+    #4%
+  \else%
+    \@@baseQ #3%
+    \@@baseB #2%
+    \divide\@@baseQ by\@@baseB%
+    \@@baseM \@@baseQ%
+    \multiply\@@baseM by\@@baseB%
+    \@@baseR #3%
+    \advance\@@baseR by-\@@baseM%
+    \expandafter\edef\csname @@baseNext\endcsname{\the\@@baseQ}%
+    \expandafter\edef\csname @@baseAcc\endcsname{\csname @#1\endcsname{\the\@@baseR}#4}%
+    \@@basecount{#1}{#2}{\@@baseNext}{\@@baseAcc}%
+  \fi%
 }
 
 
@@ -37,23 +37,23 @@
 
 
 \newcommand*{\@greekX}[1]{%
-  \protect\protect\protect\@basecount{greek}{6}{\number #1}%
+  \@basecount{greek}{24}{\number #1}%
 }
 
 \newcommand*{\binaryX}[1]{%
-  \expandafter\@binaryX\csname c@#1\endcsname
+  \expandafter\@binaryX\csname c@#1\endcsname%
 }
 
 \newcommand*{\@binaryX}[1]{0b\binary{#1}}
 
 \newcommand*{\octX}[1]{%
-  \expandafter\@octX\csname c@#1\endcsname
+  \expandafter\@octX\csname c@#1\endcsname%
 }
 
 \newcommand*{\@octX}[1]{0o\oct{#1}}
 
 \newcommand*{\hexX}[1]{%
-  \expandafter\@hexX\csname c@#1\endcsname
+  \expandafter\@hexX\csname c@#1\endcsname%
 }
 
 \newcommand*{\@hexX}[1]{0x\hex{#1}}
@@ -75,23 +75,23 @@
 
 
 \newcommand*{\symcount}[1]{%
-  \expandafter\@symcount\csname c@#1\endcsname
+  \expandafter\@symcount\csname c@#1\endcsname%
 }
 
 \newcommand*{\@symcount}[1]{%
-  $\ifcase#1
-  \neg\or\sqrt{\ }\or \int
-  \or +\or \times\or\pm\or \circ\or \oplus\or \otimes
-  \or\cup \or\cap%\or\sqcup\or\sqcap
-  \or \vert\or \Vert\or \perp%\or\angle
-  \or\sim
-  \or <\or >
-  \or =\or \cong
-  \or \in
-  \or\exists\or\forall\or \vee\or \wedge
-  \or\Rightarrow\or\mapsto\or\Leftrightarrow
-  \or\lightning\or\square
-  \else\@ctrerr\fi$
+  $\ifcase#1%
+  \neg\or\sqrt{\ }\or \int%
+  \or +\or \times\or\pm\or \circ\or \oplus\or \otimes%
+  \or\cup \or\cap%\or\sqcup\or\sqcap%
+  \or \vert\or \Vert\or \perp%\or\angle%
+  \or\sim%
+  \or <\or >%
+  \or =\or \cong%
+  \or \in%
+  \or\exists\or\forall\or \vee\or \wedge%
+  \or\Rightarrow\or\mapsto\or\Leftrightarrow%
+  \or\lightning\or\square%
+  \else\@ctrerr\fi$%
 }
 
 \makeatother
