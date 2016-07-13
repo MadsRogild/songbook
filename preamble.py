@@ -55,12 +55,12 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 
     f = open("Sanghaefte.tex", 'w+')        #now create the tex file for the songbook itself
 
-    f.write("""\\documentclass[pdftex]{article}
+    f.write("""\\documentclass[pdftex,12pt]{article}
 \\usepackage{latexsym,fancyhdr}\n""")
     if twosided:
-        f.write("""\\usepackage[a4paper,includeheadfoot,inner=1cm,outer=2cm,twoside]{geometry}\n""")
+        f.write("""\\usepackage[a4paper,includeheadfoot,inner=1cm,outer=2cm,,top=2cm,bottom=2cm,twoside]{geometry}\n""")
     else:
-        f.write("""\\usepackage[a4paper,includeheadfoot,margin=1.5cm]{geometry}\n""")
+        f.write("""\\usepackage[a4paper,includeheadfoot,margin=1.5cm,top=2cm,bottom=2cm]{geometry}\n""")
     f.write("""\\usepackage[lyric]{songs}
 \\usepackage[utf8]{inputenc}
 %\\usepackage[danish, english]{babel}
