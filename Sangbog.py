@@ -2,7 +2,7 @@
 import sys, os, getopt, re
 import preamble, style_tex, auxiliary
 from subprocess import call
-from random import shuffle
+from random import shuffle, seed
 current_version = sys.version_info
 
 
@@ -156,7 +156,7 @@ def main(argv):
     fixed = False
     random = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed","random"])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -189,6 +189,12 @@ def main(argv):
             fixed = True
         elif opt in ("-r","--random"):
             random = True
+        elif opt in ("--seed"):
+            if random:
+                seed(arg)
+            else:
+                usage()
+                sys.exit()
         else:
             usage()
             sys.exit()
