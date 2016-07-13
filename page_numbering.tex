@@ -4,7 +4,8 @@
   \ifnum #3 = 0
     \csname @#1\endcsname{0}
   \else
-    \expandafter{}{\@@basecount{#1}{#2}{#3}{}}
+    \expandafter\edef\csname @baseResult\endcsname{\noexpand\@@basecount{#1}{#2}{#3}{}}
+    \csname @baseResult\endcsname
   \fi
 }
 
@@ -13,10 +14,9 @@
 \newcount\@@baseM
 \newcount\@@baseR
 \newcommand*{\@@basecount}[4]{% Syntax: \@@basecount{alphabet}{alphabet length}{counter}{accumulator}
-  \ifnum #3 = 0
-    #3--#4
-  \else{
-    #3--
+  \ifnum #3=0
+    #4
+  \else
     \@@baseQ #3
     \@@baseB #2
     \divide\@@baseQ by\@@baseB
@@ -24,9 +24,12 @@
     \multiply\@@baseM by\@@baseB
     \@@baseR #3
     \advance\@@baseR by-\@@baseM
-    \@@basecount{#1}{#2}{\the\@@baseQ}{\csname @#1\endcsname{\the\@@baseR}#4}
-  }\fi
+    \expandafter\edef\csname @@baseNext\endcsname{\the\@@baseQ}
+    \expandafter\edef\csname @@baseAcc\endcsname{\csname @#1\endcsname{\the\@@baseR}#4}
+    \@@basecount{#1}{#2}{\@@baseNext}{\@@baseAcc}
+  \fi
 }
+
 
 \newcommand*{\greekX}[1]{%
   \expandafter\@greekX{\csname c@#1\endcsname}
