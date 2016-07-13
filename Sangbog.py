@@ -114,7 +114,23 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
             counter += 1
 
 
-    f.write("""\n\\end{songs}
+    f.write("""\n\\end{songs}""")
+    if twosided:
+        f.write("""\\makeatletter
+\\newcount\\divFour
+\\divFour \\c@page
+\\divide\\divFour by 4
+\\multiply\\divFour by 4
+\\advance\\divFour by-\\c@page
+\\edef\\remainFour{\\the\\divFour}
+\\ifnum\\remainFour = 0
+  \\clearpage\\null\\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -1
+  \\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -2
+  \\clearpage\\null
+\\fi\\fi\\fi""")
+    f.write("""
 \\newgeometry{margin=2cm,top=2cm,bottom=2cm}
 \\setlength{\\headwidth}{\\textwidth}
 \\showindex[2]{Sange}{titleidx}
