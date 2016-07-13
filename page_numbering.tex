@@ -4,8 +4,8 @@
   \ifnum #3 = 0%
     \csname @#1\endcsname{0}%
   \else%
-    \expandafter\edef\csname @baseResult\endcsname{\noexpand\@@basecount{#1}{#2}{#3}{}}%
-    \csname @baseResult\endcsname%
+    \edef\@baseResult{\noexpand\@@basecount{#1}{#2}{#3}{}}%
+    \@baseResult%
   \fi%
 }
 
@@ -24,8 +24,8 @@
     \multiply\@@baseM by\@@baseB%
     \@@baseR #3%
     \advance\@@baseR by-\@@baseM%
-    \expandafter\edef\csname @@baseNext\endcsname{\the\@@baseQ}%
-    \expandafter\edef\csname @@baseAcc\endcsname{\csname @#1\endcsname{\the\@@baseR}#4}%
+    \edef\@@baseNext{\the\@@baseQ}%
+    \edef\@@baseAcc{\csname @#1\endcsname{\the\@@baseR}#4}%
     \@@basecount{#1}{#2}{\@@baseNext}{\@@baseAcc}%
   \fi%
 }
