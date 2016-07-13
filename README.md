@@ -1,6 +1,6 @@
 The program Sangbog.py generates a tex file containing a songbook which is then compilated into a pdf file.
 
-To use it first install the required packages: rstr and reportlab. Do this using pip. Example: python -m pip install rstr.
+To use it first install the required packages: rstr and reportlab. Do this using pip. Example: python -m pip install rstr. Next the songs package need to be installed, it can be downloaded at http://songs.sourceforge.net/downloads.html.
 
 It has 7 options
 
