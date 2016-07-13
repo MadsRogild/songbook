@@ -94,10 +94,11 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\newcounter{temp}
 \\newcounter{temppage}\n""")          #continue preamble
     if not empty:       #if empty is not specified start writing a front page
-        f.write("""\\thispagestyle{empty}
+        f.write("""\\newgeometry{margin=.5cm,top=4cm,bottom=.5cm}
+\\thispagestyle{empty}
 \\centering
 \\phantom{test}
-\\vspace{1cm}\n""")          
+\n""")          
         if """.svg""" in logo:
             scale_height = 736.75 / height_l
             scale_width = 460.625 / width_l
@@ -113,15 +114,14 @@ def create_preamble(unf, camp, name, style, logo, empty):
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
             else:
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
-        f.write("""\\vspace{1cm}
+        f.write("""\\vspace{.5cm}
 \\begin{center}\n""")
         if camp:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year\n""")        #put the title for the songbook below the logo
+            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+""" Camp\\\\\\the\\year\n\n\\vspace{1cm}\n\\fontsize{35}{40}\\selectfont Sangbog""")        #put the title for the songbook below the logo
         else:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #put the title for the songbook below the logo
-        f.write("""\\end{center}\n""")
-    f.write("""\\vspace{2.5cm}
-\\newpage
+            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+"""\\\\\\the\\year\n""")         #put the title for the songbook below the logo
+        f.write("""\\end{center}\n\\restoregeometry""")
+    f.write("""
 \\setcounter{page}{0}
 \\raggedright
 \\songpos{0}
