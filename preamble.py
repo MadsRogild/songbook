@@ -82,13 +82,15 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
     if camp or unf:
         f.write("""\\author{Ungdommens Naturvidenskabelige Forening}\n""")        #and UNF as author if its a camp or UNF songbook
     f.write("""\\date{\\today}
-\\addtolength{\\headwidth}{\\marginparsep}
-\\addtolength{\\headwidth}{\\marginparwidth}
-\\renewcommand{\\headrulewidth}{0.4pt}
-\\renewcommand{\\footrulewidth}{0.4pt}
-\\fancyhead[LE,RO]{\\LHeadFont Sangbog}
-\\fancyhead[CE,CO]{\\CHeadFont\\thepage}
-\\fancyhead[RE,LO]{\\RHeadFont\\RelDate}\n""")
+%\\addtolength{\\headwidth}{\\marginparsep}
+%\\addtolength{\\headwidth}{\\marginparwidth}
+\\renewcommand{\\headrulewidth}{.4pt}
+%\\renewcommand{\\footrulewidth}{0.4pt}
+\\fancyhead{}
+\\fancyhead[CE,CO]{}
+\\fancyhead[RE,LO]{\\thepage}
+\\fancyfoot{}
+\pagestyle{fancy}\n""")
     if """renew""" in style:
         f.write("""""" + style + """\n""")
     else:

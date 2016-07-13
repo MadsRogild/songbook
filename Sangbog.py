@@ -117,6 +117,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
 
     f.write("""\n\\end{songs}
 \\newgeometry{margin=2cm,top=2cm,bottom=2cm}
+\\setlength{\\headwidth}{\\textwidth}
 \\showindex[2]{Sange}{titleidx}
 \\end{document}""")                 #add the index
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
