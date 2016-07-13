@@ -85,9 +85,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
 \\setcounter{songnum}{12}"""        #set a counter to the current song number, and force the song number to be 12, all done in latex
                     end += """
 \\setcounter{songnum}{\\thetemp}"""         #change the song number back to the original
-                start += """\\setcounter{temppage}{\\value{page}}       
-\\pagenumbering{arabic}
-\\setcounter{page}{10}"""           #set counter to the current page number, change the pagenumbering to arabic and change the page number to 10
+                start += """\\renewcommand{\\thepage}{10}
+\\addtocounter{pageoffset}{-1}"""           #Set page number to 10 and shift remaining page numbers by 1
                 text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """
 \\newpage
 """ + end           #put all the pieces together and make a hypertarget for use in pagereferences ind indexing
@@ -109,8 +108,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
                     if """renew""" in style:
                         text += """""" + style + """\n"""
                     else:
-                        text += """\\pagenumbering{""" + style + """}\n"""          #change the style back to the set style
-                    text += """\\setcounter{page}{\\value{temppage}}\n"""       #and change the pagenumber back to what it was
+                        text += """\\setcounter{temppage}{\\value{page}}\n\\pagenumbering{shiftedpage}\n\\setcounter{page}{\\value{temppage}}"""          #change the style back to the set style, using temppage to avoid the fact that pagenumbering resets page.
+                    text += """\n"""       #and change the pagenumber back to what it was
             f.write("""\n""" + text + """\n""")
             counter += 1
 
