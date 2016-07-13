@@ -12,7 +12,7 @@ standard = ["arabic", "roman", "Roman", "alph", "Alph","binary","hex","oct"]
 
 
 
-def create_preamble(unf, camp, name, style, logo, empty):
+def create_preamble(unf, camp, name, style, logo, empty, twosided):
     if """.svg""" in logo:          #check if the logo is in svg format
         tempf = open(logo,'r')      #open the file for reading
         s = tempf.read()
@@ -56,9 +56,12 @@ def create_preamble(unf, camp, name, style, logo, empty):
     f = open("Sanghaefte.tex", 'w+')        #now create the tex file for the songbook itself
 
     f.write("""\\documentclass[pdftex]{article}
-\\usepackage{latexsym,fancyhdr}
-\\usepackage[a4paper,includeheadfoot,margin=2.5cm]{geometry}
-\\usepackage[lyric]{songs}
+\\usepackage{latexsym,fancyhdr}\n""")
+    if twosided:
+        f.write("""\\usepackage[a4paper,includeheadfoot,inner=1cm,outer=2cm,twoside]{geometry}\n""")
+    else:
+        f.write("""\\usepackage[a4paper,includeheadfoot,margin=1.5cm]{geometry}\n""")
+    f.write("""\\usepackage[lyric]{songs}
 \\usepackage[utf8]{inputenc}
 %\\usepackage[danish, english]{babel}
 \\usepackage[english]{babel}
@@ -71,7 +74,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\usepackage{hyperref}
 \\usepackage{multicol}
 \\input binhex
-\\setlength{\columnsep}{2cm}
+\\setlength{\columnsep}{1.5cm}
 \\newindex{titleidx}{titlefile}
 \\sepindexesfalse
 \\noversenumbers
