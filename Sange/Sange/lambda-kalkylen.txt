@@ -1,0 +1,59 @@
+\beginsong{$\lambda$-kalkylen}[sr={Melodi: The Llama Song}
+,
+by={ DIKUrevy 2011}
+,
+cr={}]
+\beginverse
+Her et lambda, dér et lambda
+Og et ganske lille lambda
+ML-lambda, Haskell-lambda
+Lambda, lambda
+Fail!
+
+\endverse
+\beginverse
+Æg og alligator-lambda
+Java har slet ikke lambda
+Lambda i .NET, Omega
+Lambda, lambda
+Fail!
+
+\endverse
+\beginverse
+Jeg har fået value
+og drukket meget te
+Jeg har lært om Hitler
+Dinosaurer og VB
+Jeg har kodet uafbrudt i 42 døgn
+Men så døde jeg af sult
+for kagen var en løgn
+
+\endverse
+\beginverse
+Har du nog'nsinde set et lamdba
+i et lambda, på et lambda
+Lambda x dot færdig med x
+Lambda, lambda
+Fail!
+
+\endverse
+\beginverse
+Om nom nom nom nom nom lambda
+Og et A forklædt som lambda
+Lambda i \LaTeX, Omega
+Lambda, lambda
+Fail!
+
+\endverse
+\beginverse
+Jeg har kodet Brainfuck
+og dyrket lidt motion
+Jeg har været udenfor
+det var en perversion
+Jeg har skrevet kode fyldt med
+map og head og tail
+Nu vil jeg blive kandidat
+og gå ned med fail.
+
+\endverse
+\endsong

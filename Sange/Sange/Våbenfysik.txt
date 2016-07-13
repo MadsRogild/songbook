@@ -1,8 +1,8 @@
-\beginsong{Våbenfysik}[sr={Melodi: Jutlandia}%37
+\beginsong{Våbenfysik}[sr={Melodi: Jutlandia}%1
 ,
 by={ FysikRevy 2003}
 ,
-cr={}]
+cr={}]%2
 \beginverse
 Det var i 1945 og nu
 ville man ha’ fred,

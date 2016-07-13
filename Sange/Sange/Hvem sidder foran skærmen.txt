@@ -1,0 +1,28 @@
+\beginsong{Hvem sidder foran skærmen}[sr={Melodi: Jens Vejmand}
+,
+by={ FysikRevy 2001}
+,
+cr={}]
+\beginverse
+Hvem sidder foran skærmen
+med Cola i sin hånd,
+med blege svage arme
+og kroppen på et ton?
+\emph{Det er jo datalogen,
+en nørd, det er jo klart,
+med koffein i blodet
+og cybersex parat.}
+
+\endverse
+\beginverse
+Og da den næste morgen
+en kvinde træder ind
+og vækker datalogen,
+han fatter ik' en pind.
+\emph{Det er hans lillesøster,
+hun mangler sin BH;
+og datalogen ryster,
+det' ham der har den på}
+
+\endverse
+\endsong

@@ -1,0 +1,184 @@
+\beginsong{Vi kan ikke li'}[sr={Melodi: Vores buschauffør kan ikke køre bus}
+,
+by=%{ Terese og andre}
+,
+cr={}]
+\beginverse
+Vi kan ikke li' folk
+vi ik' kan li'
+Vi kan ikke li' folk
+vi ik' kan li'
+For vi kan sgu ikke li' dem,
+de skulle hellere tage at blive hjemme
+Vi kan ikke li' folk
+vi ik' kan li'
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra teologi\ldots
+For de er nogle hængemuler,
+tror at helligånden puler
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra biologi\ldots
+For de går i strikketrøjer,
+og med dyrene sig fornøjer
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har fysik\ldots
+For de har sgu nogle testikler
+der er på størrelse med partikler
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra musikvidenskab\ldots
+For de er nogle lamme nødder,
+passer ikke på versefødder
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra nano-tek\ldots
+De går rundt med sure miner,
+laver bittesmå maskiner
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra statistik\ldots
+De vil hypoteser teste
+mens de hel're burde feste
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra arkæologi\ldots
+fordi de graver og de graver
+og på gamle mennesker rager
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra filosofi\ldots
+for de går bar' og funderer
+om de selv mon eksisterer
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra farmaci\ldots
+for de går og triller piller
+og tabletter og pastiller
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra geologi\ldots
+For de går og ser på stenene
+når de burde sprede benene
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra astronomi\ldots
+De er fjolser uden hjerner
+der går rundt og ser på stjerner
+
+\endverse
+\beginverse
+%Vi kan ikke li' folk fra iNano\ldots
+%bagfra blir' de lidt for kække
+%synes Ångstrøm de er frække
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra økonomi\ldots
+For de regner på budgettet
+når de sidder på toilettet
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra lingvistik\ldots
+Kulli waffli zarka gunku
+emfle birnan smöja dunku
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har kemi\ldots
+For de hedder Ion og Ester
+mens de luften stærkt forpester
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra matematik\ldots
+For de teoretiserer
+indtil $2$ plus $3$ bli'r $4$
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har IT\ldots
+Uni skaffer studiejobbet
+Det er næsten alt for snobbet
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har dat-mult\ldots
+Datalogcirkusartister;
+de er næsten humanister
+
+\endverse
+\beginverse
+%Vi kan ikke li' folk der har tek-fys\ldots
+%for de har en bærbar PC
+%læser mails når de' på WC
+
+\endverse
+\beginverse
+%Vi kan ikke li' folk fra statskundskab\ldots
+%for de gider kun at kom' for- di
+%de tror de møder Lomborg
+
+\endverse
+\beginverse
+%Vi kan ikke li' folk fra farmaceutisk kemi\ldots
+%de fungerer som en buffer
+%der i alle emner skuffer
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra medicin\ldots
+For de går i hvide kitler,
+og det rimer jo på Hitler
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra molekylær
+(biologi)\ldots
+for de kloner små kaniner
+splejser dem med appelsiner
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra psykologi\ldots
+For de vader rundt i læder,
+og de hader deres fædre
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der er jurister\ldots
+for med hule paragraffer
+dagen lang sig selv de straffer
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har historie\ldots
+for de har kun gamle minder
+og et job de aldrig finder
+
+\endverse
+\beginverse
+Vi kan ikke li' folk der har idræt\ldots
+For de ligner jo rødbeder,
+når de render rundt og sveder
+
+\endverse
+\beginverse
+Vi kan ikke li' folk fra datalogi\ldots
+
+\endverse
+\endsong
