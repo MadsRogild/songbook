@@ -30,11 +30,16 @@
   \fi%
 }
 
+\newcommand*{\baseFive}[1]{\expandafter\@baseFive{\csname c@#1\endcsname}}
+\newcommand*{\@baseFive}[1]{\@basecount{arabic}{5}{\number #1}}
+
+\newcommand*{\basicSymb}[1]{\expandafter\@basicSymb{\csname c@#1\endcsname}}
+\newcommand*{\@basicSymb}[1]{\@basecount{simpleSymbols}{7}{\number #1}}
+\newcommand*{\@simpleSymbols}[1]{$\ifcase#1=\or+\or-\or\times\or\div\or<\or>\else\@ctrerr\fi$}
 
 \newcommand*{\greekX}[1]{%
   \expandafter\@greekX{\csname c@#1\endcsname}%
 }
-
 
 \newcommand*{\@greekX}[1]{%
   \@basecount{greek}{24}{\number #1}%
