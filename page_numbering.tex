@@ -32,12 +32,12 @@
 
 
 \newcommand*{\greekX}[1]{%
-  \expandafter\@greekX{\csname c@#1\endcsname}
+  \expandafter\@greekX{\csname c@#1\endcsname}%
 }
 
 
 \newcommand*{\@greekX}[1]{%
-  \@basecount{greek}{6}{\number #1}
+  \protect\protect\protect\@basecount{greek}{6}{\number #1}%
 }
 
 \newcommand*{\binaryX}[1]{%
@@ -59,18 +59,18 @@
 \newcommand*{\@hexX}[1]{0x\hex{#1}}
 
 \newcommand*{\greek}[1]{%
-  \expandafter\@greek\csname c@#1\endcsname
+  \expandafter\@greek\csname c@#1\endcsname%
 }
 
 \newcommand*{\@greek}[1]{%
-  $\ifcase#1
-  \alpha\or\beta\or\gamma\or\delta\or\varepsilon
-  \or\zeta\or\eta\or\theta\or\iota\or\kappa\or\lambda
-  \or\mu\or\nu\or\xi\or o\or\pi\or\rho\or\sigma
-  \or\tau\or\upsilon\or\varphi\or\chi\or\psi\or\omega
-  \or\text{\bfseries \ae}\or\text{\bfseries \o}\or\text{\bfseries \aa}
-  \or\mathfrak a\or\mathfrak b\or\mathfrak c\or\mathfrak d\or\mathfrak e
-  \else\@ctrerr\fi$
+  $\ifcase#1%
+  \alpha\or\beta\or\gamma\or\delta\or\varepsilon%
+  \or\zeta\or\eta\or\theta\or\iota\or\kappa\or\lambda%
+  \or\mu\or\nu\or\xi\or o\or\pi\or\rho\or\sigma%
+  \or\tau\or\upsilon\or\varphi\or\chi\or\psi\or\omega%
+  \or\text{\bfseries \ae}\or\text{\bfseries \o}\or\text{\bfseries \aa}%
+  \or\mathfrak a\or\mathfrak b\or\mathfrak c\or\mathfrak d\or\mathfrak e%
+  \else\@ctrerr\fi$%
 }
 
 
