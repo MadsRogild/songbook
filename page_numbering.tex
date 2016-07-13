@@ -31,7 +31,7 @@
 }
 
 \newcommand*{\baseFive}[1]{\expandafter\@baseFive{\csname c@#1\endcsname}}
-\newcommand*{\@baseFive}[1]{\@basecount{arabic}{5}{\number #1}}
+\newcommand*{\@baseFive}[1]{\@basecount{}{5}{\number #1}}
 
 \newcommand*{\basicSymb}[1]{\expandafter\@basicSymb{\csname c@#1\endcsname}}
 \newcommand*{\@basicSymb}[1]{\@basecount{simpleSymbols}{7}{\number #1}}
