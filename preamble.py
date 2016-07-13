@@ -116,9 +116,7 @@ def create_preamble(unf, camp, name, style, logo, empty):
         f.write("""\\vspace{1cm}
 \\begin{center}\n""")
         if camp:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" Camp \\the\\year\n""")        #put the title for the songbook below the logo
         else:
-            f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #put the title for the songbook below the logo
         f.write("""\\end{center}\n""")
     f.write("""\\vspace{2.5cm}
 \\newpage
