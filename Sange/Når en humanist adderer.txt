@@ -1,4 +1,5 @@
-﻿\beginsong{Når en humanist adderer}[sr={Melodi: Peberkagebagesangen}
+﻿\beginsong{Når en humanist adderer}%31
+[sr={Melodi: Peberkagebagesangen}
 ,
 by={TÅGEKAMMERET}
 ,

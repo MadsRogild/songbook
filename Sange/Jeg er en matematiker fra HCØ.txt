@@ -1,4 +1,5 @@
-\beginsong{Jeg er en matematiker fra HCØ}[sr={Melodi: Jeg er en papegøje fra Amerika}
+﻿\beginsong{Jeg er en matematiker fra HCØ}%2
+[sr={Melodi: Jeg er en papegøje fra Amerika}
 ,
 by={Kennie Nybo Mortensen, Jens Gustav Jensen, Kennet Andersen, Christian C. Harhoff og Povl Aage}
 ,

@@ -1,4 +1,5 @@
-\beginsong{Den kanoniske matematikersang}[sr={Melodi: Bamses fødselsdag}
+﻿\beginsong{Den kanoniske matematikersang}%1
+[sr={Melodi: Bamses fødselsdag}
 ,
 by={Esben "Med Hår" Bistrup Halvorsen og Rasmus "Rus" Resen Amossen}
 ,

@@ -1,4 +1,5 @@
-﻿\beginsong{Hymne til Matematik Camp}[sr={Melodi: I Danmark er jeg født}
+﻿\beginsong{Hymne til Matematik Camp}%3
+[sr={Melodi: I Danmark er jeg født}
 ,
 by={Søren Møller, Matematik Camp 2014}
 ,

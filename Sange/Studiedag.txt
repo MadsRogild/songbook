@@ -1,4 +1,5 @@
-﻿\beginsong{Studiedag}[sr={Melodi: Hjemmebrænderiet}
+﻿\beginsong{Studiedag}%54
+[sr={Melodi: Hjemmebrænderiet}
 ,
 by={MatematikRevy 2012}
 ,

@@ -1,4 +1,5 @@
-﻿\beginsong{Hvem sidder foran skærmen}[sr={Melodi: Jens Vejmand}
+﻿\beginsong{Hvem sidder foran skærmen}%64
+[sr={Melodi: Jens Vejmand}
 ,
 by={FysikRevy 2001}
 ,

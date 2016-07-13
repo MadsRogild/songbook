@@ -1,4 +1,5 @@
-﻿\beginsong{Hjemmebrænderiet}[sr={}
+﻿\beginsong{Hjemmebrænderiet}%55
+[sr={}
 ,
 by={De Gyldne Løver -- Variant: TÅGEKAMMERET}
 ,

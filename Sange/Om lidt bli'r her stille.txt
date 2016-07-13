@@ -1,4 +1,5 @@
-﻿\beginsong{Om lidt bli'r her stille}[sr={}
+﻿\beginsong{Om lidt bli'r her stille}%80
+[sr={}
 ,
 by={Kim Larsen}
 ,

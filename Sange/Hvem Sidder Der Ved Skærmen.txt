@@ -1,4 +1,5 @@
-﻿\beginsong{Hvem Sidder Der Ved Skærmen}[sr={Melodi: Jens Vejmand}
+﻿\beginsong{Hvem Sidder Der Ved Skærmen}%63
+[sr={Melodi: Jens Vejmand}
 ,
 by={DIKUrevy 1973}
 ,

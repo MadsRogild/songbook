@@ -1,4 +1,5 @@
-\beginsong{Integralsangen}[sr={Melodi: Peberkagebagesangen}
+﻿\beginsong{Integralsangen}%30
+[sr={Melodi: Peberkagebagesangen}
 ,
 by={MatematikRevy 2008}
 ,
