@@ -129,6 +129,8 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
 \\begin{center}\n""")
         if camp:
             f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+""" Camp\\\\\\the\\year\n\n\\vspace{1cm}\n\\fontsize{35}{40}\\selectfont Sangbog""")        #put the title for the songbook below the logo
+        elif name == "":
+            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont \\the\\year\n""")         #If name is empty, only show the year
         else:
             f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+"""\\\\\\the\\year\n""")         #put the title for the songbook below the logo
         f.write("""\\end{center}\n\\restoregeometry""")
