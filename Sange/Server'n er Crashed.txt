@@ -1,4 +1,5 @@
-\beginsong{Server'n er Crashed}[sr={Melodi:Backstreet Boys - I Want It That Way}
+\beginsong{Server'n er Crashed}%79
+[sr={Melodi:Backstreet Boys - I Want It That Way}
 ,
 by={DIKUrevy 2011}
 ,

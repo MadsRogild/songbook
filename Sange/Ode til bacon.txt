@@ -1,4 +1,5 @@
-\beginsong{Ode til bacon}[sr={Melodi: Backstreet boys -- I want it that way}
+\beginsong{Ode til bacon}%78
+[sr={Melodi: Backstreet boys -- I want it that way}
 ,
 by={Rasmus Fruergaard-Pedersen, Julerevy 2005}
 ,
