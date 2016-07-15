@@ -1,4 +1,5 @@
-﻿\beginsong{Ode til Analyse 1}[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
+﻿\beginsong{Ode til Analyse 1}%26
+[sr={Melodi: Shout -- Jeg tror det kaldes kærlighed}
 ,
 by={Matematikrevyen 2013}
 ,
