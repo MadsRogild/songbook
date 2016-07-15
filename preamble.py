@@ -58,7 +58,7 @@ def create_preamble(unf, camp, name, style, logo, empty, twosided):
     f.write("""\\documentclass[pdftex,12pt]{article}
 \\usepackage{latexsym,fancyhdr}\n""")
     if twosided:
-        f.write("""\\usepackage[a4paper,includeheadfoot,inner=1cm,outer=2cm,,top=2cm,bottom=2cm,twoside]{geometry}\n""")
+        f.write("""\\usepackage[a4paper,includeheadfoot,left=1.8cm,right=1.2cm,,top=2cm,bottom=2cm,twoside]{geometry}\n""")
     else:
         f.write("""\\usepackage[a4paper,includeheadfoot,margin=1.5cm,top=2cm,bottom=2cm]{geometry}\n""")
     f.write("""\\usepackage[lyric]{songs}
