@@ -1,6 +1,6 @@
 ﻿\beginsong{\TeX'e-sangen}[sr={Melodi: Sebastians Skatteøen - Ostesangen}
 ,
-by={MatematikRevy 2012}
+by={Matematikrevyen 2012}
 ,
 cr={}]
 \beginverse

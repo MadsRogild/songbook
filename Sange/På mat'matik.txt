@@ -1,6 +1,6 @@
 ﻿\beginsong{På mat'matik}[sr={Melodi: Den Lille Havfrue -- Havet er skønt}
 ,
-by={MatematikRevy 2007}
+by={Matematikrevyen 2007}
 ,
 cr={}]
 \beginverse

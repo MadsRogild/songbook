@@ -1,6 +1,6 @@
 ﻿\beginsong{Jeg er fysiker}[sr={Melodi: Monty Python - The Lumberjack Song}
 ,
-by={MatematikRevy 2007}
+by={Matematikrevyen 2007}
 ,
 cr={}]
 \beginverse

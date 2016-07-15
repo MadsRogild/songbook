@@ -1,6 +1,6 @@
 ﻿\beginsong{Få det læst}[sr={Melodi: The Beatles - Let it Be}
 ,
-by={MatematikRevy 2006}
+by={Matematikrevyen 2006}
 ,
 cr={}]
 \beginverse

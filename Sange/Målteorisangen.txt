@@ -1,6 +1,6 @@
 ﻿\beginsong{Målteorisangen}[sr={Melodi: Vi lister os afsted på tå}
 ,
-by={MatematikRevy 2006}
+by={Matematikrevyen 2006}
 ,
 cr={}]
 \beginverse

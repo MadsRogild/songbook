@@ -1,7 +1,7 @@
 ﻿\beginsong{Studiedag}%54
 [sr={Melodi: Hjemmebrænderiet}
 ,
-by={MatematikRevy 2012}
+by={Matematikrevyen 2012}
 ,
 cr={}]
 \beginverse

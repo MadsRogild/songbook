@@ -1,6 +1,6 @@
 ﻿\beginsong{Smukke ting ved mat'matik}[sr={Melodi: Pocahontas - Colours of the Wind}
 ,
-by={MatematikRevy 2008}
+by={Matematikrevyen 2008}
 ,
 cr={}]
 \beginverse
