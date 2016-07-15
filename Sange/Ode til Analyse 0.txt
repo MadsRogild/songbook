@@ -7,7 +7,7 @@ cr={}]
 \beginverse
 Når du skal
 Op til An0 eksamen, er det ikke forkert
-At ha’ styr på uniform kontinuert
+At ha' styr på uniform kontinuert
 Hvis du står
 Og skal til at forklare lidt om hovedsætning 3
 At bevise den det er jo ingen sag
@@ -20,7 +20,7 @@ Så husk blot denne sang
 
 \beginverse
 \emph{Når vi, når vi, når vi har epsilon givet
-Så vær’ ikke bange, for der’ noget du ved
+Så vær' ikke bange, for der' noget du ved
 Når vi, når vi, når vi har epsilon givet
 Findes der et delta at parere det med}
 \endverse
@@ -31,7 +31,7 @@ At bevise Bolzano, eller Riemanns integral
 (Vis) Begge to på samme tid helt uden pral
 Husk da bare
 At så får du brug for middelsummer og et I
-Trekantsulighed det’ noget vi ka’ li’
+Trekantsulighed det' noget vi ka' li'
 \endverse
 
 \beginverse
