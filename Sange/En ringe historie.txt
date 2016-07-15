@@ -1,0 +1,16 @@
+﻿\beginsong{En ringe historie}[sr={Melodi: Se den lille kattekilling}
+,
+by={Matematikrevyen 2012}
+,
+cr={}]
+\beginverse
+Betragt en lille abelsk ring -- bemærk, den kommuter'.
+Den har netop ét 0 og ét 1 og ikke mer'.
+Se, nu går den hen til $\mathbb C$ og indleder med ``Hej''.
+``Skal vi være isomorfe bare du og jeg?''
+``Nej, det vil jeg ikke. Du er tællelig min ven
+-- ikke på den seje måde som min homie $\mathbb N$.''
+Ingen ville lege med en ring der' triviel,
+så den måtte indgå automorfisk med sig selv.
+\endverse
+\endsong

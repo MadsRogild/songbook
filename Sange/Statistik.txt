@@ -1,0 +1,66 @@
+﻿\beginsong{Statistik}%71
+[sr={Melodi: Frozen -- Let It Go}
+,
+by={Matematikrevyen 2015}
+,
+cr={}]
+\beginverse
+Jeg ved ikke helt, hvad jeg skal gøre nu
+Ingen folk, der viser vej
+Det er jo en helt ny verden. Mon jeg tør? Åh nej!
+Jeg ønsker folk, de ikke ville dømme mig
+Nu vil jeg stå fast og være sej
+\endverse
+
+\beginverse
+Nu gi'r jeg slip, nu er jeg klar
+Ta'r en chance, det slut med algebra!
+Er modig nu, det skal nok gå
+Nu kan jeg få
+\endverse
+
+\beginverse
+Statistik, hvorfor ik'?
+Jeg elsker det som det er
+Statistik, ren logik
+Jeg vil bare gerne ha' mer'
+Mat'matik det er ikke for mig
+så nu vælger jeg
+at t-testning det er min rette vej
+\endverse
+
+\beginverse
+Når jeg ta'r min beslutning, er der ingen vej tilbag'
+Så er det slut med venner, fællesskab og fredagskag'
+Det bli'r farvel til mat'matik
+Og så goddag til statistik
+Farvel til skør geometri
+Jeg er fri!
+\endverse
+
+\beginverse
+Statistik, ren logik
+Jeg vælger, hvad der er bedst
+Statistik, kun teknik
+Nu bli'r mit liv en fest
+Når jeg står fast på, hvem jeg er
+Kan jeg klare mer'
+\endverse
+
+\beginverse
+En estimator, CLT og Theta-hat,
+Normalfordeling og et histogram er vores skat
+Min tvivl er væk og nu står kandidaten klar
+Vil aldrig vende rundt. Farvel til det der var!
+\endverse
+
+\beginverse
+Statistik, ren logik
+Jeg er klar til nye fag
+Statistik, nul kritik
+Det er fedt hver en'ste dag
+Så kom med, stud'et bli'r en leg
+Og du bliver sej,
+For R-kodning det er den sande vej!
+\endverse
+\endsong

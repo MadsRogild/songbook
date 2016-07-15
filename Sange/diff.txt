@@ -1,6 +1,6 @@
-\beginsong{Diff}[sr={Melodi:Aqua - Doctor Jones}
+﻿\beginsong{diff}[sr={Melodi:Aqua - Doctor Jones}
 ,
-by={ DIKUrevy 2013}
+by={DIKUrevy 2013}
 ,
 cr={}]
 \beginverse

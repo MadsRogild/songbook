@@ -1,6 +1,6 @@
-\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
+﻿\beginsong{Jeg' en nørd}[sr={Melodi: tema fra Pokémon}
 ,
-by={ FysikRevy 2010}
+by={FysikRevy 2010}
 ,
 cr={}]
 \beginverse
@@ -26,7 +26,7 @@ Jeg læser XKCD.
 \beginverse
 JEG’ EN NØRD!
 Skriiiiiiiver i \LaTeX
-og jeg tænder på dx.
+og jeg tænder på $dx$.
 
 \endverse
 \beginverse
@@ -65,7 +65,7 @@ Jeg læser XKCD.
 \beginverse
 JEG’ EN NØRD!
 Skriiiiiver i \LaTeX
-og jeg tænder på dx.
+og jeg tænder på $dx$.
 
 \endverse
 \beginverse

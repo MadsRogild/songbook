@@ -1,0 +1,40 @@
+﻿\beginsong{Sensommervisen}[sr={}
+,
+by={Kirsten og Finn Jørgensen}
+,
+cr={}]
+\beginverse
+Æbler lyser rødt på træernes grene,
+høsten går ind.
+Går igennem skoven ganske alene,
+stille i sind.
+\emph{Gyldne farver og sensommerbrise
+fylder hjertet med vemodig musik
+Går og nynner en sensommervise
+fjernt fra byens larmende trafik.}
+\endverse
+
+\beginverse
+Sommerbrisen danner krusning på søen,
+mystisk og sort.
+Stæreflokke svæver højt over øen
+snart ta'r de bort.
+\emph{Gyldne farver\ldots}
+\endverse
+
+\beginverse
+Duft af brænderøg blandt brunlige bregner,
+blåsorte bær.
+Stille summen mellem blade, som blegner
+aft'nen er nær.
+\emph{Gyldne farver\ldots}
+\endverse
+
+\beginverse
+Modne rønnebær bag dybgrønne grene
+rødt titter frem.
+Går igennem skoven ganske alene
+nu må jeg hjem!
+\emph{Gyldne farver\ldots}
+\endverse
+\endsong

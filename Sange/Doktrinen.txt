@@ -1,6 +1,6 @@
 \beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
 ,
-by={ DIKUrevy 2009}
+by={DIKUrevy 2009}
 ,
 cr={}]
 \beginverse

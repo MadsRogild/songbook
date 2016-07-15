@@ -1,6 +1,6 @@
 \beginsong{Q.E.D.}[sr={Melodi:Within Temptation - Our Solemn Hour}
 ,
-by={ FysikRevy  2010}
+by={FysikRevy  2010}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,6 @@
-\beginsong{Fulbert og Beatrice}[by={},
+﻿\beginsong{Fulbert og Beatrice}[by={},
 ,
-by=%{ MatematikRevy 2008}
+by={}
 ,
 cr={}]
 \beginverse
@@ -66,7 +66,7 @@ blev Fulbert ført til sin jomfrus bur.
 Og følget hvisked' om øm kurtice
 og skæmtsom puslen blandt dun og vår.
 For det var Fulbert og Beatrice,
-og Beatrice var tolv år.
+og Beatrice var ell've år.
 
 \endverse
 \beginverse
@@ -77,7 +77,7 @@ og sejrens palmer den sidste brød.
 Oh bejler, lær da af denne vise:
 Ød ej din kraft under krigens kår.
 Nej, spar potensen til Beatrice,
-når Beatrice er eleve år.
+når Beatrice er født i går.
 
 \endverse
 \endsong

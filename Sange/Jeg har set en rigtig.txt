@@ -1,6 +1,6 @@
-\beginsong{Jeg har set en rigtig .*}[sr={Melodi: Jeg har set en rigtig negermand}
+﻿\beginsong{Jeg har set en rigtig .*}[sr={Melodi: Jeg har set en rigtig negermand}
 ,
-by={ DIKUrevy/Sommerfest 2002}
+by={DIKUrevy/Sommerfest 2002}
 ,
 cr={}]
 \beginverse
@@ -34,9 +34,6 @@ Jeg har set en rigtig humanist.
 Han var knokleskæv og sikkert også kommunist.
 Så jeg spurgte hvad hans pensum var,
 og han kigged’ op og gav mig dette svar:
-
-\endverse
-\beginverse
 ``Til sommer skal jeg op i Anders And,
 et nummer af Fantomet og en Superman,
 og hvis en dag jeg vågner af min døs,

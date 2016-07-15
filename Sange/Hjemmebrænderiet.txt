@@ -1,0 +1,72 @@
+﻿\beginsong{Hjemmebrænderiet}%55
+[sr={}
+,
+by={De Gyldne Løver -- Variant: TÅGEKAMMERET}
+,
+cr={}]
+\beginverse
+Jeg bor her i Stenhøj i et skævt lille hus
+alene rent bortset fra rotter og mus,
+i gården et lokum og bagved et skur
+og i det stod mit brændevinsapparatur.
+Det syder af fusel og bobler af gær,
+din lever ta'r skade og øjet får stær,
+det smager som rævepis og terpentin,
+men det er billigt og så bli'r man fuld som et svin.
+\endverse
+
+\beginverse
+Min bedstemor brændte sin brændevin selv
+det slog både hende og manden ihjel,
+de drak aldrig selv, men for heden den dag
+brænderiet røg i luften med et helvedes brag.
+Von Vusel geschnurrt und von Gehre gestört,
+dein Liebchen macht scade und augen geschlört.
+Von Fuchspiss geschmächt, und von Scheisse geschoffen,
+Es ist billig und du wirst so wunderlich soffen.
+\endverse
+
+\beginverse
+Min fader han brændte i $67$ år,
+men så blev han snuppet af tolden i går,
+så moar har skaffet et nyt apparat
+og sat produktionen i gang i en fart.
+It’s seething like fussel and boiling like gear,
+your liver takes shade, and the eye may have stair.
+It’s tasting like foxpis and may be some ass,
+but it’s cheaper, and you will be drunk with a crash.
+\endverse
+
+\beginverse
+Det hænder jeg selv ta'r en ordentlig søp,
+mens jeg lytter til dråbernes sagte dryp, dryp.
+Det er som musik fra et fint instrument,
+for jeg ved det er sprit på omkring $60\%$.
+Kamsjatka fulaska boblinska gaeruska,
+dju lev skinavara na oeleski hi pip.
+Sja smakal urinos Breznjevski uhumsk,
+Sie lahanski virundski paagulski pladask.
+\endverse
+
+\beginverse
+Og hvis du har får lyst til at smage det selv,
+så kom kun til mig helst når dagen går på hæld,
+slå tre sla’v på ruden og stik mig en ti’r,
+så får du en sjat af min livseleksir.
+El bruso fusellos boblina gaerror,
+levino ituo, e cicco staesor.
+El taste pissare e Costa del Sol,
+nul monetos, e du havor ondt i din knold.
+\endverse
+
+\beginverse
+Mig bo ær i stenhøj i sø lille us.
+Alene maj sæl og et sø lille mus.
+Om ba ve dar ær 2iletter mæ brat.
+Og dær maj har gæmt mine spritapparat.
+Mig gæmmer det gåt, for policen ka li.
+Og maj ta i nakken ov sæn te Tyrki.
+Å det maj vær majet stor ked a fordi.
+Måske maj i fængelse stor lang ti skab li.
+\endverse
+\endsong

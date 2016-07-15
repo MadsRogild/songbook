@@ -1,6 +1,6 @@
 \beginsong{Thinkpad T40}[sr={Melodi: Roger and Over - Volvo B18-210}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse

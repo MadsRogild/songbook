@@ -1,0 +1,72 @@
+﻿\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}
+,
+by={Mona Holm og Marianne Bangsø, Julerevy 1987}
+,
+cr={}]
+\beginverse
+Husk: der skal skåles efter 4. vers -- hver gang!
+\endverse
+
+\beginverse
+På den 1. da’ i læseferien sa’ jeg til mig selv:
+Der er god tid, jeg pjækker i dag.
+\endverse
+
+\beginverse
+På den 2. da’ i læseferien\ldots
+Mat’matik er trist.
+\endverse
+
+\beginverse
+På den 3. da’ i læseferien\ldots
+Jeg er træt.
+\endverse
+
+\beginverse
+På den 4. da’ i læseferien\ldots
+Tror jeg går på druk.
+\endverse
+
+\beginverse
+På den 5. da’ i læseferien\ldots
+Åh, tømmermænd.
+\endverse
+
+\beginverse
+På den 6. da’ i læseferien\ldots
+Der er fest i aften.
+\endverse
+
+\beginverse
+På den 7. da’ i læseferien\ldots
+Hvor er min bog nu.
+\endverse
+
+\beginverse
+På den 8. da’ i læseferien\ldots
+Der' film i TV.
+\endverse
+
+\beginverse
+På den 9. da’ i læseferien\ldots
+Savner mine venner.
+\endverse
+
+\beginverse
+På den 10. da’ i læseferien\ldots
+Mon jeg kan nå det.
+\endverse
+
+\beginverse
+På den 11. da’ i læseferien\ldots
+Nu skal der læses.
+\endverse
+
+\beginverse
+På den 12. da’ i læseferien\ldots
+Gud, det' i morgen.
+\hspace{0em}\phantom{M}\vdots
+Mat’matik er trist.
+Så'n gik tiden -- jeg dumped' i dag!
+\endverse
+\endsong

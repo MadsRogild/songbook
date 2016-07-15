@@ -1,6 +1,6 @@
 \beginsong{Afrundingsfejl}[sr={Melodi: Shakira - Whenever, Wherever}
 ,
-by={ DIKUrevy 2015}
+by={DIKUrevy 2015}
 ,
 cr={}]
 \beginverse
@@ -15,7 +15,7 @@ cr={}]
         Der ses det frygteligt unormale
         Prisen vist med 8 decimaler
         Der er da vist brugt brudne tal der
-    
+
 
 \endverse
 \beginverse
@@ -23,14 +23,14 @@ cr={}]
         Nej, nej, nej, nej, nej, nej
         Det gi'r jo\ldots
         Afrundingsfe-ejl!
-     
+
 
 \endverse
 \beginverse
         Lidt over, lidt under
         Når du dit tal afrunder
         Du må ikke dividere
-        Brug dog et heltal hér! 
+        Brug dog et heltal hér!
 
 \endverse
 \beginverse
@@ -38,12 +38,12 @@ cr={}]
         Din præcision fordufter
         Tro nu ikke vi ej ser
         De floating point værdier
-    
+
 
 \endverse
 \beginverse
-        0,99997, 0,99997, 0,99997, 0,99997 
-    
+        0,99997, 0,99997, 0,99997, 0,99997
+
 
 \endverse
 \beginverse
@@ -58,7 +58,7 @@ cr={}]
         Ak, der begynder tillidssvigten
         Selvom beløbet er et heltal
         Er der fejl på ottende decimaltal
-     
+
 
 \endverse
 \beginverse
@@ -66,7 +66,7 @@ cr={}]
         Nej, nej, nej, nej, nej, nej
         Der er jo\ldots
         Afrundingsfe-ejl!
-    
+
 
 \endverse
 \beginverse
@@ -81,10 +81,10 @@ cr={}]
         Din præcision fordufter
         Tro nu ikke vi ej ser
         De floating point værdier
-    
-    
-        0,99997, 0,99997, 0,99997, 0,99997 
-    
+
+
+        0,99997, 0,99997, 0,99997, 0,99997
+
 
 \endverse
 \beginverse
@@ -99,7 +99,7 @@ cr={}]
         Pris bør gemmes i
         Typer med
         Fast præcisio-on!
-    
+
 
 \endverse
 \beginverse
@@ -114,7 +114,7 @@ cr={}]
         Fejlen den akkumulér'
         Tro ikke vi ej ser
         Dine floating point værdier
-    
+
 
 \endverse
 \beginverse

@@ -1,6 +1,6 @@
-\beginsong{Kvantepartiklen}[sr={Melodi: ShuBiDua - Den røde tråd}
+﻿\beginsong{Kvantepartiklen}[sr={Melodi: ShuBiDua - Den røde tråd}
 ,
-by={ FysikRevy 2014}
+by={FysikRevy 2014}
 ,
 cr={}]
 \beginverse
@@ -33,7 +33,6 @@ Jeg længes efter vished, efter sikkerhed.}
 
 \endverse
 \beginverse
-%
 Endli' fik jeg position,
 blev til en deltafunktion.
 Operator'n gav et sted.

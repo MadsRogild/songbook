@@ -1,6 +1,6 @@
-\beginsong{Så spiller vi spil}[sr={Melodi: Höhner - Viva Colonia}
+﻿\beginsong{Så spiller vi spil}[sr={Melodi: Höhner - Viva Colonia}
 ,
-by={ DIKUrevy 2006}
+by={DIKUrevy 2006}
 ,
 cr={}]
 \beginverse
@@ -57,8 +57,7 @@ hvis nu vi skal beståååååååå....
 
 \endverse
 \beginverse
-\emph{[Omkvæd, stille og langsomt stigende]
-Nu spiller vi spil\ldots}
+\emph{[Omkvæd, stille og langsomt stigende] Nu spiller vi spil\ldots}
 \emph{[Omkvæd] Så spiller vi spil\ldots}
 
 \endverse

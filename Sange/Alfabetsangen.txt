@@ -1,0 +1,27 @@
+﻿\beginsong{$\alpha\beta$-sangen}[sr={Melodi: I en kælder sort som kul}
+,
+by={Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+,
+cr={}]
+\beginverse
+$\alpha\ \beta\ \gamma\ \delta$\hspace{-2.5pt}\protect\colorbox{white}{\phantom{$\delta$}}
+\hspace{-2.5pt}$\delta$\hspace{-1.25em}\colorbox{white}{\phantom{$\delta$}}$\ \varepsilon\ \zeta$
+$\eta\ \theta\ \iota\ \kappa$\hspace{-2.5pt}\protect\colorbox{white}{\phantom{$\kappa$}}
+\hspace{-3pt}$\kappa$\hspace{-1.3em}\colorbox{white}{\phantom{$\kappa$}}$\ \lambda\ \mu\ \nu\ \xi$
+$o\ \pi\ \rho\ \sigma$
+$\tau\ \upsilon\ \varphi\ \chi\ \psi$
+$\omega$ er sidste
+$24$ på liste!
+\endverse
+
+\beginverse
+Alfa beta gamma del-
+ta epsilon zeta
+eta theta iota kap-
+pa lambda my ny ksi
+omikron pi rho sigma
+tau ypsilon phi chi psi
+omega er sidste
+fireogtyve på liste!
+\endverse
+\endsong

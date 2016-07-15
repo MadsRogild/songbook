@@ -1,0 +1,86 @@
+﻿\beginsong{Kringsatt av fiender}[sr={}
+,
+by={Tekst: Nordahl Grieg -- Melodi: Otto Mortensen}
+,
+cr={}]
+\beginverse
+Kringsatt av fiender, gå
+inn i din tid!
+Under en blodig storm,
+vi deg til strid!
+ Kanskje du spør i angst,
+udekket, åpen:
+ ``Hva skal jeg kjempe med,
+hva er mitt våpen?''
+\endverse
+
+\beginverse
+
+Her er ditt vern mot vold,
+her er ditt sverd:
+ troen på livet vårt,
+menneskets verd.
+ For all vår fremtids skyld,
+søk det og dyrk det,
+ dø om du må, men
+øk det og styrk det!
+\endverse
+
+\beginverse
+
+Stilt går granatenes
+glidende bånd.
+ Stans deres drift mot død,
+stans dem med ånd.
+ Krig er forakt for liv,
+fred er å skape.
+ Kast dine krefter inn,
+døden skal tape.
+\endverse
+
+\beginverse
+
+Elsk - og berik med drøm -
+alt stort som var.
+ Gå mot det ukjente,
+fravrist det svar!
+ Ubygde kraftverker,
+ukjente stjerner –
+ skap dem, med skånet livs
+dristige hjerner.
+\endverse
+
+\beginverse
+Edelt er mennesket,
+jorden er rik.
+ Finnes her nød og sult,
+skyldes det svik.
+ Knus det! I livets navn
+skal urett falle.
+ Solskinn og brød og ånd
+eies av alle.
+\endverse
+
+\beginverse
+Da synker våpnene
+maktesløs ned!
+ Skaper vi menneskeverd,
+skaper vi fred.
+ Den som med høyre arm
+bærer en byrde,
+ dyr og umistelig,
+kan ikke myrde.
+\endverse
+
+\beginverse
+
+Dette er løftet vårt
+fra bror til bror:
+ Vi vil bli gode mot
+menneskenes jord.
+ Vi vil ta vare på
+skjønnheten, varmen –
+ som om vi bar et barn
+varsomt på armen.
+\endverse
+\endsong

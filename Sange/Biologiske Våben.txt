@@ -1,6 +1,6 @@
-\beginsong{Biologiske Våben}[by={ MBKrevy 2012}
-sr={Melodi: Nordahl Grieg - Kringsav av fiender}
+\beginsong{Biologiske Våben}[by={MBKrevy 2012}
 ,
+sr={Melodi: Nordahl Grieg - Kringsav av fiender}
 ,
 cr={}]
 \beginverse

@@ -1,6 +1,7 @@
-\beginsong{$\lambda$-kalkylen}[sr={Melodi: The Llama Song}
+﻿\beginsong{$\lambda$-kalkylen}%23
+[sr={Melodi: The Llama Song}
 ,
-by={ DIKUrevy 2011}
+by={DIKUrevy 2011}
 ,
 cr={}]
 \beginverse
@@ -50,8 +51,7 @@ Jeg har kodet Brainfuck
 og dyrket lidt motion
 Jeg har været udenfor
 det var en perversion
-Jeg har skrevet kode fyldt med
-map og head og tail
+Jeg har skrevet kode fyldt med map og head og tail
 Nu vil jeg blive kandidat
 og gå ned med fail.
 

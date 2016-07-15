@@ -1,6 +1,6 @@
-\beginsong{Målteorisangen}[sr={Melodi: Vi lister os afsted på tå}
+﻿\beginsong{Målteorisangen}[sr={Melodi: Vi lister os afsted på tå}
 ,
-by={ MatematikRevy 2006}
+by={Matematikrevyen 2006}
 ,
 cr={}]
 \beginverse
@@ -37,8 +37,7 @@ både Flemming og Tage og Christian!
 
 \endverse
 \beginverse
-[Siges:] \emph{Arjjjj! Du må ikke måle på min}
-\emph{tissemand!}
+[Siges:] \emph{Arjjjj! Du må ikke måle på min tissemand!}
 \emph{Bare rolig, jeg bruger tællemålet.}
 Men hov, det kan jo ikke gå!
 Den her kan du ikke måle på!

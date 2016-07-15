@@ -1,0 +1,57 @@
+﻿\beginsong{Jeg er fysiker}[sr={Melodi: Monty Python - The Lumberjack Song}
+,
+by={Matematikrevyen 2007}
+,
+cr={}]
+\beginverse
+Jeg er fysiker og jeg er glad.
+Jeg kan min Schaums bog uden ad!
+\endverse
+
+\beginverse
+Han er fysiker og han er glad.
+Han kan sin Schaums bog uden ad!
+\endverse
+
+\beginverse
+Ampere her, promille der,
+jeg gør et Maple-plot.
+Jeg plotter i den farve,
+min kone si’r er flot!
+\endverse
+
+\beginverse
+Ampere her, \ldots
+\endverse
+
+\beginverse
+Han er fysiker \ldots
+\endverse
+
+\beginverse
+Eksperimentér, analyser,
+og spis en masse slik!
+Jeg læser en artikel,
+og leger med min rubikskube\ldots
+\endverse
+
+\beginverse
+Eksperimentér, \ldots
+\endverse
+
+\beginverse
+Jeg er fysiker, og jeg er fin.
+Jeg kan formlen for min urin!
+\endverse
+
+\beginverse
+Jeg rækkeudvikler på alt
+fordi det har jeg lært.
+Hvis blot jeg læste mat'matik
+som ham der Erik Kjær!
+\endverse
+
+\beginverse
+Han rækkeudvikler \ldots
+\endverse
+\endsong

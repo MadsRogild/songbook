@@ -1,0 +1,68 @@
+﻿\beginsong{Sangen om Nick}[sr={Melodi: Quangs sang}
+,
+by={}
+,
+cr={}]
+\beginverse
+Her er en historie om en fyr der hedder Nick.
+Han er tyve, bor på Ama'r, og han er ikke særligt kvik,
+for han læser ude på KUA, han er nemlig humanist.
+Og der er så mange piger -- hvorfor er han så så trist?
+\endverse
+
+\beginverse
+Og Nick han mener ikke at han er en doven rad,
+for han bruger hele dagen på at lære sine kvad.
+Og så går han til eksamen, men det går altid skidt.
+Så Nick han ville ønske at han var ham Kasper Smith.
+\endverse
+
+\beginverse
+\emph{Så hva' fanden får dig til at sige du ikke er tilfreds,
+at mat1GA det stinker, og dine lektier gi'r dig stress?
+Du har alt hvad du skal bruge, Søren Eilers han er sej.
+Der er tusind folk på KUA der ville ønske de var dig!}
+\endverse
+
+\beginverse
+Nick har ingen far mer' og hans mor er meget syg,
+så Nick må tjene penge inde i den store by.
+Ja, Nick han har et studiejob, man sku' tro at det var fake,
+for han oversætter tekster for TV3 til Ricki Lake.
+\endverse
+
+\beginverse
+\emph{Så hva' fanden får dig til at tro at jeg vil se dig sidde og glan'?
+Du sku' hell're ta' at bevæge dig ud i den komplekse plan.
+Du har vektorrum og Cauchy-Schwarz, Borel og Weierstra\ss.
+Husk på at ude på KUA der har de virk'lig keinen spa\ss!}
+\endverse
+
+\beginverse
+Og når det så er fredag, er der ingen fredagsbar.
+For han skal spare sine kræfter for at blive klar
+til at skrive stil om ferien, hvor der var trange kår
+med sin kæreste Anders Gaarde, som er 21 år.
+\endverse
+
+\beginverse
+\emph{Så hva' fanden får dig til at tro at jeg vil høre på dit brok:
+at du ikk' ka' li' din logik og ikk' får regnestykker nok.
+Du har Dilans og Caféen?, du har tid til hurlumhej.
+Der er tusind folk på KUA der ville ønske de var dig!}
+\endverse
+
+\beginverse
+En sesquilinearform den ved han intet om,
+og det er det der gør hans tilvær'ls' ååhh noget så tom.
+For Nick han ville så gerne have lært om noget stort,
+men det eneste han hører om er humaniora-lort!
+\endverse
+
+\beginverse
+\emph{Så hva' fanden får dig til at sige at du har et dårligt liv?
+Er du sød at prøve at se det i et større perspektiv?
+Tag og tænk på andre end dig selv, tag ved lære af en som Nick.
+Husk på du har det godt, når bare du læser mat'matik!}
+\endverse
+\endsong

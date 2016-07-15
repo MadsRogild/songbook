@@ -1,0 +1,47 @@
+﻿\beginsong{Få det læst}[sr={Melodi: The Beatles - Let it Be}
+,
+by={Matematikrevyen 2006}
+,
+cr={}]
+\beginverse
+Når jeg sidder og skal læse lektier bliver jeg en doven rad
+Jeg kan ikke ta’ det, få det læst!
+Jeg bliver så let lidt distraheret, tv, spil og aftensmad
+Ta’ dig nu lidt sammen, få det læst!
+\endverse
+
+\beginverse
+Få det læst, få det læst, få det læst, få det læst
+Ta’ dig nu lidt sammen, få det læst.
+\endverse
+
+\beginverse
+Jeg syn’s at matematik er herligt, frem for alle andre fag
+Så jeg bør jo kunne få det læst.
+Men der er andet man kan lave, drikke løs og fyr’ den af
+Jeg kan ikke klare det, få det læst!
+\endverse
+
+\beginverse
+Få det læst, få det læst, få det læst, få det læst!
+Jeg kan ikke klare det, få det læst.
+Få det læst, få det læst, få det læst, få det læst!
+Ta’ dig nu lidt sammen, få det læst.
+\endverse
+
+\beginverse
+Og selv når jeg har læseferie, går det ikke særlig nemt
+Venter til det sidste, få det læst!
+Men jeg er tvunget for at huske tusind ting som jeg har glemt
+Se nu på de formler, få det læst!
+\endverse
+
+\beginverse
+Få det læst, få det læst, få det læst, få det læst!
+Se nu på de formler, få det læst!
+Få det læst, få det læst, få det læst, få det læst!
+Ta’ dig nu lidt sammen, få det læst!
+Få det læst, få det læst, få det læst, få det læst!
+Hvis du vil bestå så få det læst!
+\endverse
+\endsong

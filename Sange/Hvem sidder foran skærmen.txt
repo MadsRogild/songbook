@@ -1,6 +1,7 @@
-\beginsong{Hvem sidder foran skærmen}[sr={Melodi: Jens Vejmand}
+﻿\beginsong{Hvem sidder foran skærmen}%64
+[sr={Melodi: Jens Vejmand}
 ,
-by={ FysikRevy 2001}
+by={FysikRevy 2001}
 ,
 cr={}]
 \beginverse
@@ -22,7 +23,7 @@ han fatter ik' en pind.
 \emph{Det er hans lillesøster,
 hun mangler sin BH;
 og datalogen ryster,
-det' ham der har den på}
+det' ham der har den på.}
 
 \endverse
 \endsong

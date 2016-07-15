@@ -1,0 +1,56 @@
+﻿\beginsong{Ode til Analyse 0}%25
+[sr={Melodi: ABBA -- Gimme! Gimme! Gimme! (Man After Midnight)}
+,
+by={Matematikrevyen 2015}
+,
+cr={}]
+\beginverse
+Når du skal
+Op til An0 eksamen, er det ikke forkert
+At ha' styr på uniform kontinuert
+Hvis du står
+Og skal til at forklare lidt om hovedsætning 3
+At bevise den det er jo ingen sag
+\endverse
+
+\beginverse
+Når slaget går igang
+Så husk blot denne sang
+\endverse
+
+\beginverse
+\emph{Når vi, når vi, når vi har epsilon givet
+Så vær' ikke bange, for der' noget du ved
+Når vi, når vi, når vi har epsilon givet
+Findes der et delta at parere det med}
+\endverse
+
+\beginverse
+Skal du til
+At bevise Bolzano, eller Riemanns integral
+(Vis) Begge to på samme tid helt uden pral
+Husk da bare
+At så får du brug for middelsummer og et I
+Trekantsulighed det' noget vi ka' li'
+\endverse
+
+\beginverse
+Når slaget går igang
+Så husk blot denne sang
+\endverse
+
+\beginverse
+\emph{Når vi, når vi, når vi\ldots}\rep{2}
+\endverse
+
+\beginverse
+Når slaget går igang
+Så husk blot denne sang
+\endverse
+
+\beginverse
+\emph{Når vi, når vi, når vi\ldots}\rep{2}
+\endverse
+
+
+\endsong

@@ -1,6 +1,6 @@
 \beginsong{Drop Nu Ud}[sr={Melodi:The Lion King - Be Prepared}
 ,
-by={ FysikRevy 2011}
+by={FysikRevy 2011}
 ,
 cr={}]
 \beginverse

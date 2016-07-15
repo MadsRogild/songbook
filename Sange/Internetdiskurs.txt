@@ -1,6 +1,6 @@
 \beginsong{Internetdiskurs}[sr={Melodi: 4 Non Blonde - What's Up}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse
@@ -51,7 +51,7 @@ Det er hå-årdt
 Åh min Gud, det er hå-årdt
 For folk de tager fejl
 På internettet!!
- 
+
 Alle de folk burd' bannes  fra   internet
 Men de plejer nu mest at banne mig
 Åh nej
@@ -86,7 +86,7 @@ giver til sidst op i afmagt
 \beginverse
 Nu er der kun én side som er rar
 og man får karma for at vær' en nar
-åh ja... 
+åh ja...
 Hurra for Reddit
 
 \endverse

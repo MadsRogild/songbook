@@ -1,0 +1,69 @@
+﻿\beginsong{Fuck mit liv}
+[sr={Melodi: Bon Jovi -- It's My Life}
+,
+by={Matematikrevyen 2015}
+,
+cr={}]
+\beginverse
+Dette er en emosang, yeah
+Så pas nu på, for den kan godt bli' lang, yeah
+Jeg har lige været ind' på KUnet Home
+Ville melde mig til kurser, men så crashed' eduroam
+\endverse
+
+\beginverse
+Fuck mit liv - og fuck mit studie
+Ved ik' hvordan jeg ka' bru' det
+Jeg vil meget heller' droppe ud
+[Kor:] Drop nu uuuuud
+Jeg trod' bar' vi sku' lægge sammen,
+At mat'matik var fryd og gammen,
+Dropper ud for byrden er massiv
+Fuck mit liv!
+\endverse
+
+\beginverse
+Jeg kan ikke finde ud af \TeX
+Og studiegruppen - den er helt væk
+I morgen bliver værre - der' lynopgav'
+Jeg kan ikke printe - det skrev SCIENCE i et brev
+\endverse
+
+\beginverse
+Fuck mit liv - og fuck mit studie
+Ved ik' hvordan jeg ka' brug' det
+Nu ska' jeg igen til reeksam'
+[Kor:] Det' på Life
+Har ikke fået forberedt mig
+Glemt alle sider med notater
+Frygter prøven bliver intensiv
+Fuck mit liv!
+\endverse
+
+\beginverse
+Lyt til mit råd - jeg er ikk' et udskud
+Drop MATH, drop stress, baby, drop nu uuud!
+\endverse
+
+\beginverse
+FUCK mit liv - og fuck mit studie
+Ved ik' hvordan jeg ka' bru' det
+Jeg vil bare hæve min SU
+[Kor:] Du spilder klip
+Kollegiet vil ha' mig opsagt
+Er offer for de andres klapjagt (Kan ikke li' min emo-hårpragt)
+Flytter hjem til mormors kollektiv
+FUCK - MIT - LIV
+\endverse
+
+\beginverse
+Og fuck mit studie
+Jeg dropper ud - ka' ikke brug' det
+Nu si'r jeg farvel til HCØ.
+[Kor:] Kom ik' igen!
+Ser frem til frihed og lidt opdrift
+Men hov - hvad er nu det med fremdrift?
+Tvangstilmeldt per rektors direktiv
+FUCK - MIT - LIV!
+\endverse
+\endsong

@@ -1,0 +1,47 @@
+﻿\beginsong{Midsommervisen -- Vi elsker vort land}[sr={}
+,
+by={Holger Drachmann}
+,
+cr={}]
+\beginverse
+Vi elsker vort land,
+når den signede jul
+tænder stjernen i træet med glans i hvert øje,
+når om våren hver fugl
+over mark, under strand
+lader stemmen til hilsende triller sig bøje:
+vi synger din lov over vej, over gade,
+vi kranser dit navn, når vor høst er i lade;
+\lrep men den skønneste krans
+bli’r dog din, Sankte Hans!
+den er bundet af sommerens hjerter så varme, så glade.\rrep
+\endverse
+
+\beginverse
+Vi elsker vort land,
+men ved midsommer mest,
+når hver sky over marken velsignelser sender,
+når af blomster er flest,
+og når kvæget i spand
+giver rigeligst gave til flittige hænder!
+når ikke vi pløjer og harver og tromler,
+når koen sin middag i kløveren gumler:
+\lrep da gå ungdom til dans
+på dit bud, Sankte Hans!
+ret som føllet og lammet, der frit over engen sig tumler.\rrep
+\endverse
+
+\beginverse
+Vi elsker vort land,
+og med sværdet i hånd
+skal hver udenvælts fjende beredte os kende,
+men mod ufredens ånd
+over mark, under strand
+vil vi bålet på fædrenes gravhøje tænde:
+Hver by har sin heks og hvert sogn sine trolde,
+dem vil vi fra livet ved glædesblus holde;
+\lrep vi vil fred hertillands,
+Sankte Hans, Sankte Hans!
+den kan vindes, hvor hjerterne aldrig bli’r tvivlende kolde!\rrep
+\endverse
+\endsong
