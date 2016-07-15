@@ -1,4 +1,5 @@
-﻿\beginsong{Statistik}[sr={Melodi: Frozen -- Let It Go}
+﻿\beginsong{Statistik}&71
+[sr={Melodi: Frozen -- Let It Go}
 ,
 by={Matematikrevyen 2015}
 ,

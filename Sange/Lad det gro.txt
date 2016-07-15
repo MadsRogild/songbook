@@ -1,4 +1,5 @@
-\beginsong{Lad det gro}[sr={Melodi:Frozen - Let It Go}
+﻿\beginsong{Lad det gro}%70
+[sr={Melodi:Frozen - Let It Go}
 ,
 by={DIKUrevy 2014}
 ,
