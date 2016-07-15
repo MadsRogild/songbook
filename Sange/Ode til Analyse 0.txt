@@ -1,5 +1,5 @@
 ﻿\beginsong{Ode til Analyse 0}%25
-[sr={Melodi: ABBA - Gimme! Gimme! Gimme! (Man After Midnight)}
+[sr={Melodi: ABBA -- Gimme! Gimme! Gimme! (Man After Midnight)}
 ,
 by={Matematikrevyen 2015}
 ,

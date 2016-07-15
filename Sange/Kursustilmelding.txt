@@ -1,5 +1,5 @@
 ﻿\beginsong{Kursustilmelding}
-[sr={Melodi: Christian Brøns − Du kan gøre hvad du vil}
+[sr={Melodi: Christian Brøns -- Du kan gøre hvad du vil}
 ,
 by={Matematikrevyen 2015}
 ,
