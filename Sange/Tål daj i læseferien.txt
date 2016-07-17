@@ -1,0 +1,49 @@
+\beginsong{Tål daj i læseferien}[sr={Melodi: The Twelve Days of Christmas}
+,
+by={ Julerevy 1987}
+,
+cr={}]
+\beginverse
+		da' i læseferien sa' jeg til mig selv
+		der er god tid, jeg pjækker i dag
+
+\endverse
+\beginverse
+		da'...
+		Mat'matik er trist
+\endverse
+\beginverse
+		Jeg er træt
+\endverse
+\beginverse
+		Tror jeg går på druk
+\endverse
+\beginverse
+		Åh, tømmermænd
+\endverse
+\beginverse
+		Der er fest i aften
+\endverse
+\beginverse
+		Hvor er min bog nu?
+\endverse
+\beginverse
+		Der' film i TV
+\endverse
+\beginverse
+		Savner mine venner
+\endverse
+\beginverse
+		Mon jeg kan nå det
+\endverse
+\beginverse
+		Nu skal der læses
+\endverse
+\beginverse
+		Gud, det' i morgen
+		.
+		.
+		.
+		Så'n gik tiden - jeg dumped' i dag!
+\endverse
+\endsong

@@ -1,0 +1,81 @@
+\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} %11
+,
+by={ FysikRevy 2016}
+,
+cr={}]
+\beginverse
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Nobody likes the poisson distribution
+		Binomial is worse and we need a solution, what's the solution?
+		N is big, P is small, you will see, your data will set you free
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		(Wooo)
+		3, 2, 1. Go
+\endverse
+\beginverse	
+		Barlow and Taylor, they're just awesome
+		Stat. made easy 'cause everything is Gaussian!
+		Take the limit, N to infinity
+		Convergence is guaranteed thanks to entropy
+\endverse
+\beginverse	
+		I drew some awesome super pretty Gaussians
+		Put my data into histograms
+		while I listen to my favorit' jams
+		Fittin' all the functions, everything is gaussian
+		Changed the axes, got a new view
+		It's gaussian to fit, and it's gaussian to do (It's gaussian to do)
+\endverse
+\beginverse	
+		Nobody likes the poisson distribution
+		Binomial is worse and we need a solution, what's solution?
+		N is big, P is small, you will see, your data will set you free
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you measure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Bell curves, height of kings
+		We just named two gaussian things
+		Women's shoe size', table lengths
+		You know what's gaussian? EVERYTHING!
+\endverse
+\beginverse	
+		IQ tests, velocities,
+		Number of people's allergies
+		Wolfowitz' and Chi square test
+		gasssian items are the best!
+\endverse
+\beginverse	
+		Bells, Hills, Mills,
+		They're gaussian
+		Socks, Clocks and Rocks
+		They're gaussian!
+		Per Hede-gård
+		He's gaussian!
+		Everything you see, or think, or say
+		Is gaussian!
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you meassure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\beginverse	
+		Everything is gaussian
+		Everything you meassure has a width and a mean
+		Everything is gaussian: central limit theorem
+\endverse
+\endsong

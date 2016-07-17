@@ -1,0 +1,80 @@
+\beginsong{ScienceCamps}[sr={Melodi: Pokémon} %5
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+		Jeg drager ud på livets vej
+		Jeg har et enkelt mål
+		ScienceCamps afholder jeg
+		Min vilje er af stål!
+\endverse
+\beginverse
+		Starter ud på Chemisty
+		Og ta’r så til Fysik
+		GDC og medico
+		derefter matematik
+\endverse
+\beginverse
+		ScienceCamps, jeg kan klare dem!
+		Multitasking er mit lod
+		4 camps -åhh jeg elsker det
+		bare sommer’n bli’r ved og ved
+\endverse
+\beginverse
+		4 camps, jeg ka’ klare det,
+		det kræver bare koffein
+		Jeg vil bare hjælpe til!
+		ScienceCamps - kan jeg klare dem?
+		Jeg kan klare dem!
+\endverse
+\beginverse
+		Socialt ansvar på nanocamp
+		Kasserer på SDC
+		Fagligt team og så PR
+		Koordinators vilje ske!
+\endverse
+\beginverse
+		Første uge er ovre nu
+		Ser frem til kriminal
+		Astro, Show og CSC
+		Det bliver fænomenalt!
+\endverse
+\beginverse
+		13 camps, jeg skal klare det!
+		måske det er lidt hårdt
+		20 camps,ååh, Discovery!
+		Jeg skal smadre den rekord!
+\endverse
+\beginverse
+		40 camps, jeg har brug for hjælp!
+		Jeg mangler stadig CSI!
+		robodays og futureweek
+		medicin, jeg skal bruge det!
+\endverse
+\beginverse
+		Når presset det bliver alt for stort
+		og jeg går psykisk ned
+		Så tager jeg bare en ekstra camp
+		for jeg bliver ved og ved!
+\endverse
+\beginverse
+		Min psykolog, han siger stop!
+		- min læge ligeså
+		Men jeg mangler biotech
+		Den må jeg lige på!
+\endverse
+\beginverse
+		100 camps, alle skal jeg nå!
+		Det er det jeg duer til
+		1000 camps,åh medicinal
+		Robot og ISSC
+\endverse
+\beginverse
+		Alle camps, åh, jeg er lidt træt
+		Men stemmerne bliver ved og ved
+		Næsteår, der står jeg klar!
+		ScienceCamps, jeg kan klare dem,
+		kan jeg klare dem? ScienceCamps
+\endverse
+\endsong

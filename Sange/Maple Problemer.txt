@@ -1,0 +1,78 @@
+\beginsong{Maple Problemer}[sr={Melodi: Gimme Gimme Gimme} %28
+,
+by={ PF Revy 2016}
+,
+cr={}]
+\beginverse
+        Klokken halv et
+		Mat1 afleveringen skal
+		uploades snart
+		Men mit hoved kan ikke tænke klart
+		Restart; with(plots)
+		Mit Maple det fucker og
+		min kode ligner snavs
+		Hvordan var det nu jeg
+		brugte Stokes og Gauss?
+\endverse
+\beginverse
+        Der' ingen hjælp at få
+		Min hjerne går i stå
+\endverse
+\beginverse
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Jeg har prøvet simplify
+		men det hjælper ikk'
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Facit er forskelligt fra
+		det svar som jeg fik.
+\endverse
+\beginverse
+        Flere warnings
+		Et semikolon mangler
+		Du går helt fra dig selv
+		Regn det nu for fanden ud alligevel
+		Evalf(\%)
+		Har glemt min Jacobi
+		integralet går amok
+		Dsolve si'r der ikk' er ubekendte nok
+\endverse
+\beginverse
+        Der' ingen hjælp at få
+		Min hjerne går i stå
+\endverse
+\beginverse
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Hvordan laver jeg
+		Taylor-approksimation?
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Implicitplot3d gi'r mig stor frustration
+\endverse
+\beginverse
+        Der' ingen hjælp at få
+		Min hjerne går i stå
+\endverse
+\beginverse
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Jeg har prøvet simplify
+		men det hjælper ikk'
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Facit er forskelligt fra
+		det svar som jeg fik.
+\endverse
+\beginverse
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Jeg har prøvet simplify
+		men det hjælper ikk'
+		Gi' mig gi' mig gi' mig
+		noget hjælp til mit Maple
+		Facit er forskelligt fra
+		det svar som jeg fik.
+\endverse
+\endsong

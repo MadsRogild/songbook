@@ -1,0 +1,52 @@
+\beginsong{A-kraft}[sr={Melodi: Ducktales}
+,
+by={ FysikRevy 2014}
+,
+cr={}]
+\beginverse
+        Vil du vær' en rigtig mand,
+		Skal du bruge
+		Sværd og laser, ild og vand
+		Du skal true!
+		Men vil du mere
+		Skal du eksplodere!
+\endverse
+\beginverse
+        A-kraft!
+		Whoo-oo!
+		Vil du være verdenshersker?
+		A-kraft!
+		Whoo-oo!
+		Her er ikke plads til nej, kun j-A-kraft!
+\endverse
+\beginverse
+		Det er både rent og nyttigt
+		Naturgode!
+		Derfor skal det bruges flittigt
+		For vor klode
+		Og affaldsstoffet
+		Gi'r lys til folket
+\endverse
+\beginverse
+        A-kraft!
+		Whoo-oo!
+		Vil du være verdenshersker?
+		A-kraft!
+		Whoo-oo!
+		Her er ikke plads til nej, kun j-A-kraft!
+\endverse
+\beginverse
+		Og hvis din bombe ik' vil sprænge
+		Så skal du ikke vente længe
+		Du skal bare bruge lidt mere
+		A-kraft!
+		||:Whoo-oo!
+		Vil du være verdenshersker?
+		A-kraft!
+		Whoo-oo!
+		Her er ikke plads til nej, kun j-A-kraft!:||
+		Whoo-oo!
+		Ikke vindkraft eller kulkraft
+		A-kraft!
+\endverse
+\endsong

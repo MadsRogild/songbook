@@ -1,0 +1,73 @@
+\beginsong{Forever kvant}[sr={Melodi: Forever Young} %33
+,
+by={ FysikRevy 2011}
+,
+cr={}]
+\beginverse
+		Jeg er til revy, det er min første gang,
+		tiden til Kvant 1 den virker pludselig lang.
+		Jeg griner med for jeg synes det' flovt,
+		at jeg ik' forstår at kvant er sjovt.
+\endverse
+\beginverse		
+		Jeg skråler med på ``Kvanter i måneskin'',
+		men egentlig så fatter jeg ik' en pind.
+		Ja, jeg kan hverken regne ud eller ind
+		på energi og kvantespin.
+\endverse
+\beginverse		
+		Tænk at forstå blot en enkel sang,
+		grine af en sketch blot en enkel gang,
+		vide hvem Per Hedegård egentlig er.
+		De andre griner,
+		men jeg
+\endverse
+\beginverse		
+		forstår det ik',
+		før jeg får kvantemekanik!
+		Alle andre griner højt omkring mig,
+		men ik' mig,
+		men ik' mig!
+\endverse
+\beginverse		
+		Forstår det ik',
+		før jeg får kvantemekanik!
+		Hva' en hæveoperator egentlig?
+		Jeg ved det ik'.
+\endverse
+\beginverse		
+		Newtons tre love kan jeg godt forstå,
+		og termodynamik ku' jeg bestå.
+		Jeg har før hørt om Schrödinger, men
+		hvem er Hr. Milton? (Hamilton)
+\endverse
+\beginverse		
+		Sku' lære LinAlg, men ved ikke hvorfor.
+		Er deltafunktion noget jeg får brug for?
+		Hvordan kan tid være imaginær?
+		Og hvor er det der Hilbertrum?
+\endverse
+\beginverse		
+		Kan bra og ket hjælpe med at projicer'?
+		Hvad sker der når man pertuberer mer'?
+		Hvor'n er det at kvante i måneskin?
+		Er jeg til grin?
+\endverse
+\beginverse		
+		Forstår det ik',
+		før jeg får kvantemekanik!
+		Alle andre griner højt omkring mig,
+		men ik' mig,
+		men ik' mig!
+\endverse
+\beginverse		
+		Forstår det ik',
+		før jeg får kvantemekanik!
+		Alle andre griner højt omkring mig,
+		men ik' mig,
+		men ik' mig!
+		Forstår det ik',
+		for jeg har ik' haft nok fysik.
+		Ikke nok til FysikRevyen.
+\endverse
+\endsong

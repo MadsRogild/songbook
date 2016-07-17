@@ -1,0 +1,42 @@
+\beginsong{Mat'matik}[sr={Melodi: Tema fra Bubbi-bjørnene} %6
+,
+by={ FysikRevy 2008}
+,
+cr={}]
+\beginverse
+	Vektorfunktioner i tre dimensioner
+	skal opereres med curl og divergens.
+	$\nabla$\textsuperscript{2} gir koldsved på panden;
+	planintegraler er en pestilens.
+\endverse
+\beginverse
+	Mat'matik
+	strider ofte mod enhver logik;
+	men har du elektrodynamik,
+	så skal du ku' mat'matik.
+\endverse
+\beginverse
+	Kan en hermitisk og injektiv matrix
+	ha' negativ trace men en nul-determinant?
+	Solovej siger dens egenværdier
+	vil være reelle, men er det mon sandt?
+\endverse
+\beginverse
+	Mat'matik
+	strider ofte mod enhver logik;
+	men hvis du har kvantemekanik,
+	så skal du ku' mat'matik.
+\endverse
+\beginverse
+	$T_a$ vil gi' $SU$(3)-symmetri,
+	og Lagrange-operator'n er Gauge-invariant.
+	Når operator'ne virker på kvarkerne,
+	får de en farve og smagen af kvant
+\endverse
+\beginverse
+	Mat'matik
+	strider ofte mod enhver logik;
+	men i kvantekromodynamik,
+	så skal du ku' mat'matik.
+\endverse
+\endsong

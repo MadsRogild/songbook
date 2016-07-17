@@ -1,0 +1,86 @@
+\beginsong{YBCO}[sr={Melodi: YMCA}%15
+,
+by={ FysikRevy 2010}
+,
+cr={}]
+\beginverse
+		Kobber
+		Har en høj konduktans
+		Den er over
+		Aluminium og vands
+		Men jeg lover
+		Der' en anden substans
+		Der har bedre ledningsevne
+\endverse
+\beginverse		
+		Bruger
+		Du elektromagnet-er
+		Så sluger
+		De elektricitet
+		Hvis du gruer
+		For et højt strømforbrug
+		Bør du lytte til vort råd nu:
+\endverse
+\beginverse			
+		Det' bedst at lede med
+		Y-B-C-O
+		Det' bedst at lede med
+		Y-B-C-O
+		Tog kan flyve omkring
+		Det er superledning
+		Cooperpar med magnonkobling
+\endverse
+\beginverse			
+		Det' bedst at lede med
+		Y-B-C-O
+		Det' bedst at lede med
+		Y-B-C-O
+		BCS teori
+		Bruges ikke fordi
+		Der' for høj termisk energi
+\endverse
+\beginverse			
+		Super-
+		Ledning ku' ik' forklares før
+		Cooper
+		Og BS de fandt svaret, der
+		Duer
+		For alt af type 1, men blandt type 2 er YBCO
+\endverse
+\beginverse			
+		Yttrium
+		Som er kendt fra TV (og med)
+		Barium
+		Dobbelt mængde af det (og lidt)
+		Kobber
+		Dopet med oxygen
+		Og en RØVFULD FLYD'NE KVÆLSTOF!
+\endverse
+\beginverse			
+		Det' bedst at lede med
+		Y-B-C-O
+		Det' bedst at lede med
+		Y-B-C-O
+		Tog kan flyve omkring
+		Det er superledning
+		Cooperpar med magnonkobling
+\endverse
+\beginverse			
+		Det' bedst at lede med
+		Y-B-C-O
+		Det' bedst at lede med
+		Y-B-C-O
+		BCS teori
+		Bruges ikke fordi
+		Der' for høj termisk energi
+\endverse
+\beginverse			
+		Det' bedst at lede med
+		Y-B-C-O
+		Det' bedst at lede med
+		Y-B-C-O
+		Superledning er vildt
+		$T_C$ styrer vi snildt
+		Med elektronacceptator ilt
+\endverse
+\endsong

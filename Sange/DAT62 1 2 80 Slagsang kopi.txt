@@ -1,0 +1,27 @@
+\beginsong{DAT62(1/2)80 Slagsang}[sr={Melodi:Fy Fy Skamme Skamme - McEwan og Ingerslev}
+,
+by={ Fra en eller anden rustur}
+,
+cr={}]
+\beginverse
+Må vi spy i datamaten,
+må vi tæve den med køller
+må vi smadre automaten
+for at få en masse øller
+må vi gå til forelæsning
+i DIKUs høje sale
+må vi råbe øv og foo og bar
+og håndkøre som gale
+\endverse
+\beginverse
+Ja ja ja ja ja - det må vi gerne
+Ørhn Ørhn hent hent skål skål spy spy
+toogtredshalvfirs hent skål skål spy spy
+- det var flot!
+\endverse
+\beginverse
+Ja det må vi godt!
+
+
+\endverse
+\endsong

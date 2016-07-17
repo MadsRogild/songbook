@@ -1,0 +1,32 @@
+\beginsong{Jeg elsker science}[sr={Melodi: I Will Survive, Gloria Gaynor}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+Først så var jeg bange, jeg var skrækslagen
+Jeg tænkte, det lød ligeså skrækkeligt som et stræklagen
+Og jeg sad søvnløs hele natten, stirred’ tomt ind i min pejs
+Før hed det naturvidenskab, nu skal man sige “science”
+\endverse
+\beginverse
+Syntes det var dumt - noget rigtigt lort
+Men nu der ingen vej tilbage, “science” er det nye sort.
+Jeg skulle ha sagt noget eller gjort noget, eller gået i protest
+Men sket er sket, og science er jo dansk når det er bedst
+\endverse
+\beginverse
+Det’ ikk’ så slemt, og egentlig nemt
+Syv bogstaver? Det enkelt og bekvemt
+Hvorfor skal man slæbe rundt på gamle danske ord?
+Alle snakker engelsk nu, ligegyldigt hvor de bor.
+\endverse
+\beginverse
+Jeg elsker science, jeg elsker science!
+Fysik, kemi, biologi
+det er jo alt for nice.
+Matematik, geologi
+og medicinsk teknologi, jeg elsker science
+Jeg elsker science!
+\endverse
+\endsong

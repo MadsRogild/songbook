@@ -1,0 +1,77 @@
+\beginsong{$\chi$fitter}[sr={Melodi: Kickflipper}
+,
+by={ FysikRevy 2011}
+,
+cr={}]
+\beginverse
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi $\chi$fitter yeah!
+\endverse
+\beginverse				
+			Mig og alle gutterne sætter attributterne
+			På fittet som I ser, de bedste startværdier
+			Du bliver altid mobbet, hvis dataen er flobbet
+			Vil fittet konvergere, når løkken itererer
+\endverse
+\beginverse				
+			Usikkerheden stiger på mine fitværdier
+			Mit $\chi$-kvadrat er stort, det' noget lort (Det' noget lort!)
+\endverse
+\beginverse				
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi...
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi $\chi$fitter yeah!
+\endverse
+\beginverse				
+			P-værdi fortæller om vores fitmodeller
+			Beskriver data godt, om plottet det bliver flot
+			$\chi$-kvadratet minimer', rutinen sørger for det sker
+			Syns' du jeg er dum, tjek mit parameterrum
+\endverse
+\beginverse				
+			Usikkerheden stiger på mine fitværdier
+			Mit $\chi$-kvadrat er stort, det' noget lort (Det' noget lort!)
+\endverse
+\beginverse				
+			Usikkerheden stiger på mine fitværdier
+			Mit $\chi$-kvadrat er stort, ligesom din mor (Større end din mor!)
+\endverse
+\beginverse				
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi...
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi $\chi$fitter yeah!
+\endverse
+\beginverse				
+			Åh Troels, jeg er bare så træt af at fitte.
+\endverse
+\beginverse				
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi...
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi...
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi...
+			$\chi$fitter vildt (Yeah!)
+			$\chi$fitter snildt (Yeah!)
+			$\chi$fitter højt (Øv!)
+			Ikke for at blære, men vi $\chi$fitter yeah!
+\endverse
+\endsong

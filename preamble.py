@@ -99,10 +99,14 @@ def create_preamble(unf, camp, name, style, logo, empty):
 \\phantom{test}
 \\vspace{1cm}\n""")          
         if """.svg""" in logo:
-            scale_height = 736.75 / height_l
-            scale_width = 460.625 / width_l
-            scale = (min(scale_height, scale_width)) - 0.15         #calculate how much the logo can be scaled
-            f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+file_name+"""}}\n""")       #include the logo in the tex file and scale it
+            scale_height = 1122.519685 / height_l
+            scale_width = 718.110236 / width_l
+            scale = (min(scale_height, scale_width))         #calculate how much the logo can be scaled
+            new_height = scale*height_l
+            new_width = scale*width_l
+            cut = (1122.519685 - new_height) * 0.264583
+            cut_left = (718.110236 - new_width) * 0.264583
+            f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+""", trim = """  + str(cut_left) + """mm """  + str(cut) + """mm 0mm """  + str(cut/2) + """mm, clip]{"""+file_name+"""}}\n""")       #include the logo in the tex file and scale it
         elif """.jpg""" in logo or """.png""" in logo:      #if its not a vector graphic image
             img = Image.open(logo)
             width, height = img.size            #get the height and width of the image
