@@ -54,4 +54,22 @@
   \else\@ctrerr\fi$
 }
 
+\newcommand*{\shiftedpage}[1]{% Page counter that can be shifted by Fulbert og Beatrice without disturbing the underlying ``page'' counter. Uses the style stored in \countstyle and the offset in pageoffset.
+    \@shiftedpage\csname c@#1\endcsname%
+}
+
+\newcommand*{\@shiftedpage}[1]{%
+    \@@shiftedpage{\number #1}{\number \c@pageoffset}%
+}
+
+\newcount \@shiftedcount
+\newcount \@shiftedoffset
+\DeclareRobustCommand{\@@shiftedpage}[2]{%
+    \@shiftedcount #1%
+    \@shiftedoffset #2%
+    \advance\@shiftedcount by\@shiftedoffset%
+    \csname @\countstyle\endcsname{\@shiftedcount}%
+}
+
+
 \makeatother

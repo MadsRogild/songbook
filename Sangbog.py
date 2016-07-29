@@ -6,7 +6,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
+def create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -21,7 +21,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     elif style == "oct":
         style = "octX"
 
-    preamble.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
+    preamble.create_preamble(unf, camp, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
             sang = open("""Sange/"""+fil, 'r')
@@ -85,13 +85,12 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 \\setcounter{songnum}{12}"""        #set a counter to the current song number, and force the song number to be 12, all done in latex
                     end += """
 \\setcounter{songnum}{\\thetemp}"""         #change the song number back to the original
-                start += """\\setcounter{temppage}{\\value{page}}       
-\\pagenumbering{arabic}
-\\setcounter{page}{10}"""           #set counter to the current page number, change the pagenumbering to arabic and change the page number to 10
+                start += """\\renewcommand{\\thepage}{10}
+\\addtocounter{pageoffset}{-1}"""           #Set page number to 10 and shift remaining page numbers by 1
                 text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """
 \\newpage
 """ + end           #put all the pieces together and make a hypertarget for use in pagereferences ind indexing
-                next_page = 2
+                next_page = 1
             elif title == "I Morgen er Verden Vor" and (songs.index(tup) != 42):
                 text = """\\setcounter{temp}{\\thesongnum}
 \\setcounter{songnum}{42}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n" + text[j+1:] + """
@@ -109,13 +108,31 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                     if """renew""" in style:
                         text += """""" + style + """\n"""
                     else:
-                        text += """\\pagenumbering{""" + style + """}\n"""          #change the style back to the set style
-                    text += """\\setcounter{page}{\\value{temppage}}\n"""       #and change the pagenumber back to what it was
+                        text += """\\setcounter{temppage}{\\value{page}}\n\\pagenumbering{shiftedpage}\n\\setcounter{page}{\\value{temppage}}"""          #change the style back to the set style, using temppage to avoid the fact that pagenumbering resets page.
+                    text += """\n"""       #and change the pagenumber back to what it was
             f.write("""\n""" + text + """\n""")
             counter += 1
 
 
-    f.write("""\n\\end{songs}
+    f.write("""\n\\end{songs}""")
+    if twosided:
+        f.write("""\\makeatletter
+\\newcount\\divFour
+\\divFour \\c@page
+\\divide\\divFour by 4
+\\multiply\\divFour by 4
+\\advance\\divFour by-\\c@page
+\\edef\\remainFour{\\the\\divFour}
+\\ifnum\\remainFour = 0
+  \\clearpage\\null\\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -1
+  \\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -2
+  \\clearpage\\null
+\\fi\\fi\\fi""")
+    f.write("""
+\\newgeometry{margin=2cm,top=2cm,bottom=2cm}
+\\setlength{\\headwidth}{\\textwidth}
 \\showindex[2]{Sange}{titleidx}
 \\end{document}""")                 #add the index
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
@@ -147,11 +164,12 @@ def main(argv):
     new_style = ""      #the new style to be defined
     unf = False         #if its for UNF or not
     empty = False       #if you want a front page or not
+    twosided = False       #if you want twosided for book print or not
     logo = ""           #the file containing the logo for the front page
     sort = False
     fixed = False
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sf",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed"])     
+        opts, args = getopt.getopt(argv,"hucetp:s:n:l:Sf",["help","unf","camp","empty","twosided","new_style=","style=","name=", "logo=", "sort", "fixed"])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -178,6 +196,8 @@ def main(argv):
                 sys.exit()
             else:
                 empty = True
+        elif opt in ("-t","--twosided"):
+            twosided = True
         elif opt in ("-S","--sort"):
             sort = True
         elif opt in ("-f","--fixed"):
@@ -192,7 +212,7 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, twosided, sort, fixed)         #call to create sangbog
 
 
 if __name__=='__main__':
