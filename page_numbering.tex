@@ -4,13 +4,13 @@
   \expandafter\@binaryX\csname c@#1\endcsname
 }
 
-\newcommand*{\@binaryX}[1]{0b\binary{#1}}
+\newcommand*{\@binaryX}[1]{\binary{#1}}
 
 \newcommand*{\octX}[1]{%
   \expandafter\@octX\csname c@#1\endcsname
 }
 
-\newcommand*{\@octX}[1]{0o\oct{#1}}
+\newcommand*{\@octX}[1]{0\oct{#1}}
 
 \newcommand*{\hexX}[1]{%
   \expandafter\@hexX\csname c@#1\endcsname
