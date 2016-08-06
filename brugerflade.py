@@ -3,21 +3,22 @@
 
 import os
 from Tkinter import *
-import Songbook
+import Sangbog
 import auxiliary
 
-checks = "Sort the songs based on number in song","Sort the songs alphabetically","No front page"
-fields = "Name:","Author:","Style:","Logo:","New style:"
+checks = "UNF","Camp","Sort the songs based on number in song","Sort the songs alphabetically","No front page"
+fields = "Name:","Style:","Logo:","New style:"
 
 def fetch(entries, root):
     if root.grid_size()[1] > 9:
         for label in root.grid_slaves():
             if int(label.grid_info()["row"]) > 9:
                 label.grid_forget()
-    author = ""
     name = ""           #name of the songbook
+    camp = False        #if its a camp or not
     style = ""          #the chosen style
     new_style = ""      #the new style to be defined
+    unf = False         #if its for UNF or not
     empty = False       #if you want a front page or not
     logo = ""           #the file containing the logo for the front page
     sort = False
@@ -64,36 +65,29 @@ def fetch(entries, root):
                 else:
                     lab = Label(root, text="*There is already a style with that name.", fg="red").grid(row=root.grid_size()[1], sticky=W, pady=5, columnspan=10)
                     entry[1].configure(highlightbackground="red", highlightcolor="red")
-        elif field == "Author:":
-            author = entry[1].get()
-            if not empty and author != "":
+        elif field == "UNF":
+            if entry[1][0].get():
+                unf = True
+            if not empty:
                 for e in entries:
                     if e[0] == "No front page" and not e[1][0].get():
                         e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
                         break
-#        elif field == "UNF":
-#            if entry[1][0].get():
-#                unf = True
-#            if not empty:
-#                for e in entries:
-#                    if e[0] == "No front page" and not e[1][0].get():
-#                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-#                        break
-#        elif field == "Camp":
-#            if entry[1][0].get():
-#                camp = True
-#            if not empty:
-#                for e in entries:
-#                    if e[0] == "No front page" and not e[1][0].get():
-#                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-#                        break
+        elif field == "Camp":
+            if entry[1][0].get():
+                camp = True
+            if not empty:
+                for e in entries:
+                    if e[0] == "No front page" and not e[1][0].get():
+                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
+                        break
         elif field == "No front page":
             if entry[1][0].get():
-                if name == "" and author == "" and logo == "":
+                if name == "" and not unf and not camp and logo == "":
                     entry[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
                     empty = True
                 else:
-                    lab = Label(root, text="*Empty is set while either logo or author is set.", fg="red").grid(row=root.grid_size()[1], sticky=W, pady=5, columnspan=10)
+                    lab = Label(root, text="*Empty is set while either logo, camp or UNF is also set.", fg="red").grid(row=root.grid_size()[1], sticky=W, pady=5, columnspan=10)
                     entry[1][1].configure(highlightbackground="red", highlightcolor="red")
         elif field == "Sort the songs alphabetically":
             if entry[1][0].get():
@@ -111,7 +105,7 @@ def fetch(entries, root):
                     if e[0] == "Sort the songs alphabetically" and not e[1][0].get():
                         e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
                         break
-    Sangbog.create_sangbog(author, name, style, logo, empty, sort, fixed)
+    Sangbog.create_sangbog(unf, camp, name, style, logo, empty, sort, fixed)
     done = Tk()
     done.title("Songbook created")
     lab = Label(done, width=42, text="Songbook has been created, press ok to close this box.", anchor='w')
