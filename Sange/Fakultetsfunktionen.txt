@@ -1,0 +1,129 @@
+\beginsong{Fakultetsfunktionen}
+[sr={Melodi:Animaniacs - Nations of the World}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+(RE)FAL, Lua, Simula,
+Oberon, Modula,
+Processing, Alef, Pascal,
+(Ob)jective-C, CSP,
+Dart, BitC, R, make, D
+CoffeeScript, Ada, COMAL,
+\endverse
+
+
+\beginverse
+(Mathe)matica, Maxima,
+Eiffel, Go, Rapira,
+Limbo, REBOL, Delphi, Self,
+(B)CPL, Tcl,
+Perl, Erlang, OCaml,
+HyperTalk, APL, Twelf,
+\endverse
+
+
+\beginverse
+(ID)L, occam, INTERCAL,
+JavaScript, JCL,
+Maple, Lisp, PL/I, sed,
+Prolog, Coq, Logo, Batch,
+Scala, Bash, Fortress, Scratch
+Visual Basic .NET,
+\endverse
+
+
+\beginverse
+QtScript, Factor, MOO,
+Dylan, dBase, FoxPro,
+BETA, BLISS, AMOS, MATLAB,
+NXC, Fancy, Squeak,
+XMLmosaic,
+MDL, Malbolge, F\#,
+\endverse
+
+
+\beginverse
+S, Oriel, Excel,
+FLOW-MATIC, SQL,
+Pico, Prograph, Averest,
+(A)MPL, DataFlex,
+AIMMS, REXX,
+\LaTeX, X10, ALGOL 60,
+\endverse
+
+
+\beginverse
+(J)Script, Janus, Miranda,
+Plankalkül, Unlambda,
+GHC Core, NATURAL,
+(Charm), Clojure, Glagol, Curry,
+Cayenne, Amiga E,
+M4, HTML,
+\endverse
+
+
+\beginverse
+Mercury, PostScript, 1337,
+IRP, LOLCODE, Piet,
+Kinesisk BASIC, Haskell,
+(Windows) PowerShell, J, Java,
+Oz, Zeno, Pawn, Pizza,
+Z notation, ZPL,
+\endverse
+
+
+\beginverse
+(Scheme), Julia, Shen, Homespring
+ATS, Boomerang,
+OmniMark, UNITY, AWK,
+(M)EL, Spice Lisp, Whitespace,
+Vala, Troll, Hope, FailSafe,
+Q, Tea, Joy, Mirah, Smalltalk,
+\endverse
+
+
+\beginverse
+(Kreds), Epigram, Gödel, K,
+TXL, ksh,
+Cyclone, B, VBA, Python,
+MultiLisp, Cobra, SAIL,
+UnrealScript, CPL,
+ColdFusion, Arc, Agda, Fortran,
+\endverse
+
+
+\beginverse
+(Forth), AutoIt, PHP,
+BASIC, Expect, bc,
+STG-kode, SNOBOL,
+ABC, ActionScript,
+Lava, Lisaac, Lucid,
+LilyPond, Octave, COBOL,
+\endverse
+
+
+\beginverse
+(Brainfuck), Emerald, Unix Shell,
+Babbage, F, Mouse, Squirrel,
+Oak, RPL, Legoscript,
+(Go)diva, Rust, E, Shakespeare,
+Racket, POP-2, Fjölnir,
+AutoHotKey, Emacs Lisp,
+\endverse
+
+
+\beginverse
+(Sindre), System F, Verilog,
+Alma-0, Datalog,
+Promela, Ratfor, C Shell,
+(d)c, COMPASS, L, Groovy,
+zsh, XQuery,
+Onyx, HaXe, Newspeak, Qi,
+Escher, Aldor, Ruby,
+VBScript, RPG,
+C++, ANSI C,
+rc, C\#, SML!
+\endverse
+
+\endsong

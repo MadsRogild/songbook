@@ -1,0 +1,62 @@
+\beginsong{Her Skal Sangens Titel Stå}
+[by={DIKUrevy 2011}
+,sr={Melodi:Bamses Venner - Hvorfor Går Luise til Bal}
+]
+
+\beginverse
+Sang til revyen, og helst en som folk kan li'
+Noget om at vinderstudiet er datalogi
+En vits om fysikere, med kittel og med fez
+og om hvordan vi dataloger gi'r dem tæsk
+\endverse
+
+
+\beginverse
+Historie om hvordan jeg drak for meget GT
+og om hvordan jeg blev til grin i fredags på Caféen?
+Pinlig fortælling om dengang jeg prøvede at score
+virkelig fesen vittighed der ender med ``din mor!''
+\endverse
+
+
+\beginverse
+Et omkvæd hvor I synger med
+Om at dumpe en eksamen,
+og drikke sig helt ned,
+åh åh, noget med at score,
+det skal jo også med,
+åh åh, og så en dårlig joke om ML
+\endverse
+
+
+\beginverse
+En joke om binært, det er så originalt
+om Microsoft og Apple, det kan ej gå galt
+syng om DNUR og så om faglig bitterhed
+bacon og cola, og et ordspil tilmed
+\endverse
+
+
+\beginverse
+Et omkvæd hvor I synger med ...
+\endverse
+
+
+\beginverse
+Et omkvæd hvor I synger med
+Om at dumpe en eksamen,
+og være fed og led,
+åh åh, noget med at score,
+som aldrig sker alligevel,
+åh åh, og så en dårlig joke om ML
+\endverse
+
+
+\beginverse
+En fesen reference til ML...
+Og så en ekstra vits om ML...
+Og så noget der rimer på ML...
+Vi holder aldrig kæft om ML!
+\endverse
+
+\endsong

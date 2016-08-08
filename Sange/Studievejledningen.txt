@@ -1,0 +1,67 @@
+\beginsong{Studievejledningen}
+[sr={Melodi:Bullerfnis - Løb Samson, Løb}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Da jeg started' \textit{Da du started'}
+På DIKU sidste år
+Tog jeg kurser \textit{Tog du kurser}
+Jeg ikke helt forstår
+Rekursioner \textit{Rekursioner}
+Og map og head og tail
+Når jeg prøver at forstå det kaster hjernen Fail
+\endverse
+
+
+\beginverse
+Åh, gå på Caféen? læs op en anden dag
+Gå på Caféen? det' godt at slappe af
+Gå på Caféen? og drik dig bankelam
+Når du så kommer hjem igen kan du bare kode slam
+\endverse
+
+
+\beginverse
+Tiden gik så \textit{Tiden gik så}
+Og jeg modtog et brev
+Inde i brevet \textit{Inde i brevet}
+Der var det at de skrev
+Jeg var bagud \textit{Jeg var bagud}
+Med 60 ECTS
+Men så fik jeg dette råd af en fysiker i fez
+\endverse
+
+
+\beginverse
+\textit{Åh, bliv kjolemand et let alternativ}
+\textit{Bliv kjolemand og få et bedre liv}
+\textit{Bliv kjolemand, så er instruktoren rar}
+\textit{For med paryk og skørt af tyl så er hjælpen altid klar}
+\endverse
+
+
+\beginverse
+Med det samme \textit{Med det samme}
+Bestod jeg mine fag
+Alle hjælper \textit{Alle hjælper}
+Når først de ser min bag
+Men så skete \textit{men så skete}
+Det utænk'lige for mig
+Pluds'lig faldt parykken af og alle så min vej
+\endverse
+
+
+\beginverse
+Åh, løb kjolemand du' ikk' velkommen mer'
+Løb kjolemand, vort studie er for svært
+Løb kjolemand Simone venter dig
+\endverse
+
+
+\beginverse
+På humaniora har du chancen for at bli' en haj
+På humaniora har du chancen for at bli' en haj
+\endverse
+
+\endsong

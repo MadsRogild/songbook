@@ -1,0 +1,45 @@
+\beginsong{Caféen?s Sortiment}
+[sr={Melodi:The Sound of Music - My Favorite Things}
+,by={MatematikRevy 2011}
+]
+
+\beginverse
+Lemon og Tonic og Cocio og Sprite og
+Kindleys og Ginger Ale, og Cola Light og
+Cola og Fanta og Danskvand med brus
+Ting fra Caféen? der ik' gi'r en rus
+\endverse
+
+
+\beginverse
+Te, Lime, Citroner og Kaffe og Smøger
+Alle slags Roses og Chips og så Nudler
+Ananas-, æble-, og tranebærjuice
+Alt på Caféen? der ik' gi'r en rus
+\endverse
+
+
+\beginverse
+Fuglsang ja, Pilsner og Black Bird med mere
+FF, Den Blå, Limfjords Porter, GT'er
+Fadøl, Specialøl, Små Kolde og Mad
+Druk på Caféen? det gør dig så glad
+\endverse
+
+
+\beginverse
+Hot'n'sweet, Fernet, Cointreau, Stolichnaya
+Baileys, Passoa, Olmeca, Kahlua
+(Ha)vanna Club både i mørk og i lys
+Her på Caféen? får du kuldegys
+\endverse
+
+
+\beginverse
+Gammel Dansk, Malibu, Fisk, Galliano
+Jameson og Pisang Ambon, Amaretto
+Bombay og Jäger, Cuba caramel
+Det er den sprut som Café'n? har til salg
+\endverse
+
+\endsong

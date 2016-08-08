@@ -1,0 +1,103 @@
+\beginsong{SATYRsang}
+[sr={Melodi:Kaj og Andrea's sang}
+,by={SATYRrevy 2012}
+]
+
+\beginverse
+Data-lo.
+Hvad griner han af
+Og Fysik
+Nej, Fys-gerne
+Mat'matik
+Det' Det me'tal, der
+Nej - Metal, det er fysik
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag
+Så vil vi lave ordspil her i dag
+\endverse
+
+
+\beginverse
+Jeg ka' gør dig TRÆ't af humor
+Stop du \emph{bræt} det \emph{rod} igen
+Skal jeg kalde på \emph{PUN}-isher?
+Nej, han er jo helt til \emph{gren}
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag ...
+\endverse
+
+
+\beginverse
+Jeg kan vældigt godt li svaler
+ved du hvad en svale er
+den har både næb og vinger
+ikke hvis du destiler
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag ...
+\endverse
+
+
+\beginverse
+Jeg har fundet den her kittel
+tænkte på om det var din
+Nej, det er den alt for ren til
+Hov, det er biokeMIN
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag ...
+\endverse
+
+
+\beginverse
+Jeg er glad for dyr og heste
+Jeg syns du sku' hol' det her!
+Vil du ik' med hjem og nøgle?
+Nej du sender Pig'r to $\pi$'r
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag ...
+\endverse
+
+
+\beginverse
+Jeg kan relativt li' lyset
+Jamen dog, der kan man c
+Med ++ er det et kunstværk
+Husk hvad fortegn gør ved det
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag ...
+\endverse
+
+
+\beginverse
+Jeg ka' vældigt godt li' kolber
+Også dem som der har majs?
+Tilføj varme - så der popkorn!
+... men er Pushcorn også nice?
+\endverse
+
+
+\beginverse
+Men selv om vi er glade for vor fag
+Så vil vi lave ordspil her i dag
+For selv om vi er glade for vor fag
+Så syn's vi I sku' lide her i dag
+\endverse
+
+\endsong

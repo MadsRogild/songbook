@@ -1,0 +1,45 @@
+\beginsong{Se min Kode}
+[by={TÅGEKAMMERETs Julerevy 03 @ DAIMI}
+,sr={Melodi:Se min kjole}
+]
+
+\beginverse
+Se min kode,
+den er struktureret
+alt hvad jeg skriver,
+det er smukt som den
+det er fordi jeg altid indenterer
+og fordi at \texttt{vi(1)} er min ven
+\endverse
+
+
+\beginverse
+Se min kode,
+den er let at læse
+alt hvad jeg skriver,
+det er ligesom den
+det er fordi jeg altid kommenterer
+og fordi \texttt{/*} er min ven
+\endverse
+
+
+\beginverse
+Se min kode,
+den vil kompilere
+alt hvad jeg skriver,
+oversættes nemt
+det er fordi jeg skriver simpel kode
+og fordi \texttt{gcc(1)} den er min ven
+\endverse
+
+
+\beginverse
+Se min kode,
+er i mange filer
+alt hvad jeg skriver,
+det kan findes nemt
+det er fordi jeg altid fragmenterer
+og fordi at \texttt{make(1)} den er min ven
+\endverse
+
+\endsong

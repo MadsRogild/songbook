@@ -1,0 +1,95 @@
+\beginsong{Hiperfit}
+[sr={Melodi:Jakob Haugaard - Det Hammer Hammer Fedt}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Da børserne gik ned 
+og markederne led
+De rige mangled penge 
+og så kom de herned
+Hvis DIKU kunne hjælpe
+så ville de det dælme
+Gi' os penge
+til et stort projekt
+\endverse
+
+
+\beginverse
+Det' HIPER HIPER FIT
+Vi laver li' om lidt
+Et programmeringsprog
+ja, til din tegnebog
+De rige vil vær rig're
+DIKU vil ha' flere
+penge, så vi finder ud af noget
+\endverse
+
+
+\beginverse
+Vi gør det funktionelt
+og meget parallelt
+For al' der's gamle kode
+er virk'lig sekventiel
+Det kør' på CPU'en
+ikk' på GPU'en
+Men vores sprog
+kan begge kan du tro
+\endverse
+
+
+\beginverse
+Det' HIPER HIPER FIT
+Vi laver li' om lidt
+Et programmeringsprog
+ja, til din tegnebog
+De rige vil vær rig're
+DIKU vil ha' flere
+penge, så vi finder ud af noget
+\endverse
+
+
+\beginverse
+Det' HIPER HIPER FIT
+Vi laver li' om lidt
+Et programmeringsprog
+ja, til din tegnebog
+De rige vil vær rig're
+DIKU vil ha' flere
+penge, så vi finder ud af noget
+\endverse
+
+
+\beginverse
+Som studerende bør vid'
+så er vi nemme at lid'
+Vi giver dem projekter
+og det til hver en tid
+Vi har for mange penge
+skal brug dem inden længe
+I er alle hyret til CUDA
+\endverse
+
+
+\beginverse
+Det' HIPER HIPER FIT
+Vi laver li' om lidt
+Et programmeringsprog
+ja, til din tegnebog
+De rige vil vær rig're
+DIKU vil ha' flere
+penge, så vi finder ud af noget
+\endverse
+
+
+\beginverse
+Det' HIPER HIPER FIT
+Vi laver li' om lidt
+Et programmeringsprog
+ja, til din tegnebog
+De rige vil vær rig're
+DIKU vil ha' flere
+penge, så vi finder ud af noget
+\endverse
+
+\endsong

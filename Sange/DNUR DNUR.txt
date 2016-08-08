@@ -1,0 +1,74 @@
+\beginsong{DNUR DNUR}
+[sr={Melodi:Lonnie Devantier - Hallo Hallo}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+Lister ind på DIKU, frygter hvad jeg har i vente
+og går langsomt op ad trappen for at få en cola
+Men i kantinen er der fyldt med dataloger
+Står i kø til automaten mens de lurer på mig
+\endverse
+
+
+\beginverse
+Så er der fri, jeg trykker køb, og den er min
+Men uden at tænke, åbner jeg og bli'r til grin
+\endverse
+
+
+\beginverse
+De si'r: DNUR, DNUR
+De ved godt jeg er rus nu
+De vil ha' mig til at droppe ud igen
+DNUR, DNUR
+Jeg lytter helt frustreret
+Og med røde kinder sukker jeg og går
+\endverse
+
+
+\beginverse
+Så til forelæsning, ML det er på plakaten
+Jeg er træt af rekursion der ikke vil fungere
+Og om en uge, starter vi jo en eksamen
+Jeg ka' stadig ikke lure alle de funktioner
+\endverse
+
+
+\beginverse
+Jeg griber Mac'en, men er lige ved at tud'
+De råber højt, og sir' jeg virklig bør drop' ud
+\endverse
+
+
+\beginverse
+De si'r: DNUR, DNUR ...
+\endverse
+
+
+\beginverse
+Jeg fodrer Emacs med det sidste trick jeg kan
+Tager på Caféen?, og der svarer jeg igen
+\endverse
+
+
+\beginverse
+Jeg si'r: drop ud, gamle røvhul
+Du burde være færdig
+Sku' du ikke tag' og få din kandidat?
+Drop nu ud, gamle røvhul
+Du sidder her og hænger
+Mens vi andre snildt kan overhale dig
+\endverse
+
+
+\beginverse
+Jeg si'r: drop ud, gamle røvhul ...
+\endverse
+
+
+\beginverse
+I kompenserer vist når I råber DNUR
+\endverse
+
+\endsong

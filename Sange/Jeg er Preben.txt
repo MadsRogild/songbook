@@ -1,0 +1,12 @@
+\beginsong{Jeg er Preben}
+[sr={Melodi:Jeg er havren}]
+
+\beginverse
+Jeg er Preben og jeg ringer tit,
+men det er jo heller ikke skidt!
+Jeg er bitter og jeg savner dig.
+Derfor skal du snakke lidt med mig
+... lidt med mig.
+\endverse
+
+\endsong

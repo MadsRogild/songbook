@@ -1,0 +1,115 @@
+\beginsong{Kigger på min bajer}
+[sr={Melodi:Bon Jovi - Livin' on a prayer}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Vennerne er pluds'lig ik' her
+Pigen sendt' mig væk
+de vil ik' feste mere
+\textit{Ik' mere}
+\endverse
+
+
+\beginverse
+Er det måske noget jeg har sagt?
+Noget jeg har gjort?
+Sagde jeg din kode er lort?
+\textit{Er lort?}
+\endverse
+
+
+\beginverse
+Var det noget jeg gjor' da min bajer var tom?
+Sku' jeg købe cider eller cola og rom?
+Jeg fik min flaske og nu er jeg ensom
+\endverse
+
+
+\beginverse
+Hvorfor er I ond'?
+\endverse
+
+
+\beginverse
+Ååh
+I kan ik' li' mig
+Ååh åh
+Kigger på min bajer
+Flasken er grøn
+er ik' som den plejer
+Ååh åh
+kigger på min bajer
+\endverse
+
+
+\beginverse
+Drak de sidste dråber af øllen
+Pluds'lig var den tom
+Var det ik' mig som købte
+\textit{En ny øl?}
+\endverse
+
+
+\beginverse
+Sku jeg ha' købt en omgang til jer?
+Er det der vi er?
+Hvad gjorde jeg forkert?
+\textit{forkert}
+\endverse
+
+
+\beginverse
+Sig om jeg lugter hvis det er sandt
+Forstår det ikke har ikke forstand
+Al denne klagen gør mig en tørstig mand
+\endverse
+
+
+\beginverse
+\textit{Det smag'r jo af vand!}
+\endverse
+
+
+\beginverse
+Åhh
+I kan ik' li' mig
+Ååh åh kigger på min bajer
+Flasken er grøn
+er ik' som den plejer
+Ååh åh kigger på min bajer
+\endverse
+
+
+\beginverse
+Det sgu' ik' min bajer
+\endverse
+
+
+\beginverse
+Gååååår nu op til baren skal være fuld!
+Slut med de grønne {\large Vil ha' mig en guld!}
+\endverse
+
+
+\beginverse
+Ååh
+Jeg fik en GT
+Ååh åh
+kigger på min bajer
+Flasken er guld
+præcis som den plejer
+{\huge SKÅÅÅL}
+kigger på min bajer
+Ååh
+nu kan I li' mig
+Ååh åh
+kigger på min bajer
+Fik GT
+min aften er reddet
+Ååh
+kigger på min bajer
+Ååååhhhhhhhhh
+\endverse
+
+\endsong

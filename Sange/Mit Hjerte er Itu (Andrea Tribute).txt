@@ -1,0 +1,45 @@
+\beginsong{Mit Hjerte er Itu (Andrea Tribute)}
+[by={MolBioKem Revy 2011}
+,sr={Melodi:Celine Dion - My Heart Will go On}
+]
+
+\beginverse
+For hver en øl jeg drikker
+så husker, så savner jeg
+alle de smukke minder, vi har
+Du er væk for altid, nu er jeg - alene
+Hvad skal der blive af mig, uden dig
+\endverse
+
+
+\beginverse
+Der på Bandscenen du lå,
+men de kom og de stjal dig fra miiig
+hvad nu, mit liv er itu
+når du ikke er wrappet
+er wrappet, til mig på Caféen?
+\endverse
+
+
+\beginverse
+Vi fandt dig ude på plænen, forkullet alene
+bræk og pizzabakker overalt
+de havde leget med ilden, og du var brændt helt af
+hønsenet bestod kun, jeg græd
+\endverse
+
+
+\beginverse
+Der på Bandscenen du lå ...
+\endverse
+
+
+\beginverse
+Frygt ej - for nu kommer Kaj
+ja, vi har fået en ny tragt - det feeedt
+Vi er - igen glade her
+Det er nu der er pause
+og vi skal alle tragte øl af Kaj
+\endverse
+
+\endsong

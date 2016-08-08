@@ -1,0 +1,52 @@
+\beginsong{På Science}
+[sr={Melodi:Simon and Garfunkel - Sound of silence}
+,by={Matematikrevy 2013}
+]
+
+\beginverse
+H.C. Ørsteds Institut
+Det er her vi regner uafbrudt
+Vi nyder af fysikkens love
+De seriøse og de sjove
+Vi er nørder og vi indrømmer det godt
+Husk nu blot
+At det er os
+På SCIENCE
+\endverse
+
+
+\beginverse
+Men Indenfor på BioC
+Der er der meget der kan ske
+Der er travlt i lab'ratorier
+Og lig'så vel i auditorier
+DNA'en den er ikke hellig her
+Som man ser
+Så er det os
+På SCIENCE
+\endverse
+
+
+\beginverse
+Datalogisk Institut
+Hvor ordet "PC" er forbudt
+Her er mange datamater
+Der er reklamer på plakater
+For dataloger både tyk såvel som tynd
+Er det synd
+Men vi er ogs'
+På SCIENCE
+\endverse
+
+
+\beginverse
+Og så er der jo Caféen? 
+Er man ik’ fin nok til roséen.
+Så er der også meget andet 
+Der’ for sig selv, og som er blandet 
+Og skulle det ske, at du scorer dig en yndig humanist
+er det trist 
+For hun er ik… Fra SCIENCE
+\endverse
+
+\endsong

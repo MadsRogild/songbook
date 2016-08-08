@@ -1,0 +1,85 @@
+\beginsong{Wait()}
+[by={DIKUrevy 2010}
+,sr={Melodi:Poul Sørensen (Poeten) - Der kommer altid en sporvogn og en pige til}
+]
+
+\beginverse
+Du skal se dig for min ven og vente på signaler
+(Signaler nej, jeg stopper ej når jeg er godt på vejs)
+Når jeg siger wait så skal du gør' som jeg befaler
+(Stop mig hvis du kan, for jeg er ikke særlig nice.)
+(Jeg vil bestemme mer,)
+betyder intet her. Du valgte selv at parallelisér
+(Argh øv!)
+\endverse
+
+
+\beginverse
+Der kommer altid et interrupt og snyder dig
+(næh, der skal langt mere til for at afbryde mig)
+Kan du så stille dig pænt i kø
+(Næh jeg vil forrest)
+så har man hørt en loppe gø
+(Du gør jo dette blot for at ku' genere mig)
+ja, jeg har al magten til at suspendere dig
+(Lad mig nu køre)
+du venter
+(jeg kører)
+du venter
+(jeg kører)
+du venter Her!
+\endverse
+
+
+\beginverse
+Jeg kan gi' respekt og frygt hos alle programmører
+(Og hva' så! Du er jo blot et bump der på min færd)
+Jeg er den der afgør, om du stopper eller kører
+(Var vi ikke fler så var du ikke noget værd)
+Mit værd er ubestrid, systemet er solidt
+(Og min tålmodighed er blevet slidt)
+Though shit!
+\endverse
+
+
+\beginverse
+Der kommer altid et interrupt det kan du tro
+(Nu gider jeg ikke læng're bare stå og glo)
+Denne resource er reserver't!
+Du ved vel nok det' forkert at kør' kontinuert
+(Det her det ender jo med den rene sultedød)
+Tag den med ro, der er ingen her der lider nød
+(Kan jeg nu køre)
+du venter
+(jeg kører)
+du venter
+(jeg kører)
+du venter Her!
+\endverse
+
+
+\beginverse
+(Jeg har ventet nok nu. Jeg vil ikke vente mere.)
+Nu igen, jeg synes at du er mig lidt distræt
+(Hørte du mig eller skal jeg virklig' repetere?)
+Din parent sku' ha' sagt det er forkert med busy wait
+(Hva sir du om min mor?!?)
+Jeg siger ikke spor. Jeg er jo blot en simpel semafor
+\endverse
+
+
+\beginverse
+Der kommer altid et wait når du mindst venter det
+(Næh, nu skal du ikke blive helt forvent dertil)
+(Nu er det nok, ikke mere block!)
+Jeg blir så træt af processers meget brok brok brok
+(Så er det nok, jeg er vred og terminerer nu!)
+Ja du kan ganske vist ikke blive mere sur
+(Jeg terminerer!)
+du tør ik!
+(Jeg gør det)
+du tør ik!
+(Jeg gør det og jeg er slut!)
+\endverse
+
+\endsong

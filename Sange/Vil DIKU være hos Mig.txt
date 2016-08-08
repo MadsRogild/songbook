@@ -1,0 +1,87 @@
+\beginsong{Vil DIKU være hos Mig}
+[sr={Melodi:Dream Theater - The Spirit Carries On}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+Læser på DIKU
+Tiden er gå'd
+Hvor skal jeg hen når det' slut?
+Slave for C?
+Og værre VB?
+Der' ingenting sikkert endnu
+\endverse
+
+
+\beginverse
+De si'r, "Tiden er kort"
+"Normeret er hårdt"
+Og "Du har i alt kun 6 år!"
+Men jeg vil ha' mer'
+Må jeg ikk' ta' fler?
+Jeg indser at jeg snart må gå
+\endverse
+
+
+\beginverse
+Bli'r jeg cand i morgen
+Har jeg det fint
+Fordi at jeg ved
+At ud' på min vej
+Vil DIKU vær' hos mig
+\endverse
+
+
+\beginverse
+Jeg plejed' at frygte eksamen
+Jeg plejed' at melde mig fra
+Men I må forstå
+Jeg kan sagtens bestå
+Det' tanken om at sku' herfra
+\endverse
+
+
+\beginverse
+Jeg får måske aldrig den stilling
+Det job jeg har drømt at jeg ta'r
+Jeg ender måske
+Som en bums ved PC
+Men jeg prøver at gøre mig klar
+\endverse
+
+
+\beginverse
+Bli'r jeg cand i morgen ...
+\endverse
+
+
+\beginverse
+Fasthold din sjæl
+Fortab ikk' dig selv
+Fordi jeg ikk' mer' står dig nært
+Bar' tro på dig selv
+Og stol blot på det du har lært
+\vspace{2cm}
+\endverse
+
+
+\beginverse
+Står i kantinen på DIKU
+Fri for min frygt og mit "men"
+Min fremtid er her
+Jeg skælver ikk' mer'
+For livet har mening igen
+Ja DIKU er min
+Mit brød og min vin
+En stemme i mig sagde "bliv!"
+Og nu' hvor jeg' her
+Med forskning jeg ser
+At DIKU har fuldendt mit liv
+\endverse
+
+
+\beginverse
+Bli'r jeg fyr'd i morgen ...
+\endverse
+
+\endsong

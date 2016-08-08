@@ -1,0 +1,57 @@
+\beginsong{Lukkevagtens Sang}
+[by={FysikRevy\textsuperscript{\textregistered} 2003}
+,sr={Melodi:Morgen på Atlantis}
+]
+
+\beginverse
+Atter skal en frebar lukkes ned,
+og de stinkende, stive, stegte dataloger
+fysikere og biologer
+har nu drukket kemikerne ned,
+så nu vælter vi koen;
+de må gå på broen
+-s, eller et andet sted at få smurt oboen.
+Og mit hjerte ved:
+\endverse
+
+
+\beginverse
+Intet i verden ka' være så smukt
+som en morgen på Caféen?.
+Folk er så søde,
+når de har drukket
+og ikke ka' fatte, at baren er lukket.
+Nej,
+intet i verden kan være så smukt
+som en morgen på Caféen?.
+De ska' allesammen ud, så jeg må spille vred
+For Caféen?, mit hjem og min kærlighed.
+\endverse
+
+
+\beginverse
+Her skal vaskes og fejes, så jeg fejer og vasker,
+hvor I efterlod jer en klat.
+Her må ikke ses spor efter bajer og flasker,
+når det ikke længer' er na-a-at.
+I den pletfrie gård, som I fyldt med ski-i-idt,
+Skal vi nyde vor løn, som er to flasker spri-i-it.
+\endverse
+
+
+\beginverse
+Intet i verden kan være så smukt
+som en morgen på Caféen?.
+Mens du ligger og sover
+og begynder at glemme,
+vil jeg drikke mig i hegnet engang til
+herhje-e-e-emme.
+Intet i verden kan være så smukt
+som en morgen på Caféen?.
+Vores tropekøler køler GT ned,
+så bliv lidt og mug ud, før du tager afsted,
+så bli'r Caféen? dit hjem
+og din kærlighed.
+\endverse
+
+\endsong

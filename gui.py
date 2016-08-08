@@ -42,7 +42,7 @@ def fetch(entries, root):
                 if temp in filer:
                     logo = temp
                     entry[1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-                else:
+                elif temp != "":
                     entry[1].configure(highlightbackground="red", highlightcolor="red")
         elif field == "Name:":
             name = entry[1].get()
@@ -71,22 +71,6 @@ def fetch(entries, root):
                     if e[0] == "No front page" and not e[1][0].get():
                         e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
                         break
-#        elif field == "UNF":
-#            if entry[1][0].get():
-#                unf = True
-#            if not empty:
-#                for e in entries:
-#                    if e[0] == "No front page" and not e[1][0].get():
-#                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-#                        break
-#        elif field == "Camp":
-#            if entry[1][0].get():
-#                camp = True
-#            if not empty:
-#                for e in entries:
-#                    if e[0] == "No front page" and not e[1][0].get():
-#                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-#                        break
         elif field == "No front page":
             if entry[1][0].get():
                 if name == "" and author == "" and logo == "":
@@ -111,7 +95,7 @@ def fetch(entries, root):
                     if e[0] == "Sort the songs alphabetically" and not e[1][0].get():
                         e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
                         break
-    Sangbog.create_sangbog(author, name, style, logo, empty, sort, fixed)
+    Songbook.create_sangbog(author, name, style, logo, empty, sort, fixed)
     done = Tk()
     done.title("Songbook created")
     lab = Label(done, width=42, text="Songbook has been created, press ok to close this box.", anchor='w')

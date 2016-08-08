@@ -1,0 +1,76 @@
+\beginsong{Instruktorsangen}
+[sr={Melodi:Asterix and Cleopatra - The Arsenic Cake Song}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+Ud'n for pensum starter vi
+koden den skal skriv's i C
+de får følgende problem:
+Kod jer's eget filsystem
+...jah, lad os tage FAT32!
+\endverse
+
+
+\beginverse
+Dobbelttydig instruktion
+tester deres deduktion
+hvis forklaringen er rod...
+...gi'r vi dem eksempel-kod'?
+NEJ!
+\endverse
+
+
+\beginverse
+Vi må kræve et bevis
+I Prolog naturligvis
+Kørsel stoler vi ej på
+Kun formelle må bestå
+\endverse
+
+
+\beginverse
+Der skal laves en test-case
+se eksempel... i whitespace
+hvis det virker NP-hårdt...
+...må de gør' rapporten kort?
+NEJ!
+\endverse
+
+
+\beginverse
+ALUen skal smedes selv
+om det så slår dem ihjel
+når de er klar til at tud'
+si'r vi muntert "drop nu ud!"
+\endverse
+
+
+\beginverse
+Intet brug af library
+hverken \texttt{malloc()} eller \texttt{free()}
+de skal kode kernen selv
+helt fra bunden...
+...i ML!
+Ahhh...
+Jo!
+\endverse
+
+
+\beginverse
+Håndskrev't kode det er klart
+tårevæd't papir er rart
+afleveres så verbalt
+og forsvares digitalt
+\endverse
+
+
+\beginverse
+Og når opgaven er klar
+får de en dag til at svar'
+men når svaret kommer ind
+knækker vi så deres sind
+(Gen)aflever!
+\endverse
+
+\endsong

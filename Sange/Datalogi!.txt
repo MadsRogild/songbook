@@ -1,0 +1,30 @@
+\beginsong{Datalogi!}
+[sr={Melodi:Skæbnesymfonien - Beethovens 5.}
+,by={DIKUrevy 1998}
+]
+
+\beginverse
+DA-TA-LO-GIIIIII!
+DA-TA-LO-GIIIIII!
+Datalogi datalogi datalogi
+Datalogi datalogi datalogi
+Datalogi (datalogi) datalogi (datalogi) datalogi For-diii!!!
+\endverse
+
+
+\beginverse
+DET' IKK' FYSIK!!!!
+Det' ikk' fysik, det' ikk' fysik, det' ikk' fysik, DA-TA-LO-GI!
+Det' ikk' fysik, det' ikk' fysik, det' ikk' fysik, DA-TA-LO-GI!
+Datalogi (sa' du logi?) Datalogi (sa' du logi?)
+Datalogi datalogi datalogi og nørderi datalogi datalogi
+\endverse
+
+
+\beginverse
+DATALOGI (det' ikk' fysik, det' ikk' fysik, det' ikk' fysik)
+DATALOGI (det' ikk' fysik, det' ikk' fysik, det' ikk' fysik)
+DATALOGI, DATALOGI, DATALO-GIIII!
+\endverse
+
+\endsong

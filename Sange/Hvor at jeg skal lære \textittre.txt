@@ -1,0 +1,145 @@
+\beginsong{Det vil ikke compile}[sr={Melodi:Michael Jackson - Dirty Diana}, by={DIKUrevy 2013}]
+
+\beginverse
+De si'r jeg skal drop ud
+De si'r drop HTML
+De si'r at Torben er gud
+og jeg skal kode det selv
+Forstår ik' rekursion
+De sir' at det' trivielt
+Det kræver abstraktion
+skal bare kunne mit felt
+\endverse
+
+\beginverse
+Typecheck og fejl
+og det vil ikke compile
+Mønsteret genkendes ej
+\texttt{Cannot open that file}
+Og mit uend'lige loop
+Det slår mig snart ihjel
+Man bliver fuldstændig foo
+Af at kod' SML!!
+\endverse
+
+\beginverse
+Moscow ML - Åh!
+Moscow ML - Åh!
+Moscow ML - Åh!
+Åh hvor jeg hader - SML
+\endverse
+
+\beginverse
+Du forstår ingenting
+ML er intet problem
+Det' det jeg bruger i
+mit oversættersystem
+Nej vent du blot til du
+har OSM lille ven
+du farer vild i din' kode
+og hvor din pointer før' hen
+\endverse
+
+\beginverse
+segfault, deadlocks og fejl
+og det vil ikke compile
+NTFS kun for sjov
+Indlæringskurven for stejl
+Forsøg'r at par'lelliser
+det kommer ik' til at ske
+Min' bugs bli'r forket til fler'
+Kan ikke kode C!!
+\endverse
+
+\beginverse
+Med OSM og - C!
+Med OSM og - C!
+Med OSM og - C!
+Åh hvor jeg hader - OSM
+\endverse
+
+\beginverse
+Tag du bare og vent
+til du studér kandidat
+Alt du laver er nemt
+og tæt på din datamat
+Du skal lære \textit{et} sprog
+Hvor at jeg skal lære \textit{tre}
+Fra Erlang til Prolog
+Haskell er abstrakt og vagt
+\endverse
+
+\beginverse
+Min monade gi'r fejl
+Og det vil ikke compile
+De la' mig ik' brug' IO
+Får hastighed som en snegl
+Min type skal rekursér
+Men GHC siger "næh!"
+Og min instruktor han le'r
+Haskell det får mig i knæ!
+\endverse
+
+
+\beginverse
+AP og Haskell - åh!
+AP og Haskell - åh!
+AP og Haskell - åh!
+Åh hvor jeg hader - det Haskell!
+\endverse
+
+
+\beginverse
+Ja, Hask'll ka' være svært
+Og OSM ikke nemt
+ML får du nok lært
+Men tag I bare og vent
+I det mindste har I
+Noget der er int'ressant
+Mit job i industri-
+-en savner noget med kant
+\endverse
+
+
+\beginverse
+Jeg ser jo aldrig en fejl
+For jeg skal ikke compile
+Tegner kun kasse og streg
+Din chef er blank som et spejl
+De vil ha' mig til at ta'
+Microsoftcertifikat
+Kun møder dag efter da'
+Bliv på din kandidat
+\endverse
+
+
+\beginverse
+For UML - åh!
+For UML - åh!
+For UML - åh!
+\endverse
+
+
+\beginverse
+Moscow ML - åååh
+Med OSM og - C!
+AP og Haskell - åh!
+For UML - åh!
+\endverse
+
+
+\beginverse
+Åh, bliv på DIKU
+Åh, bliv på DIKU
+Åh, bliv på DIKU
+Åh, bliv på DIKU
+\endverse
+
+
+\beginverse
+Åh, bliv på DIKU
+Åh, bliv på DIKU
+Åh, bliv på DIKU
+\endverse
+
+\endsong

@@ -1,0 +1,189 @@
+\beginsong{Han Koder Slam}
+[sr={Melodi:Østkyst Hustlers - Han får for lidt}
+,by={DIKU revy 1998}
+]
+
+\beginverse
+1: Han roder med sin kode,
+for hans kode er for sej.
+Han ta'r Dat0 igen igen,
+han er et kæmpe kvaj.
+2: For funktionssprog er for kvinder,
+C++ det er for mænd.
+Han plejer' ta' en peger
+holder typerne i spænd.
+\endverse
+
+
+\beginverse
+1: Og ud med kommentar'ne,
+for hans kod' er selvforklar'ne.
+2: Han koder som han koder,
+for at ligne ham der Bjarne.
+1: Og da han altid bruger goto,
+2: når koden er i udu,
+1+2: får han tit at vide
+at nog't såd'n det er misbrug.
+\endverse
+
+
+\beginverse
+2: Kun til Coca Cola, mand,
+for intet andet firma kan,
+få ham til at drikke deres
+søde sukkervand.
+1: Algoritmer for vatnisser.
+2: Han vil ha' Bugatti, så
+1: først ved terminalen.
+Der er slet ingen hvis'er.
+\endverse
+
+
+\beginverse
+2: Men hans kildekod',
+den er noget værre rod.
+2: Og 1: ``unsigned pointer temp stjerne'',
+2: det virker ikke-nikke-
+1: ``Core'' 2: -filen ligger der på klokkeslaget.
+Han føler sig så svag,
+1: han skal aflever' i dag!
+\endverse
+
+
+\beginverse
+2: Han koder 1+2: slam!
+Han får sat koden på plads.
+1: Ingen klam 2: analyse,
+1: bare en masse strabads.
+\endverse
+
+
+\beginverse
+2: Han plejed' at kod' lidt kvajet,
+1: men nu koder han flot.
+2: Det syn's han selv, 1: alligevel,
+2: så kør' det 1+2: aldrig godt.
+\endverse
+
+
+\beginverse
+1: Han koder 1+2: slam!
+Han er det groveste skvat.
+2: Ingen klam 1: analyse,
+2: bare kode i nat.
+\endverse
+
+
+\beginverse
+1+2: Han koder slam!
+Koder slam!
+Han koder slam!
+\endverse
+
+
+\beginverse
+2: Han er en ualmind'lig stræbernørd,
+han syn's han er for hård.
+Han går i gang med sit speciale,
+mens han er på første år.
+1: Han læser datalogi,
+men er lidt skuffet fordi,
+at analyser og rapporter
+ka' han slet ikke li'.
+\endverse
+
+
+\beginverse
+2: Og han ta'r en masse kurser,
+han har næsen ned i bogen,
+han har helt utroligt svært
+ved at holde sig vågen.
+1: Og han stræber fremad,
+vil vær' professor en dag
+for multimedie programmør er
+ikke lige hans sag.
+\endverse
+
+
+\beginverse
+2: Men han har det problem,
+1: at han hader semantik,
+2: for der er in- 1: duktions- 2: beviser,
+1: og han fatter det ikk'.
+2: Han burd' ku' nå en masse,
+1: med alle hans ressourcer,
+2: men det går bare ikke,
+1+2: han ta'r 10 forskellig' kurser.
+\endverse
+
+
+\beginverse
+1: Og han koder, 2: gør han,
+1: men på alle hans fag,
+2: skal han både skriv' rapport
+1: og prøv' programmerne af.
+2: Man burd' ku' programmere,
+når man er en nørd som ham,
+men det ender jo uværg'ligt,
+1: med at blive noget slam.
+\endverse
+
+
+\beginverse
+2: Han koder 1+2: slam ...
+\endverse
+
+
+\beginverse
+\endverse
+
+
+\beginverse
+1: Nu er han 2: færdig med 1: at kode,
+2: han mangler kun 1: sin test
+2: men det er godt nok ikke sjovt,
+for han vil hellere til fest.
+1: Ta'r på cafe'n, der vil han bli',
+for han vil score en pi'!
+2: Han er jo såd'n' smart fyr,
+så det gør han bare li'.
+\endverse
+
+
+\beginverse
+1: Han fortæller vidt og bredt
+om sine datastrukturer
+2: Men pigen gaber højlydt
+og kigger på sit ur og
+2: han forklarer 1: alt om 2: C++
+1: og klør sig i skridtet,
+illustrerer hvord'n gdb
+ka' debugge skidtet
+\endverse
+
+
+\beginverse
+2: Pigen hun ser godt ud,
+han er blevet helt forjættet.
+1: Hun ligner nemlig noget
+man ku' hente ned fra nettet.
+2: At hun er fysiker er okay,
+når bare han får sagt.
+At det fysiske som han vil ha'
+er fysisk nærkontakt.
+\endverse
+
+
+\beginverse
+1: Nu er hun sikkert snart mør
+Han siger ``prøv nu at hør'''
+2: Hvis hun hører mer' om data,
+1: så tror hun hun bli'r skør.
+2: Han siger 1: sed 2: og 1: awk
+2: og 1: lex 2: og 1: yacc
+2: så går hun sin vej!
+1: og stiv går han tilbage
+for at rette sine fejl.
+\endverse
+
+\endsong

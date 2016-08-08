@@ -1,0 +1,77 @@
+\beginsong{H-T-M-L}
+[by={DIKUrevy 2000}
+,sr={Melodi:Village People - YMCA}
+]
+
+\beginverse
+Færdig, jeg blev da-a-talog
+jeg blev færdig, og eksamen var go'
+jeg blev færdig, og sku' ha mig et job
+det sku' være no'et med kode
+\endverse
+
+
+\beginverse
+Jobbet, jeg ville ha' noget sjovt
+ja og poppet, så det var nu lidt flovt
+at jeg ikke, fik no'et med logik
+eller smarte algoritmer
+\endverse
+
+
+\beginverse
+For nu koder jeg i H-T-M-L
+ja nu koder jeg i H-T-M-L
+ja jeg fik mig et job
+med mange penge i
+og min hjerne den fik fri
+Så nu koder jeg i H-T-M-L
+ja nu koder jeg i H-T-M-L
+Det var ikke li' det
+jeg havde tænkt mig sku' ske
+jeg vil hellere kode 'C'
+\endverse
+
+
+\beginverse
+ML det var sagen for mig
+og Miranda, for jeg var jo for sej
+men på webben kan de ik' brug's til no'et
+de dur ik' på internettet
+\endverse
+
+
+\beginverse
+Kodet, bli'r der ik' meget af
+nej men møder, der er mange hver dag
+der er kunder, der vil kø-øbe alt
+bar' det no'et med multimedier
+\endverse
+
+
+\beginverse
+For nu koder jeg i H-T-M-L ...
+\endverse
+
+
+\beginverse
+Penge, får jeg da mange af
+mange penge, flere tusind' hver dag
+men jeg gider snart ik' mere det her
+for jeg keder mig på jobbet
+\endverse
+
+
+\beginverse
+Hej ven, tag og hør lidt på mig
+jeg sagde hej ven, gør nu ikke som mig
+få et godt job, hvor du skal lav' noget sjovt
+og hold dig fra webbureauer
+\endverse
+
+
+\beginverse
+For nu koder jeg i H-T-M-L ...
+\endverse
+
+\endsong

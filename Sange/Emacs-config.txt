@@ -1,0 +1,27 @@
+\beginsong{Emacs-config}
+[sr={Melodi: She'll Be Coming 'Round the Mountain (På dansk - Du Må Få min Sofacykel)}
+,by={DIKUrevy 2014 Forbedret Manus}
+]
+
+\beginverse
+Du må få min Emacs-config når jeg dør
+Du må få min Emacs-config når jeg dør
+Plejed' ikke at tag' backup
+Men nu ligger den på Github
+Du må få min Emacs-config når jeg dør
+\endverse
+
+
+\beginverse
+Jubi jæ jæ jubi jubi jæ!
+Jubi jæ jæ jubi jubi jæ!
+\endverse
+
+
+\beginverse
+Plejed' ikke at tag' backup
+Men nu ligger den på Github
+Du må få min Emacs-config når jeg dør
+\endverse
+
+\endsong

@@ -1,0 +1,76 @@
+\beginsong{Editorkrig}
+[sr={Melodi:My Little Pony - This Day Aria}
+,by={DIKUrevy 2013}
+]
+
+\beginverse
+\textbf{E}: Den dag jeg prøvede Emacs
+En helt ny verden der sig åbnede for mig
+Langsomt GUI gør mig vred,
+Genvejstaster gør mig glad
+Jeg vil aldrig kode i Eclipse igen!
+\endverse
+
+
+\beginverse
+\textbf{V}: Den dag jeg lærte Vim at kende
+En helt ny verden der sig åbnede for mig
+Hvert et tastetryk det gør
+større forskel end du tror
+Og jeg vil aldrig kode i Eclipse igen!
+\endverse
+
+
+\beginverse
+\textbf{E}: Nu må jeg vise mine evner
+med Djævlens editor!
+Men vent! Hvordan gemmer jeg min fil?
+Vim, den er så kompliceret,
+Kan ikke navigere.
+Nej, Emacs er det eneste for mig.
+\endverse
+
+
+\beginverse
+\textbf{E}: Nej, jeg elsker ikke Vim,
+Dets script-sprog er helt til grin
+Og jeg savner at ha' chat-klient.
+\endverse
+
+
+\beginverse
+\textbf{V}: Åh, min kode er kaotisk,
+Emacs den er idiotisk,
+de genvejstaster er kun et problem.
+Den har jo ingen plusser,
+Den sluger min' resourcer -
+Jeg bad ik' om et helt nyt styr'system.
+\endverse
+
+
+\beginverse
+\textbf{V}: For jeg savner sådan Vim,
+Åh, snart vil jeg vende hjem.
+Ønsker blot at skrive
+min kod' i Vim igen.
+\endverse
+
+
+\beginverse
+\textbf{E}: Endelig, min kode kompilerer.
+Nu skal jeg aldrig kode Vimscript mer'.
+\endverse
+
+
+\beginverse
+\textbf{V}: Emacs gør mig helt febrilsk,
+Og dens Lisp er godt nok drilsk -
+Jeg vil altid kod' i...
+\endverse
+
+
+\beginverse
+\textbf{E}: Emacs, ja! \textbf{V}: Vim, kun Vim!
+\endverse
+
+\endsong

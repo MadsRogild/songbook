@@ -1,0 +1,42 @@
+\beginsong{Læsehovedet}
+[sr={Melodi:Fætter Mikkel}
+,by={DIKUrevy 2014}
+]
+
+\beginverse
+I et kabinet
+Mellem 0 og 1
+På harddiskens faste plade
+Læsehoved't gik
+Med de onde klik
+Mens det risede i fladen
+\endverse
+
+
+\beginverse
+Det var djævelsens musik
+klik, klik
+Der hvor læsehoved't gik
+klik, klik
+Det var tem'lig skidt,
+Der var gået lidt,
+Siden sidst commit til git
+\endverse
+
+
+\beginverse
+Det var klagesang
+Der nu nok engang
+Til supporten
+Ind blev mailet
+Det var fælt ka' i tro
+Det var stereo!
+Den var gal i hele raid'et
+\endverse
+
+
+\beginverse
+Det var djævelens musik...
+\endverse
+
+\endsong

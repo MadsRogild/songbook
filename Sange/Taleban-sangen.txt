@@ -1,0 +1,41 @@
+\beginsong{Taleban-sangen}
+[sr={Melodi:Wilhelm Tell ouverture, feat. hænder, lår og pandebrask}]
+
+\beginverse
+Taleban-Taleban-Taleban-Jihad
+Taleban-Taleban-Taleban-Jihad.
+Taleban-Taleban-Taleban-Jihad.
+Talebaaan ... Taleban Jihad.
+\endverse
+
+
+\beginverse
+Taleban-Taleban-Taleban-Jihad-Jihad-Jihad-Jihad-Jihad.
+Taleban-Taleban-Taleban-Jihad-Jihad-Jihad-Jihad!
+\endverse
+
+
+\beginverse
+\endverse
+
+
+\beginverse
+\endverse
+
+
+\beginverse
+klap-lår-lår,klap-lår-lår,klap-lår-lår,mave-pande.
+klap-lår-lår,klap-lår-lår,klap-lår-lår,mave-pande.
+klap-lår-lår,klap-lår-lår,klap-lår-lår,mave-pande.
+klap-lår-lår ... klaplårlårmavepande.
+\endverse
+
+
+\beginverse
+klap-lår-lår,klap-lår-lår,klap-lår-lår,
+    mave-pande,mave-pande,mave-pande,mave-pande,mave-pande.
+klap-lår-lår,klap-lår-lår,klap-lår-lår,
+    mave-pande,mave-pande,mave-pande,mave-pande!
+\endverse
+
+\endsong

@@ -1,0 +1,71 @@
+\beginsong{Helt til C}
+[by={DIKUrevy 2003}
+,sr={Melodi:Michael Jackson - Heal the World}
+]
+
+\beginverse
+Der' et sprog
+som vi ved
+hver gang vi os sætter til
+en maskine for at vi skal lave kode 
+Dette sprog
+har vi set
+har en funktionalitet
+og vi ved at det vil aldrig gå af mode 
+sproget - det har pointer'
+der' ingen der ved hvor de ender
+kom og prøv og se
+kom og kod' i C
+\endverse
+
+
+\beginverse
+Kod i C
+hvis det skal kunne nog't
+for bruger og programmør er ej i samme båd
+nogen - koder java
+de si'r det ik' men de ved det
+skal det kunne nog't, skal det kodes i C   
+\endverse
+
+
+\beginverse
+Andre sprog
+har påstået
+at vort C det mangler nog't
+har de selv en adresseringsoperator?
+Dette slag
+har de tabt
+deres sprog har Fanden skabt
+der's exceptions er en phalloskompensator
+Og vi - viger aldrig
+fra sproget som alle børn kender
+man kan lære det
+let som ABC
+\endverse
+
+
+\beginverse
+Kod i C ...
+\endverse
+
+
+\beginverse
+Vi har editoren klar som vi skal kode i
+5 minutters analyse er parat
+vi har makefilen sat op
+vi har cola i vor krop
+nu er alting klart til at vi kan kode slaaaaamm
+\endverse
+
+
+\beginverse
+Kod i C
+hvis det skal kunne nog't
+for bruger og programmør er ej i samme båd
+nogen - koder ML
+de si'r det ik' men de ved det
+skal det kunne nog't, skal det kodes i C
+\endverse
+
+\endsong

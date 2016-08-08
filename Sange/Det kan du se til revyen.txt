@@ -1,0 +1,61 @@
+\beginsong{Det kan du se til revyen}
+[sr={Melodi:Jullerupfærgeby - Det kan du få for en krone}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Compilering af Gentoo
+flytteplaner for DIKU
+Og en brugt-på-druk-SU
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+Nog'n der vil på Absalon
+dataloger på et ton
+Og en masse Disney-sang'
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+SCIENCE-IT-uniform
+nul trafik på eduroam
+Og en slacker som er dov'n
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+Mad på fad og en GT
+Sange om ML og C
+++, Java og VB
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+Lyd og lys fra \TeX{}nikken
+film med Torben Mogensen
+Og tylklædte kjolemænd
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+Rustur versus prodekan
+Rus, rus, rus, rus, rus i band
+Og OR, XOR eller AND
+Ka' du se til revyen
+\endverse
+
+
+\beginverse
+Folk der koder kernen selv
+ord der rimer på sig selv
+Og et gammelt C-ordspil
+Ka' du se til revyen
+\endverse
+
+\endsong
