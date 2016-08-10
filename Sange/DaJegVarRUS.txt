@@ -1,0 +1,54 @@
+\beginsong{Da Jeg Var Rus}[sr={Melodi:Avenue Q: If You Were Gay}, by={MatematikRevy 2013}]
+\beginverse
+Da jeg var RUS 
+ stille som en mus
+   Et stakkels pus 
+   Der fatted helt minus
+   Af mat'matik
+   Forstod det iiiik!
+   Det' bare alt for svært
+   Da jeg var RUS
+   Men jeg ikk' RUS
+\endverse
+
+\beginverse
+ Når man er RUS
+ og har drukket sjus%/ og har tabt sin trus/og har fået lus %mus, pus, lus, sjus, (blod)rus, tusch, dus, minus, udhus, trus
+ Og fået lus %Dag efter dag/Og øl fra fad /
+ Og man har tabt sin trus %Der er jo også MAD /
+ Så tag med mig %Og du kan scor' /
+ Jeg kan hjælpe dig %Det, vi kalder hor /
+ Hvis du vil vide hvor,
+   Ta' på Caféen?
+   Det der det sker
+\endverse
+
+\beginverse
+   Det' herligt
+   At være RUS
+ og alle der ser dig bli'r tændt
+ så du ender nok på MUH
+%Man tænker sig ikke om /og alle de ved hvem du er/ og alt hvad man laver bliver kendt/og alle ved hvad der er hændt/ \\
+\endverse
+
+\beginverse
+ På mat'matik
+det' ik' fysik%/ det fed taktik/ her slår det klik/ vi bru'r lyrik/kan du få pik/ gi' mig et nik/ læser vi ik/ det ren logik
+ Så ta' en tår
+  Og læs til næste år
+\endverse
+
+\beginverse
+ Man er bar' helt fri
+   Det' nostalgi
+   At være første år
+   Der' meget man ikk' forstår
+   og ting du aldrig når
+   Så slap nu af
+   For der er også kag'!
+   hver dag, 
+%dag, mag, tag, lag, nag, bag, fag, 
+%år, mår, lår, tår, går, slår, når
+\endverse
+
+\endsong

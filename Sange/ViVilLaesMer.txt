@@ -1,0 +1,85 @@
+\beginsong{Vi Vil Læs' Mer}[sr={Melodi:Johnny Deluxe: Vi Vil Ha' Mer}, by={MatematikRevy 2013}]
+\beginverse
+\endverse
+
+\beginverse
+ Jeg - er på tredje år
+har afleveret mit projekt
+Og det gik sgu helt perfekt
+\endverse
+
+\beginverse
+ Men nu - er jeg færdig her
+Og jeg skal rejse fra KU 
+men jeg vil ikke væk endnu %(ville ønske jeg ik' sku' / Jeg vil stadig vær' på MUH/ Jeg vil møde Christian U)
+\endverse
+
+\beginverse
+ Vi vil læs' mer, 
+ Vi vil vil læs' mer - Jeg ønsker at blive kandidat.
+ Vi vil bli' her, 
+ Vil finde mit eget resultat
+ Vi vil være her, 
+ Ellers få et vikariat
+Jeg vil være kandidat
+\endverse
+
+\beginverse
+ Så - fik jeg 2 år mer'
+Specialet skrives nu
+Og får stadig min SU
+\endverse
+
+\beginverse
+ Oh nej - det er nu at jeg ser
+Når mit speciale så er slut
+Er min tid på KU brudt
+\endverse
+
+\beginverse
+Vi vil læs' mer, 
+ Vi  vil bliv' mer', jeg ønsker at skrive Ph.D
+ Vi vil bli' her,
+ Jeg vil studere Fourier
+Vi vil være her 
+ Jeg vil så gerne se det ske
+Jeg vil være Ph.D.
+\endverse
+
+\beginverse
+ Vi vil læs' mer
+\endverse
+
+\beginverse
+ Vi vil vær' her, 
+ Jeg bliver på KU som lektor
+ Vi vil bliv' mer 
+ Arbejde her i hundred år
+\endverse
+
+\beginverse
+ Vi vil bli' her  
+ Vi vil bli' her, Og senere blive Professor
+ Vi vil være her, 
+ og give mit liv som vor Rektor
+ Vi vil være her, 
+ Arbejde i KU's sektor
+Jeg vil være Professor %(pheinschmäcker)
+\endverse
+
+\beginverse
+ Vi vil bliv' her, 
+ Vil aldrig forlade HCØ
+ Vi vil bliv' her, 
+ Vil ikke stå i en arbejdskø  %Og så finde mig en hellig mø
+ Vi vil bliv' her, 
+ og sejle i min egen sø
+Det er her at jeg vil dø
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+\endsong

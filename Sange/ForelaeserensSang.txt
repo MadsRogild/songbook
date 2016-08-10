@@ -1,0 +1,55 @@
+\beginsong{Forelæserens Sang}[sr={Melodi:Anders Mattesen $-$ Papas sang}, by={MatematikRevy 2014}]
+\beginverse
+ Algebra er en akademisk kunst
+Et fag jeg tager meget alvorligt
+Og barren er høj for at vinde min gunst
+Og det syn's du måske er for dårligt
+Jeg vil så nødigt miste kontrol
+Og dumpe jer alle på stribe
+Men aldrig har jeg haft et ringere hold
+Så lad venligst vær' med at pibe
+\endverse
+
+\beginverse
+For...
+\endverse
+
+\beginverse
+Det gør mere ondt på mig end det gør på dig
+Når jeg fylder dig med dumpekarakterer
+Du ku' bar' ha' gjort det ord'nligt, ikke vær' et kvaj
+Så sku' jeg da nok ha' givet dig lidt mere
+Så sæt dig ned og ta' det med lidt velbehag
+Når jeg serverer dig dit usle minus tre
+Jeg håber du i munden har en dårlig smag
+Men du skal nok bestå en dag
+\endverse
+
+\beginverse
+Dekanen han si'r, at fler' skal bestå
+Helst otte kurser om året
+Ambitionerne daler på må og få
+Og pensummet det bli'r beskåret
+Men selv med de nye krav er det trist
+At se at effekten er lille
+I tuder og så er det sikkert og vidst
+At hov'derne stadig vil trille
+\endverse
+
+\beginverse
+For...
+\endverse
+
+\beginverse
+Det gør mere ondt på mig end det gør på dig
+Når jeg retter jeres ting med røde tuscher
+Man sku' næsten tro du gør det for at såre mig
+For du regner nærmest dårliger' end russer
+Men husk det er din levevej der står på skud
+Så når du afleverer giv et rigtigt bud
+Og hvis det ik' er ordentligt, la' vær' at tud'
+For så må du sgu droppe...
+Så må du sgu droppe...
+Så må du sgu droppe ud!
+\endverse
+\endsong

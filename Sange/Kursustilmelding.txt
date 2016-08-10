@@ -1,0 +1,114 @@
+\beginsong{Kursustilmelding}[sr={Melodi:Christian $-$ Du kan gøre hvad du vil}, by={MatematikRevy 2015}]
+\beginverse
+
+Havde du forventet
+At du ku' vente
+Med kursustilmelding?
+Nu' det for sent
+\endverse
+
+\beginverse
+
+Du var forvænt med
+Masser af frihed
+Nu er den tag't fra dig
+Væn dig til det
+\endverse
+
+\beginverse
+
+Du kan vælge hvad du vil
+Så længe du gør det på
+Normeret tid, min ven
+Du kan vælge hvad du vil
+Så længe du gør det for
+Reformen
+\endverse
+
+\beginverse
+
+Min forelæser sagde
+Har du ambitioner?
+Så tag dette kursus
+I næste blok
+\endverse
+
+\beginverse
+
+Men det er umuligt
+Jeg valgte jo kurser
+For seks måneder siden
+Ka' ik' laves om
+\endverse
+
+\beginverse
+
+Nu er jeg bundet
+På hænder og fødder
+Bli'r gelejdet igennem
+Alle fem år
+\endverse
+
+\beginverse
+
+Kan ikke læng're
+Se nogen udvej
+Men heldigvis slipper
+Jeg for at tænke selv
+\endverse
+
+\beginverse
+
+Du kan vælge hvad du vil
+Så længe du gør det på
+Normeret tid, min ven
+Du kan vælge hvad du vil
+Så længe du gør det for
+Reformen
+\endverse
+
+\beginverse
+
+Du kan vælge hvad du vil
+Så længe du gør det på
+Normeret tid, min ven
+Du kan vælge hvad du vil
+Så længe du gør det på
+Normeret tid, min ven
+Du kan vælge hvad du vil
+Så længe du gør det for
+Reformen
+\endverse
+
+\beginverse
+
+Havde du forventet
+At du ku' vente
+Med kursustilmelding?
+Nu' det for sent
+\endverse
+
+\beginverse
+
+Du var forvænt med
+Masser af frihed
+Nu er den tag't fra dig
+Væn dig til det
+\endverse
+
+\beginverse
+
+Min forelæser sagde
+Har du ambitioner?
+Så tag dette kursus
+I næste blok
+\endverse
+
+\beginverse
+
+Men det er umuligt
+Jeg valgte jo kurser
+For seks måneder siden
+Ka' ik' laves om
+\endverse
+\endsong

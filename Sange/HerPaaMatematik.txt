@@ -1,0 +1,56 @@
+\beginsong{Her På Mat'matik}[sr={Melodi:Fætter Mikkel}, by={MatematikRevy 2015}]
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+ Her på mat’matik
+Skal man være kvik
+Sætte pris på elegance
+Ha’ intuition
+Også ambition
+Gribe fat i hver en chance
+\endverse
+
+\beginverse
+ For vi elsker ren logik (klap-klap)
+algebra og statistik (klap-klap)
+Alt der er komplekst
+Analyse, vækst
+det er her vi har det bedst (klap-klap)
+\endverse
+
+\beginverse
+ Fra det første år
+Kurserne består
+Fællesskabet ej forglemme
+Der bli’r undervist
+Masser kage spist
+Det er her hvor vi har hjemme
+\endverse
+
+\beginverse
+ For vi elsker ren logik (klap-klap)
+algebra og statistik (klap-klap)
+Alt der er komplekst
+Analyse, vækst
+det er her vi har det bedst (klap-klap)
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+\endsong

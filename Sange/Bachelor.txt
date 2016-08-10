@@ -1,0 +1,64 @@
+\beginsong{Bachelor}[sr={Melodi:Eric Saade: Popular}, by={MatematikRevy 2012}]
+\beginverse
+ 3 år er forbi på mat'matik
+I kurserne jeg tolv kun fik
+Bachelorprojektet ramte spot
+Forsvaret det bliver godt
+Forsvaret det bliver godt
+\endverse
+
+\beginverse
+Så jeg bli'r bachelor, så jeg bli'r bachelor
+Og jeg en grad får: "Bachelor"
+Og med en grad i hus, scorer jeg hver en rus
+Succes jeg opnår, bachelor
+De andre må melde fallit
+Jeg får det største gennemsnit
+For jeg bli'r bachelor, for jeg bli'r bachelor
+Og jeg en grad får:
+"Bachelor"
+\endverse
+
+\beginverse
+Forsvaret af bachelorprojekt
+Er nu forbi, det gik perfekt
+Venter nu blot på min karakter
+At jeg får et 12-tal mer
+Og jeg fik et 12-tal mer
+\endverse
+
+\beginverse
+Så jeg blev bachelor, så jeg blev bachelor
+På mit diplom står: "Bachelor"
+Og med min grad i hus, scorer jeg hver en rus
+Succes jeg opnår, bachelor
+De andre må melde fallit
+Jeg fik det største gennemsnit
+Og jeg blev bachelor, og jeg blev bachelor
+På mit diplom står: 
+"Bachelor"
+\endverse
+
+\beginverse
+[synges 3 gange]Oh-oh bac, oh-oh bac, oh-oh bachelor 
+Oh-oh-oh, oh-oh-ooh 
+\endverse
+
+\beginverse
+For jeg blev bachelor
+Ja,  jeg blev bachelor
+Jeg er så sej, sej, seeej
+\endverse
+
+\beginverse
+Med mit diplom i hus, scorer jeg hver en rus
+Og de i kø står, bachelor
+Så andre drenge meld fallit
+Jeg fik det største gennemsnit
+Og jeg bli'r kandidat, og jeg bli'r kandidat
+Kandidaaaaaat
+\endverse
+
+\beginverse
+\endverse
+\endsong

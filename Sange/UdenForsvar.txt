@@ -1,0 +1,51 @@
+\beginsong{Uden Forsvar}[sr={Melodi:Marie Key $-$ Uden Forsvar}, by={MatematikRevy 2014}]
+\beginverse
+ Hey, skal vi to ikke bare lad’ den her lig’?
+Er jo ikke sværer’ end Natur og Teknik?
+Ik’ send afsted, ik’ pakke det ind.
+For hvad nu hvis at censor han ik’ fatter en pind?
+\endverse
+
+\beginverse
+Tro at det kan stå selv, helt uden forsvar?
+Tro på det en 12’er, det så fedt det jeg har
+Når jeg læser gennem helt heroppe fra,
+er opgaven jo rigtig, jeg ved det bar’ – jeg ved det bar’!
+\endverse
+
+\beginverse
+Første gang jeg skrev det var jeg meget blind
+Jeg rendte rundt på barer og skrev ingenting
+Men deadline kom jo nær, jeg ku’ overskrid’ 
+Så lærte jeg mig lektien, tænkt’ jeg sku’ vide
+Det her gør jeg ik’ til næste år
+Og det er dermed nok derfor at det går
+Den opgave jeg har med her nu
+Det er jo den, jeg ku’ oversku’
+\endverse
+
+\beginverse
+Tro at det kan stå selv, helt uden forsvar?
+Tro på det en 12’er, det så fedt det jeg har
+Når jeg læser gennem helt heroppe fra,
+er opgaven jo rigtig, jeg ved det bar’ – jeg ved det bar’!
+\endverse
+
+\beginverse
+ Tror du det kan stå selv - helt uden forsvar
+Tror du det er nok - hvor har du dog det fra
+Reglerne i Danmark kan man ikke vige fra
+Ellers dumper du - Jeg ved det bar'
+\endverse
+
+\beginverse
+ Tro at det kan stå selv, helt uden forsvar?
+ Tror du det kan stå selv - helt uden forsvar?
+ Tro på det en 12’er, det så fedt det jeg har
+ Tror du det en 12’er, det så dumt det du har
+ Når jeg læser gennem helt heroppe fra,
+ Når jeg læser gennem helt heroppe fra
+ Er opgaven jo rigtig, jeg ved det bar’ – jeg ved det bar’!
+ Er opgaven jo dumpet, jeg ved det bar’
+\endverse
+\endsong

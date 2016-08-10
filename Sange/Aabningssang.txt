@@ -1,0 +1,53 @@
+\beginsong{Åbningssang}[sr={Melodi:Frozen $-$ Frozen Heart}, by={MatematikRevy 2014}]
+\beginverse
+ Det er tid at komme ind
+Sid ned, nu lukkes døren...
+Vi går i gang med krop og sind
+Og dér sidder instruktøren
+\endverse
+
+\beginverse
+Så åben dit slik, alt er klart
+Drik af din øl og sid parat 
+Vi er faktisk klar til start
+Skrig i vilden sky:
+Der' show fra mat revy
+\endverse
+
+\beginverse
+Hyup! Ho! Lyset tændt! Så' vi på!
+Hyup! Ho! Lyset tændt ! Så' vi på!
+\endverse
+
+\beginverse
+Ninja tjans!
+Sketch og dans!
+Pausefisk!
+Sang!
+\endverse
+
+\beginverse
+Så er revyen skudt rigtigt igang
+Stør' end fysik! Stør' end kemi!
+Stør' end biologi! 
+\endverse
+
+\beginverse
+Hyup!
+\endverse
+
+\beginverse
+Det er tid at komme ind
+Sid ned, nu lukkes døren...
+Vi går i gang med krop og sind
+Og dér sidder instruktøren
+\endverse
+
+\beginverse
+Så åben dit slik, alt er klart
+Drik af din øl og sid parat 
+Vi er faktisk klar til start
+Skrig i vilden sky:
+Matematik revy...
+\endverse
+\endsong

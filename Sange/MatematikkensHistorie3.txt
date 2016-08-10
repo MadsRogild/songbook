@@ -1,0 +1,63 @@
+\beginsong{Matematikkens Historie 3 - Version 1}[sr={Melodi:Beach Boys: I Get Around \newline Queen: Bohemian Rhapsody \newline Michael Jackson: Billie Jean \newline Black Eyed Peas: I Got A Feeling \newline Fun.: Som Nights}, by={MatematikRevy 2013}]
+\beginverse
+\endverse
+
+\beginverse
+\endverse
+
+\beginverse
+ Mat-mat-mat-mat-matematik
+Ooohh
+ Mat-mat-mat-mat-matematik
+ Der var Euclid
+ Euclid, der var Euclid
+ Han var så fed
+ Fed, fed, fed, fed, han var så fed
+ I fordums tid
+ Tid, tid, tid, i fordums tid
+ Han laved' ik' en skid
+ Skid, han laved' ik' en skid
+\endverse
+
+\beginverse
+ Waoh
+Nej nej nej nej nej nej NEJ
+Men hvad med Euler, hvad med Euler
+Han var dummere end mig
+Men jeg er også pisse klog og sej, og sej, og SEJ
+\endverse
+
+\beginverse
+ Klog, dum, dum, klog, dum, dum, dum, dum
+ Dum, dum, klog, dum
+ Så var der Abel og Galois, de lavede algebra
+Lig' så klog som en aktuar, de er til grin
+Deres liv ligger snart i ruin
+WHOA
+Men folk de siger til mig, jeg har et ego-trip
+Det synes jeg er blasfemi
+eee
+\endverse
+
+\beginverse
+ Gauss var en taber (wouh)
+Man sku' tro han var datalo-og
+Han ku' ik' ha' bestå't matIntro
+Lig'som en biolog-og-og-og-og
+\endverse
+
+\beginverse
+ Når vi en dag skal lede hele verden
+Så vil i bukke for os
+Hilbert ville ha' kysset vores fødder
+men vil' ha' givet dig et los
+Cauchys navn var grimt
+Gödel var en homo
+Klein var fuld konstant
+Russell lignede lort
+WHOA
+Vi er de bedste
+Vi er de bedste
+Jeg er Gud.
+\endverse
+\endsong

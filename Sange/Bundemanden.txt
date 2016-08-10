@@ -1,5 +1,5 @@
 \beginsong{Bundemanden}
-[sr={Melodi:Poul Kj\o ller - Bondemanden}]
+[sr={Melodi:Poul Kjøller - Bondemanden}]
 
 \beginverse
 Bundemanden han har altid travlt
