@@ -2,11 +2,12 @@
 import sys, os, getopt, re
 import indledning, style_tex, auxiliary
 from subprocess import call
+from random import shuffle, seed, randint
 current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
+def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random):
     index = 1
     songs = []
     filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -47,7 +48,9 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
     if sort:
-        songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
+        songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
+    if random:
+        shuffle(songs)
     if fixed:
         songs = sorted(songs, key=lambda songs: songs[2])
         order = []
@@ -60,7 +63,8 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
 
         for i in range(len(index)-1,-1,-1):
             del songs[i]
-        songs = sorted(songs, key=lambda songs: songs[0])
+        if not(random):
+            songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -122,7 +126,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
 
 
-    songs_index = sorted(songs, key=lambda songs: songs[0])
+    songs_index = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())
     for i in range(0, len(songs_index)):
         (title,_,_) = songs_index[i]            #get the title of the songs
         index = songs.index([item for item in songs if item[0] == title][0])
@@ -150,8 +154,12 @@ def main(argv):
     logo = ""           #the file containing the logo for the front page
     sort = False
     fixed = False
+    random = False
+    
+    strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
+    seed(strSeed)
     try:
-        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sf",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed"])     
+        opts, args = getopt.getopt(argv,"hucep:s:n:l:Sfr",["help","unf","camp","empty","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -182,6 +190,15 @@ def main(argv):
             sort = True
         elif opt in ("-f","--fixed"):
             fixed = True
+        elif opt in ("-r","--random"):
+            random = True
+        elif opt in ("--seed"):
+            if random:
+                strSeed = arg
+                seed(strSeed)
+            else:
+                usage()
+                sys.exit()
         else:
             usage()
             sys.exit()
@@ -192,7 +209,9 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed)         #call to create sangbog
+    create_sangbog(unf, camp, name, style, logo, empty, sort, fixed, random)         #call to create sangbog
+    if random:
+        print("Seed used for shuffling: " + strSeed)
 
 
 if __name__=='__main__':
