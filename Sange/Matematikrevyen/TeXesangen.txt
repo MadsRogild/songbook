@@ -1,0 +1,66 @@
+\beginsong{\TeX esangen}
+[sr={Melodi:Sebastian's Skatteøen - Ostesangen}
+,by={MatematikRevy 2012}
+]
+
+\beginverse
+Jeg skal rette opgaver fra RUSser
+Driver mig til vanvid
+intet står som jeg vil ha' det
+Alle mine russer går og sjusker
+og jeg bru'r så lang tid
+Maple burger de til alt, bar' de ku' bruge
+\endverse
+
+
+\beginverse
+Fancyheader, itemize
+og verbatim og normalsize
+Hvis det skal vær' tjekket
+tabular, beginalign
+hudredvis af dollartegn
+så skal det vær' {\TeX}et
+{\TeX}, jeg vil ha' {\TeX}, jeg må ha' {\TeX}
+{\TeX}, jeg vil ha' {\TeX}, jeg må ha' {\TeX}
+{\TeX}, {\TeX}, {\TeX}, {\TeX}, {\TeX}
+jeg må ha' TE-EEEEX
+\endverse
+
+
+\beginverse
+Mellemugen bringer os et kursus
+Fjerner alt den vanvid,
+jeg skal lære dem at {\TeX}e
+Selv om det ik' er den rene luksus
+lønner det sig altid
+når de taler {\TeX}ens sprog
+så kan de bruge
+\endverse
+
+
+\beginverse
+Fancyheader, itemize ...
+\endverse
+
+
+\beginverse
+Nu bru'r de alt tiden på at {\TeX}e
+Driver dem til vanvid
+det får de snart mer' end nok af
+Nu er alle opgaverne lette
+har så meget fritid
+får min nattesøvn
+og drømmer nu så sødt om
+\endverse
+
+
+\beginverse
+Fancyheader, itemize ...
+\endverse
+
+
+\beginverse
+Fancyheader, itemize ...
+\endverse
+
+\endsong
