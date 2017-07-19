@@ -1,0 +1,73 @@
+\beginsong{DIKU}
+[by={FysikRevy\textsuperscript{\textregistered} 2007}
+,sr={Melodi:Joint Venture 2004 - Holland}
+]
+
+\beginverse
+På den anden side af pladsen der er et institut
+som man nu vil tage fra mig 
+som et spædbarn fra dets sut.
+Udefra er det det smukkeste af parkens byggerier,
+og det har smør-det-selv-kantine
+med cola til en tier.
+\endverse
+
+
+\beginverse
+I nordfløj'n er der mænd, 
+i sydfløj'n er der drenge.
+Ja, hvis man vil se en pige, 
+skal man lede meget længe.
+Den studerende han koder vildt, 
+og scorer ikke tit, 
+men i fald det lykkes, 
+publicerer han søgealgoritmen.
+\endverse
+
+
+\beginverse
+Jeg elsker HCØ, og jeg elsker NBI.
+Noget andet end fysik det ser jeg ingen mening i,
+- det kommer deraf at jeg er fysisk fagfascist -
+men flytter DIKU væk er det satanædme trist.
+\endverse
+
+
+\beginverse
+For vi lærer vores russer smædesange udenad,
+og FysikRevy\textsuperscript{\textregistered} forkynder 
+gerne mellemfagligt had:
+Revyen på DIKU var den første, 
+vores er en reaktion,
+så vi har retten på vores side, 
+det følger per induktion.
+\endverse
+
+
+\beginverse
+Jeg elsker HCØ, og jeg elsker NBI.
+Noget andet end fysik det ser jeg ingen mening i,
+- det kommer deraf at jeg er fysisk fagfascist -
+men flytter DIKU væk er det satanædme trist.
+\endverse
+
+
+\beginverse
+Men værst er det alli'vel for Caféen?!
+En fysik-dekan har alt 
+for meget shit (i støbeskeen)
+``Når DIKU flytter, 
+kan Caféen? flytte ind i UP-1.''
+Men frebar uden dataloger er da ikke særlig fedt.
+\endverse
+
+
+\beginverse
+Jeg elsker HCØ, og jeg elsker NBI.
+Noget andet end fysik det ser jeg ingen mening i,
+- det kommer deraf at jeg er fysisk fagfascist -
+men flytter DIKU væk er det satanædme trist.
+Men flytter DIKU væk er det satanædme trist.
+\endverse
+
+\endsong

@@ -1,0 +1,35 @@
+\beginsong{Når jeg ser en bombe sprænge}[sr={Melodi: Når jeg ser et rødt flag smælde} %2
+,
+by={ FysikRevy 2006}
+,
+cr={}]
+\beginverse
+	Når jeg ser på datalogen og hans kode fuld af slam
+	når jeg ser på biologen
+	der så nænsomt klapper sit lam
+	bli'r jeg trist for alle de stakler
+	som aldrig får lyset at se
+	Os som dagligt fysikproblemer takler
+	kan kun af deres faglighed le.
+\endverse
+\beginverse
+	Vi er lærlinge af Maxwell
+	Vi har gå'd i Newtons spor
+	Vi har lyttet til Jens Martin fortæl'
+	I kan blive vor lands næste Bohr
+	Så vor ædle historie forpligter
+	og på fortidens skuldre vi står
+	Evigt fremad mod stjernerne vi sigter
+	mod nye horisonter vi går.
+\endverse
+\beginverse
+	Når jeg ser en bombe sprænge
+	i en ørken fuld af sand
+	kan jeg høre drønet så længe
+	at jeg taber den halve forstand
+	Gennem våben vi verdenen former
+	og erobrer hvert land på vor vej
+	Mod den allersidste verdenskrig vi stormer,
+	De vil se at fysikken er sej.
+\endverse
+\endsong

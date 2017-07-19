@@ -1,0 +1,54 @@
+\beginsong{De seje tings sang}[sr={Melodi: Det er jul (Alle men'sker er nu så glade)} 
+,
+by={ FysikRevy 2006}
+,
+cr={}]
+\beginverse
+		Alle projektiler er seje
+		Kanoner, kugler, krudt må vi eje
+		Og det er fordi
+		Ballistik, ballistik
+		Lige så sjovt som gymnastik
+		Skyd den op som en prop
+		Det' det samme som et hop
+		Se der daler kugler ned
+		Prøv du bare at slip' afsted
+		Vores kugler de skal nok få ram på dig!
+\endverse
+\beginverse		
+		Store tunge dyr de er seje
+		Flere tusind kilo skal de veje
+		Og det er fordi
+		Elefanter i flok
+		Én vil aldrig være nok
+		Kom i gang med at fang'
+		Inden køen bliver for lang
+		Hvis du kommer allerførst
+		Skal du aldrig dø af tørst
+		Bag ved baren er der flere gemt til os!
+\endverse
+\beginverse		
+		Ting der brænder af de er seje
+		Her bli'r lig' så varmt som Haveje
+		Og det er fordi
+		$CO_2$,$CO_2$
+		Det gør atmosfæren god
+		Brænd nu af her i dag
+		30 grader skal vi ha'
+		Ah, her dufter godt af kul
+		Det er dejligt det er jul
+		Under træet er der masker gemt til os!
+\endverse
+\beginverse		
+		Kædereaktioner er seje
+		Kernerne de elsker at lege
+		Og det er fordi
+		Fission, fission
+		Det er vores top-mission
+		Kom kun her, spalt den der
+		Det er godt mod kolde tæer
+		Køb atomer til din mor
+		Det kan redde vores jord
+		Spørg hvad gammastrålingen kan gøre for dig!
+\endverse
+\endsong

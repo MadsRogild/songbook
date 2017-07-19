@@ -1,0 +1,120 @@
+\beginsong{Matlab}
+[sr={Melodi:Dschinghis Khan - Moksau}
+,by={FysikRevy\textsuperscript{\textregistered} 2014}
+]
+
+\beginverse
+MATLAB
+Et programmeringssprog
+som alle kan forstå
+til hverdagsbrug
+\endverse
+
+
+\beginverse
+MATLAB
+Når man er vant til dig
+’det svært at ændre vej
+du er så go’
+\endverse
+
+
+\beginverse
+Laptoppen hey, hey, hey ja den kæmper (hey, hey)
+Min kode, ha ha ha, den er grim (ha, ha)
+har regnet hey, hey, hey, hele natten (hey, hey)
+løkker er nested her, nested der, hey, hey, hey, hey
+MATLAB, MATLAB,
+Kode skal ik’ kompiler’s
+variable ej declares
+ho ho ho ho ho, hey
+MATLAB, MATLAB
+indekserer kun med 1
+vektor’ ganges sammen let
+ha ha ha ha ha, hey
+MATLAB, MATLAB
+Lav ej matrixkonstruktion
+uden preallokation
+ho ho ho ho ho, hey
+MATLAB, MATLAB
+Det er altid nemt at plot’
+100 linjer gør det flot
+Ha ha ha ha ha, hey
+\endverse
+
+
+\beginverse
+\texttt{set(0,...
+’DefaultTextInterpreter’,...
+’latex’); \%} plot kommer her
+\texttt{plot(teori);}
+\endverse
+
+
+\beginverse
+\texttt{hold on;
+set(’gca’,’fontsize’,...
+20); plot(data); \% nice \%} glem ej box on
+\endverse
+
+
+\beginverse
+MATLAB, MATLAB,
+Kode skal ik’ kompiler’s
+variable ej declares
+ho ho ho ho ho, hey
+MATLAB, MATLAB
+indekserer kun med 1
+vektor’ ganges sammen let
+ha ha ha ha ha, hey
+MATLAB la la la ...
+oh ho ho ho ho, hey
+MATLAB MATLAB la la la ...
+hahahahaha
+Oh ohohoh...
+MATLAB, MATLAB
+MATLAB, MATLAB
+bsxfun brokker sig
+findes online hjælp til mig?
+ho ho ho ho ho hey
+MATLAB, MATLAB,
+Hvorfor virker koden ej
+måske kan jeg bruge why
+ha ha ha ha ha
+\endverse
+
+
+\beginverse
+MATLAB
+\endverse
+
+
+\beginverse
+MATLAB
+\endverse
+
+
+\beginverse
+laptoppen hey, hey, hey ja den kæmper (hey, hey)
+Min kode, ha ha ha, den er grim (ha, ha)
+har regnet hey, hey, hey, hele natten (hey, hey)
+løkker er nested her, nested der (hey, hey, hey, hey)
+MATLAB, MATLAB,
+Kode skal ik’ kompiler’s
+variable ej declares
+ho ho ho ho ho, hey
+MATLAB, MATLAB
+indekserer kun med 1
+vektor’ ganges sammen let
+ha ha ha ha ha, hey
+MATLAB, MATLAB
+Lav ej matrixkonstruktion
+uden preallokation
+ho ho ho ho ho, hey
+MATLAB, MATLAB
+MATLAB husker alt du gør
+ramforbrug’t bli’r stør’ og stør’
+Ha ha ha ha ha, hey
+\endverse
+
+\endsong

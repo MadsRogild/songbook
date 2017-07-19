@@ -1,0 +1,36 @@
+\beginsong{Glad for Fysik}[sr={Melodi: Quangs sang} %19
+,
+by={ FysikRevy 2013}
+,
+cr={}]
+\beginverse
+		Her er en historie om en dreng der hedder Finn
+		Han er humanist på 7. år  og fatter ik' en pind
+		KUA det er mørkt og goldt, og Finn har studiegæld
+		Så han prøver sig med logos, for det meste uden held
+\endverse
+\beginverse		
+		Jeg har kendt en smart jurist, hvis navn jeg nu har glemt
+		Han er specialist i at slikke røv, og han har det ikke nemt
+		Han pukler hele natten, til den næste morgen gryr
+		Kopierer ting for rige folk og lever af gebyr
+\endverse
+\beginverse		
+		Så hvordan kan du dog sige, at du ikke er tilfreds?
+		At din regnelærer er dum og sur og dine lektier gi'r dig stress?
+		Du har alt, hvad du skal bruge, du har Schuams og hævegrej
+		Og der er tusind humanister, der ville ønske de var dig
+\endverse
+\beginverse		
+		Tom sidder og koder med kroppen på et ton
+		Han har slet ingen venner, og hans kær'ste er hans hånd
+		Han scorer sjældent piger, men synes Ponyer er fedt
+		Han er groet fast bag skærmen, hvor han koder latin-1
+\endverse
+\beginverse		
+		Så hvad driver dig til at sige at studiet er grumt?
+		At du ikke gider Newton og synes termo, det er dumt?
+		Du har alt, hvad du skal bruge, du har Schuams og hævegrej
+		Og utallige dataloger ville ønske de var dig
+\endverse
+\endsong

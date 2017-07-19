@@ -1,0 +1,70 @@
+\beginsong{Eksamensangst}
+[sr={Melodi: Anden - Du Er Min Store Kærlighed}
+,by={FysikRevy\textsuperscript{\textregistered} 2014}
+]
+
+\beginverse
+Uret tikker, hjertet det slår
+Jeg mærker pulsen inde i mit øre
+Jeg får det værre, som tiden den går
+Men jeg har lovet, at jeg nok forsøger
+Jeg har dumpet alle min fag
+Jeg håber i dag er min lykkedag
+\endverse
+
+
+\beginverse
+Solen falder blidt på min kind
+og jeg mærker trykket i min blære
+Jeg kan ikke nå at lette det nu
+Nu må bare briste eller bære
+Døren knirker, jeg gi’r et lille hvin
+Jeg håber snart at turen er min
+\endverse
+
+
+\beginverse
+Bare jeg nu kan få det sagt
+Det jeg har øvet og planlagt
+Det jeg har terpet ud og ind
+Eller går klappen ned igen?
+\endverse
+
+
+\beginverse
+Hånden ryster, halsen er tør
+Jeg sveder kraftigt under mine arme
+Jeg stirrer tomt lige ind på den dør
+Der står imellem mig og helvedets varme
+De andre gør det, gang på gang på gang
+for mig er det stadig ulidelig tvang
+\endverse
+
+
+\beginverse
+Bare jeg nu kan få det sagt...
+\endverse
+
+
+\beginverse
+Bare jeg ku forklare
+bare censor ku prøv at forstå
+at mundtlig eksamen ik er sag’n når man blir så nervøs at man går i stå.
+\endverse
+
+
+\beginverse
+Bare jeg nu kan få det sagt...
+\endverse
+
+
+\beginverse
+Bare jeg nu kan få det sagt...
+\endverse
+
+
+\beginverse
+Bare jeg nu kan få det sagt...
+\endverse
+
+\endsong

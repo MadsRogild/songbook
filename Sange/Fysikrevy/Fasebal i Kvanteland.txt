@@ -1,0 +1,49 @@
+\beginsong{Fasebal i Kvanteland}[sr={Melodi: Julebal i Nisseland} 
+,
+by={ FysikRevy 2004}
+,
+cr={}]
+\beginverse
+		Sikk' en dejlig energi,
+		Jeg kan li' entropi
+		Cæsium atomet står
+		For at tiden går
+		Til fasebal, til fasebal i Kvanteland
+		Elektroner flyver frit omkring
+		Skru' feltet op og styr dem som en kvantemand
+		Se nu bare, de flyver rundt i ring
+\endverse
+\beginverse
+		Sikk' en dejlig energi,
+		Jeg kan li' entropi
+		Cæsium atomet står
+		For at tiden går
+		Til fasebal, til fasebal i Kvanteland
+		Elektroner flyver frit omkring
+		Skru' feltet op og styr dem som en kvantemand
+		Se nu bare, de flyver rundt i ring
+\endverse
+\beginverse
+		Her er koldt uhadada
+		Vakuum ska' vi ha'
+		Det kan ikke være svært
+		Brug det, du har lært
+		Til fasebal, til fasebal i Kvanteland
+		Stoffet flyder i superfludium
+		Og hver boson, den gør jo som sin nabomand,
+		De står sammen og rummet bliver til skum
+\endverse
+\beginverse
+		Atomer absorberer
+		Det lys, vi sender ind
+		Et spejl reflekterer:
+		Pas på, du ik' bli'r blind!
+		Til fasebal, til fase-fase-fase-fase-fasebal
+		Bose-Einstein er lysets karneval
+\endverse
+\beginverse
+		Bose-Einstein er lysets karneval
+		Bose-Einstein er lysets karneval
+		Bose-Einstein er lysets karneval
+\endverse
+\endsong

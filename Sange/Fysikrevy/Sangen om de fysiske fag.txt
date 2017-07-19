@@ -1,0 +1,66 @@
+\beginsong{Sangen om de fysiske fag}[sr={Melodi: Sådan er kapitalismen}
+,
+by={ FysikRevy 2008}
+,
+cr={}]
+\beginverse
+		Som ung hun kiggede op på himlen
+		Drømte om lidt mere støv
+		Forblænded' sig i stjernevrimlen
+		Og var for andet ganske døv
+		Sådan er astrofysikken
+		I bli'r arbejdsløs' en dag
+		Den drøm om stjernejobbet brister
+		Så tag nu heller' og skift fag
+\endverse
+\beginverse		
+		På fjernsynsskærmen vises Voldborg
+		Lige efter det der sport
+		Berømmelse det frister let når
+		Studietiden er så kort
+		Sådan er me'trologien
+		Jeres solskin bli'r til regn
+		Vejret kan ej forudsiges
+		Så tyd dog heller' stjernetegn
+\endverse
+\beginverse		
+		Han havde styr på undergrunden
+		Han ville finde olie og gas
+		Men iført toga og øl i munden
+		Måtte det jo gøre na$\beta\beta$
+		Sådan er geofysikken
+		Klimaets vogter, det er klart
+		Kvanter ej med mekanikken
+		Jordarbejder af høj karat
+\endverse
+\beginverse		
+		Af nervebanernes signaler
+		Der drages let uskyldigt sind
+		Men bio gi'r så mange kvaler
+		De hverken aner ud eller ind
+		Sådan er biofysikken
+		Ingen formler og fysik
+		I stoppes altid af etikken
+		Nobelprisen I ej fik
+\endverse
+\beginverse		
+		Kvantekromodynamikken
+		Higgsbosoner og lidt mer'
+		Lytter efter tælles klikken
+		Mens der stadig intet sker
+		Sådan er kvantefysikken
+		I bli'r aldrig nogen Bohr
+		I stedet får I et job i banken
+		Så ka' I prøv' at lær' at scor'
+\endverse
+\beginverse		
+		De er smarte, de vil gerne
+		Studere noget, der er hot
+		Så længe det er uden hjerne
+		Med begavelse lidt småt
+		Sådan er nanofysikken
+		Penge ganske vist I får
+		Men tro nu ej, I ejer verden
+		I gik af mode sidste år
+\endverse
+\endsong
