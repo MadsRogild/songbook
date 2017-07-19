@@ -1,0 +1,42 @@
+\beginsong{Den Harmoniske Række}[sr={Melodi: Andrew Lloyd Webber - Phantom of the Opera}, by={Matematik Revyen 2010}]
+
+\beginverse
+Jeg så det i en drøm
+Det stod så klart
+En stor forvandlingsstrøm, og det er snart
+Det er en teori, foranderlig
+En dag, der vil jeg vær irrational,
+når jeg bli’r pi
+\endverse
+
+\beginverse
+Jeg er irrational,
+ik’ helt som dig
+du er et estimat,
+og blot på vej
+for selv det største n, ineffektiv
+forstå, at jeg er uopnåelig
+du er naiv
+\endverse
+
+\beginverse
+Men hør min kære ven
+hvad jeg vil sig’
+det er et enkelt ord
+uendelig
+\endverse
+
+\beginverse
+Jeg ser mig/dig nærme dig/mig, er det mon sandt?
+En dag, der vil vi begge to ku’ se
+det der forsvandt
+\endverse
+
+\beginverse
+Kom nu, gå bare hen af aksen
+\endverse
+
+\beginverse
+Jeg går så sagte hen af aksen!
+\endverse
+\endsong

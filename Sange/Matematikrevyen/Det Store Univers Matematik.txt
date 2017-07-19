@@ -1,0 +1,55 @@
+\beginsong{Det Store Univers Matematik}[sr={Melodi: Yakko's Universe Song}, by={MatematikRevy 2011}]
+
+\beginverse
+Alt er bygget op af de få små aktiomer
+med beviser viser vi hvad der er sandt
+med et lemma og en sætning teorem og et korollar
+vi finder vores sandhed deriblandt
+mat'matik er et spil fyldt med regler, hvis man vil det
+kan man følge dem stringent og kort fortalt
+har man lidt fantasi, krydderi og en smule held
+så kan man jo bevise næsten alt
+\endverse
+
+\beginverse
+Det' et stort aktiomssystem
+og vi er kun piloter
+og vi driver mat'matik
+kun med depoter af fodnoter
+det' side efter side 
+med alt hvad man skal vide
+det' et stort univers - Mat'matik
+\endverse
+
+\beginverse
+Vi er del af en stor matematisk klassedeling:
+Geometrisk Analyse og Fysik
+Abelskfri Geometri, og efter en Topologi
+følger Algebra hermed Talteorik
+og Center for Symme-metri og Deformationsmani
+Statistik og så Sandsynlig regneri
+Matematisk metodik og Statistisk metodik
+i Forsikring og så Økono-nomi
+\endverse
+
+\beginverse
+Med e og et og pi, og nul, uendelig og i
+som kvadratrod af en ener minus to
+vi ved at e er Eulers tal, som har med logaritmer
+og pi er diameter op i O
+Nu vinker stakkels googolplexian uendelig farvel
+for uendelig er mere, det er kendt
+Vi ser begrebet kendt som nul, er for Babylon et hul
+Og oprindelsen af et er sikkert glemt
+\endverse
+
+\beginverse
+Det’ et stort aktiomssystem
+og vi er kun piloter
+og vi driver mat’matik
+kun med depoter af fodnoter
+Vid at jeg er primus motor
+og I er and’npiloter
+det’ et stort univers - mat’matik
+\endverse
+\endsong

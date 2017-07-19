@@ -1,0 +1,32 @@
+\beginsong{$\alpha\beta$-sangen}[sr={Melodi: I en kælder sort som kul} %30
+,
+by={ Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+,
+cr={}]
+For en god ordens skyld må vi hellere nævne, at det fjerde
+bogstav er delta og det tiende er kappa; opdelingen er
+kun lavet for at det skal passe på versefødder.\\
+\vspace{5mm}
+\beginverse
+				Alfa beta gamma del-
+				ta epsilon zeta
+				eta theta iota kap-
+				pa lambda my ny ksi
+				omikron pi rho sigma
+				tau ypsilon phi chi psi
+				omega er sidste
+				fireogtyve på liste!
+
+\endverse
+\beginverse
+				$\alpha\ \beta\ \gamma\ \delta$\hspace{-2.5pt}\protect\colorbox{white}{\phantom{$\delta$}}
+				\hspace{-2.5pt}$\delta$\hspace{-1.25em}\colorbox{white}{\phantom{$\delta$}}$\ \varepsilon\ \zeta$
+				$\eta\ \theta\ \iota\ \kappa$\hspace{-2.5pt}\protect\colorbox{white}{\phantom{$\kappa$}}
+				\hspace{-3pt}$\kappa$\hspace{-1.3em}\colorbox{white}{\phantom{$\kappa$}}$\ \lambda\ \mu\ \nu\ \xi$
+				$o\ \pi\ \rho\ \sigma$
+				$\tau\ \upsilon\ \varphi\ \chi\ \psi$
+				$mega$ er sidste
+				$24$ på liste!
+\endverse
+
+\endsong

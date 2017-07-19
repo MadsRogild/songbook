@@ -1,0 +1,68 @@
+\beginsong{Ingen GT}
+[sr={Melodi:Mulan - Rigtige Mænd}
+,by={MatematikRevy 2011}
+]
+
+\beginverse
+Jeg bad om en GT – jeg skal være fuld
+Hvad skal jeg med light-øl, når jeg bad om guld?
+Du må være ny - ved ingenting
+Så lad mig sig' det her og nu
+Det kun øl, rigtig øl, jeg kan brug'.
+\endverse
+
+
+\beginverse
+De er blevet udsolgt
+Køb en anden øl
+Sku' det være en Classic, vi har dem på køl
+Vi har pilsner, sprut og mad på fad
+Vi har alt, hvad du skal brug'
+Vi har øl, masser øl, kan du tro
+\endverse
+
+
+\beginverse
+Jeg drikker her hver dag og nat
+Jeg er her mere end derhjemme
+Det at drikke hurtigt faldt mig aldrig nemt
+Den øl er jo ik speciel.
+Jeg drikker den hver dag herhenne
+Uden mere GT er udvalget slemt
+\endverse
+
+
+\beginverse
+Må ha øl
+Der er så kold som den danske vinter
+Må ha øl
+Med samme smag, som en kvindes kys
+Må ha øl
+Der har en styrke som elefanter
+Jeg elsker dig - min smukke gyldne tøs
+\endverse
+
+
+\beginverse
+Tag så at hør efter
+Vi har intet guld
+Der er andre kunder
+Vælg en øl – kom nu
+Jeg vil ikke mer - vil ha GT'r
+Så jeg går hjem, jeg' færdig nu
+Det kun øl, rigtig øl, jeg kan brug'
+\endverse
+
+
+\beginverse
+Giv ham øl
+Der er så kold som den danske vinter ...
+\endverse
+
+
+\beginverse
+Her er øl
+Der er så kold som den danske vinter ...
+\endverse
+
+\endsong

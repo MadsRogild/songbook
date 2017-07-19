@@ -1,0 +1,55 @@
+\beginsong{Et Kursus Jeg Engang Bestod}[sr={Melodi:Gotye: Somebody That I Used To Know}, by={MatematikRevy 2013}]
+\beginverse
+ Nu og da er VTmat i min erindring
+Med Mikkel Willum og en fæl instruktor-hær 
+"Det her kursus, det er godt for dig!" 
+"Det hjælper ingenting at sige nej." 
+så jeg blev tilmeldt og forventede det bedste.
+\endverse
+
+\beginverse
+ Der var ingen tal, men mange sider fyldt med nonsens! 
+Og tiden gik med argument og diskussion 
+Men jeg gider ikke diskuter’.
+Jeg vil meget heller' integrer'!
+Frem for lektier på langt over 1000 sider!
+\endverse
+
+\beginverse
+ og hvorfor sku' jeg ha' det fag!? 
+For to år de er nu gået og jeg husker intet 
+Nej jeg husker ingenting idag!?
+Det er obligatorisk, det er helt til grin. 
+Humanister var i overflod! 
+Kunne ikke hjælpe mig med mine mange spørgsmål. 
+For der var intet jeg forstod! 
+Nu' du blot et kursus, jeg engang bestod! 
+Nu' du blot et kursus, jeg engang bestod! 
+Nu' du blot et kursus, jeg engang bestod!
+\endverse
+
+\beginverse
+ 1000 sider det var mere end hvad jeg forlangte 
+Hvis du havde læst, så havde du forstået meget mer' 
+For kurset det er relevant,
+hvis du bare er lidt observant 
+Men da du pjækked' tit dengang, 
+ku' der intet gøres ved det, for du dovnede den dagen lang
+\endverse
+
+\beginverse
+ Hvorfor skulle jeg/du dog ha' det fag!? 
+For to år de er nu gået og jeg/du husker intet 
+Og hvem/jeg har også tekstbilag!? 
+Det’/Jeg’ er obligatorisk,
+det er helt til grin/jeg er åh så fin. 
+Humanister var i overflod!/Humanisterne er vældig god’!
+Kunne aldrig hjælpe mig med mine mange spørgsmål/Kunne altid hjælpe dig med dine mange spørgsmål
+For der var intet jeg/du forstod! 
+Nu' du/jeg blot et kursus, jeg/du engang bestod! 
+Nu' du/jeg blot et kursus, jeg/du engang bestod! 
+Nu' du/jeg blot et kursus, jeg/du engang bestod! 
+\endverse
+
+
+\endsong

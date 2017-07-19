@@ -1,0 +1,86 @@
+\beginsong{Er der nogen...}
+[sr={Melodi:De syv dværges festsang}
+,by={Tekst: En bitter mand og hans ven}
+]
+
+\beginverse
+Er der nogen der vil med ud at flyve en tur
+det er ikke særligt farligt
+medmindre man er terorist
+og flyver uforsvarligt
+\endverse
+
+
+\beginverse
+Hey-ho for taliban
+de styrer Afganistan
+Bush har bombet deres land
+men de slås til sidste mand
+\endverse
+
+
+\beginverse
+Er der nogen der vil med ud og flyve en tur
+og vælte nogen tårne
+Vi har startet en jihad
+og Bush han samler skårene.
+\endverse
+
+
+\beginverse
+Hey-ho for taliban ...
+\endverse
+
+
+\beginverse
+Er der nogen der vil med ud og flyve en tur
+og landsætte soldater
+De straffer folk med turban på
+og terror-psykopater.
+\endverse
+
+
+\beginverse
+Hey-ho for taliban ...
+\endverse
+
+
+\beginverse
+Er der nogen der vil med ud og flyve en tur
+og sende nogle breve
+Med pulver og bakterier i,
+det er ik' så svært at lave
+\endverse
+
+
+\beginverse
+Hey-ho for taliban ...
+\endverse
+
+
+\beginverse
+Er der nogen der vil med ud og flyve en tur
+og smide nogle bomber
+vi starter i afghanistan
+og sprænger dem til stumper
+\endverse
+
+
+\beginverse
+Hey-ho for taliban ...
+\endverse
+
+
+\beginverse
+Er der nogen der vil med ud og flyve en tur
+og rømme hovedestaden
+vi flygter ned til kandahar
+og slipper for balladen.
+\endverse
+
+
+\beginverse
+Hey-ho for taliban ...
+\endverse
+
+\endsong

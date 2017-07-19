@@ -1,0 +1,108 @@
+\beginsong{En Almindelig Analyse-1 time}[sr={Melodi:Nissebanden: Det er Risengrød \& Alina Devecerski: Flytta På Dej}, by={MatematikRevy 2013}]
+
+\beginverse
+ Division med nul (tsk tsk tsk) 
+Pas nu på det hul (tsk tsk tsk) 
+Er det grænseløst, er der ingen trøst 
+Du må bare regne om igen.
+\endverse
+
+\beginverse
+ Division med nul (tsk tsk tsk) 
+Pas nu på det hul (tsk tsk tsk) 
+Er du hjælpeløs, er der ingen trøst 
+Du må bare regne om igen, 
+forstå grænseværdierne de er din ven
+\endverse
+
+\beginverse
+ Hvad er det, der gør, at Jamie Gabe bryder ned?
+\endverse
+
+\beginverse
+ Og hvad er det, der gør, at l’Hopital han os’ er med?
+\endverse
+
+\beginverse
+ Hvorfor bringer Maple domain-beskeder frem?
+\endverse
+
+\beginverse
+ Hvorfor mon at første årgangs frafald er ekstrem?
+\endverse
+
+
+\beginverse
+ Division med nul (tsk tsk tsk) 
+Pas nu på det hul (tsk tsk tsk) 
+Er det grænseløst, er der ingen trøst 
+Du må bare regne om igen. 
+Division med nul (tsk tsk tsk) 
+Pas nu på det hul (tsk tsk tsk) 
+Er du hjælpeløs, er der ingen trøst 
+Du må bare regne om igen, 
+forstå grænseværdierne de er din ven
+\endverse
+
+
+\beginverse
+ Du skriver, skriver op 
+Og jeg skriver, skriver ned 
+Nu må det være nok 
+Jeg vil ik’ være med 
+\endverse
+
+\beginverse
+For jeg skriver, skriver ind 
+Og jeg printer, printer ud 
+Du dømmer mig for hårdt 
+Hør her, jeg vil ik’ dumpe faget
+\endverse
+
+
+\beginverse
+ Dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe *står og danser overlegent*
+\endverse
+
+\beginverse
+ Åh, mon jeg dumper faget!? 
+\endverse
+
+\beginverse
+Møder til tid’n, jeg er klar 
+Strømmen parat, i bærbar 
+Men så si’r du… At jeg vil dumpe faget!? 
+\endverse
+
+\beginverse
+Hele mit hold, dem du består 
+Snittet er højt, 12-tal de får 
+Hvorfor nervøs? 
+Du si’r jeg dumper faget! 
+\endverse
+
+\beginverse
+Jeg sidder natten lang, lig’som alle andre gang’! 
+Og opgaven er klar!
+\endverse
+
+\beginverse
+ Du skriver, skriver op 
+Og jeg skriver, skriver ned 
+Nu må det være nok 
+Jeg vil ik’ være med 
+For jeg skriver, skriver ind 
+Og jeg printer, printer ud 
+Du dømmer mig for hårdt 
+Hør her, jeg vil ik’ dumpe faget
+\endverse
+
+\beginverse
+ Dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe, dumpe 
+\endverse
+
+\beginverse
+ Åh, mon jeg dumper faget!? 
+\endverse
+
+\endsong

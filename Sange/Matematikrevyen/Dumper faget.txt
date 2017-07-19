@@ -1,0 +1,37 @@
+\beginsong{Dumper faget}[sr={Melodi: Flytta på dej}
+,
+by={ MatematikRevy 2013}
+,
+cr={}]
+\beginverse
+		Jeg skriver, skriver op
+		Og jeg skriver, skriver ned
+		Nu må det være nok
+		Jeg vil ik' være med
+		For jeg skriver, skriver ind
+		Og jeg printer, printer ud
+		Du dømmer mig for hårdt
+		Hør her, jeg vil ik' dumpe faget
+\endverse
+\beginverse
+		Dumpe, dumpe, dumpe, dumpe, dumpe, dumpe
+		Dumpe, dumpe, dumpe, dumpe, dumpe, dumpe
+		Åh, mon jeg dumper faget?
+\endverse
+\beginverse		
+		Møder til tid'n, jeg er klar
+		Strømmen parat, i bærbar
+		Men så si'r du... At jeg vil dumpe faget!?
+		Hele mit hold, dem du består
+		Snittet er højt, 12-tal de får
+		Hvorfor nervøs? Du si'r jeg dumper faget!
+		Jeg sidder natten lang, lig'som alle andre gang'!
+		Og opgaven er klar!
+\endverse
+\beginverse		
+		Jeg skriver, skriver op...
+\endverse
+\beginverse		
+		Dumpe, dumpe, dumpe, dumpe...
+\endverse
+\endsong

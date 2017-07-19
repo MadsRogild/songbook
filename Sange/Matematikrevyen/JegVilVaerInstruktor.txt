@@ -1,0 +1,72 @@
+\beginsong{Jeg Vil Vær' Instruktor}[sr={Melodi:John Mayer: I Don't Need No Docotr}, by={MatematikRevy 2013}]
+
+
+\beginverse
+ Jeg vil vær' instruktor
+Ikke spise pasta mer'
+Jeg vil vær' instruktor
+Og så bli' gymnasielær'
+\endverse
+
+\beginverse
+  Analyse og algebra, hvad som helst
+Ja giv mig alt, og så lidt LaTeX
+Jeg vil vær' instruktor
+Og lære alting om igen
+\endverse
+
+\beginverse
+ Jeg vil vær' instruktor
+Jeg vil vær' instruktor
+\endverse
+
+\beginverse
+ Ja ja ja, jeg vil vær' instruktor
+Og lære alting om igen
+\endverse
+
+\beginverse
+ (Nu) venter jeg bare på de sender
+Sender mig et brev med svar
+\endverse
+
+\beginverse
+ Jeg vil vær’ instruktor
+Jeg vil vær’ instruktor
+\endverse
+
+\beginverse
+ Jeg er næsten faldet i søvn
+Men nu må jeg lette røv'n
+Jeg hører lyden af et brev
+Gad vide, hvad det var de skrev
+Og det står øverst oppe midtfor
+"Vil du komme, og vær' instruktor heer?"
+\endverse
+
+\beginverse
+ Nu er jeg instruktor
+Jeg kan aldrig slappe af
+\endverse
+
+\beginverse
+ Nu er jeg instruktor
+Nu er jeg instruktor
+\endverse
+
+\beginverse
+ Ja ja, nu er jeg
+Nu er jeg instruktor
+Jeg kan aldrig slappe af
+ Slappe af
+\endverse
+
+\beginverse
+ Jeg vil gør’ livet surt for jer
+Jeg gør det hårdt, jeg gør det svært
+Alt for svært
+hahaha
+\endverse
+
+
+\endsong

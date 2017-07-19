@@ -1,0 +1,39 @@
+\beginsong{Der Står en Printer}[sr={Melodi:Der Bor en Bager}, by={MatematikRevy 2015}]
+
+
+
+
+
+
+\beginverse
+ Der står en printer
+Helt op' på fjerde
+Den printer gratis
+Hvis man er lærer
+Den printer store
+Den printer små
+Den printer nogle
+Med farver på
+\endverse
+
+\beginverse
+ For alle andre
+Nu håbet splintrer
+Vi havde 1000
+Nu har vi mindre
+Og har du penge
+Så kan du få
+Men har du ingen
+Så må du gå
+\endverse
+
+
+
+
+
+
+
+
+
+
+\endsong

@@ -1,0 +1,50 @@
+\beginsong{Det græske alfabet}[sr={Melodi: Mester Jacob}
+,
+by={ Matimatik Revyen 2010}
+,
+cr={}]
+For en god ordens skyld må vi hellere nævne, at det fjerde
+bogstav er delta og det tiende er kappa; opdelingen er
+kun lavet for at det skal passe på versefødder.\\
+\beginverse
+Alfa beta gamma delta
+Epsilon, Epsilon
+Zeta, Eta, Theta, Zeta, Eta, Theta
+Iota, Iota
+\endverse
+
+\beginverse
+Kappa, Lambda, Kappa, Lambda
+My, Ny, Xi, My Ny, Xi
+Omikron og Pi, Rho, Omikron og Pi, Rho
+Sigma Tau, Sigma Tau
+\endverse
+
+\beginverse
+Ypsilon, Phi, Ypsilon, Phi
+Chi og Psi, Chi og Psi
+Så er der Omega, Så er der Omega
+Det var det, det var det
+\endverse
+
+\beginverse
+$\alpha\ \beta\ \gamma\ \delta$
+$\epsilon, \epsilon$
+$\zeta, \theta, \zeta, \theta$
+$\iota, \iota$
+\endverse
+
+\beginverse
+$\kappa, \lambda, \kappa, \lambda$
+$\mu, \nu, \xi, \mu, \nu, \xi$
+$o$ og $\pi, \rho, o$ og $\pi, \rho$
+$\sigma, \tau, \sigma, \tau$
+\endverse
+
+\beginverse
+$\upsilon, \phi, \upsilon, \phi$
+$\chi$ og $\psi, \chi$ og $\psi$
+Så er der $\omega$, Så er der $\omega$
+Det var det, det var det
+\endverse
+\endsong

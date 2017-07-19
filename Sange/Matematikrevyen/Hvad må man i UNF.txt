@@ -1,0 +1,78 @@
+\beginsong{Hvad må man (som arrangør)?}[sr={Melodi: Fy fy skamme, Omsen og Momsen}
+,
+by={ UNFRevy 2016}
+,
+cr={}]
+\beginverse
+		Må man flyv’ på første klasse?
+		Må man spise mad på NOMA?
+		Må man hæld’ så meget sprut på delta’r’
+		at de går i koma?
+\endverse
+\beginverse			
+		Må man gamble med vores penge?
+		Må man drukne sig i vodka?
+		Må man bruge Times New Roman
+		når man laver sig en tryksag?
+\endverse
+\beginverse			
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man ændre vores logo?
+		Må man slet’ vores database?
+		Må man pille på en deltager
+		og gå til næste fase?
+\endverse
+\beginverse			
+		Må man bade under sprinkleren
+		som er i lab’ratoriet?
+		Må man sparke til en forelæser
+		nede i auditoriet?
+\endverse
+\beginverse			
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man sove til et for’drag?
+		Må man ryge pot på brandvagt?
+		Må man rode på vores lager
+		eller arrangere en andagt?
+\endverse
+\beginverse			
+		Må man udsmide plakater
+		eller grine af folk der bløder
+		Må man be’ om hemmelig afstemning
+		til alle vores møder
+\endverse
+\beginverse	
+		Næ næ næ næ næ det må vi ikke,
+		fy fy skamme skamme fy fy ah ah
+		slemme slemme fy fy næ næ nix nix
+		slut forbudt - men hva må vi så?
+\endverse
+\beginverse			
+		Må man melde sig til opvask
+		Må passe på sin kasse
+		Må man komm’ med gode input
+		når vi planlægger en masse
+\endverse
+\beginverse			
+		Må man sige fra i tide
+		Må man stille op til DK
+		Må man finde sig en UNF’er
+		som man kan læg’ an på?
+\endverse
+\beginverse			
+		Ja ja ja ja ja det må vi gerne
+		næ sikke fint fint ja ja meget det blir
+		stort stort klap klap fint fint flot flot
+		det var godt - nå det må vi godt
+\endverse
+\endsong

@@ -1,0 +1,99 @@
+\beginsong{Primtal}[sr={Melodi:Robbie Williams $-$ Candy}, by={MatematikRevy 2014}]
+\beginverse
+ Lad os definere
+De tal der fascinerer
+For primtal skal der gælde
+Faktorer trivielle
+Elegant og simpelt, det kan man let forstå
+Men trods det er det fulde billed’
+Umuligt at opnå
+Men hør nu
+\endverse
+
+\beginverse
+Euler og Euklid de viste
+Blandt primtal er der slet intet sidste
+Givet $n$ kan primtal skrives
+Helt entydigt, vi har uniqueness
+\endverse
+
+\beginverse
+ Skriv nu $p$ og $q$
+Der’ så meg’t der ikk’ er vist endnu
+Uden dem går teori itu
+For alt er smukt ved primtal
+Skriv nu $p$ og $q$
+De er overalt, det vides jo
+Også selvom det er svært at tro
+For alt er smukt ved primtal
+\endverse
+
+\beginverse
+ Deres heltalsringe
+Dem kan man let frembringe
+For vilkårligt $p$
+Er der meget at indse
+Man kan se tendenser
+Og smukke kongruenser
+Perfekt at anerkende
+Forbundet med Mersenne
+\endverse
+
+\beginverse
+Goldbach havde en formodning
+Og kryptologer brug’r dem i kodning
+Dankortkøb forløber sikkert fordi
+Vi slipper primtal fri
+Hvad gjord’ vi uden dem?
+Så kom nu!!
+\endverse
+
+\beginverse
+ Skriv nu $p$ og $q$
+Der’ så meg’t der ikk’ er vist endnu
+Uden dem går teori itu
+For alt er smukt ved primtal
+Skriv nu $p$ og $q$
+De er overalt, det vides jo
+Også selvom det er svært at tro
+For alt er smukt ved primtal
+\endverse
+
+\beginverse
+ $\mbox{Pi}(x)$ er asymptotisk
+Distribueringen dog ej logisk
+Sylows sætning hjælper os til at se
+Grupper af orden $p$
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+ Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+Hvad gjord’ vi uden dem?
+\endverse
+
+\beginverse
+ Skriv nu $p$ og $q$
+Der’ så meg’t der ikk’ er vist endnu
+Uden dem går teori itu
+For alt er smukt ved primtal
+Skriv nu $p$ og $q$
+De er overalt, det vides jo
+Også selvom det er svært at tro
+For alt er smukt ved primtal
+\endverse
+
+\beginverse
+ Skriv nu $p$ og $q$
+Der’ så meg’t der ikk’ er vist endnu
+Uden dem går teori itu
+For alt er smukt ved primtal
+Skriv nu $p$ og $q$
+De er overalt, det vides jo
+Også selvom det er svært at tro
+For alt er smukt ved primtal
+\endverse
+\endsong

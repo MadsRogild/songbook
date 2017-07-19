@@ -1,0 +1,33 @@
+\beginsong{Ingeniørsangen}[sr={Melodi: Anemonesangen}
+,
+by={ PF Revy 2016}
+,
+cr={}]
+\beginverse
+		Verden er så fuld af ingeniører
+		Kreative mennesker 
+		med tunge bøger
+		Efterspørgslen er kun blevet større
+		Vi skal finde løsninger
+		som dertilhører
+\endverse
+\beginverse	
+		Åah ingeniører
+		Vores jord har brug for din idé
+		Åah ingeniører
+		Paradis på jorden det kan ske
+\endverse
+\beginverse			
+		Sygdom spredes, indlandsis vil smelte
+		Gode råd og løsningerer 
+		er alt for sjældne
+		Vi må være verdens superhelte
+		Uden os så ville men'skeheden vælte
+\endverse
+\beginverse	
+		Åah ingeniører
+		Vores jord har brug for din idé
+		Åah ingeniører
+		Paradis på jorden det kan ske
+\endverse
+\endsong

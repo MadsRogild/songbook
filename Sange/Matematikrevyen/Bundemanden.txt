@@ -1,0 +1,15 @@
+\beginsong{Bundemanden}
+[sr={Melodi:Poul Kjøller - Bondemanden}]
+
+\beginverse
+Bundemanden han har altid travlt
+med at bunde øl.
+Hver gang han har bundet en GT,
+ta'r han sig en stribe til.
+Øllerne skal bundes, så vi kan få mere sne,
+sneerne skal bundes, så vi kan få mer' GT.
+Bundemanden han har altid travlt
+med at bunde øl.
+\endverse
+
+\endsong

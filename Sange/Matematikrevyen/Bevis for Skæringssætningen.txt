@@ -1,0 +1,89 @@
+\beginsong{Bevis for Skæringssætningen}[sr={Melodi: Queen - Bohemian Rhapsody} %62
+,
+by={ MatematikRevy 2011}
+,
+cr={}]
+\beginverse
+		Se på den tegning\\
+		Grafen går denne vej\\
+		Det er da klart nok\\
+		hvor det nulpunkt må gemme sig\\
+		Ja - her og her -\\
+		der kan være fler' end et!\\
+		Se på det største, det er da lige til\\
+		Det er supremum for mængden D\\
+		Hvad er D? Lad os se:\\
+		Det skal vær' de x, hvor f(x) er mindre end 0 - end 0
+\endverse
+\beginverse			
+		Sæt c - lig' sup(D)\\
+		vælg $x_n$ i mængden D\\
+		højst $\frac{1}{n}$ fra c\\
+		Følgen $x_n$ går mod c\\
+		Så derfor konkluderer vi nu at\\
+		Følgen f($x_n$)\\
+		Konverger' mod f(c)\\
+		Så f(c) er svagt mindre end nul og
+\endverse
+\beginverse			
+		Det var den ulighed, kan vi også få den anden?
+\endverse
+\beginverse			
+		c + $\frac{1}{n}$\\
+		det kalder vi $x_n$\\
+		For b $> x_n$\\
+		Følgen kaldet $x_n$, den går mod c\\
+		så vi konluderer derfor lig'som før:\\
+		Følgen f($x_n$)\\
+		Går mod f(c)\\
+		Så f(c) er derfor svagt stør' end 0
+\endverse
+\beginverse			
+		Nu har jeg næsten fået klaret mit bevis\\
+		Pas nu på! Pas nu på! Du har glemt en detalje!\\
+		Du skal også vise hjælpesætning 5.1.10!
+\endverse
+\beginverse			
+		(Du er givet) Du er givet (Du er givet) Du er givet,\\
+		Du er givet $\epsilon>$ 0(-0-0-0-0)
+\endverse
+\beginverse			
+		Da er vor afstand fra f($x_n$)\\
+		Hen til f(c) $< \epsilon$\\
+		Hvis blot $x_n$ kun er $\delta$ fra c
+\endverse
+\beginverse			
+		Så er jeg færdig her, følgen konverger' !\\
+		Bevís det! Nej - det må da være klart\\
+		Soleklart!\\
+		Bevis det! Det må da være klart!\\
+		Soleklart!\\
+		Bevis det! Det må da være klart!\\
+		Soleklart! (må da være klart!)\\
+		Soleklart! (må da være klart!)
+\endverse
+\beginverse			
+		TRI-VI-EEEEEELT!\\
+		NEJ NEJ NEJ NEJ NEJ NEJ NEJ!\\
+		Åh, hvorfor ikke, hvorfor ikke, hvorfor ikke trivielt?\\
+		Funktionen f er kontinuert i punktet c - i c - i c!
+\endverse
+\beginverse			
+		Da $x_n$ konvergerer mod c ses igen\\
+		at $x_n$ højst er $\delta$ fra c for stort n\\
+		Hvad mere? - Vi kan nu konkludere,\\
+		at f($x_n$) - har grænseværdi f(c)
+\endverse
+\beginverse			
+		Hvaaad nu? Hvaaad nu?
+\endverse
+\beginverse			
+		f(c) er større\\
+		eller lig med nul\\
+		f(c) er mindre...\\
+		f(c) må være... = 0
+\endverse
+\beginverse			
+		Hvilket skulle vises...
+\endverse
+\endsong

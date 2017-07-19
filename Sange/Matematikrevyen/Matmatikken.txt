@@ -1,0 +1,64 @@
+\beginsong{Mat'matikken}[sr={Melodi: Junglebogen - Junglens Rytme}, by={Matematik Revyen 2010}]
+
+\beginverse
+Når du vil regne alting i Maple
+Om det er småt, om det er stort
+Så er det (hva’ det?) det er mat’matikken
+\endverse
+
+\beginverse
+Og når du skri, skri, skriver i LaTeX
+ja, selv et simpelt julekort
+så er det, nemlig mat’matikken
+\endverse
+
+\beginverse
+Ja, hvis du ik’ ka’ besøge din søster
+Ud’n at hun har kage klar
+eller ik’ kan kom’ til tiden mer’ for
+så har du lært, at den skal vær’ kvart over!
+\endverse
+
+\beginverse
+Det er kun fordi, at du ik’ kan slippe fri
+Du er fan-get af mat’matikken
+Ja, af mat’matikken
+\endverse
+
+\beginverse
+Der noget der gør at - den tager fat i dig
+studiet bli’r en leg, kom nu syng med!
+Vi leger med grænser, vi finder uend’lig sum
+Og græske tegn, bruger vi, i mat’matikkens alkymi!
+\endverse
+
+\beginverse
+Så ka’ du ikke spille et brætspil,
+hvor turen følger uret rundt
+\endverse
+
+\beginverse
+Så er det - det er mat’matikken
+\endverse
+
+\beginverse
+Og kan du ikke kommunikere
+med folk der ikke læser her!
+\endverse
+
+\beginverse
+Så er det - det er mat’matikken
+\endverse
+
+\beginverse
+Ja, hvis du ik’ ka’ besøge din søster
+Ud’n at hun har kage klar
+eller ik’ kan kom’ til tiden mer’ for
+så har du lært, at den skal vær’ kvart over!
+\endverse
+
+\beginverse
+Det er kun fordi, at du ik’ kan slippe fri
+Du er fan-get af mat’matikken
+\endverse
+\endsong

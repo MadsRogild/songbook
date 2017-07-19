@@ -1,0 +1,44 @@
+\beginsong{Matematikkens Historie 2}[sr={Melodi:Tom Lehrer: The Elements \newline (Oprindeligt The Major General's Song)}, by={MatematikRevy 2012}]
+\beginverse
+   Jeg er godt eksempel på en klassisk matematiker
+Jeg har jo haft mit studie som fuldstændig analytiker
+I matematikhistorien der kan jeg finde skjulested
+Men jeg er ikke stor nok til at kunne sammenlignes med:
+Ramanujan, og Trachtenberg, Von Neumann og Kolmogorov
+Og Grothendieck, og De Moivre, Hippocrates, Lyapunov
+Og Weierstrass, Pythagoras, Lobaechevsky og så Cauchy
+Samt Cavalieri, Minkowski, Fibonacci og Jacobi 
+\endverse
+
+\beginverse
+ Husk Wessel, Russell og Borel, og Aristoteles, Pascal
+Zermelo, Fraenkel, Gödel, Boole, og Goldbach, Hardy, og Abel
+Og Lindelöf, og Dirichlet, og Dedekind, og Sørensen
+Og Noether, Cantor, Mandelbrot, og Littlewood og Pedersen 
+\endverse
+
+\beginverse
+Og Hipparchos, og Möbius, Eudoxus, Apollonius
+Archimedes, og Bernoulli, Diophantos, Frobenius
+Og Poincaré, Galileo, Al-Khwârizmi og Fubini
+Brahmagupta, og Chebyshev, Caratheodory, Seki,
+Og Lie, Fourier og Bháscara, Iwasawa, Aryabhatta
+Og Liouville, og Fischer, og så Leibniz, Chern, og Atiyah
+Og Lebesgue, og Erdõs, Euclid, og Banach, Tarski og Sylow
+Og Hadamard, og Sylvester, og Weyl, Landau, og så Markov
+\endverse
+
+
+\beginverse
+Wiles, Lagrange og Archytas, De Morgan, Babbage og Laplace
+Napier. Hilbert, Fermat, Lambert, Eilers, og l'Hôpital, Thales
+\mbox{Og Kepler, Taylor, Escher, Lehrer, Brouwer, Nash og så Descartes}
+\mbox{Og Darboux, Jensen, Hansen, Grassmann, Jordan, Klein og Galois}
+\endverse
+
+\beginverse
+Vi mangler tre af matematikens helt centrale søjler
+Det' nogen af de største det er Riemann, Gauss og Euler
+\endverse
+
+\endsong

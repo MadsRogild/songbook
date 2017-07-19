@@ -1,0 +1,65 @@
+\beginsong{Ernst Hansen}[sr={Melodi: Anden - Spørg om hjælp}, by={Matematik Revyen 2010}]
+
+\beginverse
+Oh-oh-oh-oh-oooh! Oh-oh-oh-oooh-oh-oh-oh!
+Matematik Revy’n
+Oh-oh-oh-oh-oooh! Oh-oh-oh-oooh-oh-oh-oh!
+Matematik Revy’n
+\endverse
+
+\beginverse
+Ha! Ha! Ha-ha-hah! Ha Ha! Ha-ha-hah!
+Ha! Ha! Ha-ha-hah! Vi er parate!
+\endverse
+
+\beginverse
+Ha! Ha! Ha-ha-hah! Ha Ha! Ha-ha-hah!
+Ha! Ha! Ha-ha-hah! Nu skal det starte!
+\endverse
+
+\beginverse
+Tag jeres pladser,
+og gør jer det klart
+At vi begynder nu
+vi er klar til start
+Vi er nu klar
+Ha-ha-ha!
+Og superstar!
+\endverse
+
+\beginverse
+Hvis ilden kommer
+Så går I derhen
+Og rygning er forbudt
+det si’r jeg, min ven
+Sluk din mobil
+Bip-bip-bip
+Sluk din mobil
+\endverse
+
+\beginverse
+Og hvis I er stille
+Forbliver helt stille
+Så vil I se, vor års revy
+\endverse
+
+\beginverse
+Det’ nu vi starter, lad os komme i gang
+Det er nu vi viser vores show
+Oh-oh-oh-oh-oooh!
+Det nu vi starter, lad os komme i gang
+Det er nu vi viser vores show
+\endverse
+
+\beginverse
+Oh-oh-oh-oh-oooh! Oh-oh-oh-oooh-oh-oh-oh!
+Matematik Revy’n
+Oh-oh-oh-oh-oooh! Oh-oh-oh-oooh-oh-oh-oh!
+Matematik Revy’n
+\endverse
+
+\beginverse
+Ha! Ha! Ha-ha-hah! Ha Ha! Ha-ha-hah!
+Ha! Ha! Ha-ha-hah! Nu skal den starte!
+\endverse
+\endsong

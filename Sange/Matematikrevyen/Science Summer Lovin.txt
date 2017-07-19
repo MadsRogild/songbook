@@ -1,0 +1,94 @@
+\beginsong{Science Summer Lovin'}[sr={Melodi: Summer nights\/Summer lovin' fra Grease}%34
+,
+by={ UNFrevy 2014}
+,
+cr={}]
+\beginverse
+		Dreng: Science Camp - had me a blast
+		Pige: Science Camp - happened so fast
+		Dreng: I met a girl - crazy for meeee
+		Pige: Met a boy - smart as can be
+\endverse
+\beginverse
+		High school days
+		drifting away
+		To, uh oh, those science camps
+\endverse
+\beginverse
+		Well-a, well-a, well-a, huh
+\endverse
+\beginverse
+		Teach me more, teach me more
+		Did you learn a lot?
+		Teach me more, teach me more
+		Is science that hot?
+\endverse
+\beginverse
+	Dreng: She stood by me, up in the lab
+	Pige: My reactions - they went so baad
+	Dreng: I saved her life - before it explod'
+	Pige: He looked good, in his lab coat
+\endverse
+\beginverse
+	Summer science
+	something's begun
+	And oh, oh, I wanna learn more
+\endverse
+\beginverse
+		Well-a, well-a, well-a, huh
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Can you help me with math?
+	Teach me more, teach me more
+	Does it turn out in cash?
+\endverse
+\beginverse
+	Dreng: We were solvin' matrices and more
+	Pige: Studin' Fermat - my head got sore
+	Dreng: We did math - out in the park
+	Pige: We stayed up till it turned dark
+\endverse
+\beginverse
+	Summer science
+	made friends for life
+	and oh, oh, I wanna learn more
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Can we play your new game?
+	Teach me more, teach me more
+	Will it lead you to fame?
+\endverse
+\beginverse
+	Pige: My computer, holding my hand
+	Dreng: summer indoor - didn't get tanned
+	Pige: I made a game - I'm just eighteen
+	Dreng: Well, it's good - you know what I mean
+\endverse
+\beginverse
+	Summer camps,
+	Science is fun
+	And oh, oh, I wanna learn more
+\endverse
+\beginverse
+	Teach me more, teach me more
+	Anything you don't know?
+	Teach me more, teach me more
+	Next year I wanna go!
+\endverse
+\beginverse
+	Pige: Had a party, that's where it ends
+	Dreng: No more science, with my new friends
+	Pige: A week of camp, that was just "wauw"!
+	Dreng: Wonder what she's studying now?
+\endverse
+\beginverse
+	Summer science, blowing my mind
+	But oh, I wanna learn moooore
+\endverse
+\beginverse
+	Teach me more
+	teach me mooooore.
+\endverse
+\endsong

@@ -1,0 +1,82 @@
+\beginsong{Hvad er det mest matematiske?}[sr={Melodi: Roben og Knud - Darwin's Sang}
+,
+by={ MatematikRevy 2010}
+,
+cr={}]
+\beginverse
+		Hvad er det mest matematiske dyr i verden?
+		Svaret er en bi
+		Sum sum sum sum sum, sum sum sum sum sum
+		Bien er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematiske forfatter i verden?
+		Svaret er Astrid Lindgren
+		Pi pi pi pi pi, pi pi pi pi pi
+		Astrid Lindgren er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er det mest matematiske instrument i verden?
+		Svaret er en klokken
+		Ring ring ring ring ring, ring ring ring ring ring
+		Klokken er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematiske dyregruppe i
+		verden?
+		Svaret det er Euler
+		Euler Euler Euler, Euler Euler Euler
+		Euler er pænt matematiske
+\endverse
+\beginverse			
+		Hvad er den mest matematiske skuespiller i verden?
+		Svaret det er Dirch
+		Passer Passer Passer, Passer Passer Passer
+		Dirch er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematiske vejrudsigt i verden?
+		Svaret det er dårligt vejr
+		Regn regn regn regn regn, regn regn regn regn regn
+		Dårligt vejr er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er det mest matematiske transportmiddel i
+		verden?
+		Svaret er en båd
+		Båden den kan lægge til, båden den kan lægge til
+		Båden er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematiske dekoration i verden?
+		Svaret er gardiner
+		Gardiner kan man trække fra, Gardiner kan man trække
+		fra
+		Gardiner er pænt matematiske
+\endverse
+\beginverse			
+		Hvad er den mest matematiske etage i verden?
+		Svaret er en kælder
+		Underrum underrum underrum, underrum underrum
+		underrum
+		Kælderen er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematisk tilstand i verden?
+		Svaret det er død
+		Lig lig lig lig lig, lig lig lig lig lig
+		Døden er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematisk TV-kanal i verden?
+		Svaret det er TV3
+		Plus plus plus plus plus, plus plus plus plus plus
+		TV3 er pænt matematisk
+\endverse
+\beginverse			
+		Hvad er den mest matematiske maler i verden?
+		Svaret er Salvador Dali
+		Urbillede urbillede urbillede, urbillede urbillede urbillede
+		Salvador Dali er pænt matematisk
+\endverse
+\endsong

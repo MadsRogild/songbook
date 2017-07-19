@@ -1,0 +1,66 @@
+\beginsong{Et helt nyt liv}[sr={Melodi: A Whole New World, Disney} %18
+,
+by={ UNF Revy 2016}
+,
+cr={}]
+\beginverse
+        Jeg kan vise dig alt
+		Denne strålende verden
+		Hør, frivillig, hvornår har hjertet
+		Sidst bestemt for dig
+\endverse
+\beginverse
+        Jeg kan åbne dit blik
+		mod naturvidenskaben
+		Ja, du fatter det næppe
+		Alt det som vil vise sig
+\endverse
+\beginverse
+		Et helt nyt liv
+		Et nyt fantastisk perspektiv
+		Ingen der siger nej
+		Og standser dig
+		Og siger at vi kun drømmer
+\endverse
+\beginverse
+		Et helt nyt liv
+		En verden som er ny for mig
+		I sort og hvid og blå, kan jeg forstå
+		At viden kan formidles her, med dig
+		(At viden kan formidles her, med dig)
+\endverse
+\beginverse
+		Helt utrolige camps
+		Ingen søvn og kun kaffe
+		Venskaber kan jeg skaffe
+		Mens jeg laver camps med dig
+\endverse
+\beginverse
+		Et helt nyt liv
+		(Tag en kuglepen)
+		Og hundred' tusind ting at gøre
+		(Bare vent der er mere)
+		Jeg er en arrangør
+		Jeg DK kører
+		At vende om, er ingen god ide,
+\endverse
+\beginverse
+        Mailen lukker sig op
+		(Hvor det utroligste kan ske)
+		Hvert projekt fascinerer
+\endverse
+\beginverse
+		Jeg alle foredrag så
+		Der nok at nå
+		Lad mig få et helt nyt liv med dig
+\endverse
+\beginverse
+		Et helt nyt liv
+		Med gratis mad
+		En helt ny vej
+		Som gør mig glad
+		Så tag med mig
+		Til landsmøde
+		For dig og mig
+\endverse
+\endsong

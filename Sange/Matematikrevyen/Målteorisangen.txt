@@ -1,0 +1,49 @@
+\beginsong{Målteorisangen}[sr={Melodi: Vi lister os afsted på tå}
+,
+by={ MatematikRevy 2006}
+,
+cr={}]
+\beginverse
+Vi lister os af sted på tå
+når vi skal integrere.
+Vi måler kun på det, vi må,
+alt andet la’r vi være.
+Jeg måler på en gammel spand.
+Jeg måler på din tissemand.
+Og ellers måler vi det, vi nu kan,
+både Tage og Flemming og Christian!
+
+\endverse
+\beginverse
+Vi starter med et Radon-mål
+og fjerner dig fra støtten,
+og pluds’lig har du mål på nul
+hvor før du havde sytten.
+Du tro’de, at du var no’ed stort,
+nu er du bar’ en lille lort,
+men det må vi gerne fordi vi har spurgt
+både Flemming og Tage og Christian!
+
+\endverse
+\beginverse
+Og Kurzweil-Henstock integralet
+det er helt umuligt!
+Halvtreds procent det rene pral,
+halvtreds procent ubru’ligt!
+Og Riemann han blev pluds’lig væk,
+måske var det en fejl i \TeX,
+men så kan vi bruge den kære Lebesgue,
+både Flemming og Tage og Christian!
+
+\endverse
+\beginverse
+\emph{Arjjjj! Du må ikke måle på min}
+\emph{tissemand!}
+\emph{Bare rolig, jeg bruger tællemålet.}
+Men hov, det kan jo ikke gå!
+Den her kan du ikke måle på!
+For udvalgsaksiomet det stoler vi på,
+både Tage og Flemming og Christian!
+
+\endverse
+\endsong

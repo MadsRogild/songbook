@@ -1,0 +1,13 @@
+\beginsong{Jeg er en lille Matemat}[sr={Melodi: Jeg er en lille undulat}, by={Matematik Revyen 2010}]
+
+\beginverse
+Jeg er en lille matemat
+jeg har så ondt i min mave
+for min instruktor, for min instruktor
+ham kan jeg ikke li’
+han gi’r mig lektier for hver dag
+og det vil jeg ikke have
+nej jeg vil hel’re, nej jeg vil hel’re
+ha’ sommerferie og fri
+\endverse
+\endsong

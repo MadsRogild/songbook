@@ -1,0 +1,23 @@
+\beginsong{Sortsnak}[sr={Melodi: Cæsar -\newline Storkespringvandet}
+,
+by=%{ Tenna Schaldemose og Tine Nyeng, Majrevy 2004}
+,
+cr={}]
+\beginverse
+\large
+$\aleph\ \aleph\ \aleph\ \aleph\ \chi$
+$\aleph\ \aleph\ \aleph\ \pi$
+$\aleph\ \pi\ \chi\ \aleph\ \pi\ \chi\ \pi$
+$\chi\ \chi\ \pi\ \aleph\ \lambda\ \aleph$
+
+\endverse
+\beginverse
+[For de øvede:]
+\large
+$\beta\ \beta\ \beta\ \beta\ \xi$
+$\beta\ \beta\ \beta\ \psi$
+$\beta\ \psi\ \xi\ \beta\ \psi\ \xi\ \psi$
+$\xi\ \xi\ \psi\ \beta\ \gamma\ \beta$
+
+\endverse
+\endsong

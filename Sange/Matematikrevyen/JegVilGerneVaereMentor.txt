@@ -1,0 +1,48 @@
+\beginsong{Jeg Vil Gerne Være Mentor}[sr={Melodi:Frozen $-$ Do You Wanna Build a Snowman}, by={MatematikRevy 2014}]
+
+\beginverse
+ Jeg vil gerne være mentor
+Ta' med rus ud og leg'
+At lære dem at finde rundt
+At øl er sundt
+Og uni-livet sej'
+Fortælle om Caféen?
+Om bordfodbold
+Og også om ZFC
+Jeg vil gerne være mentor
+\endverse
+
+\beginverse
+ Tror jeg bliver verdens bedste mentor
+\endverse
+
+
+\beginverse
+ Jeg vil gerne være mentor
+Og vise russerne omkring
+Fortælle dem hvor de kan køb' en bog
+Så de kan blive klog'
+På alle verdens ting
+(Især matematik!)
+Og hvis de bliver ensomm'
+Så vil jeg stå klar
+Og hjælpe dem lidt på vej
+\endverse
+
+
+\beginverse
+ Hallo?
+Please, jeg ved du er der,
+Situationen er win/win
+Jeg lover dig at jeg bliver rigtig god
+Jeg tæller mindst for to, bar' luk mig ind
+Jeg vil så gerne hjælpe
+All' de stakkels små
+Russer der starter nu
+\endverse
+
+\beginverse
+Jeg vil gerne være mentor...
+\endverse
+
+\endsong

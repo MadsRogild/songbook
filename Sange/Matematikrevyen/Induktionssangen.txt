@@ -1,0 +1,89 @@
+\beginsong{Induktionssang}[sr={Melodi:Kim Larsen og Bellami $-$ Familien skal i skoven}, by={MatematikRevy 2015}]
+\beginverse
+
+Det er efterår, jeg skal til Dis-eksamen
+Jeg har læst og læst, helt ifølge planen
+Snupper min cykel – af sted! Nu’ der ingen vej tilbage
+Dugen, den er grøn, censor, hun nynner
+Hilser med hånden:
+
+- Inge-Lise Brønner
+
+Til tavlen går jeg hen, det’ jo dér, hvor det hele, det begynder
+\endverse
+
+\beginverse
+
+Eksaminator spørger ind til induktion
+Så jeg si’r: "Peanos ak-si-om"
+\endverse
+
+\beginverse
+
+Det har jeg brugt så mange gange før
+Og nu gør jeg det igen
+
+Det har han brugt så mange gange før
+Og nu gør han det igen
+\endverse
+
+\beginverse
+
+Gælder det for n, så gør det ogs’ for resten
+
+Ingen induktionsstart – hør nu her, nu stopper festen
+
+Hvorfor kan jeg ikk’ bar’ la’ n’et flyve ud i det uendelig’?
+
+Åh! Dumme dreng!
+
+Antag n er 1, for da må det gælde
+Jo, det er da rigtigt, nu skal du bare tælle
+Det kan jeg da sagtens: 1, 2, 3, 4, 5 og ælle, bælle
+\endverse
+
+\beginverse
+
+Prøv nu at hold’ fokus, og sig os så, min ven
+Hvordan går du fra n til n + 1?
+\endverse
+
+\beginverse
+
+Det har jo gjaldt for så mange andre n
+Så det gør det nok igen
+
+Det har jo gjaldt for så mange andre n
+Så det gør det nok igen
+\endverse
+
+\beginverse
+
+Det er blevet sent, de skal votere
+Så mindes jeg med gru mine dumpekarakterer
+Håber sådan dette bli’r 02, eller måske endda 4
+Døren, den er lukket, gangene er øde
+Var det tilstræk’ligt, får jeg mon det røde?
+Tiden er gået, nu sker det, tilbage i lokalet
+Censor, hun siger:
+
+- Ja, nu må du gerne gå
+Men vi ka’ jo ikk’ la’ dig bestå
+\endverse
+
+\beginverse
+
+Det har de sagt så mange gange før
+Derfor gør de det igen
+
+Det har vi sagt så mange gange før
+Derfor gør vi det igen
+
+Det har de sagt så mange gange før
+Derfor gør de det igen
+
+Det har vi sagt så mange gange før
+
+Derfor gør de/vi det igen
+\endverse
+\endsong
