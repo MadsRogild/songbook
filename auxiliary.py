@@ -1,4 +1,5 @@
 import re
+import os
 
 standard = ["arabic", "roman", "Roman", "alph", "Alph", "hex", "binary", "oct"]         #the standard defined pagenumber styles in latex
 
@@ -19,3 +20,12 @@ def search_styles(style):
         if style not in list_styles:        #check if the style is in the list
             style = "arabic"        #if not return arabic
     return style        #otherwise return the style
+
+def recursive_walk(start):
+    files = []
+    i = 0
+    for root, subdirs, f in os.walk(start):
+        for j in range(0,len(f)):
+            f[j] = root + "/" + f[j]
+        files += f
+    return files

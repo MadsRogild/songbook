@@ -9,7 +9,7 @@ current_version = sys.version_info
 def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     index = 1
     songs = []
-    filer = os.listdir("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
+    filer = auxiliary.recursive_walk("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
 
     path = sys.path[0]          #set the path t  our current folder
     fil = None
@@ -20,15 +20,15 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
         style = "binaryX"
     elif style == "oct":
         style = "octX"
-
+    
     indledning.create_preamble(unf, camp, name, style, logo, empty)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
-            sang = open("""Sange/"""+fil, 'r')
+            sang = open(fil, 'r')
             line0 = sang.readline()         #read the first line of the song, which contain the title
             title = re.search('(?<=song{)(.*?)}',line0)     #get the title
             title = title.group(0).split('}')[0]        #get the part before }, which is the title
-            if "%" in line0:
+            if "%" in line0 and fixed:
                 try:
                     order = int(float(line0[line0.index("%")+1:]))
                 except ValueError:
@@ -48,8 +48,6 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             sang.close()      
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
-    if fixed:
-        songs = sorted(songs, key=lambda songs: songs[2])
         order = []
         index = []
         for i in range(0,len(songs)):
@@ -57,10 +55,26 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
             if o < sys.maxint:
                 order.append(songs[i])
                 index.append(i)
+        index = sorted(index)
+        for i in range(0,len(index)):
+            del songs[index[i]]
+        order = sorted(order, key=lambda order: order[2])
+        for i in range(0,len(order)):
+            (_,_,o) = order[i]
+            songs.insert(o, order[i])
 
-        for i in range(len(index)-1,-1,-1):
-            del songs[i]
+    if fixed:
         songs = sorted(songs, key=lambda songs: songs[0])
+        order = []
+        index = []
+        for i in range(0,len(songs)):
+            (_,_,o) = songs[i]
+            if o < sys.maxint:
+                order.append(songs[i])
+                index.append(i)
+        for i in range(0,len(index)):
+            del songs[index[i]]
+        order = sorted(order, key=lambda order: order[2])
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -73,7 +87,7 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
     for tup in songs:                   #go through the list of songtitles and files
         (title, fil,order) = tup              #get the title and filename for each song
         if fil.endswith(".txt"):        #only use txt files
-            sang = open("""Sange/"""+fil, 'r')      #open the song
+            sang = open(fil, 'r')      #open the song
 #            text = """\\label{song""" + str(counter) + """}\n"""        #make a label
             text = sang.read()         #get the entire song and append it to the text
             j = text.find("]")          #find the end of the song declaration
@@ -94,12 +108,12 @@ def create_sangbog(unf, camp, name, style, logo, empty, sort, fixed):
                 next_page = 2
             elif title == "I Morgen er Verden Vor" and (songs.index(tup) != 42):
                 text = """\\setcounter{temp}{\\thesongnum}
-\\setcounter{songnum}{42}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n" + text[j+1:] + """
+\\setcounter{songnum}{42}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song" + str(counter) + "}\n" + text[j+1:] + """
 \\setcounter{songnum}{\\thetemp}
 """         #set a counter to the current song number, force the song number to be 42, and make a hypertarget for use in pagereferences in the index
             elif title == "DAT62(1/2)80 Slagsang" and (songs.index(tup) != 43):
                 text = """\\setcounter{temp}{\\thesongnum}
-\\setcounter{songnum}{43}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n" + text[j+1:] + """
+\\setcounter{songnum}{43}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song" + str(counter) + "}\n" + text[j+1:] + """
 \\setcounter{songnum}{\\thetemp}
 """         #set a counter to the current song number, force the song number to be 42, and make a hypertarget for use in pagereferences in the index
             else:

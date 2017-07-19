@@ -48,8 +48,6 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
             sang.close()      
     if sort:
         songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
-    if fixed:
-        songs = sorted(songs, key=lambda songs: songs[2])
         order = []
         index = []
         for i in range(0,len(songs)):
@@ -58,9 +56,26 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
                 order.append(songs[i])
                 index.append(i)
 
-        for i in range(len(index)-1,-1,-1):
-            del songs[i]
+        for i in range(0,len(index)):
+            del songs[index[i]]
+        order = sorted(order, key=lambda order: order[2])
+        for i in range(0,len(order)):
+            (_,_,o) = order[i]
+            songs.insert(o, order[i])
+
+    if fixed:
         songs = sorted(songs, key=lambda songs: songs[0])
+        order = []
+        index = []
+        for i in range(0,len(songs)):
+            (_,_,o) = songs[i]
+            if o < sys.maxint:
+                order.append(songs[i])
+                index.append(i)
+
+        for i in range(0,len(index)):
+            del songs[index[i]]
+        order = sorted(order, key=lambda order: order[2])
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -192,4 +207,4 @@ def main(argv):
 
 
 if __name__=='__main__':
-    sys.exit(main(sys.argv[1:]))
+    (main(sys.argv[1:]))
