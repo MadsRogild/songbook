@@ -1,0 +1,54 @@
+\beginsong{Ikke Mere ML}[sr={Melodi:Les Mis\'erables: ``Empty Chairs at Empty Tables''}, by={DIKUrevy 2015}]
+
+\beginverse
+   
+    Når en rus sku' lær' at kode
+    Helt fra bunden, eller ej
+    Så var ML altid sproget
+    Som ku' gør' ham stærk og sej
+\endverse
+
+
+\beginverse    
+    Det var sproget der ku' teste
+    Russers vilje, mod og held
+    Her på IP kan man lære
+    Om at kode alting selv
+\endverse
+
+    
+\beginverse
+    Vi har skrevet mange linjer
+    Fyldt med map og head og tail
+    Og vi lærte om funktorer
+    Og halerekursion
+    Og når man så har brug for hjælp
+    Så spø'r man i kantinen
+    Folk vil altid hjælpe med
+    ML
+\endverse
+
+\beginverse
+    Det bli'r bare ik' det samme
+    Når vi koder i F\#
+    Jeg vil savne ML's ynde
+    ML's mangler gør mig skarp
+\endverse    
+
+\beginverse
+    Microsoft har taget magten
+    DIKU koder nu .NET
+    Før var ML altid sproget
+    Der ku' gør' opgaven let
+\endverse
+
+\beginverse
+    Det' farvel, ML
+    Velkommen
+    Til den nye storhedstid
+    I F\# skal vi nu kode
+    Ikke mere i ML
+\endverse
+
+
+\endsong

@@ -1,0 +1,52 @@
+\beginsong{Fredagsaflevering}[sr={Melodi:Peter Belli: ``København (fra en DC-9)''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde prøv't det - uhh, det ikk' sjov
+Alle andre på Caféen? - og du sidder med lærebog
+\endverse
+
+\beginverse
+Sidder oppe i K@ntinen, og skriver koden selv
+Din gruppepartner mangler, hun fester sig ihjel
+Automaterne de brummer, bryder din koncentration
+Og (-) selvom KEN han hoster, får du lært om garbage collection
+\endverse
+
+\beginverse
+I hyggehjørnet kører festen, det ligner RKG
+Musikken den bli'r høj're, og bliver ve' og ve'
+(Ta'r en) øl fra automaten, det er jo fredag
+Sætter din musik i ør'ne, og rocker lidt til DFA
+\endverse
+
+\beginverse
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde prøv't det - uhh, det ikk' sjov
+Alle andre på Caféen? - og du sidder med lærebog
+\endverse
+
+\beginverse
+Du tog en or'nlig snak med - din gruppekammerat
+Og selv om hun havd' sagt hun vill' hjælpe - Er du her alen' i nat
+\endverse
+
+\beginverse
+Omkring dig sidder andre i samme situation
+Omgivelserne brummer af ren koncentration
+Helt almind'lig fredag aften her i K@ntinen
+Og kommer du på næste fredag, så gør vi det jo nok igen
+\endverse
+
+\beginverse
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde sku' lave opgave fredag nat
+Har du nogensinde prøv't det - uhh, det ikk' sjov
+Alle andre på Caféen? - og du sidder med lærebog
+Ja, alle andre på Caféen? - og du sidder med lærebooog
+\endverse
+
+
+\endsong

@@ -1,0 +1,50 @@
+\beginsong{Windows Crasher}
+[sr={Melodi:Rule Britannia}
+,by={DIKUrevy 2013}
+]
+
+\beginverse
+Da Windows fø-ø-ørst, da jeg var ung
+Kom på-å-å min første da-a-a-tamat,
+Kom på, kom på, kom på min første da-a-tamat
+Erfared' jeg hurtigt, hvad Windows gerne gjord'
+Jeg råbte o-o-ofte, disse ord:
+\endverse
+
+
+\beginverse
+Windows crasher!
+Nu crasher det igen!
+Windows aldrig, aldrig, aldrig bli'r min ven
+\endverse
+
+
+\beginverse
+Windows crasher! ...
+\endverse
+
+
+\beginverse
+Jeg started, p-å-å-å-å data-logi
+De sagde, Ge-e-entoo, vil du-u-u ku' li'
+De sag', de sag', de sag' Gentoo, vil du ku' li'
+Men man skal compile, compile hele dag'n!
+Tilba' til Wi-i-i-ndows, hør' min klag'n
+\endverse
+
+
+\beginverse
+Windows crasher! ...
+\endverse
+
+
+\beginverse
+Windows crasher! ...
+\endverse
+
+
+\beginverse
+Windows crasher! ...
+\endverse
+
+\endsong

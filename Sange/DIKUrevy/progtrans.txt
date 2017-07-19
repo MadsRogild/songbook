@@ -1,0 +1,130 @@
+\beginsong{Programtransformation}[sr={Melodi:Ta' på landet (``Jeg er på rekreation'')}, by={DIKUrevy }]
+
+
+\beginverse
+ Nej, hvor er systemarbejde 
+\qquad ubrugeligt
+Mine brugere er stadig utilfredse
+og mine programmer kører umuligt
+\endverse
+
+\beginverse
+Jeg har prøvet at bruge Bansler's metode
+men den pine var for stor til min hyre
+metoden forekommer mig syg i hovedet
+undtagen når jeg er stiv af syre
+\endverse
+
+\beginverse
+Hvorfor skulle jeg lære om systemudvikling 
+når det ikke kan bruges til noget?
+Der noget andet jeg meget hellere vil
+jeg går hele tiden og tænker på'et
+\endverse
+
+\beginverse
+ Det' program transformation
+jeg vil ikke bytte for en million
+Det er så skønt at transformere
+det' meget bedre end at systemere
+\endverse
+
+\beginverse
+ På mit arbejde implementerer jeg alt
+med nætværksdatabaser
+Jeg logger ind på terminalen hver morgen
+med nerverne hængende i laser
+\endverse
+
+\beginverse
+Alting fungerede med dBase 
+men Zahle sagde, det var sejere
+at bruge et system fra 50'erne
+med postklasser og ejerpegere
+\endverse
+
+\beginverse
+Nu fortryder jeg, jeg tog det job
+hver dag er en ubeskrivelig pinsel
+det kan være jeg snart siger jobbet op
+og vender tilbage til det jeg har lyst til
+\endverse
+
+\beginverse
+ Det' program transformation
+jeg vil ikke bytte for en million
+Det' meget bedre at transformere
+end at databasenormalisere
+\endverse
+
+
+
+\beginverse
+Om aftenen holder jeg foredrag om
+edb-teknologien
+Det er det der giver mig råd til at køre rundt
+i mit kæmpe dollargrin
+\endverse
+
+\beginverse
+Jeg lærte engang af Hasse
+at teknologi skal opfylde vores krav
+Det er også kun fordi jeg scorer kasse
+at jeg gider holde de der foredrag
+\endverse
+
+\beginverse
+Men selv om jeg får mange penge
+er det svært at træde vande
+jeg føler jeg har ventet alt for længe
+på at få lov til noget andet
+\endverse
+
+\beginverse
+ Til program transformation
+jeg vil ikke bytte for en million
+Det er så skønt at transformere
+det' meget bedre end at debatere
+\endverse
+
+
+\beginverse
+ Til program transformation
+jeg vil ikke bytte for en million
+Det er så skønt at transformere
+det' meget bedre end at diskutere
+\endverse
+
+\beginverse
+Til sidst gjorde jobbet mig syg
+Dagen blev for slemme, jeg kunne ikke klare en ny
+jeg gik til min doktor, og min dokter sagde
+Tag og transformer programmer nogle dage
+\endverse
+
+\beginverse
+når jeg nu kommer tilbage til jobbet igen
+Hjem til nætværksdatabserne, pærevællingen
+Når nerverne ikke kan klare mere
+skal jeg heldigvis program transformere
+\endverse
+
+\beginverse
+ Det' program transformation
+jeg vil ikke bytte for en million
+Det er så skønt at transformere
+det' lige så godt som at aargh
+\endverse
+
+\beginverse
+Det' program transformation
+jeg vil ikke bytte for en million
+Det er så skønt at transformere
+en dag om ugen og gerne flere
+\endverse
+
+\beginverse
+Det er så skønt at transformere
+jeg vil ha mere mere mere mere
+\endverse
+\endsong

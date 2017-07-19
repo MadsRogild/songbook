@@ -1,0 +1,38 @@
+\beginsong{Fredagssangen}[sr={Melodi:Fredagssangen med Tæskeholdet}, by={DIKUrevy 1997}]
+
+\beginverse
+ Det var første akt,
+        så skal I rigtig op og købe fler' øller
+        og måske få tisset en tår
+\endverse
+
+\beginverse
+  Kom nu alle publikummer
+        tag og hjælp os lidt på vej
+        pausen er på ty'v minutter
+        og lad det køre som en leg - for
+\endverse
+
+\beginverse
+        Så 'der andet akt
+        så skal I atter til at grine og græde
+        for revyen er sgu' så plat!
+\endverse
+
+
+\beginverse
+ Vi er ligeglad'
+        om I har tøj på eller om I er nøgne
+        men på scenen er her ret varmt 
+\endverse
+
+\beginverse
+ Kom nu alle publikummer...
+\endverse
+
+\beginverse
+  pause i 20 minutter og det betyder, at man skal være tilbage inden
+  klokken ``det og det''.
+\endverse
+
+\endsong

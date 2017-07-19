@@ -1,0 +1,46 @@
+\beginsong{To lys på en væg}[sr={Melodi:Otto Brandenburg: ``To lys på et bord''}, by={DIKUrevy 1976}]
+\beginverse
+  2 lys på en væg
+  3 små jobs, der blev væk,
+  4 opgaver ingen forstod,
+5 studenter med fler',
+6 subsekunder til hver,
+blev betalt med vort hjerteblod
+\endverse
+
+\beginverse
+2 lys på en væg,
+een for snot, een for skæg,
+een der lyser, og een der er slukt.
+Når den lyser så rød,
+er maskinen kun død,
+og den grønne bli'r aldrig brugt.
+\endverse
+
+\beginverse
+(Mellemspil)
+Hvordan er det sket?  Har vi slet ikke set,
+at de lys brændte hutigt ned?
+Den røde er tændt!
+Vores håb, det e brændt!
+Hvordan skal det dog vare ved?!
+\endverse
+
+\beginverse
+En ond parodi
+på et talknuseri
+det er alt, hvad der findes i dag.
+Og de lys og de ord,
+som jeg kom med i fjor,
+har de glemt midt i tidens jag.
+\endverse
+
+\beginverse
+2 lys på en væg
+3 små jobs, der blev væk,
+4 opgaver ingen forstod.
+5 studenter med fler',
+6 subsekunder til hver,
+blev betalt med vort hjerteblod.
+\endverse
+\endsong

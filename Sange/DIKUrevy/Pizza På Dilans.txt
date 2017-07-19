@@ -1,0 +1,58 @@
+\beginsong{Pizza På Dilans}
+[sr={Melodi:Deep Blue Something - Breakfast At Tiffany's}
+,by={DIKUrevy 2014}
+]
+
+\beginverse
+En fejl, i vores kode driller
+Er det mon nog’t jeg kalder?
+Jeg kigger mig omkring
+Hvorfor - piller Preben næse?
+Han skal commit’e kode
+Men nu må vi snart ha’ mad
+\endverse
+
+
+\beginverse
+SÅ JEG SAGD', HVAD MED PIZZA PÅ DILANS?!
+De sagd': "nej, fuck dig, det gider vi ikke"
+Og jeg sagde: "kom nu, jeg er faktisk sulten"
+Og de sagd', "jamen så tag dig en toast!"
+\endverse
+
+
+\beginverse
+Det Java - som Preben commit’ed’
+Er mega-sammenflettet
+spaghettikode
+Så hvad nu? (-) Skal vi vente længere?
+Sikke dog de andre skændes
+Hvad skal vi eg’nlig’ spis’?
+\endverse
+
+
+\beginverse
+SÅ JEG SAGD', HVAD MED DURUM PÅ DUNIYAS?!
+De sagd': "nej, fuck dig, det gider vi ikke"
+Og jeg sagde: "kom nu, jeg er faktisk sulten"
+Og de sagd': "jamen så tag dig en toast!"
+\endverse
+
+
+\beginverse
+Fejlen, den er nu blevet rettet
+Nu er vi blevet trætte
+Preben er gået hjem
+Os to, vi koder stadig slam, men
+det' nu for kapitalen
+\endverse
+
+
+\beginverse
+SÅ HAN SAGD', HVAD MED CHIPS I KANTINEN?!
+Vi sagd': "nej, fuck dig, det gider vi ikke"
+Og han sagde: "kom nu, jeg er faktisk sulten"
+Og vi sagd': "jamen så tag dig en toast!"
+\endverse
+
+\endsong

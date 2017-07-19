@@ -1,0 +1,59 @@
+\beginsong{Kandidaten}[sr={Melodi:Pierre-Alexandre Monsigny - ``Le Deserteur''}, by={DIKUrevy 1988}]
+\beginverse
+  
+  Min kære hr. Dekan
+  Jeg kommer for at klage
+  Ja -- har man nu hørt mage
+  Jeg er blev't kandidat
+  Det måtte ikke ske
+  Jeg sagde pænt og høfligt "`NEJ!"'
+  da Institutet spurgte mig
+  ved mødet sidste jul.
+  De skrev mig på hos Jens
+  Jeg kom der godt nok ikke
+  men de var mere kvikke
+  og gav mig blot kredit
+  og så var løbet kørt
+  beviset kom forleden dag
+  jeg havde bestået sidste fag
+  var blevet kandidat
+\endverse
+
+\beginverse
+  Så var det altså slut
+  de femten gode studieår
+  den hyggelige kaffetår
+  om morg'nen klokken tolv
+  Tilbage er revy'en
+  og festerne hvert halve år
+  Jeg holder op - men de består
+  Nej -- det kan ikke gå.
+  Min kære hr. dekan
+  det er jeg ikke nødt til
+  for jeg blev ikke født til
+  at være kandidat
+  Et fyrre timers job
+  skal det vær' hvad der venter mig
+  så går jeg hjem og hænger mig
+  men du kan sige STOP
+\endverse
+
+\beginverse
+  gør mig til licenciat
+  åh gi' mig blot et halvt kontor
+  men helst mit eget skrivebord
+  så vil jeg blive glad
+  en lille flot P.C.
+  med farveskærm og HARDDISK til
+  en mus - måske et enkelt spil
+  så er jeg ovenpå
+  og efter fire år
+  som et af DIKU's esser
+  så kan jeg bli' professor
+  og gøre hvad jeg ivl.
+  Min kære hr Dekan
+  nu må du ikke skuffe mig
+  der må da være plads til mig
+  ved dette institut.
+\endverse
+\endsong

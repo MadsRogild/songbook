@@ -1,0 +1,24 @@
+\beginsong{Kære DIKU}[sr={Melodi:Kræn Bysteds: ``Solen er så rød mor''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Tænk her virker så mærkværdigt, der er lissom noget galt
+  Alle færdes så stilfærdigt, her bli'r næsten ikke talt
+  Der er slet ingen lærere at se
+  Mon jeg er gået forkert, er DIKU flyttet, ak og ve
+  Det er to et halvt år siden at jeg viste mig her sidst
+  Og i mellemtiden har jeg taget bifag ganske vist
+  Nu vil jeg gerne ha' mit hovedfag
+  Med kurser og speciale, kandidat en skønne dag
+\endverse
+
+\beginverse
+Kære DIKU, er du gået helt i stå
+  Hvad tænker du dog på
+  Du virker træt og grå
+  Og uden sjæl
+  Slået ihjel
+\endverse
+
+
+\endsong

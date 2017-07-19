@@ -1,0 +1,123 @@
+\beginsong{Science IT}
+[sr={Melodi:My Little Pony - Winter Wrap-Up}
+,by={DIKUrevy 2014}
+]
+Mit liv er koldt og bittert, jeg hader Eduroam
+har prøvet både Ask og Tyr men mangler min \texttt{/home}
+Jeg har skrevet kode natten lang, men kan ikke aflever’
+For Absalon er gået ned
+og printer’n vil ik’ mer
+
+\beginverse
+Men har du installeret Flash
+og er du Windowsbrug’r
+Du sku’ prøv’ den nye service-pack:
+Hvem ved, måske det dur?
+Og har du prøv’t at formater’?
+en genstart og en opgradér
+Vi har en \textit{top support solution},
+og meget meget mer’.
+\endverse
+
+
+\beginverse
+Science IT, Science IT
+Vi gi'r professionel support
+Science IT, Science IT
+Vores arbejde er hårdt
+Vi kan sagtens få det gjort
+\endverse
+
+
+\beginverse
+Er der netværk på KU?
+Ja, alle har eduroam
+Skal bruge kursusinfo nu
+Det er på Absalon
+Har brug for hjælp med at luk' en proces
+Tag en genstart straks, det er så smart med MS
+\endverse
+
+
+\beginverse
+Science IT, Science IT
+Vi gi'r professionel support
+Science IT, Science IT
+Vores arbejde er hårdt
+Science IT, Science IT
+Vores arbejde er hårdt
+vi kan sagtens få det gjort
+\endverse
+
+
+\beginverse
+Koden vil ik' kompiler'
+Så send det som docx
+Jeg mangler TikZ til mit \LaTeX
+Brug Paint - et hurtigt fix
+Nog'n sender teenagebabes.gif.e x e
+Det klarer vi, bar' send os den - hos os kan alting ske
+\endverse
+
+
+\beginverse
+Du vil se, det kan ske, med lidt asen og møv'n
+A drikker kulsort kaf' 30 timer i æ døwn
+Og a føler mig trashed, a får ikke møg' søvn
+Du siger server'n er crashed - den er ik' til møg' gøwn
+Du på røv'n - kan du nå det? du må dåne; telefån'
+A ta'r den straks - send en fax - a spiser li' citronmåne
+A er vaks - nyder røg'n ud fra tjære filter smø'gn
+Og beretter til min partner og han siger:
+Det da løwn
+\endverse
+
+
+\beginverse
+Science IT, Science IT...
+\endverse
+
+
+\beginverse
+Vor server den er gået ned,
+problemerne ta’r fart
+Vi ville kør’ et virus scan,
+men den kan ikke starte
+\texttt{Apt-get}, \texttt{sudo}, \texttt{dpkg},
+Husk nu \texttt{gcc}
+Jeg kan løse dit problem,
+jeg har en live-CD!
+\endverse
+
+
+\beginverse
+Science IT, Science IT
+Men vor computer gik i sort...
+\endverse
+
+
+\beginverse
+Computer’n starter nu igen,
+men den er ik’ som før
+Vi er fortabte, må ha’ hjælp,
+ved ik’ hvad vi skal gør
+Vi skal nok hjælpe, stol på os
+Nu åbner vi en shell
+Kører \texttt{apt-get remove}, for du skal
+ikke bruge \texttt{X},
+ikke bruge \texttt{X}!
+\endverse
+
+
+\beginverse
+Science IT, Science IT
+Knap så professionel support
+Science IT, Science IT
+Vores arbejde er hårdt
+Science IT, Science IT
+Vores arbejde er hårdt
+Vi skal stadig ha' det gjort
+Vi vil aldrig få det gjort
+\endverse
+
+\endsong

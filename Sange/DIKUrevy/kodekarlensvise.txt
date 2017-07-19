@@ -1,0 +1,79 @@
+\beginsong{Kodekarlens vise}[sr={Melodi:Ukendt}, by={DIKUrevy 1990}]
+\beginverse
+     \quad Der (er)
+              lektorer, der si'r at
+              enhver kan programmer(e), og af
+              dem bli'r der bare
+              fler(e) og fler(e).
+\endverse
+
+\beginverse
+              \quad Jeg
+              mener nu bare, at det er
+              til deres held, at
+              de ikke altid skal
+              gøre det selv (kode det selv)
+\endverse
+
+\beginverse
+              \quad Jeg koder
+              16 kilobytes,
+              dagens akkord. Når de er
+              kodet kaster lek-
+              toren dem bort. Pro-
+              grammerne får jeg aldrig
+              lov at skabe
+              for jeg er bare (en
+              kode-abe.
+\endverse
+
+\beginverse
+              \quad Jeg kom
+              gående en morgen \ldots
+              anden sal. Jeg var
+              faret vild, den var
+              grueldig gal.
+\endverse
+
+\beginverse
+              \quad Jeg
+              mødte en lektor og
+              spurgte om vej. Han sagde:
+              "Kom lige her, jeg har
+              brug for dig."
+\endverse
+
+\beginverse
+              \quad Jeg koder
+              16 kilobytes,
+              \ldots
+\endverse
+
+\beginverse
+              \quad Lek-
+              toren, han sagde
+              "hør bare her,  - Jeg
+              står og mangler én, der kan
+              programmer(e).
+\endverse
+
+\beginverse
+              \quad Du kan
+              få et job hvor
+              pengene er gode, du skal
+              ikke være smart, du skal
+              bare kode"
+\endverse
+
+\beginverse
+              \quad\quad Jeg koder
+              16 kilobytes,
+              \ldots
+\endverse
+
+\beginverse
+    
+\endverse
+
+
+\endsong

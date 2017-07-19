@@ -1,0 +1,84 @@
+\beginsong{Når jeg renser windows}
+[sr={Melodi:George Formby - When I'm cleaning windows}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Jeg reparerer Windows
+når den har et problem
+Jeg er PC-doktor
+Finder fejl
+på dit system
+Betjener kunden
+med det samm'
+Og lukker døren
+efter ham
+I sku' se hvad der
+vælter frem
+Når jeg renser Windows
+\endverse
+
+
+\beginverse
+Jeg kan straks
+problemet se
+Standard-browser'n
+er IE
+Jeg finder
+tit en DVD
+Når jeg renser Windows
+\endverse
+
+
+\beginverse
+På skrivebordet
+er et link
+Til Microsoft Bob
+Og notifikationsområdet
+det er helt fyldt op
+\endverse
+
+
+\beginverse
+Det hele går
+med sneglefart
+Der' 80 programmer
+i autostart
+Det tog en tim'
+før de blev klar
+Når jeg renser Windows
+\endverse
+
+
+\beginverse
+Jeg finder browserens ikon
+"Husk-password" er
+en skøn funktion
+Det gi'r lidt ekstra
+til pension'n
+Når jeg renser Windows
+\endverse
+
+
+\beginverse
+De 14 toolbars virker ik'
+Jeg kigger i hans historik
+Han søger til på heste-...
+væddeløb
+Når jeg renser Windows
+\endverse
+
+
+\beginverse
+Hans harddisk
+den er helt fyldt op
+med pornografi
+Skønt tastaturet klistrer
+laver jeg mig en kopi
+Defragmentering er en leg
+Jeg kører scandisk uden fejl
+Til slut geninstallerer jeg
+Når jeg renser Windows
+\endverse
+
+\endsong

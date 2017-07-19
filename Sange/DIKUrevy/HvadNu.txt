@@ -1,0 +1,39 @@
+\beginsong{Hvad skal jeg stille op?}[sr={Melodi:There are Worse Things I could Do}, by={DIKUrevy 1995}]
+\beginverse
+ Hvad skal jeg dog stille op?
+Blive færdig -- få et job?
+Eller bare blive her
+``Hjemlig hygge'' ti år mer'?
+Sku' man ta' det store hop?
+Hvad skal jeg dog stille op?
+\endverse
+
+\beginverse
+Jeg ku' blive kandidat
+Få min egen datamat
+Og kontor med meget mer'
+Se, om lykken findes der
+I det ``virkelige liv''
+(Men) der er \' et alternativ
+\endverse
+
+\beginverse
+Systemadministratøs
+Jeg' fast ansat -- ikke løs(t)
+Ja, på DIKU er her trygt
+Det' måske lidt forrykt
+At forlade jobbet her
+\endverse
+
+\beginverse
+Skal jeg blive eller gå?
+Åh, så prøv dog at forstå!
+Hvis jeg går, kan det være
+Jeg en dag tør erklære
+At ham Peter elsker jeg
+-- Hvis jeg ik' sku' være sej --
+Mon han stadig elsker mig?
+\endverse
+
+
+\endsong

@@ -1,0 +1,69 @@
+\beginsong{Så spiller vi spil}[sr={Melodi: Höhner - Viva Colonia}
+,
+by={ DIKUrevy 2006}
+,
+cr={}]
+\beginverse
+For en fattig studer'ne
+er dagligdagen svær.
+Læser mange tykke bøg'r,
+laver meget her.
+Alle vore timer går med hjernegymnastik;
+hvordan vi kan klare det, forstår man ik'.
+
+\endverse
+\beginverse
+Vi har så travlt til dagligt,
+der kræves mange svar.
+Når opgaven er færdig,
+så er den næste klar.
+Vi får skrevet hundred' sider
+i gennemsnit hver dag,
+men når en weekend nærmer sig, ja så
+så slapper vi af.
+
+\endverse
+\beginverse
+\emph{[Omkvæd] Så spiller vi spil, hele dagen
+ved datamaterne.
+Vi lever og ånder
+for Doom og Quake med mer',
+med World of Warcrack morer vi os
+her foran vor's PCer.}
+
+\endverse
+\beginverse
+Dengang i gamle dage
+da gjord' rapporter ondt.
+Så fik vi blokstrukturen,
+men det var ikke sundt.
+Vi har stress og dårlig' nerver.
+Vi sveder angstens sved.
+Og beder tit en stille bøn til at
+at DIKU går ned.
+
+\endverse
+\beginverse
+\emph{[Omkvæd] Så spiller vi spil\ldots}
+\emph{[Omkvæd] Så spiller vi spil\ldots}
+
+\endverse
+\beginverse
+Og pluds'lig er det morgen,
+så hurtigt kan det gå.
+Man burde måske læse,
+hvis nu vi skal beståååååååå....
+{}[Siges] men det bliver ikke... nu.
+
+\endverse
+\beginverse
+\emph{[Omkvæd, stille og langsomt stigende]
+Nu spiller vi spil\ldots}
+\emph{[Omkvæd] Så spiller vi spil\ldots}
+
+\endverse
+\beginverse
+Så spiller vi spil!
+
+\endverse
+\endsong

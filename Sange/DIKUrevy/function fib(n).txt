@@ -1,0 +1,39 @@
+\beginsong{Function fib(n)}[sr={Melodi:Sarah Brightman og Andrea Bocelli - Time to say goodbye}
+,
+by={ DIKUrevy 2009}
+,
+cr={}]
+\beginverse
+Læser man på DIKU skal man kunne programmere rekursioner
+Man kan gøre det i Matlab kun med ganske få allokationer
+
+\endverse
+\beginverse
+Let som en leg
+Kod med mig, med mig
+
+\endverse
+\beginverse
+Tænd for din laptop
+Slå nu guien fra med \texttt{'matlab -nodesktop'}
+Vi kan programmer'
+og kalkuler'
+Fibonaccis talrække
+
+\endverse
+\beginverse
+\texttt{function fib(n)}
+\hspace*{3mm}\texttt{p = 0;}
+\hspace*{3mm}\texttt{A = 1}
+\hspace*{3mm}\texttt{for j = 1 : n}
+\hspace*{3mm}\hspace*{3mm}\texttt{temp = A;}
+\hspace*{3mm}\hspace*{3mm}\texttt{A = A + p}
+\hspace*{3mm}\hspace*{3mm}\texttt{p = temp;}
+\hspace*{3mm}\texttt{end}
+
+\endverse
+\beginverse
+og programmet er slut
+
+\endverse
+\endsong

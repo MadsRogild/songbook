@@ -1,0 +1,50 @@
+\beginsong{Velkomstsang 1990}[sr={Melodi:Lonnie Devantier: ``Hallo Hallo''}, by={DIKUrevy 1990}]
+\beginverse
+   Nu er vi på scenen
+            det' om lidt at vi begynder
+            så hvis I jer ikke skynder
+            når I ej revyen
+\endverse
+
+\beginverse
+   Vi har gået og øvet os
+            på 24 numre
+            men hvis ikke at vi fjumrer
+            er det et mirakel
+\endverse
+
+\beginverse
+   Nu la'r vi tæppet gå for dette års revy
+            Så klap nu til og buh så frejdigt højt i sky
+\endverse
+
+\beginverse
+   Og sig Babu-Babu
+            Velkommen til revyen
+            Det var godt at I ku' komme her i dag
+            og sig Babu-Babu
+            Nu får I vores numre
+            det er kun den bedste halvdel vi har med
+\endverse
+
+\beginverse
+   Scenen er nu stillet op
+            og tænk, vi er parate.
+            Vores musik, den er aparte,
+            sådan er revyen.
+\endverse
+
+\beginverse
+   Vitserne er flade,
+            sangene de rimer ikke
+            men det er vort kendingsmærke
+            nu er tæppet slukket
+\endverse
+
+\beginverse
+   Men når det tændes lukkes øjnene på jer
+            Så at I ej ka' se hvad der på scenen sker
+\endverse
+
+
+\endsong

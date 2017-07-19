@@ -1,0 +1,134 @@
+\beginsong{Afrundingsfejl}[sr={Melodi: Shakira - Whenever, Wherever}
+,
+by={ DIKUrevy 2015}
+,
+cr={}]
+\beginverse
+        Går på nettet for at købe mig et
+        nyt og lækkert gaming headset
+        Finder et i en online forhandler
+        Det var rimelig billigt -- jeg ta'r det
+
+\endverse
+\beginverse
+        Trykker på check ud for at betale
+        Der ses det frygteligt unormale
+        Prisen vist med 8 decimaler
+        Der er da vist brugt brudne tal der
+    
+
+\endverse
+\beginverse
+        Nej, nej, nej, nej, nej, nej
+        Nej, nej, nej, nej, nej, nej
+        Det gi'r jo\ldots
+        Afrundingsfe-ejl!
+     
+
+\endverse
+\beginverse
+        Lidt over, lidt under
+        Når du dit tal afrunder
+        Du må ikke dividere
+        Brug dog et heltal hér! 
+
+\endverse
+\beginverse
+        Produkter dig tugter
+        Din præcision fordufter
+        Tro nu ikke vi ej ser
+        De floating point værdier
+    
+
+\endverse
+\beginverse
+        0,9997, 0,9997, 0,9997, 0,9997 
+    
+
+\endverse
+\beginverse
+        Laver mad på DIKU, lægger ud så
+        Jeg siger folk kan overføre
+        Hører pengene er sendt og venter
+        Logger ind på webbank og checker
+
+\endverse
+\beginverse
+        Trykker mig nu ind på oversigten
+        Ak, der begynder tillidssvigten
+        Selvom beløbet er et heltal
+        Er der fejl på ottende decimaltal
+     
+
+\endverse
+\beginverse
+        Nej, nej, nej, nej, nej, nej
+        Nej, nej, nej, nej, nej, nej
+        Der er jo\ldots
+        Afrundingsfe-ejl!
+    
+
+\endverse
+\beginverse
+        Lidt over, lidt under
+        Når du dit tal afrunder
+        Du må ikke dividere
+        Brug dog et heltal hér!
+
+\endverse
+\beginverse
+        Produkter dig tugter
+        Din præcision fordufter
+        Tro nu ikke vi ej ser
+        De floating point værdier
+    
+    
+        0,9997, 0,9997, 0,9997, 0,9997 
+    
+
+\endverse
+\beginverse
+        Nej, nej, nej, nej, nej, nej
+        Nej, nej, nej, nej, nej, nej
+        Tænk dig om
+        Brug din fornu-uft
+
+\endverse
+\beginverse
+        Nej, nej, nej, nej, nej, nej, nej, nej
+        Pris bør gemmes i
+        Typer med
+        Fast præcisio-on!
+    
+
+\endverse
+\beginverse
+        Lidt over, lidt under
+        Når du dit tal afrunder
+        Du må ikke dividere
+        Brug dog et heltal hér!
+
+\endverse
+\beginverse
+        Produkter dig tugter
+        Fejlen den akkumulér'
+        Tro ikke vi ej ser
+        Dine floating point værdier
+    
+
+\endverse
+\beginverse
+        Lidt over, lidt under
+        Når du dit tal afrunder
+        Du må ikke dividere
+        Brug dog et heltal hér!
+
+\endverse
+\beginverse
+        Produkter dig tugter
+        Fejlen den akkumulér'
+        Tro ikke vi ej ser
+        Dine floating point værdier
+
+\endverse
+\endsong

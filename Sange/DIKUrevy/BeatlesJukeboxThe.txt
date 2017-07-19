@@ -1,0 +1,105 @@
+\beginsong{Min stdout til din stdin}[sr={Melodi:The Beatles: ``All My Loving'', ``Help!'' \& ``Baby, You Can Drive My Car''}, by={DIKUrevy 2010}]
+
+
+\beginverse
+ Så for den, se der står du
+med g-streng, så hva' nu
+Vil du ha min krop med i seng?
+Jeg skal lig' kode lidt,
+men måske lidt i et
+kan du få lidt af min "so ein ding".
+\endverse
+
+\beginverse
+ Ja måske er det skidt me'
+min ny' algoritme.
+Den gør at jeg rør' ved mig selv
+Og så undskyld, hvis jeg
+vælger den frem for dig
+Nej, du ' ikke helt så speciel.
+\endverse
+
+\beginverse
+ Skat, jeg koder
+Læg dig, lille du
+Skat, jeg koder
+lige lidt endnu.
+\endverse
+
+\beginverse
+ Så for den, se der står du
+helt nøgen så hva' nu
+Det går ikk' så godt, gør det vel?
+For min kode er fiks
+og langt bedre end sex,
+Så i nat må du klare dig selv
+\endverse
+
+\beginverse
+ Skat, jeg koder
+Læg dig, lille du
+Skat, jeg koder
+lige lidt endnu.
+\endverse
+
+
+
+\beginverse
+ Nu er jeg færdig efter 22 år
+og jeg har fået klippet kort og velfriseret hår
+Jeg gik og glæd' mig og tænkte, det var fedt
+Jeg ville kode sml, men koder sgu' dotnet
+\endverse
+
+\beginverse
+ Jeg har solgt min sjæl til kapitalen
+og jeg prøver virk'li' hårdt at bli' normal, men
+hjælp mig ellers går jeg på socialen
+Kom nu please, please hjælp mig!
+\endverse
+
+\beginverse
+ Min nye datamat er faktisk ret speciel
+og det der Word er sgu' en rigtig dårlig shell.
+Min firefox er blå og jeg tænker "herregud"!
+for ved du hvad, den Gentoo her, ser fa'me mærk'lig ud.
+\endverse
+
+
+
+\beginverse
+ Jeg stod i baren og jeg spillede sej
+Hun sag'
+"kan du tænde mig?"
+Jeg er lidt svær (så'n) at starte op
+Og det skal man ku for (at) få min krop
+\endverse
+
+\beginverse
+ Baby, Hva' dit drivprogram?
+Du virker sku' en smule stram
+(Så vis mig dog det drivprogram,
+der får dig i gang, yeah!
+\endverse
+
+\beginverse
+ Beepbeep beep beep yeah!
+\endverse
+
+\beginverse
+ Jeg charmed' tøsen og fik hende med hjem
+Hun sag'
+"Baby, tror du' jeg ' nem?"
+Der' ikk' en knap, som skal trykkes for "Start"
+der gør (at) du og jeg, vi skal få det rart.
+\endverse
+
+\beginverse
+ Baby, Hva' dit drivprogram?
+Du virker sku' en smule stram
+(Så vis mig dog det drivprogram,
+der får dig i gang, yeah!
+\endverse
+
+
+\endsong

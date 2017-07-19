@@ -1,0 +1,102 @@
+\beginsong{Filer, Filer, Filer}[sr={Melodi:Sigurd Barrett: ``Biler, Biler, Biler''}, by={DIKUrevy 2016}]
+
+
+\beginverse
+%
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+\endverse
+
+\beginverse
+Hvis man ikke har en make-fil,
+kan man ikke oversæt'
+og hvis man ik' har brugt en .tex-fil
+så bli'r rapporten smidt væk!
+\endverse
+
+\beginverse
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+\endverse
+
+\beginverse
+Hvis man ikke har en .wav-fil
+kan man ikke hør' musik
+Og hvis man har en helt krypter't fil
+så er den fyldt af mystik!
+\endverse
+
+\beginverse
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+\endverse
+
+\beginverse
+Hvis man ikke har en .sh-(udtales shh eller shell)- fil
+skal man gør' det hele selv
+Og hvis man har en helt vilkårlig fil
+så skriv den på hulstrim-mel
+\endverse
+
+
+
+\beginverse
+ %
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+Filer, filer,
+filer, filer, filer
+Massevis af store flotte filer
+\endverse
+
+
+
+\beginverse
+Hvis du ikke har en logfil
+Ved du ikk' hva' der hent
+Og hvis du har en .jar-fil
+Er den fyldt af ekskrement
+\endverse
+
+
+
+\beginverse
+Hvis du ikke har en stor fil
+Har du plads til noget andet
+Og hvis du kigger i mit homedir
+Er det hele helt blandet!
+\endverse
+
+
+
+\beginverse
+Hvis du ikke har en videofil
+Må du jo set det på et bånd
+Og hvis du har en pornofil
+Bli'r du træt i din hånd!
+\endverse
+
+
+
+\beginverse
+Hvis du ikke har en GIF-fil
+Kan jeg vise min JPEG
+Se en gang min billedfil
+Nu har du også set min pik
+\endverse
+
+
+\endsong

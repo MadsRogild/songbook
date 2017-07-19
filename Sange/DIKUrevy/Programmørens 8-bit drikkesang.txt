@@ -1,0 +1,116 @@
+\beginsong{Programmørens 8-bit drikkesang}
+[sr={Melodi:99 bottles of beer}]
+
+\beginverse
+Der ' 1 lille fejl i min kod'.
+Kun 1 lille fejl i min kod'.
+Jeg retter den lige, oversætter igen,
+så ' der 3 små fejl i min kod'?
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 3 små fejl i min kod'.
+Kun 3 små fejl i min kod'.
+Jeg retter lige een, oversætter igen,
+så ' der 5 små fejl i min kod?
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 5 små fejl i min kod'.
+Kun 5 små fejl i min kod'.
+Jeg retter lige een, oversætter igen,
+så ' der 9 små fejl i min kod'?
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 129 små fejl i min kod'.
+129 (!?!) små fejl i min kod'?
+Jeg retter lige een, oversætter igen,
+så ' der 1 stor fejl i min kod'?
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 1 stor fejl i min kod'.
+Kun 1 stor fejl i min kod'.
+Jeg retter den lige, oversætter igen,
+så ' der 3 stor' fejl i min kod'!?!
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 129 stor' fejl i min kod'.
+129 (!?!) stor' fejl i min kod?
+Jeg retter lige een, oversætter igen,
+så ' der 1 gigantisk fejl!?!?!
+\endverse
+
+
+
+
+
+\beginverse
+Der ' 1 gigantisk fejl.
+Kun 1 gigantisk fejl.
+Jeg retter den lige, oversætter igen,
+så ' der 3 gigantiske fejl!?!
+\endverse
+
+
+
+
+
+
+
+
+\beginverse
+Der ' 129 gigantiske fejl.
+129 (!?!) gigantiske fejl?
+Jeg retter lige een, oversætter igen,
+så ' der 1 katastrofal fadæse!?!?!?!?!
+\endverse
+
+
+
+
+
+\beginverse
+Der' 1 katastrofal fadæse.
+Kun 1 katastrofal fadæse.
+Jeg retter den lige, oversætter igen,
+så ' der 3 katastrofale fadæser!?!
+\endverse
+
+
+
+
+
+
+
+
+\beginverse
+Der' 129 katastrofale fadæser.
+129 (!?!) katastrofale fadæser?
+Jeg retter lige een, oversætter igen,
+og så udgiver Microsoft mit program!
+\endverse
+
+\endsong

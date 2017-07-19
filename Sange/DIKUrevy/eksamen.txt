@@ -1,0 +1,96 @@
+\beginsong{Eksamen}[sr={Melodi:``Bohemian Rhapsody'' af Queen}, by={DIKUrevy }]
+\beginverse
+Er det eksamen?
+Er det et mareridt?
+Jeg ved det ikke
+(Men) jeg har det i hvert fald skidt
+Klokken er ni
+Der' længe til det' forbi
+Jeg er en stakkel, valgte datalogi
+(Det er) tem'lig hårdt, tem'lig svært
+hvo'n skal jeg få alting lært?
+Hvad nu hvis jeg dumper til den her eksamen i dag, i dag?
+\endverse
+
+
+\beginverse
+Klokken er over ni
+De andre grifler løs
+Kun jeg er så nervøs
+Hvorfor er hjernen tom? 
+Jeg kan ikke huske stoffet fra i år!
+Hjælp mig, åh åh!
+Nu græder jeg s'gu snart
+Hvis bare jeg ku' løse lidt af sættet
+Ku' det gå, ku' det gå, men intet kan jeg huske\dots
+\endverse
+
+
+\beginverse
+Klokken er slået tolv
+Tre timer fløj afsted
+Jeg kan ikke følge med
+Kære Gud i himlen --- så hjælp mig dog!
+Min besvarelse er ikke særlig god
+Hjælp mig, åh åh!
+Jeg skal s'gu bestå
+For ellers ry'r min S.U.\ og kollegiet\dots
+\endverse
+
+
+\beginverse
+Tænk hvis jeg dumper! Alting vil gå tabt!
+ Disciplin, disciplin, du må se at ta' dig sammen!
+ Du har været doven, nu vil straffen ramme dig!
+Jeg må snyde 
+ Hun vil snyde
+Jeg må snyde 
+ Hun vil snyde
+ Hun vil snyde, det' forbudt! Det er forbudt!
+Jeg må få et svar fra en sidekammerat
+ Hun vil ha' et svar fra en sidekammerat
+ Det er forbudt --- vi vil ikke la' det ske
+Jeg vil ud, jeg vil væk --- jeg vil ha' et svar!
+ Bliv på din plads! Vi la'r dig ikke gå! 
+Lad mig gå!
+ Bliv på plads! La'r dig ikke gå! 
+Lad mig gå!
+ Bliv på plads! La'r dig ikke gå! 
+Lad mig gå!
+ La'r dig ikke gå
+Lad mig gå
+ La'r dig ikke gå 
+Lad mig gå
+ Nej, nej, nej, nej, nej, nej, nej 
+Kære vagter, kære vagter, kære vagter, lad mig gå\dots
+Jeg tror den her eksamen er forbi for mig, for mig, for mig\dots
+\endverse
+
+
+\beginverse
+Nu er klokken snart et og min løsning er helt forkert
+Nu er klokken snart et, hvorfor fa'n skal det vær' så svært?
+Åh, hjælp mig, kære Gud tag og hjælp mig!
+Hva' skal jeg skriv'? Hvordan skal opgaven løses?
+\endverse
+
+\beginverse
+ Åh\ldots
+\endverse
+
+\beginverse
+ Åh nej, Åh nej!
+\endverse
+
+
+\beginverse
+Ikke mer' at gøre
+Nu er det forbi 
+Ikke mer' at gøre --- kun en karakter skal der gi's\dots 
+\endverse
+
+\beginverse
+Mon jeg nu er dumpet?
+Mon hun nu er dumpet?
+\endverse
+\endsong

@@ -1,0 +1,59 @@
+\beginsong{Plutonium}[sr={Melodi:``Jomfru Ane''}, by={DIKUrevy 1977}]
+\beginverse
+%
+Inde på DIKU går vi rundt og har det rart
+og datalogien -- den lær vi det er klart!
+\endverse
+
+\beginverse
+Vi assimilerer, vi assimilerer
+Den videnskab, (accepterer, accepterer)
+Den videnskab, (accepterer, accepterer)
+\endverse
+
+\beginverse
+%
+Denne sang beretter om en kom'ne datalog
+der startede på DIKU og handlede i god tro.
+\endverse
+
+\beginverse
+På dat 0 der lærte han at være helt neutral:
+for ikke at ha holdning er en datalogs moral.
+\endverse
+
+\beginverse
+Hvorfor sku man ha en holdning det er intet plus
+vi sælger vores arbejdskraft -- pyt med hvordan den bru's.
+\endverse
+
+\beginverse
+På dat 1 der lærte han en hel del om teknik
+men stadig ingen holdning det arme men'ske fik.
+\endverse
+
+\beginverse
+På dat 2 der lærte han at simulere det
+som man kan simulere når man simulere ve'
+\endverse
+
+\beginverse
+Endnu da han kom på anden del, så tro'de han
+at han skulle se hvordan problemer løses kan.
+\endverse
+
+\beginverse
+Nu vud han alt om data, deres væsen, deres brug
+man kan da ikke mene at han flere ting ska ku'.
+\endverse
+
+\beginverse
+I Superfoss han optimer' profit og sådan nå'd.
+Han er så dygtig i sit job, har hus og biler få'd.
+\endverse
+
+\beginverse
+Nu må du ikke føle, at DIKU har forsømt.
+For ren datalog det blir du, er det ikke skønt?!
+\endverse
+\endsong

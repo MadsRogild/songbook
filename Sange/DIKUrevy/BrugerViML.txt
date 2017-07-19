@@ -1,0 +1,145 @@
+\beginsong{Bruger vi ML?}[sr={Melodi:Drengene fra Angora: ``Har jeg bildæk?''}, by={DIKUrevy 2015}]
+\beginverse
+  
+  (Jeg) skulle have førsteårsprojekt
+  Fandt mig en gruppe og sku' til at vis' mit intellekt
+\endverse
+
+\beginverse
+  (-) Fremlagde design og gik i lag
+  med 'fun' og høj'reordensfunktorer da Ejnar sag':
+\endverse
+
+\beginverse
+  
+  "(Hvor)dan nedarves funktorens try-catch-try?"
+  "Hvilket interface?"
+  
+  og dertil svared' jeg:
+\endverse
+
+\beginverse
+  Gutter, der er noget som jeg ik' forstår
+  Vi må kun brug' sprog som vi har lært i år...
+\endverse
+
+\beginverse
+
+  Bru'r vi ML?
+  Jeg (mener), koder vi det selv?
+\endverse
+
+\beginverse
+  
+  (-) Nej, vi bruger Java, og en hel del XML
+\endverse
+
+\beginverse
+  
+  
+  Men hvad med rekursion?
+  
+  (Det' et) krav for min vision!
+\endverse
+
+\beginverse
+  
+  Nej, det ka' ingen hitte ud af, det er ren fiktion
+\endverse
+
+
+\beginverse
+  
+  Der skulle programmeres i en fart
+  (Med) boilerplate i Java - det var ikke rart!
+  Man sku' selv erklære typerne, helt uden inferens
+  (-) Hver(ken) pattern-matching eller høj'reordens-dominans.
+\endverse
+
+\beginverse
+  Jeg hev gutterne med ind på IRC
+  og skrev: "SML, det bør vi kode i!"
+\endverse
+
+\beginverse
+  Brug nu ML!
+  Lad os kod' det selv!
+\endverse
+
+\beginverse
+  
+  Nej, vi holder os til Java, det er vores valg!
+\endverse
+
+\beginverse
+  
+  (-) Som (-) sprog er det defekt!
+  Ik(ke) alt er et objekt!
+\endverse
+
+\beginverse
+  
+  (Men) der er mange libraries, så hvorfor kod' det selv?
+\endverse
+
+
+\beginverse
+  (I forlader scenen, Sang genoptages.)
+\endverse
+
+\beginverse
+  
+  Vi brug'r ML!
+  Ko-der det hele selv!
+  Start du din Emacs op, kom her, og kod lidt funktionelt
+\endverse
+
+\beginverse
+  SML, naturligvis!
+  
+  (Om)end det har en mensk'lig pris!
+  
+  Ja, vi myrder gerne for at undgå Java-pis!
+\endverse
+
+\beginverse
+  (-) Slut med klas(se)hierarki!
+  Vi har objekt-apati!
+  Ud med klasser, væk med kode-bu-re-au-krati
+\endverse
+
+\beginverse
+  Kod S M L!
+\endverse
+
+\beginverse
+  Kod S M L!
+\endverse
+
+\beginverse
+  
+  Ja halerekursion har vundet al min affektion
+\endverse
+
+\beginverse
+  Kod S M L!
+\endverse
+
+\beginverse
+  Kod S M L!
+\endverse
+
+\beginverse
+  
+  Ja halerekursion har vundet al min affektion
+\endverse
+
+\beginverse
+  Kod S M L!
+\endverse
+
+\beginverse
+  Kun S M L
+\endverse
+
+\endsong

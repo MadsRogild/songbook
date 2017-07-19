@@ -1,0 +1,50 @@
+\beginsong{Studentens ned- og optur}[sr={Melodi:Tom Dooley}, by={DIKUrevy 1975}]
+\beginverse
+Troede da jeg started
+at det her var lige sagen
+troede det var lykken
+at gå og hulle hele dagen.
+\endverse
+
+\beginverse
+Men jeg blev hurtigt klogere
+fik det hurtigt lært
+dat0 er ikke morsomt
+det er bare fandens svært.
+\endverse
+
+\beginverse
+Lavede så programmer
+lærte at stå i kø
+kom dog aldrig længere
+end hullestuen, HCØ.
+\endverse
+
+\beginverse
+Så var jeg helt alene
+stod der uden ven
+læste så et opslag
+nu ved jeg hvor jeg går hen.
+\endverse
+
+\beginverse
+For redningen er kommet
+trøst for hvert et tab
+kom nu alle venner
+ta' og meld jer ind i FLAB!
+\endverse
+
+\beginverse
+For FLAB tager dig i hånden
+giver dig et tiltrængt hvil
+dulmer dine nerver
+aldrig mere Restenil.
+\endverse
+
+\beginverse
+Programmerne kører bedre
+instruktoren giver dig følgeskab
+læreren smiler til dig
+tag og meld dig ind i FLAB.
+\endverse
+\endsong

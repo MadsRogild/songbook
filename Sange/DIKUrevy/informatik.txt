@@ -1,0 +1,40 @@
+\beginsong{Informatiksang}[sr={Melodi:Clausen \& Petersen: ``Mormors kolonihavehus'' \textit{og Mike Oldfield: ``Moonlight Shadow''}}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Jeg er Bertel - og jeg er Bjørner
+  Vi ser overalt i kroge og hjørner
+  Informatik er tiden og sagen
+  Vi informatiserer gerne morgendagen
+\endverse
+
+\beginverse
+Et univers af kvalitet
+  Der overgår alt, hvad du har set
+  Et åndeligt univers af kvalitet
+\endverse
+
+\beginverse
+ Skråt op med samfund, vi vil den rene vare
+  Og humanister, dem skrotter vi da bare
+  Når de råber op om kobling til din hverdag
+  Så gi'r vi dem da bare informatik og tværfag
+\endverse
+
+\beginverse
+ Sådan en som dig skal vi nok få ned med nakken
+  Dit menneskesyn, din kvælen og snakken
+  Og råber du op og viser os trods
+  Så skal du vide: Djævlen er med os 
+\endverse
+
+\beginverse
+[langsomt tempo]
+  Du skal studere, kvantificere
+  Teoretisere, informatisere
+  Ikke protestere - rationalisere
+  Så du i produktionen, så vi kan profitere
+\endverse
+
+
+\endsong

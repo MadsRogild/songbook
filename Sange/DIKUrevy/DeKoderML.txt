@@ -1,0 +1,86 @@
+\beginsong{De koder ML}[sr={Melodi:Los Del Rio: ``Macarena''}, by={DIKUrevy 2009}]
+
+\beginverse
+ Når vi skal lav' en gruppeaflevering
+tænker alle drenge kun på en ting
+ De vil ha' mig, men jeg si'r nej
+ hvis du koder java er du ik' sej
+ map med mig, fold med mig
+ ML er den rene datalogleg
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+ Her sidst jeg deltog i en gruppe
+satte de mig til at skriv' rapporten
+ de trod' lige, de ku' snige
+ dårlig kode udenom en pige
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+ Nu er jeg så ble-vet din instruktor
+Så hvis du er ensom for'slår jeg at det bli'r alvor
+i Midgaard, hvor du får
+hjælp med SML af et godt skår (det' mig)
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+De allokerer hvor vi andre optimerer
+og komplekse problemer kan de let simplificere
+De rekurserer hvor vi andre terminerer
+De koder ML
+ AAAHAA!
+\endverse
+
+\beginverse
+ad nauseam
+\endverse
+
+\endsong

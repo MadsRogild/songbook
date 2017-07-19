@@ -1,0 +1,43 @@
+\beginsong{Leverpostej}[sr={Melodi:``Live'n let die'' -- Paul Mcartney}, by={DIKUrevy 1995}]
+
+\beginverse
+  Jeg gik en dag klokken 2 op på anden sal.
+                Jeg sku' ha' mad i min vom\
+     Den var så tom, den var så tom, den var så tom!
+  Så jeg gik lækkersulten hen til køledisken,
+                men hvad lå der til mig?
+\endverse
+
+\beginverse
+                Kun leverpostej!   
+\endverse
+
+\beginverse
+   leverpostej
+leverpostej
+   leverpostej
+\endverse
+
+\beginverse
+  Trestjernet rød salami,
+                røget kalkunfilet,
+                var der intet af!
+                Der var ingenting jeg ville ha'!
+og tocifrede karakterer....?
+\endverse
+
+\beginverse
+  Jeg sku' ha' mad i min vom
+     Den var så tom, den var så tom, den var så tom!
+  Men der var hverken Kærgården, eller Lurpak,
+                Så hvad lå der til mig?
+                
+                Kun leverpostej!
+\endverse
+
+\beginverse
+   leverpostej   
+leverpostej
+   leverpostej
+\endverse
+\endsong

@@ -1,0 +1,35 @@
+\beginsong{Sørens Potpourri}[sr={Melodi:Diverse}, by={DIKUrevy 1980}]
+\beginverse
+
+NCR tog Søren
+og alle Sørens børn,
+men bare ikke mig.
+Nu har DIKU bare mig
+/: Og jeg er ingen Søren :/
+\endverse
+
+\beginverse
+
+Glemmer du, de timer vi var sammen her?
+Alting brast, da du tog ud til NCR.
+Minderne har vi da lov at ha',
+dem kan du aldrig, nej aldrig ta'.
+Husker du, en forelæsning på dat-1?
+Husker du, kantinen, det var bare fedt.
+Hvert et brev og hvert et slagsmål har jeg talt.
+Glemmer du, så husker jeg alt!
+\endverse
+
+\beginverse
+
+Er du trist og har du sorg i sinde?
+Så ta' med mig ud til NCR.
+For det er det bedste sted i byen,
+meget bedre end I har det her.
+Det er skillinger,
+der er stillinger,
+der er det, I ikke har: Bevillinger.
+Er du trist og har du sorg i sinde,
+så ta' med mig ud til NCR!
+\endverse
+\endsong

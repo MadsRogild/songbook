@@ -1,0 +1,62 @@
+\beginsong{Den Røde Tråd}[sr={Melodi:Shu-Bi-Dua: "`Den Røde Tråd"'}, by={DIKUrevy 1978}]
+\beginverse
+Et program, før det bli'r til
+Hvad er det så et puslespil
+Lidt tågesnak, en fiks idé,
+Et hjernespind, en tynd kop the.
+\endverse
+
+\beginverse
+Sproget er det første valg
+Én si'r Lisp og én Pascal
+Det sku' gå helt af sig selv
+Med en enkelt linie APL.
+\endverse
+
+\beginverse
+Et "`repeat"' og to "`while-do"'
+Der er meget langt endnu
+En procedure og et hop
+Det går ganske langsomt op.
+\endverse
+
+\beginverse
+Det voksed og koksed'
+Der var en masse småfejl
+En grov fejl var det, da jeg staved "`u"' i "`loop"'.
+\endverse
+
+\beginverse
+Nu var hele dynen klar
+Hver en "`const"', hver kommentar
+Nu skulle skditet prøves af
+De sidste tidsler luges fra.
+\endverse
+
+\beginverse
+Det voksed og koksed'
+Der var en masse småfejl
+En grov fejl var det, da jeg staved "`u"' i "`loop"'.
+\endverse
+
+\beginverse
+Hvorfor sker der ikke no't?
+Kom nu, vågn dog op til dåd
+Gik det virk'lig galt fordi
+Fire kort lå omvendt i.
+\endverse
+
+\beginverse
+Det voksed og koksed'
+Der var en masse småfejl
+En grov fejl var det, da jeg staved "`u"' i "`loop"'.
+\endverse
+
+\beginverse
+Et program, hvad bli'r det til
+Når alt er klart og sat i spil
+En tankerække, der bli'r flået
+Og svæver bort i himmelblået.
+\endverse
+
+\endsong

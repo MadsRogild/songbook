@@ -1,0 +1,113 @@
+\beginsong{Betalingssang}[sr={Melodi:``Admiralens vise''}, by={DIKUrevy 1987}]
+\beginverse
+%
+Jeg \underline{er} kontrol\underline{lør} for et bil\underline{let}sys\underline{tem}
+som \underline{lø}se \underline{vil} en\underline{hvers} pro\underline{blem}
+%
+for \underline{hvert} et \underline{kur}sus skal jeg \underline{kø}be et \underline{kort}
+jeg skal \underline{brug}e et \underline{klip} for at \underline{so}ve timen \underline{bort}
+ han skal \underline{bru}ge et \underline{klip} for at \underline{so}ve timen \underline{bort}
+%
+men \underline{før} i \underline{ti}den \underline{ku} man \underline{gå}
+til \underline{fo}relæsning \underline{gra}tis for at \underline{hø}re \underline{på}
+ 
+\endverse
+
+\beginverse
+%
+\underline{Hør} min \underline{ven}, kontrol\underline{lø}ren er \underline{her}
+spild \underline{ik}ke din \underline{tid} med at \underline{so}ve \underline{mer}
+%
+her \underline{er} mit \underline{kort}, eg \underline{er} lidt \underline{mat}
+jeg har \underline{hørt} på \underline{Zah}le, jan jeg \underline{ik}ke få \underline{ra}bat?
+ han har \underline{hør} på Zahle og så \underline{skal} han ha ra\underline{bat}
+%
+Men \underline{før} i \underline{ti}den \underline{slap} han \underline{fri}
+der \underline{in}gen var som \underline{spurg}te hvad han \underline{kun}ne \underline{li}
+ 
+\endverse
+
+\beginverse
+%
+Når \underline{ind} man \underline{går} til \underline{fo}relæsnin\underline{gen}
+så \underline{ved} man \underline{straks} hvor man skal \underline{ud} i\underline{gen}
+%
+en bil\underline{let}auto\underline{mat} spærrer \underline{vej}en,\underline{for}
+jeg skal \underline{stemp}le når jeg \underline{kom}mer og i\underline{gen} når jeg \underline{går}
+ han skal \underline{stemp}le når han \underline{kom}mer og i\underline{gen} når han \underline{går}
+%
+Men \underline{før} i \underline{ti}den \underline{gik} man \underline{ud}
+når \underline{form}lerne \underline{gav} or meget \underline{ho}ved\underline{brud}
+ 
+\endverse
+
+\beginverse
+%
+\underline{Bø}der \underline{gi}ver jeg med \underline{glæ}de \underline{væk}
+een \underline{gang} da \underline{gav} jeg \underline{tre} i \underline{træk}
+%
+\underline{sidst} jeg blev \underline{ta}get, det \underline{hav}de sin \underline{pris}
+for \underline{bø}den var en \underline{eks}trafore\underline{læs}ning i \underline{Gries}
+ for \underline{bø}den var en \underline{eks}trafore\underline{læs}ning i \underline{Gries}
+%
+Men \underline{før} i \underline{ti}den \underline{var} alt \underline{vel}
+for \underline{fo}relæsnin\underline{gen} var gerne \underline{straf}fen i sig \underline{selv}
+ 
+\endverse
+
+\beginverse
+%
+I \underline{tos}se\underline{lab}bet går jeg \underline{ik}ke \underline{ind}
+for \underline{sim}pelt\underline{hen}, der sker \underline{ik}ke en \underline{pin}d
+%
+Der er \underline{lås} for \underline{dø}ren, der skal \underline{væ}re en \underline{slå}
+for \underline{Mac}hintosher \underline{skal} man passe \underline{me}get \underline{på}
+ for \underline{mak}intosser \underline{skal} man passe \underline{me}get \underline{på}
+%
+Men \underline{før} i \underline{ti}den \underline{ku} man \underline{få}
+en ma\underline{skine} hvis man \underline{hav}de noget at \underline{reg}ne \underline{på}
+ 
+\endverse
+
+\beginverse
+%
+I \underline{dag} var en stu\underline{dent} sødt \underline{slum}red \underline{ind}
+jeg \underline{væk}ked \underline{ham}, han sad med \underline{hån}den under \underline{kind}
+%
+du \underline{spør}ger \underline{mig} hvem \underline{for}elæser \underline{her}
+han er så \underline{ke}delig, jeg \underline{hu}sker ikke \underline{hvem} han \underline{er}
+ han er så \underline{ke}delig og \underline{in}gen husker \underline{hvem} han \underline{er}
+%
+Men \underline{før} i \underline{ti}den \underline{var} det \underline{nemt}
+da \underline{kun}ne ingen \underline{hu}ske hvem de \underline{hav}de \underline{glemt}
+ 
+\endverse
+
+\beginverse
+%
+\underline{Ma}te\underline{ma}tisk \underline{lin}gvs\underline{tik}
+og \underline{in}fe\underline{rens} af \underline{se}man\underline{tik}
+%
+jeg \underline{lyt}ted til \underline{Gre}gers indtil \underline{ti}men var for\underline{bi}
+jeg \underline{in}genting for\underline{stod}, så han \underline{\underline{r}} nok et ge\underline{ni}
+ \underline{in}gen kan for\underline{stå} ham, så han \underline{er} nok et ge\underline{ni}
+%
+Men \underline{før} i \underline{ti}den \underline{sov} man \underline{mens}
+han \underline{fo}relæste \underline{om} lidt mer in\underline{tel}li\underline{gens}
+ 
+\endverse
+
+\beginverse
+%
+\underline{Klip}pekortsys\underline{te}met er min \underline{øn}ske\underline{drøm}
+vi \underline{sun}get har om \underline{det}, tag \underline{selv} og \underline{døm}
+%
+I \underline{vort} sys\underline{tem} vi \underline{træk}ker \underline{lod}
+og \underline{vi} skal \underline{in}genting be\underline{ta}le \underline{for d'}
+ og \underline{vi} skal \underline{in}genting be\underline{ta}le \underline{for d'}
+%
+kontrol\underline{lø}ren han må \underline{nø}jes med at \underline{træk}ke \underline{lod}
+og af \underline{sta}ten får han \underline{in}gen stor be\underline{ta}ling \underline{for d'}
+ 
+\endverse
+\endsong

@@ -1,0 +1,82 @@
+\beginsong{Rengøringsmand}[sr={Melodi:Står ikke}, by={DIKUrevy 1985}]
+\beginverse
+%
+Når morgnen gryr på DIKU
+Og de fleste sover trygt
+og selv UNIX-freaks'ne
+er som regel gået hjem
+så starter jeg min runde
+med skrubbe, klud og spand
+blandt affaldsdynger
+baner jeg mig frem
+\endverse
+
+\beginverse
+Og rydder ud
+hælder væk
+lukker vinduerne op
+laver gennemtræk.
+Det er står tilbage
+fra dagen før,
+hvem tror I ta'r det
+gæt hvem der gør.
+\endverse
+
+\beginverse
+%
+Om lidt, når jeg har sunget
+og revyen er forbi
+skal vi feste i kantinen
+til i morgen
+Men når \underline{du} engang står op
+med dine grimme tømmermænd
+går revygruppen herinde
+over gården
+\endverse
+
+\beginverse
+Og rydder ud
+hælder væk
+lukker vinduerne op
+laver gennemtræk.
+Det er står tilbage
+fra dagen før,
+hvem tror I ta'r det
+gæt hvem der gør.
+\endverse
+
+\beginverse
+%
+Nu lakker det mod enden
+vi har sunget sidste sang
+det her er faktisk
+enden på revyen
+om lidt så tændes lyset 
+og musikkengår i stå 
+vi må hel're fort'sæt'
+et andet sted i byen
+\endverse
+
+\beginverse
+I blir smidt ud
+så kom hel're væk
+luk vinduerne op
+og lav gennemtræk
+Det er på DIKU
+det nuforegår
+vi takker af
+slutter for i år
+\endverse
+
+\beginverse
+%
+Gå over gården
+op på første sal
+så lidt til venstre
+for der er der bal
+Det er på DIKU
+det nu foregår
+vi takker af
+slutter for i år.
+\endverse
+\endsong

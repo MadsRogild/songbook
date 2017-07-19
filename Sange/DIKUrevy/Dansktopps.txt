@@ -1,0 +1,90 @@
+\beginsong{Dansktopps}
+[sr={Melodi:Poul Krebs - Sådan Nogen Som Os; Lars Lilholt - Kald Det Kærlighed; Shubidua - Stærk Tobak}
+,by={DIKUrevy 2014}
+]
+
+
+
+
+\beginverse
+Engang var brugerne tilfredse
+Nu' Apple det som alle ønsker sig
+Men heldigvis er vi parate
+Ja, Windows 1.0 det er på vej
+\endverse
+
+
+\beginverse
+Sådan noget som DOS
+Har jo brug for en GUI
+Men den GUI er nog't værre hurlumhej
+Så vent nogl' år
+Vi' jo lig' ved at lær' det
+Windows stifinder på rette vej
+\endverse
+
+
+
+
+
+\beginverse
+Kald den der funktion
+Kald den lig' der i kod'n
+Åh-uh-øv
+Den findes i libc
+Men mit kald det går itu
+For den er ik' linket endnu
+\endverse
+
+
+\beginverse
+Fortæl mig hvor jeg finder den funktion
+Befri mig nu fra denne frustration
+Er den i \texttt{/lib} eller i en anden lokation?
+Befinder den sig mon i \texttt{/usr/lib}?
+Den svarer ik' når jeg prøver med en \texttt{grep}
+\endverse
+
+
+\beginverse
+Kald den der funktion...
+\endverse
+
+
+
+
+
+\beginverse
+Nu skal i høre hvad vi godt ka' li
+8 bit!
+Det kan man gemme mange farver i
+8 bit!
+\endverse
+
+
+\beginverse
+Bit 5 til 7 er rød
+Og 0 og 1?
+Dem bruger vi til blå
+De sidst' er grøn'
+Så har vi 256
+farver at kigge på
+\endverse
+
+
+\beginverse
+7 bit - uuu - aaa...
+\endverse
+
+
+\beginverse
+Nej nej nej nej jeg sagde 8 bit!
+8 bit?
+Ja da, din ASCII ska' ha' paritet
+8 bit!
+8 bit!
+8 bit!
+8 bit!
+\endverse
+
+\endsong

@@ -1,0 +1,26 @@
+\beginsong{Go' nu nat}[sr={Melodi:Go nu nat ....}, by={DIKUrevy 1985}]
+\beginverse
+%
+Go nu nat og gå nu lige hjem
+I er snydt og i er bare for nem'
+Vi har scoret Jeres penge
+så gå hjem i Jeres senge
+go nu nat og gå nu lige hjem.
+\endverse
+
+\beginverse
+Og I troed' I sku' se revy
+og feste vider' til det årle morgengry
+I er taget i hoved og røv
+I troed ik' vi turde prøv'
+go nu nat og gå nu lige hjem
+\endverse
+
+\beginverse
+I har troet I sku' ha' det sjovt
+og nu er det bare blevet tem'lig flovt
+Der er ingen mad og vin
+så I er blevet rent til grin
+go nu nat og gå nu lige hjem
+\endverse
+\endsong

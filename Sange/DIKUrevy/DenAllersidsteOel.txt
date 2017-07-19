@@ -1,0 +1,57 @@
+\beginsong{Den allersidste øl}[sr={Melodi:Kai Normann Andersen - Den allersidste dans}, by={DIKUrevy 2007}]
+
+
+\beginverse
+ Aldrig har jeg set så smuk en pige
+Aldrig var min lykke nær så stor
+Den lille skæve tand
+derinde i din mund
+aldrig har jeg set en bag så rund
+\endverse
+
+\beginverse
+ Den allerførste øl
+har gjort dig smuk
+Og drikker jeg lidt fler'
+bli'r du et hug
+endnu er natten ung
+så grib din pengepung
+og køb en ekstra
+guldtuborg
+før vi går
+\endverse
+
+\beginverse
+ Et møde med din mund,
+før vi går hjem
+Og flet nu vore tog-
+skinner min ven
+men du forstår mig ej
+det rør' dog ikke mig
+at du er nok så udenlandsk
+for du dufter så dejligt af gammeldansk
+\endverse
+
+
+
+\beginverse
+ Den allersidste dans
+Før vi går hjem
+Jeg ved godt andre si'r,
+at du er nem
+Caféen? lukker nu
+\endverse
+
+
+
+\beginverse
+ Så kys mig lille du
+det slutter ikke her i nat
+for det er kun begyndelsen kære skat
+og nu bunder jeg lige den sidste sjat. 
+\endverse
+
+
+
+
+\endsong

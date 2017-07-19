@@ -1,0 +1,41 @@
+\beginsong{Søren Olsens Sang}[sr={Melodi:Whatever happened to saturday night}, by={DIKUrevy 1997}]
+\beginverse
+Hva' fa'en skete der sidste år'
+Jeg blev til grin for at vær' for hård.
+De sagd', jeg var kold i røv'n og frøs mig ned.
+Så pas lidt på,  for jeg er virk'lig vred
+\endverse
+
+\beginverse
+Tror i, det er sjovt at blive lagt på is.
+Tror i, jeg tolererer jeres platte fis
+Jeg stopper jer's revy nu med denne sang.
+Så bli' I her. Luk hver nødudgang!
+\endverse
+
+\beginverse
+{}
+Jeg ' bestyrer, fat det nu
+og jeg er fuld af gys og gru
+Så bare fuck jeres skod-revy!
+Jeg lukker den, jeg er ikke sky!
+\endverse
+
+\beginverse
+Enhver ku' sgu' da se, at jeg er grum og græl, så
+som institutbestyrer var jeg ideel.
+Men ingen ku' forstå det som jeg sa' og gjord'
+Jeg ville bare eje hele denne jord.
+\endverse
+
+\beginverse
+Et grumt alarmsystem, det var min onde hævn
+Jeg sked på hva' de sagde i mit studienævn
+Nu er det fa'me tid at sætte hårdt mod hårdt.
+Så pas nu på - I kommer til kort!
+\endverse
+
+\beginverse
+{}
+\endverse
+\endsong

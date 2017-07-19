@@ -1,0 +1,60 @@
+\beginsong{EDB-sangen}[sr={Melodi:``Anni, get your gun''}, by={DIKUrevy 1973}]
+\beginverse
+Folks are dumb
+where I come from,
+they ain't got any learning',
+still they're happy as can be
+Doin' what comes naturally
+Doin' what comes naturally
+\endverse
+
+\beginverse
+Vor datamat
+gør dit og dat,
+den kan næsten tænke
+og nu skal vi vænnes ti'
+alt bli'r gjort med EDB
+alt bli'r gjort med EDB
+\endverse
+
+\beginverse
+Min konto i handelsbanken
+er af datamat kontrolleret,
+en ganske bekseden indsats
+fik bagmandssaldo refunderet
+\endverse
+
+\beginverse
+Dam og skak
+vi siger tak
+at de er programmered'
+og kryds og bolle nu vi har
+snart syr's agurk med EDB
+snart syr's agurk med EDB
+\endverse
+
+\beginverse
+En verdens model
+hvor vi kvæles ihjel
+er bragt af Peter Naur,
+hele denne profeti
+er osse lavet med EDB
+er osse lavet med EDB
+\endverse
+
+\beginverse
+Der findes kartoteker
+ajourført når det sker
+at en Peter skylder penge
+og en anden demonstrerer
+\endverse
+
+\beginverse
+Det er ej vist
+hos Rosenquist
+om du får bid på krogen
+kvikker' det går i USA
+det par's man via EDB
+det par's man via EDB
+\endverse
+\endsong

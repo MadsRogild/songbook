@@ -1,0 +1,46 @@
+\beginsong{Masser af succes}[sr={Melodi:Shu-Bi-Dua: ``Masser af succes''}, by={DIKUrevy 1991}]
+\beginverse
+%
+Kæmpemæssigt net,
+fra Peru til Sovjet.
+Masser af rå maskiner,
+og linjer fra øst til vest.
+\endverse
+
+\beginverse
+MUD i USA,
+Oslo og Panama.
+Talk'e med hele Verden,
+email og news.
+\endverse
+
+\beginverse
+Men om natten,
+når freja hun går ned,
+og alt forsvinder.
+Så' du ene,
+åh, så ene.
+\endverse
+
+\beginverse
+Venner en masse,
+fra Ålborg til Alsace.
+Bil'der af nøgne piger,
+hvis disken den har plads.
+\endverse
+
+\beginverse
+Lege med ftp,
+et spil eller tre.
+Fra Japan over DIKU,
+og hjem til din PC.
+\endverse
+
+\beginverse
+Men i morgen,
+når virussen slår til,
+og alt bli'r slettet.
+Er du ene,
+åh, så ene.
+\endverse
+\endsong

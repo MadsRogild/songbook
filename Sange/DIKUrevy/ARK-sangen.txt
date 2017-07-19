@@ -1,0 +1,88 @@
+\beginsong{ARK-sangen}
+[sr={Melodi:Thomas Holm - Knep Smerten Væk}
+,by={DIKUrevy 2013}
+]
+
+\beginverse
+Af Jyrki har du ofte fået at vid',
+Hvis du vil lære C,
+Så ta'r det kun to dag'
+Det passer ik'!
+\endverse
+
+
+\beginverse
+Og når Jyrki si'r, at kurset ikk' ka' optimeres,
+Og at fejlen kun er jeres
+Det passer heller ik' en skid!
+Der' kun én ting, der dur,
+Og det' en veldokumenteret kur:
+\textit{(Han skal drikkes væk)}
+\endverse
+
+
+\beginverse
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik, drik, drik den Jyrki væk!
+\endverse
+
+
+\beginverse
+En mand fra Finland si'r så tit til dig
+Hvis du har dumpet ARK
+Så skal det arbejdes væk
+Det passer ik'!
+\endverse
+
+
+\beginverse
+For når opgaven er oversat fra finsk,
+Eller ligger ret langt uden for pensum
+Så ka' du hilse ham fra mig og sige
+Der' noget han har misforstået
+Der er kun én der' ansvarlig for'ed!
+\textit{(Og han skal drikkes væk)}
+\endverse
+
+
+\beginverse
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik, drik, drik den Jyrki væk!
+\endverse
+
+
+\beginverse
+Nutids-r - det skal drikkes væk
+Eksamensangst - drikkes væk
+Dårligt kursus - drikkes væk
+Drik-drik-drikkes væk
+Maksimal fløde - drikkes væk
+\texttt{if-then-else} - drikkes væk
+Tavleorden - drikkes væk
+Drik-drik-drikkes væk
+Arrogance, finskhed, kursushad - drikkes væk
+Reeksamen, karakterer, ventetid - drikkes væk
+Ordbøger, mangel på relevant undervisning, dumpeprocenter på 60!
+\endverse
+
+
+\beginverse
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik, drik, drik den Jyrki væk!
+\endverse
+
+
+\beginverse
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik den Jyrki væk!
+Drik Jyrki væk! Drik, drik, drik den Jyrki væk!
+\endverse
+
+\endsong

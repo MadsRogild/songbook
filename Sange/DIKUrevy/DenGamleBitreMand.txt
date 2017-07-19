@@ -1,0 +1,53 @@
+\beginsong{En gammel bitter mands klagesang}[sr={Melodi:Anders 'Anden': ``Papas Sang'' fra Jul på Vesterbro}, by={DIKUrevy 2005}]
+
+
+\beginverse
+[Tales rytmisk] Uddannelse er en vigtig funktion
+en funktion man bør tage alvorlig
+og datalogi, som er vigtig'r end nogen
+den er gået hen og blev't dårlig.
+Med multimedier og HCI
+og kurser der slet ikke findes
+Det nymodens pjank, må jeg være fri!
+Så er der nog'n ting man bør mindes 
+\endverse
+
+\beginverse
+[omkvæd. Synges] Man får ikke lært at bliv' en rigtig datalog
+uden at skrive kerne på en Motorola
+Det bør koste både tid og sved og hjerteblod
+man skal sidde hele natten med sin cola
+Når gamle EDB-maskiner GIER dig DASK
+så vær forvisset om, det er solide klask
+Man lærer aldrig noget ud'n at lave fejl
+så gør indlæringskurven stejl
+\endverse
+
+\beginverse
+[vers. rytmisk tale igen] For dataloger skal man ha' respekt
+nærmest ærefrygt som i templer
+Der findes kun få i hver eneste slægt
+der kan mestre båd' C og assembler
+En ydmyg holdning vil være sund
+De unge kan jo slet ikke vide
+i gamle dage, da jeg var ond
+hvordan vi da måtte slide
+\endverse
+
+\beginverse
+[omkvæd](For) man får ikke lært at bliv' en rigtig datalog
+hvis man bare læser løsningen på nettet
+Man må starte forfra uden brok, det kan I tro
+når en op'ratør har fået din konto slettet
+Når først I bliver færdige, vil I forstå
+der er kun en doktrin som man kan stole på:
+Man lærer aldrig noget ud'n at lave fejl
+så gør indlæringskurven
+gør indlæringskurven
+gør indlæringskurven stejl!
+\endverse
+
+
+
+
+\endsong

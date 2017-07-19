@@ -1,0 +1,55 @@
+\beginsong{Banansangen}[sr={Melodi:``I niggerland bananen gror''}, by={DIKUrevy 1987}]
+\beginverse
+%
+I USA BRinch Hansen bor
+og dovne 'stud'er flygter.
+Men nogle de har altid travlt,
+de Brinch'ens øjne frygter.
+De har slet ingen fritid der,
+nej, de får lov at slæbe
+sig til en figtig karakter,
+hvad nytter det at flæbe.
+\endverse
+
+\beginverse
+De kender ikke Diku der,
+ta'r ræset helt for givet.
+Og mange af dem glemmer helt,
+at de sku' leve livet.
+Bag skærmens ånd man gemmer sig, åh hør, pc'en suser,
+den holder mest af kodedej,
+den grimme dataknuser.
+\endverse
+
+\beginverse
+Hver morgen står man tdiligt op,
+pc'erne skal 'strømmes',
+og fodres skal en læser her,
+og priteren skal tømmes.
+I 'lab'et møder Billy op,
+der møder han den større
+Brinch Hansen, se han ligner jo
+en forsker på det tørre.
+\endverse
+
+\beginverse
+Et stort program skal skrives ud,
+Brinch Hansen på det venter.
+To tusind kasser printpapir
+de små studenten henter.
+De har så travlt, de sølle små,
+men vil så gerne fremad,
+de slæber hele dagen lang,
+ak, når skal Brinch'en hjemad.
+\endverse
+
+\beginverse
+De sover i studenterby'r,
+har ikke egen bolig,
+og selv de er trætte, bliver søvnen aldrig rolig.
+Du danske 'stud', du har det godt,
+sig tak for studiets goder,
+og sende en kærlig hilsen til
+Brinch Hansens travle poder.
+\endverse
+\endsong

@@ -1,0 +1,64 @@
+\beginsong{Du logger mig hele tiden ud}[sr={Melodi:Tommy Seebach og Annette Heick: ``Du skælder mig hele tiden ud''}, by={DIKUrevy 2015}]
+
+
+\beginverse
+
+  Du tror at jeg er mega uforsigtig med min SSH
+  Er du nu sur, fordi jeg er en proxy til Tor
+
+  Men tror du lige at jeg glemmer
+  Du kører al' de scripts du finder
+  Din sudo er løs,
+  så scriptsene nu kører de dig
+\endverse
+
+\beginverse
+
+  Du logger mig hele tiden ud
+  Du dræber min shell og skifter løsen
+  På min forbindelse sker der brud
+  Er det på grund af al min sløsen?
+\endverse
+
+\beginverse
+  Du logger mig hele tiden ud
+  Så' godt du ikke patched' Heartbleed
+  På min forbindelse sker der brud
+  Mine dine løsner får jeg fat i... fat i... fat i...
+\endverse
+
+
+
+\beginverse
+
+  Du har jo sagt, mit løsen skal vær' mere end et e-eenkelt tegn
+  Så se nu her, nu har jeg nøgle på USB
+\endverse
+
+\beginverse
+
+  Men du må da gerne logge ind her,
+  hvis bare din nøgle bliver mer' svær\\    % kan rettes til 'sværere'
+  for tusinder af bits er\\                 % vi stikker lidt af fra tekstens
+  li'meget hvis de alle er nul\\            % oprindelige versefødder her. Det virker!
+\endverse
+
+\beginverse
+
+  Du logger mig hele tiden ud
+  Dræber min shell og skifter løsen
+  På min forbindelse sker der brud
+  Er det på grund af al min sløsen?
+\endverse
+
+\beginverse
+  Du logger mig hele tiden ud
+  Så' godt du ikke patched' Heartbleed
+  På min forbindelse sker der brud
+  Hør nu her, jeg lær' det aldrig
+\endverse
+
+\beginverse
+  Jeg bli'r aldrig god til E D B
+\endverse
+\endsong

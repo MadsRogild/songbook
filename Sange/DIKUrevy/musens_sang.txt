@@ -1,0 +1,35 @@
+\beginsong{Musens sang}[sr={Melodi:Musens sang}, by={DIKUrevy 1981}]
+\beginverse
+En enlig astronaut har det værre end I tror
+jeg befinder mig skidt mellem himmel og jord
+datamater står og blinker men hvad skal jeg stille op
+med mit gode humør og min medbragte krop
+Kvinder kan jeg være med på galej'n
+så jeg er alene i mælkevej'n
+så jeg er alene i mælkevej'n
+Om natten ensomheden vokser op og bliver stor
+man er bare et fnug mellem himmel og jord.
+\endverse
+
+\beginverse
+Gud ved hvad de vil med et men'ske her om bord
+datamaten gør alt uden at mæle et ord
+den husker mine briller, mine piller og pastiller
+og den gi'r mig et los, hvis jeg viser lidt trods
+hver lille prut bliver slået af igen
+og tarmservice gir den igen og igen
+en tragt bli'r spændt fast og en pose går fra bord
+den bli'r bare et fnug mellem himmel og jord
+\endverse
+
+\beginverse
+Musakken strømmer ud og den minder mig om hor
+ak, de spilled den sang da vi mødtes i fjor
+men når så den bemærker at jeg tænker som et svin
+skal en nok sørge for min ration af morfin
+hvert lille åndedrag drages af den
+den tæller min puls og den holder igen
+så tanker om et selvmord er forgæves her om bord
+man er bare et fnug mellem himmel og jord.
+\endverse
+\endsong

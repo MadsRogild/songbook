@@ -1,0 +1,85 @@
+\beginsong{Studiestrukturtango}[sr={Melodi:Tom Lehrer: ``The Masochism Tango''}, by={DIKUrevy 2004}]
+\beginverse
+ Hør nu, hvad det er I skal vide
+når vi lader alle tumper lide
+Med vold og med tvang
+vi sty'r slagets gang
+ når vi starter vores nye studiestruktur  
+\endverse
+
+\beginverse
+ For Koch gør, at deres hov'der brister
+Instant chock ved tupler og lister
+De dumme må gå
+Vi beholder de få
+ Der kan klare vores nye studiestruktur
+\endverse
+
+\beginverse
+ Med lidt logik
+Får vi tragikomik
+Det er et billigt trick ... (he, he)
+Men nu skal de sgu' ud
+\endverse
+
+\beginverse
+ Og UML
+Det skal de lære selv
+ Måske med noget held
+ Mens Fritz han siger tud!
+\endverse
+
+\beginverse
+ Giv dem streng logik og en pipeline
+Kreds fejler, men der er ingen lifeline
+Hvis der's cache si'r crash
+Kalder vi dem trash
+De skal lide under vores studiestruktur
+\endverse
+
+\beginverse
+ Datastruktur
+den sørger for tortur, [alle] ja
+De svage får nedtur, [alle] ja
+ Men hvad skal vi med dem?
+\endverse
+
+\beginverse
+ Med noget vold
+Og netværksprotokol
+vil de flygte i hold
+Kun kloge vil nå frem
+\endverse
+
+\beginverse
+ Når Phillipe han vil lære dem S-QL
+vil de ik' fatte selv en simpel ta-bel 
+Normalformen: nul
+Deres viden et hul
+De skal slagtes med den nye studiestruktur
+\endverse
+
+\beginverse
+ Hvis de nu ik'
+Endnu er løbet væk
+Skal vi der's viden check'
+Vi gi'r dem et projekt
+\endverse
+
+\beginverse
+På 3. år
+Hvis de her stadig går
+Det skal vær' endnu hård'
+Der ska' være helt perfekt... [sker aldrig]
+\endverse
+
+\beginverse
+Kun eliten skal kende teorien
+Bag videnskaben og datalogien
+Og bli'r de bachelor
+På der's 3. år
+Har de klaret vores nye studiestruktur
+\endverse
+
+
+\endsong

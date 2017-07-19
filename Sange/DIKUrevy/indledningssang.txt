@@ -1,0 +1,34 @@
+\beginsong{Åbningssang}[sr={Melodi:Muppet Show's åbningssang}, by={DIKUrevy 1989}]
+\beginverse
+  Det' nu vi tænder lyset
+  Det' nu vi går i gang
+  Det' nu musikken spiller
+  til den allerførste sang.
+\endverse
+
+\beginverse
+  Det' nu vi lægger sminke
+  Det' nu vi klæ'r os om
+  Nu vil vi gøgle for jer
+  Vi er glade for' i kom.
+\endverse
+
+\beginverse
+  Vi laver mange numre,
+  Det har vi prøvet før
+  Nu skal vi gå på scenen,
+  Hvis vi da ellers tør.
+\endverse
+
+\beginverse
+  Det' nu vi trækker skytset,
+  Det nu vi skyder skarpt.
+  Det' nu vi præsenterer
+  (Nu skal I præsentere)
+\endverse
+
+\beginverse
+  Den helt fantastiske, datamatiske, meget drastiske, DIKUastiske
+  Nittenniogfirs YVERUKID
+\endverse
+\endsong

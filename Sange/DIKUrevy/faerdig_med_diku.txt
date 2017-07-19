@@ -1,0 +1,29 @@
+\beginsong{Færdig med DIKU}[sr={Melodi:The Man in the Flying Trapeze}, by={DIKUrevy 1981}]
+\beginverse
+
+  Jeg started på DIKU
+  for snart længe siden.
+  Det har været dejligt,
+  lidt strengt undertiden.
+  Nu er det forbi,
+  mit speciale er slut.
+  Det er noget, jeg tit har fortrudt.
+\endverse
+
+\beginverse
+  Men jeg mangler endnu femten timer
+  af de mundtlige, på anden del
+  Men når så de er taget er alting forbi;
+  så skal jeg til at sige farvel
+\endverse
+
+\beginverse
+  Så er det mig, der skal flytte
+  og få mig et job.
+  Og gør' karriere
+  og stå tidligt op.
+  Så er det nej tak til øller
+  og til nattesvir.
+  Fanden ta' det eksamenspapir
+\endverse
+\endsong

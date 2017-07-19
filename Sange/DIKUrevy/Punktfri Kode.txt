@@ -1,0 +1,108 @@
+\beginsong{Punktfri Kode}
+[sr={Melodi:Poul Reichardt - Er du dus med himlens fugle}
+,by={DIKUrevy 2015}
+]
+
+\beginverse
+Kan du lide punktfri kode
+og rekursion på træer
+Ser du også en fordel
+i ting der ej muterer?
+Kan du bruge stærke typer
+og ikke blive tvær?
+Så synes jeg
+at det er Haskell
+du sku ta' og lære
+\endverse
+
+
+\beginverse
+Et heltal!
+En liste!
+En Maybe af en Char!
+En Either!
+En tupel!
+Ja, la' mig nu forklar!
+\endverse
+
+
+\beginverse
+Kan du lide punktfri kode
+og rekursion på træer
+Så synes jeg at Haskell er
+sproget du skulle tage og lære
+\endverse
+
+
+\beginverse
+Du dovne sprog!
+med dine lister!
+Uendelig-heden
+den frister!
+Hvorfor begrænse sig?
+Har du det som jeg?
+\endverse
+
+
+\beginverse
+Kan du li' at skrive papers
+for at dokumenter'
+Giver det dig stor glæde
+at abstrahere mer'?
+Kan du kode med monader
+og ikke blive tvær?
+Så synes jeg
+at det er Haskell
+du sku ta' og lære
+\endverse
+
+
+\beginverse
+Med fmap!
+Og mapM!
+Alting det mapper jeg!
+Og foldl!
+Og foldr!
+Foldable er for sej!
+Kan du lide punktfri kode
+og rekursion på træer
+Så synes jeg
+at Haskell er
+sproget du skulle tage og lære
+\endverse
+
+
+\beginverse
+Åh dette sprog!
+Åh disse typer!
+I teori
+jeg mig fordyber!
+En kategori for sig
+jeg siger til dig\ldots
+Ta'r du glæde
+i en Arrow
+og andre algebra'r?
+Er din kode korter'
+end den type som den har?
+Kan læse kod' med linser
+og selv tilføje flere?
+Så synes jeg
+at det er Haskell
+du sku ta' og lære
+\endverse
+
+
+\beginverse
+En Funktor!
+En Monoid!
+Og ikke at forglem'
+En zygo-histomorfisk 
+pre-pro-morfisme!
+Kan du lide punktfri kode
+og rekursion på træer
+Så synes jeg
+at Haskell er
+sproget du skulle tage og lære
+\endverse
+
+\endsong

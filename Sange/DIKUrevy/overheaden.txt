@@ -1,0 +1,29 @@
+\beginsong{Den Lille Jørgen med overheaden}[sr={Melodi:Den lille Ole med paraplyen}, by={DIKUrevy 1990}]
+\beginverse
+   Den lille Jørgen med overheaden
+            han kender alle men mest dat1'en
+            han spreder Sand i de øjne små
+            når de vil flydende tasl forstå
+\endverse
+
+\beginverse
+            Dog vil han først komplementet vise
+            og dernæst regne på en mantisse.
+            Det hele flyder i drømmenes sal
+            når Jørgen leger med sine tal.
+\endverse
+
+\beginverse
+            Når Jørgen opgaverne skal stille
+            eksaminanten i håret pille
+            de siger alle den er for svær
+            men lille Jørgen ka' ik' la' vær'.
+\endverse
+
+\beginverse
+            Nu er han flyttet til andre vove
+            nu kan dat1'eren roligt sove
+            for nu skal Jørgen på første år
+            forhindre at de dat0 består.
+\endverse
+\endsong

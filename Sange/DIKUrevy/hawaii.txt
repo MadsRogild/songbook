@@ -1,0 +1,36 @@
+\beginsong{Ukendt}[sr={Melodi:Michael Hardinger: ``Hawaii''}, by={DIKUrevy 1982}]
+\beginverse
+   En lærer
+            der skal jo nogen til det svære
+            de tager byrderne på tur
+            spiser frokost i bur
+\endverse
+
+\beginverse
+   Studenter
+            nu vil de studierne ændre
+            de vil ha' samfundsrelevans
+            og revy før Sct Hans
+\endverse
+
+\beginverse
+   Dat-0'er
+            endnu i år de laver huller
+            men ved den næste G rapport
+            disketter for kort
+\endverse
+
+\beginverse
+   Dat-2'er
+            i teori de har vor mo'er
+            men lykken kun er kort til låns
+            nu får de Neil Jones
+\endverse
+
+\beginverse
+   En tapper
+            er en der ikke trykker knapper
+            men passer DIKUs telefon
+            (det) skal jo gøres af no'en
+\endverse
+\endsong

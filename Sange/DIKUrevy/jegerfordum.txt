@@ -1,0 +1,88 @@
+\beginsong{For dum til det her sted...}[sr={Melodi:For kendt -- Lex \& Klatten}, by={DIKUrevy 1998}]
+\beginverse
+ I kender mig for MUD'ning og fra IRC
+I hobetal af JPEGs og fra 'skak og mat'
+Jeg sidder med min Cola og fastfoodmad, går ik' i bad
+Rapportgrupperne udstråler had
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+\beginverse
+ Jeg hygger mig på DIKU - jeg 'i undertal
+Der ta'r jeg cola'n med ned til min terminal
+og flaskerne de hobes op, sikke't griseri, no'd svineri
+Jeg gider ikke at tal' med nogen
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+\beginverse
+ Og pludslig får man venner, ja i hobetal
+Men vennerne de smutter hvis de får et valg
+når de igen kan LaTeX. Kan sgu ej forstå, efter 'ø' og 'å'
+venskaberne går (tit) i stå
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+\beginverse
+ Jeg gemmer mig på DIKU - der er sommerfest
+Selv efter jeg tager briller på, er jeg en hest.
+Pigerne fornægter, ja, min eksistens, har sex i mens
+jeg logger ind, kom, check min potens
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+\beginverse
+ Jeg drømmer, jeg ud' og gå mig en tur
+ Og der møder jeg en pige, der gøre
+                 et tegn og så spør'
+ Om vi ikke skal lig' på græsset
+ Og så vågner jeg og skriger
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+\beginverse
+ Jeg vælter mig i penge - jeg har kort fortalt
+             forstået at score kassen, bliver sgu betalt!
+             Jeg sørger for at brugerne får brugerspat, med brugerbat
+             Jeg' Edb-afdelingens skat!
+\endverse
+
+\beginverse
+  Jeg er for dum til det her sted
+  Jeg kan sgu ikke følge med
+  Men lad mig dog bliv på det her sted
+  DIKU er hvor jeg får fred
+\endverse
+
+
+\endsong

@@ -1,0 +1,65 @@
+\beginsong{Compilerjammer}[sr={Melodi:Katzenjammer: ``Demon Kitty Rag''}, by={DIKUrevy 2014}]
+\beginverse
+ Hey lille skatter
+Ka' godt li' det, du skrev
+- især det med relationer.
+ Ved da godt, at det er æv
+Såd'n at få lidt tøsetæv.
+ Det ‘ lidt hårdt for ens person, og
+\endverse
+
+\beginverse
+ Syn's ikke, at det er chic,
+ - det, du kalder semantik 
+(og) Dine bugs er ikke smukke.
+Jeg ‘ en tøs, som de er flest
+ - og du ‘ bar en parantes
+der sikkert  ikk’ er nog’n, der gider lukke
+\endverse
+
+\beginverse
+ Hey, der ' vist nog't der fejler
+ - ja skæbnen, den er hård.
+ Nu jamrer din compiler 
+ Hvordan syn's du selv, det går?
+\endverse
+
+\beginverse
+ Tror du selv, at det gør gavn
+(at) mangle ``struct i typenavn''
+ Baby, så‘ det  END OF FILE, ja
+ Baby jeg er typestærk
+Går for det meste ret berserk
+ Jeg er Nazi, så Sieg Heil, yeah
+\endverse
+
+\beginverse
+ Så baby, fat det -jeg si’r nej!
+Peg din peger (en) anden vej
+ Hva’ sku jeg med såd’n en sinke?
+Jeg er sur, får overflow.
+Null er alt, hvad du kan få
+ Så fat det, skat
+ vi bli’r sgu’ aldrig linket
+\endverse
+
+\beginverse
+ Hey, der ' vist nog't der fejler
+ - ja skæbnen, den er hård.
+ Nu jamrer din com...
+ ... piler 
+Hvordan syn's du selv, det går?
+\endverse
+
+
+
+\beginverse
+ Hey, der ' vist nog't der fejler
+ - ja skæbnen, den er hård.
+ Nu jamrer din com...
+ ... piler 
+Hvordan syn's du selv, det går?
+\endverse
+
+
+\endsong

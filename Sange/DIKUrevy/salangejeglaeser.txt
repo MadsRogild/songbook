@@ -1,0 +1,69 @@
+\beginsong{Så længe jeg læser}[sr={Melodi:John Mogensen: Så længe jeg lever}, by={DIKUrevy 1992}]
+\beginverse
+Så længe jeg læser,
+så længe mit password dur,
+så længe vil jeg kør' på dig.
+For du er en rigtig VAX,
+af den allerbedste slags,
+derfor --- kører jeg på dig.
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+De siger, du kører andre jobs,
+-- at du ikke har ret mange megaflops.
+Det tager en times tid, når jeg vil logge på,
+men pyt, min skat, jeg snupper mig en blå.
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+Så længe jeg læser...
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+Min første konto var på dig.
+Nummer 82, det' klart, det husker jeg.
+Du havde 16 megabyte, det var en masse RAM,
+nu lukker de dig, og det er en skam.
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+Så længe jeg læser...
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+Nu kan jeg logge ind på fler',
+både microvax, og så de nye HP'er.
+Men at nøjes kun med dem, det kan de aldrig få mig til,
+for du, min skat, du har de bedste spil.
+\endverse
+
+\beginverse
+\bigskip
+\endverse
+
+\beginverse
+Så længe jeg læser...
+\endverse
+
+
+\endsong

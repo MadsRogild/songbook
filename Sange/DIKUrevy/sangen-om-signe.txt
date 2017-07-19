@@ -1,0 +1,117 @@
+\beginsong{Sangen om Signe}[sr={Melodi:Barry Manilow: ``Copa Cabana''}, by={DIKUrevy 2016}]
+
+
+\beginverse
+        Hun hedder Signe
+        fandt hende på Tinder
+        Vi swipede begge samme vej
+        og nu skal hun ud med mig
+\endverse
+
+
+\beginverse
+        Vi skal i byen
+        ja, ud at spise
+        Tjeneren han stod ganske klar 
+        spurg't sku' vi ha' drikkevar'?
+\endverse
+
+
+
+\beginverse
+        Men valget det var gjor'
+        Tvivler ej, ikke spor
+        For når jeg skal slukke tørsten
+        (Er) der' kun ét der dur!
+\endverse
+
+
+
+\beginverse
+        Ja en cola (cola)
+        en Coca-Cola (en Coca-Cola)
+        for alt hvad jeg drikker er soda-
+        -vand, en cola (cola)
+        en Coca-Cola
+        Den slukker tørsten når tørsten er størst, den
+        er en cola
+        {\ldots}den var udsolgt{\ldots}
+        
+        (Åh da! Ikke mer' cola{\ldots})
+\endverse
+
+
+
+\beginverse
+        Men hend' der Signe
+        hun er da dejlig
+        tænk dog at hun vil ud med mig
+        hun er da godt nok en steg
+        Og mens jeg nyder
+        synet af Signe
+        Står tjeneren foran mig, fortabt 
+        kigger på mig og får sagt
+        ``Vil du så bar' ha' vand?''
+        ``Nej! Hvad med\ldots Pepsi, mand?'' 
+\endverse
+
+
+
+\beginverse
+        Det er ikke en Coca-Cola
+        Men den kan gå an!
+\endverse
+
+
+\beginverse
+        Ja en cola (cola)
+        en Pepsi Cola (en Pepsi Cola)
+        for alt hvad jeg drikker er soda-
+        -vand, en cola (cola)
+        en Pepsi Cola
+        Den slukker tørsten når tørsten er størst, den
+        er en cola
+        {\ldots}den var udsolgt{\ldots}
+        (Åh da! Ikke mer' cola{\ldots})
+        (Åh da! Ikke mer' cola{\ldots})
+\endverse
+
+\beginverse
+        Nå, men hend' Signe
+        er da charmer'nde
+        ja, hun kan få mig til at grin'
+        og hendes kjole er da fin 
+        Men jeg er ved at
+        være lidt sulten 
+\endverse
+
+\beginverse
+        Hør tjener, kan du sige mar
+        hvornår maden dog er klar?
+\endverse
+
+\beginverse
+        Nu må du slappe af
+        Har spurgt hva' du vil ha'
+        Du kan bare i Netto
+        der har de col-a
+\endverse
+
+\beginverse
+        Ja en cola (cola)
+        en Harboe Cola (en Harboe Cola)
+        for alt hvad jeg drikker er soda-
+        -vand, en cola (cola)
+        en Harboe Cola
+        Den slukker tørsten når tørsten er størst, den
+        er en cola
+        {\ldots}den var ikk' god
+        {\ldots}den var ikk' god
+\endverse
+
+\beginverse
+        {\ldots}den var ikk' gooood
+\endverse
+
+
+\endsong

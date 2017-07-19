@@ -1,0 +1,57 @@
+\beginsong{Det' meget pæner' i ML}[sr={Melodi:``Diggin' on James Brown'' -- Tower of Power}, by={DIKUrevy 1996}]
+\beginverse
+  Når man læser her på DIKU
+            Så lær' man mange sprog
+            Og hvis man vil lære flere
+            Så ka' man køb' en kursusbog
+            Der' et der er det bedste
+            Og Mads har lavet det selv
+            Det' lige meget hvad du koder
+            -- Det' meget pæner' i ML
+\endverse
+
+\beginverse
+ For typer de skal være striks'
+            Ellers dur det nul og niks
+            Brug en højere funktion
+            Til din liste-konstruktion
+            Drop din pointer og skriv {\tt val }
+            -- Det' meget pæner' i ML
+\endverse
+
+\beginverse
+  Det lig' meg't hvad Eric siger
+            Det ska' være funktionelt
+            Og er der ingen penge i det
+            Ja, så må jeg bo i telt
+            Jeg fortæller gerne om det
+            Båd' på news og Diatel
+            For alle har fortjent at vid' det
+            -- Det' meget pæner' i ML
+\endverse
+
+\beginverse
+  Jeg har prøvet C og ++
+            Og jeg har kodet Emerald
+            Pascal og Lisp og Miranda
+            Men det' bare noget skrald
+            Fordi der mangler jo noget
+            De andre sprog slår ikke til
+            Typer, filer, konstruktører
+            -- Det' meget pæner' i ML
+\endverse
+
+\beginverse
+ Køb lidt mere RAM
+            Mere power, mere disk
+            Brug resurser, kod lidt mer'
+            Køretiden den er fæl
+            -- Men det er pæner' i ML
+\endverse
+
+\beginverse
+ -- Det meget pæner' i ML 
+\endverse
+
+
+\endsong

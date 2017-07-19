@@ -1,0 +1,53 @@
+\beginsong{Rapporten skal skrives i nat}[sr={Melodi:Skibet skal sejle i nat}, by={DIKUrevy 1990}]
+\beginverse
+     Farvel da min tøs,
+              pas godt på dig selv
+              kom giv mig en knuser
+              og ønsk mig lidt held
+              og husk at tiden den går,
+              og at jeg det når
+              rapporten skal skrives i nat 
+\endverse
+
+\beginverse
+     Det tager lang tid,
+              det er ikke nemt
+              vi slider og kæmper
+              for vi havde glemt
+              at var vi mer' forberedt
+              var det ikke sket
+              rapporten skal skrives i nat
+\endverse
+
+\beginverse
+     Maskinen gik ned
+              lige midt i et hop.
+              Så nu må vi vente
+              til den kommer op.
+              Se på programmet igen
+              hvor er fejlen hen'?
+              Programmet skal køre i nat
+\endverse
+
+\beginverse
+     Vi har andre fag,
+              det har vi da haft?
+              Men nu har vi glemt dem!
+              For al vores kraft
+              er blevet brugt på det her,
+              et fandens besvær!
+              Rapporten skal skrives i nat
+\endverse
+
+\beginverse
+     Hov, solen står op!
+              Nu er det forbi
+              hvor er analysen?
+              Midt på side 10
+              vi 4 håber og tror ("og vi to/tre/fem håber og tror")
+              det gør ikke spor
+              rapporten blev skrevet i nat
+\endverse
+
+
+\endsong

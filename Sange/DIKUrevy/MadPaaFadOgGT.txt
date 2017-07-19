@@ -1,0 +1,85 @@
+\beginsong{Mad på fad og GT}[sr={Melodi:Disney - ``Heffalumps And Woozles''}, by={DIKUrevy 2011}]
+\beginverse
+     	En grøn 
+		en guld
+		En tom
+		en fuld
+		En her 
+		en mer 
+		Hvor får han fler?
+		kom nu,
+		en mer 
+		De væk,
+		I ser
+		GT
+		og grøn,
+		kun til besvær
+		pas på pas på pas på pas på pas på
+\endverse
+
+\beginverse
+		For mad på fad og GT
+		Kun en ti'
+		og en ti'
+		Ja det blir dyrt, nu må I på os tro
+		tro 
+		tro
+		tro
+		Se her, hvordan den ene
+		Bli'r to sku vi mene
+		Og pluds'lig er det ikke til at styr
+		styr 
+		styr
+		styr
+		Men selv om de er herlig
+		Så tro os helt ærlig
+		Ta'r du en mere vil du ej bestå
+		stå 
+		stå
+		stå
+		For øllerne er nemme
+		Eksamen du glemme
+		De gyldne dråber gør dig ikke klog
+		en grøn, 
+		en blå,
+		en rød
+		en hvid
+		Du vælter rundt
+		på ingen tid
+		og knuder,  ka' din mave slå
+		Det bobler,
+		og nu må han gå
+		pas på pas på pas på pas på pas på
+\endverse
+
+
+
+\beginverse
+		De er no'et ganske særligt
+		Vi sagde det ærligt
+		Kan I nu hele tiden huske på
+		på
+		på
+		på
+		Hvis øller I vil drikke
+		så glemmer I ikke
+		De kommer hurtigt ind og hurtigt ud
+		En grøn
+		en guld
+		En tom
+		en fuld
+		En her
+		en mer
+		Hvor får han fler?
+		kom nu,
+		en mer
+		De væk,
+		jeg ser
+		GT
+		og grøn,
+		kun til besvær
+		pas på pas på pas på pas på pas på
+\endverse
+
+
+\endsong

@@ -1,0 +1,56 @@
+\beginsong{Jeg går på DIKU}[sr={Melodi:Beautiful South: Rotterdam}, by={DIKUrevy 2003}]
+
+
+\beginverse
+Jeg begyndte her i København, det valg var ikke særlig svært
+jeg startede på DIKU for at få datalogien lært
+og DIKU er et sted hvor jeg er kommet for at bli'
+når folk de spørger hvor jeg er så kan jeg bare si'
+\endverse
+
+\beginverse
+Jeg går på DIKU når jeg ikke er
+på Cafeens bar
+for DIKU vil man aldrig helt
+kunne slippe fra
+kunne slippe fra
+\endverse
+
+\beginverse
+Vor's regering den vil gerne ha' at jeg vil' blive færdig snart
+men jeg gider egentlig ikke for at læse er skam meget rart
+og når jeg prøver er det ikke særlig meg't jeg når
+nu har jeg læst på DIKU i snart femogtyve år
+\endverse
+
+\beginverse
+Jeg går på DIKU når jeg ikke er
+på Cafeens bar
+for DIKU vil man aldrig helt
+kunne slippe fra
+kunne slippe fra
+\endverse
+
+
+
+\beginverse
+På DIKU vil jeg ganske sikkert alle dage bli'
+og når jeg dør så vil jeg på mit dødsleje ku sig'
+\endverse
+
+\beginverse
+Jeg gik på DIKU når jeg ikke var
+på Cafeens bar
+for DIKU var det sted som jeg
+ik' ku' slippe fra
+Jeg gik på DIKU når jeg ikke var
+på Cafeens bar
+for DIKU var det sted som jeg
+ik' ku' slippe fra
+ik' ku' slippe fra
+\endverse
+
+
+
+
+\endsong

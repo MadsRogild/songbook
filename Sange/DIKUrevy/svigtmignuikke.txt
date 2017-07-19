@@ -1,0 +1,40 @@
+\beginsong{Svigt mig nu ikke}[sr={Melodi:High Noon}, by={DIKUrevy 1974}]
+\beginverse
+Svigt mig nu ikke min maskine
+du kære terminal
+Åh svigt mig ikke i min pine
+Vær loyal
+\endverse
+
+\beginverse
+Jeg ved knap nok hvad der vil ske mig
+på denne skæbnetunge dag
+hvis ej du gør som jeg har bedt dig
+Svigt mig nu ikke
+til punkt og prikke
+udført programmet jeg til dig gav
+\endverse
+
+\beginverse
+Nils han har sagt vi skal aflevere
+et indkørt program og meget mere
+tænk bare hvad der kan gå galt
+før klokken tolv
+\endverse
+
+\beginverse
+Bare ikke printeren brækker sin kæde
+mon operatøren nu er til stede?
+Jeg er ikke spor nervøs men åh
+hvad skal jeg gøre hvis du svigter?
+\endverse
+
+\beginverse
+Svigt mig nu ikke min maskine
+når mine kort skal læses ind
+jeg sætter mig i vor kantine
+ord ej behøves
+når troskab prøves
+nu er du nået til {\tt BEGIN}.
+\endverse
+\endsong

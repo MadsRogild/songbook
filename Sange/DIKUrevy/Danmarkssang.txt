@@ -1,0 +1,54 @@
+\beginsong{DIKU er et sted}[sr={Melodi:Shubidua "Danmarkssangen}, by={DIKUrevy 2004}]
+
+\beginverse
+ Se solen stiger op over HCØs tage
+hvor professorer halser afsted
+mens folk på DIKU kigger undrerne på dem
+og overvejer at tage hjem
+\endverse
+
+\beginverse
+DIKU er hvor
+vi huserer
+det er her hvor
+Stig regerer
+DIKU er der noget ved
+DIKUs hus der
+danner rammen
+det er ved at
+falde sammen
+DIKU er et gammelt sted
+\endverse
+
+\beginverse
+ Der findes andre studier end dem her på DIKU
+læse man dem får man aldrig job
+for dataloger er det ik' svært at få, men
+så bli'r specialet syltet igen
+\endverse
+
+\beginverse
+ DIKU er hvor
+vi huserer
+det er her hvor
+Stig regerer
+DIKU er der noget ved
+DIKU's hus der
+danner rammen
+det er ved at
+falde sammen
+DIKU er et gammelt sted
+\endverse
+
+\beginverse
+ DIKU er hvor
+vi huserer
+piger'ne burde
+være flere
+DIKU har sin egen 
+underligt sære
+terminalrumsatmosfære
+DIKU er et mærklig't sted.
+\endverse
+
+\endsong

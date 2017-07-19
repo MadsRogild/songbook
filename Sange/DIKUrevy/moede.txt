@@ -1,0 +1,35 @@
+\beginsong{Mødesang}[sr={Melodi:``Are you lonesome tonight''}, by={DIKUrevy 1987}]
+\beginverse
+%
+Stårter møderne snart?
+Ta'r debatterne fart?
+Jeg skal vel næppe vær' på min pind?
+Det er svært at si' fra,
+jeg er fast inventar
+ved hvert møde og vil gerne ind.
+Åh jeg elsker at se, når de lytter til mig
+og at tromle de tåber, der krydser min vej.
+For de svage må hjem,
+kun de stærke går frem,
+sig mig skat, er der møde i nat?
+\endverse
+
+\beginverse
+Starter møderne snart?
+Ta'r debatterne fart?
+Er der nogen principper til salg?
+jeg har dagsordnen med
+til lokale fordelingsudvalg.
+Insitutråd, bestyr'lse -- ka' jeg få en plads?
+bli'r jeg fri for studenter, så er jeg tilfreds.
+Hvem skal ta' referat?
+Jeg vil godt -- jeg er parat!
+Hvis der bare er møde i nat.
+\endverse
+
+\beginverse
+Jeg vil skide på alt --
+Møder er livets salt,
+Sig mig Stig, starter møderne snart?
+\endverse
+\endsong

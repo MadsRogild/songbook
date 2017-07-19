@@ -1,0 +1,105 @@
+\beginsong{Den ta'r vi også med}[sr={Melodi:Christian Arhof: ``Den ta'r vi også med''}, by={DIKUrevy 1983}]
+\beginverse
+     DIKU's lokaler er blevet for små,
+              vi er for mange, så i kan nok forstå,
+              at vi må flytte og det meget snart,
+              så det her skal flyttes i en fart.
+\endverse
+
+\beginverse
+     Nu har vi samlet det hele og stuvet det bedste ned
+              Det ta'r vi også med, det ta'r vi også med.
+              Resten af lortet la' vi bare bli'
+              når vi flytter over til MAI.
+\endverse
+
+\beginverse
+     Her er en lejlighed til at begynde igen,
+              få startet på ny, der hvor vi nu flytter hen.
+\endverse
+
+\beginverse
+     De gamle slagsmål i nævn og råd og I ved besked
+              Dem ta'r vi ikke med, dem ta'r vi ikke med.
+              Nu er det slut med papirnusseri,
+              når vi flytter over til MAI.
+\endverse
+
+\beginverse
+     Recksu's maskiner bli'r efterladt her,
+              skriver og skærme kan ikke bruges mer'.
+              Vi får en linie og klarer os selv
+              ved hjælp af lidt ekstra materiel.
+\endverse
+
+\beginverse
+     Og terminaler med UNIX samt hele dens menighed
+              Dem ta'r vi også med, dem ta'r vi også med.
+              Der skal vær' plads til lidt bitfedteri,
+              når vi flytter over til MAI.
+\endverse
+
+\beginverse
+     Men hvad gør vi så med dat nul, et og to,
+              bare slap af, dem la'r vi køre piccolo.
+\endverse
+
+\beginverse
+     For PDP'erne i kælderen, der kører på renomeet
+              Dem ta'r vi ikke med, dem ta'r vi ikke med.
+              Vi vil ha' tidssvarende maskineri
+              når vi flytter over på MAI.
+\endverse
+
+\beginverse
+     Borde og stole og tavler og kridt,
+              skabe og skuffer og andet skidt.
+              Meget skal huskes når vi skal afsted,
+              noget skal bli' og noget skal med:
+\endverse
+
+\beginverse
+     De bløde stole som passer så godt til vor magelighed.
+              Dem ta'r vi også med, dem ta'r vi også med.
+              Hvor skal vi ellers ha' øldrikkeri
+              når vi flytter over til MAI.
+\endverse
+
+\beginverse
+     Og når vi nu får lokaler en masse
+              kan næsten hver anden student få en siddeplads.
+\endverse
+
+\beginverse
+     De tyve stole som Haarder han gav i sin gavmildhed
+              Dem ta'r vi ikke med, dem ta'r vi ikke med.
+              Den slags metoder kan vi ikke li',
+              når vi flytter over til MAI.
+\endverse
+
+\beginverse
+     Når alle møblerne er pakket ned,
+              skal alt det andet lige med.
+              DIKU er også de mange små ting,
+              som du kan finde rundt omkring:
+\endverse
+
+\beginverse
+     En bakke basser fra ILWO og ti stykker wienerbrød
+              Dem ta'r vi også med, dem ta'r vi også med.
+              Og automaten med øllerne i,
+              den flytter vi over til MAI.
+\endverse
+
+\beginverse
+     Alt det sociale må vi ik' la' dø,
+              travetur, julefrokost, trivsel og miljø.
+\endverse
+
+\beginverse
+     Så ta'r vi hele revyen og alt, hvad der hænger ved
+              Den ta'r vi også med, den ta'r vi også med.
+              Allons enfants... de la patrie
+              nu går vi over til MAI.
+\endverse
+\endsong

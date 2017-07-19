@@ -1,0 +1,198 @@
+\beginsong{Ved du hvad han sagde?}[sr={Melodi:Rollo og King: ``Ved du hvad hun sagde?''}, by={DIKUrevy 2016}]
+\beginverse
+
+Uuuuu-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-uuh-DI-
+\endverse
+
+\beginverse
+KUuuu-u-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-uuh-DI-
+\endverse
+
+\beginverse
+KUuuu-u-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-DI-KU
+\endverse
+
+\beginverse
+
+Jeg begyndt' på DIKU
+Havde lige fået hu'
+Og sku' være datalog
+Havd' kodet lidt i C,
+Og af Java ku' jeg le
+Så jeg tænkte den var god,
+\endverse
+
+\beginverse
+Tog til UP1
+På Torben fik jeg set
+Og jeg syn's sgu han var sød,
+Men blok 1 kom og gik
+For jeg var jo lidt for kvik
+Jeg syn's jeg virked' ret unik
+\endverse
+
+\beginverse
+Alle kurser jeg bestod
+Alle sprog ku' jeg kod'
+Så jeg blev bachelor på
+kun 3 år, jeg var gud
+\endverse
+
+\beginverse
+Men på kandidat-
+-en gik det fuldstændig galt
+Det der Haskell var svært
+Censor psykopat
+\endverse
+
+\beginverse
+For ved du hvad han sagde?
+Han sagde:
+ "Du dumper mit fag"
+ Der røg den kandidat for
+kurset det sku' jeg ta'
+ML det var nemt
+Og lidt algoritmik ikke slemt
+Men både censor og Ken
+Syn's min kode var alt for grim
+\endverse
+
+\beginverse
+Der gik et par dag',
+jeg over-vejed' at klag'
+det var mig der var svag
+Ku' ik' lære det fag
+\endverse
+
+\beginverse
+(Vil) gern' kod' i C
+(Ja) måske selv i VB
+Men nu var det så Prolog
+Min censor vil se
+\endverse
+
+\beginverse
+En tanke til mig kom
+Hvorfor sku' jeg gå om?
+Jeg ku' anke censors dom!
+Jeg forberedt' mig godt
+Og redte håret flot
+Til Kens kontor jeg snart ankom
+\endverse
+
+\beginverse
+Ken (var) ikke glad
+Han sagd'
+ ved du hvad?
+Kom her hen og få en flad
+For du kan hverken indenter'
+det lort du aflevér,
+el(ler) bruge en monad'!
+\endverse
+
+\beginverse
+
+Hos Ken jeg stod for skud
+Og han sagde det ligeud:
+
+Vi ses til re-eksamen
+Hvor jeg tror du dropper ud!
+\endverse
+
+\beginverse
+
+Jeg sku' så gå om
+(Men) da reeksamen kom
+Og jeg foran tavlen stod
+Var mit hoved tomt
+\endverse
+
+\beginverse
+Og ved du hvad han sagde?
+Han sagde:
+ "Du dumper mit fag"
+ Der røg den kandidat for
+kurset det sku' jeg ta'
+ML det var nemt
+Og lidt algoritmik ikke slemt
+Men både censor og Ken
+Syn's min kode var alt for grim
+\endverse
+
+\beginverse
+Jeg droppede DIKU
+Tog ind på ITU
+For Ken han var for hård
+Koded' XML
+Med meget mere held
+Det noget man forstår
+\endverse
+
+\beginverse
+Kurserne jeg tog'
+Gjorde mig ikke klog
+(Til) specialet nåede jeg
+Rapporten den gik nemt
+Men koden den blev glemt
+For ITU det var en leg
+\endverse
+
+\beginverse
+Min vejleder var rar
+Men da jeg sku' forsvar'
+Havde han fundet en censor
+Som ik' var derfra
+\endverse
+
+\beginverse
+(For) ind trådte Ken
+Med en slidt rettepen
+Jeg håbed' han ha'd glemt
+så jeg ku' bestå
+\endverse
+
+\beginverse
+Men ved du hvad han sagde?
+Han sagde:
+ "Du dumper mit fag"
+ Der røg den kandidat for
+kurset det sku' jeg ta'
+ML det var nemt
+Og lidt algoritmik ikke slemt
+Men både censor og Ken
+Syn's min kode var alt for grim
+\endverse
+
+
+
+\beginverse
+
+Uuuuu-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-uuh-DI-
+\endverse
+
+\beginverse
+KUuuu-u-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-uuh-DI-
+\endverse
+
+\beginverse
+KUuuu-u-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-uuh-DI-
+\endverse
+
+\beginverse
+KUuuu-u-u-u-uuuuuuh
+DI-KUuuuh
+Uuh-uuh-DI-KU
+\endverse
+\endsong

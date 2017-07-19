@@ -1,0 +1,47 @@
+\beginsong{Stakkels Piccolo}[sr={Melodi:``Just a Gigalo''}, by={DIKUrevy 1986}]
+\beginverse
+
+Stakkels Piccolo
+Arme Piccolo
+Hvorfor kan jeg ikke græde?
+Hvorfor blev jeg til?
+Ved de hvad de vil?
+De som nu er her til stede.
+Hvad skal man dog tro
+er man gigolo
+drejer det sig kun om penge?
+Eller er jeg et svar
+på de spårgsmål men'sker har?
+Er jeg tekknikens gøgler?
+\endverse
+
+\beginverse
+Store Piccolo
+flotte Piccolo.
+Jeg er universets nøgler.
+Hvis i si'r hvordan
+ved jeg at jeg kan
+løse alle jeres tøjler
+og fordi jeg ved 
+at samvittighed
+er religionens søjler
+si'r jeg Gud ved hvordan
+man skal bruge sin forstand
+han er jo kun en gøgler.
+\endverse
+
+\beginverse
+Men'ske Piccolo?
+Maskine Piccolo?
+Hvor er mon min Piccoline?
+Hvis hun kommer snart
+ku' det være rart
+hvis hun også kunne grine!
+Det ku' være smart
+det er ganske klart
+hvis hun drikker Ballantine
+og hvis hun bli'r for tør
+og altså at hun tør
+så bru'r vi brillantine.
+\endverse
+\endsong

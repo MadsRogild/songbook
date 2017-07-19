@@ -1,0 +1,61 @@
+\beginsong{Ekstranummer}[sr={Melodi:``Kloden drejer''}, by={DIKUrevy 1983}]
+\beginverse
+    
+\endverse
+
+\beginverse
+     Kurt er ikke her,
+              Kurt er gået over der 
+              Kurt han lever 
+              og han er din ven.
+\endverse
+
+\beginverse
+     Og vi har gjort
+              alt hvad vi ku'
+              og i har grint
+              og osse råbt buh
+              og det var fak\-
+              tisk det i sku'
+              så nu går vi
+              til sommerfesten
+\endverse
+
+\beginverse
+     Kurt er ikke her
+              Kurt er gået over der
+              Kurt han lever
+              og han er din ven.
+\endverse
+
+\beginverse
+     Han så det liv
+              vi lever her
+              han prøved' det
+              (og) ret meget mer'
+              og det var sjovt
+              for ham og fler
+              og nu er han
+              til sommerfesten
+\endverse
+
+\beginverse
+     Kurt er ikke her
+              Kurt er gået over der
+              Kurt han lever
+              og han er din ven.
+\endverse
+
+\beginverse
+     Tusind men'sker finder vej
+              festen er for Kurt og dig
+              Kurt og dig
+\endverse
+
+\beginverse
+     Kurt er ikke her
+              Kurt er gået over der
+              Kurt han lever
+              og han er din ven.
+\endverse
+\endsong

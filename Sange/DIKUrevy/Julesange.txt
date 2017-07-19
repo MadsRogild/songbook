@@ -1,0 +1,103 @@
+\beginsong{Julesange}
+[sr={Melodi:Diverse julesange}
+,by={ DIKUrevy 2014}
+]
+
+\beginverse
+Søgetræet med sin kant
+holder sin invariant
+Mindste element jeg fandt
+køretiden er konstant
+Balancerer hob på ny
+Synger om det til revy
+\endverse
+
+
+\beginverse
+Dejlig er den GUI blå
+Nem den er at se derpå
+Hvor de små ikoner blinke
+Hvor de hjemmesider linke
+Os til pornobilleder
+Os til pornobilleder
+\endverse
+
+
+\beginverse
+Dejlig er O(n)
+Prægtig er hul-stri-immel
+Skø-øn er russens IP-gengang
+Gennem det hø-øje
+niveau på DI-IKU
+Gør Pawel studietiden lang
+\endverse
+
+
+\beginverse
+\texttt{open()} blev kaldt i en proces
+En prooooo-cesss
+Dens UID var ej tilpas
+Access denied
+Acceeeeeess deeeeeeniiiied
+Et \texttt{fork()} blev kaldt i min proces
+Min proooooo-cesss
+Min processor er 64-
+biiiiiiiiiiiiiiit
+og sliiiiiiiiiidt
+\endverse
+
+
+\beginverse
+Linux det er grimt, så nu kør’ jeg BSD
+GPL er slemt, skal af med GCC
+(Men) manualen til LLVM er lang
+Fatter ik’ en bjælde, af dette hersens Clang
+\endverse
+
+
+\beginverse
+Bjælde-Clang, bjælde-Clang, jeg forstår det ik'
+Bad den om at oversæt', men glibc er væk
+Bjælde-Clang, bjælde-Clang, Clang er noget gnu,
+Altså ik' fra GNU-projektet, den er blot itu
+\endverse
+
+
+\beginverse
+Jeg drømmer om en kold cola
+Imens jeg koder SML
+Da jeg brugte Windows
+Og tog dot NET jobs
+Var cola’n altid varm og fæl
+Jeg drømmer om en kold cola
+Men automaten den er tom
+Jeg si’r epic failure, ligesom
+da Ballmer laved’ Windows om
+\endverse
+
+
+\beginverse
+Windows crasher nu
+(og) Windows crasher nu
+For Windows crasher hele tiden!
+\endverse
+
+
+\beginverse
+Windows crasher nu
+(og) Windows crasher nu
+For Windows crasher hele tiden!
+\endverse
+
+
+\beginverse
+Nej det ikke sandt, nej det ikke sandt
+For den er allerede slukket
+Nej det ikke sandt, nej det ikke sandt
+For den er allerede slukket
+\endverse
+
+
+
+
+\endsong

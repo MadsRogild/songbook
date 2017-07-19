@@ -1,0 +1,42 @@
+\beginsong{Pirater er sgu' sjovt at vær'}[sr={Melodi:Curse of Monkey Island: ``A Pirate I Was Meant To Be''}, by={DIKUrevy 2009}]
+
+\beginverse
+ Vi er farlige pirater
+ sejl'r genn'm cyberspace.
+ Cracker alle din' programmer
+ Lige i dit interface!
+\endverse
+
+
+\beginverse
+ Vi er jo li' midt i at kopiere vores sang.
+ Vi kan cracke hvert et spil
+ Og måske en DVD
+ Skriver alle vores keygens
+ I assembler eller C
+\endverse
+
+\beginverse
+ Pirater er sgu sjovt at vær'
+ Sejler ud på torrent-færd
+\endverse
+
+\beginverse
+ Vi kæmper for vor sag, lad os starte et parti
+ De sag-søger i flæng
+ Truer os med tomme ord
+ De prøver hårdt med DRM
+ Det hjælper ikke spor
+\endverse
+
+\beginverse
+ Pirater er sgu sjovt at vær'
+ Sejler ud på torrent-færd
+\endverse
+
+\beginverse
+    men da de opdager at G er gået, stopper de mit i omkvædet og
+    musikken går også i stå.
+\endverse
+
+\endsong

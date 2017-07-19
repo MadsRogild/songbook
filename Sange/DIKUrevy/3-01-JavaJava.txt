@@ -1,0 +1,58 @@
+\beginsong{Java Java, jeg kan ikke få nok}[sr={Melodi:``Bananer, Bananer'' af Onkel Dum og Bananerne}, by={DIKUrevy 1997}]
+\beginverse
+ Ta' og prøv no'd med bønner, og gør det lidt i java
+ Java Java, jeg kan ikke få nok
+ For java'n på vort DIKU er bedre end du aner
+        Java\ldots
+ Snup en kop java, når du skal trace klatten
+        Java\ldots
+ For med Emerald ta'r en pixel hele natten
+        Java\ldots
+\endverse
+
+\beginverse
+ Og så det en, to, tre, fire fem små applets
+        Java Java\ldots
+        seks syv otte ni ti og elleve små applets
+        Java Java\ldots
+\endverse
+
+\beginverse
+ Mod Emerald hjælper der kun kaffebønner
+Java\ldots
+ Erics argumenter bli'r tynder' og tynder'
+Java\ldots
+ Det er slut nu med konformiteter
+Java\ldots
+ Bytecode fortolker'n fatter ej en meter
+Java\ldots
+\endverse
+
+\beginverse
+Mennesket har altid set ned på dataloger 
+Java\ldots
+Livet har dog lært os, hvad de andre bruger
+Java\ldots
+ Det er da klart, at vil man JIT-kompilere
+Java\ldots
+ Får man med java, hurtigt meget mere
+Java\ldots
+\endverse
+
+\beginverse
+ Og så det en, to, tre\ldots
+\endverse
+
+\beginverse
+Ham der Jul havde mange år på bagen
+Java\ldots
+Før han fandt ud af, (at) små applets det var sagen
+Java\ldots
+Alle dat0'er har Emerald komplikationer
+Java\ldots
+Smæk java ind i pensum, så der ingen frustrationer
+Java\ldots
+\endverse
+
+
+\endsong

@@ -1,0 +1,144 @@
+\beginsong{Sprogforbistring}[sr={Melodi:?: ``I say tomatoes...''}, by={DIKUrevy 1979}]
+\beginverse
+ I say array
+ Hva' gir du et sæt?
+\endverse
+
+\beginverse
+ I say assembler 
+ og jeg sir symbolsk maskinsprogsoversætter
+\endverse
+
+\beginverse
+ array
+ Et sæt!
+\endverse
+
+\beginverse
+ assembler
+ symb. mask.s.o.
+\endverse
+
+\beginverse
+ Let's call the whole thing off.
+\endverse
+
+\beginverse
+ I say to edit
+ og jeg sir at redigere
+\endverse
+
+\beginverse
+ I say to bootstrap
+ og jeg sir grundsystemgenerere.
+\endverse
+
+\beginverse
+ edit
+ redigere
+\endverse
+
+\beginverse
+ bootstrap
+ grundsystemgenerere
+\endverse
+
+\beginverse
+ La' os kalde det hele A 38
+\endverse
+
+\beginverse
+ Here comes an interlude - a mean time to repair
+ Hva'
+\endverse
+
+\beginverse
+ Mean time to repair
+ Agurketid, sir vi her.
+\endverse
+
+\beginverse
+ I say a form feed
+ og jeg siger fodform
+ I say to back space
+ og jeg sir tobaksrum
+ form feed
+ formfod
+ to back space
+ tobaksrum
+ Then you can smoke and rise.
+\endverse
+
+\beginverse
+ I say computer
+ og jeg sir kompuder
+ I say appendix
+ og jeg siger blindtarm.
+ prefix
+ suffix
+ appendix
+ blindtarm
+ sproget er blevet betændt.
+\endverse
+
+\beginverse
+ Kender du så den længste term?
+ Oh, no. Which one?
+ E4 går fra Leningrad til Lissabon
+\endverse
+
+\beginverse
+ I say a flow chart
+  Det bruger vi ikke her!
+ I say goto
+ og jeg sir struktureret programmering.
+ flow chart
+ 
+ goto
+  Hell!
+ Let's call the whole thing off ... for a while.
+\endverse
+
+\beginverse
+ Jeg siger broktid
+ and I say machine spoilt work time
+ Jeg siger dødskøn
+ and I say post mortem dump.
+ broktid
+ m.s.w.t.
+ død(s)skøn
+ p.m.d.
+ det er så trist, så trist 
+\endverse
+
+\beginverse
+ You can't place you tape on that, it is a Sailors reel
+
+ Post morten dump er blot et ligsyn på en nekro-fil.
+\endverse
+
+\beginverse
+ I say a line feed
+ den springer vi over
+ I say a hand punch
+ og jeg sir huller med manuel indføring
+ line feed
+  huller med...
+ hand punch
+ ...indføring.
+ Mind the whole hole holds on.
+\endverse
+
+\beginverse
+ I say monitor
+ og jeg sir en ordensduks.
+ I say on line
+ og jeg sir direkte styring.
+ monitor
+ Orden!
+ on line
+ Styring!
+ Let's call the whole thing off-line
+ Let's call the whole thing off.
+\endverse
+\endsong

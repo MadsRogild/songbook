@@ -1,0 +1,98 @@
+\beginsong{Patchen}[sr={Melodi:Nik Kershaw: ``The Riddle''}, by={DIKUrevy 2016}]
+\beginverse
+
+%
+Jeg har et system
+softwaren er tip-top
+hentet fra GitHub
+men der er bare ét problem
+skiftsnittet ku' da godt vær' størr'
+tror jeg spø'r
+\endverse
+
+\beginverse
+%
+I en branch, i et repo
+er en patch blevet gemt
+ikke merget med master
+den er nok blevet glemt
+Kodebasen er blevet
+skrevet om sidenhen
+klasserne som den ændrer
+kan du ikke genkende
+(Du) får aldrig merget den i-(-)gen
+\endverse
+
+\beginverse
+%
+Ej, nu stopper de
+det må da være nemt
+at æn-dre en konstant!
+Jeg ta'r og finder patchen i...
+...åh, den ligger på SourceForge!?
+Hvor gam-mel er den igen?
+\endverse
+
+\beginverse
+Er det ANSI C?
+Makroer, hundred'vis
+der kaldes rekursivt!?
+Men sig mig lig' om jer's projekt...
+Jeg troede det var i F\#
+Please forklar?
+\endverse
+
+\beginverse
+%
+I en branch, i et repo
+er en patch blevet gemt
+ikke merget med master
+den er nok blevet glemt
+Kodebasen er blevet
+skrevet om sidenhen
+klasserne som den ændrer
+kan du ikke genkende
+(Du) får aldrig merget den i-(-)gen
+\endverse
+
+\beginverse
+%
+Efter ugevis
+Har refactor't alting så
+det nu funker
+Så jeg sender dem et pull request
+Men, hvad er det, der er en ny
+(ma)jor release!?
+\endverse
+
+\beginverse
+%
+I en branch, i et repo
+er en patch blevet gemt
+ikke merget med master
+den er nok blevet glemt
+Kodebasen er blevet
+skrevet om sidenhen
+klasserne som den ændrer
+kan du ikke genkende
+(Du) får aldrig merget den...
+\endverse
+
+\beginverse
+I en branch, i et repo
+er en patch blevet gemt
+ikke merget med master
+den er nok blevet glemt
+Kodebasen er blevet
+skrevet om sidenhen
+klasserne som den ændrer
+kan du ikke genkende
+(Du) får aldrig merget den i-(-)gen
+\endverse
+
+\beginverse
+(Du) får aldrig merget den i-(-)gen
+\endverse
+
+
+\endsong

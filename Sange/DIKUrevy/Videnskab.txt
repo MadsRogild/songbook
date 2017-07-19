@@ -1,0 +1,108 @@
+\beginsong{Videnskab}[sr={Melodi:Dolly Parton: ``9 to 5''}, by={DIKUrevy 2010}]
+\beginverse
+
+ Knokler natten lang
+(me') komplexe teorier
+quatanion på homografier
+min hjerne har ik' dimensioner nok
+\endverse
+
+\beginverse
+ Jeg viser Riemann
+og at P=NP
+trods al success
+kør' jeg kun med HT
+Ja, så'n er det når man laver videnskab
+\endverse
+
+\beginverse
+
+ Laver videnskab
+har min' egne teorier
+det' mit resultat
+som eksperterne citerer
+Det' min ambition
+at ku vinde turingspriser
+det' med min logik at
+alle underviser
+\endverse
+
+\beginverse
+ (laver) videnskab
+det vil jeg gøre længe
+har en lille stab
+og vi mangler altid penge
+Det er hårde odds
+men vi kæmper gennem smerten
+Vi ved til sidst da får vi reddet verden
+\endverse
+
+\beginverse
+
+
+ Jeg siger det
+uden arrogance:
+Jeg' æresgæst 
+til enhver konference
+Jeg (er) den der' flest der refererer til
+\endverse
+
+\beginverse
+ Søger man på mig
+får man cites som en gal
+ka' jeg sige mer:
+Jeg er genial!
+Tina Lund ka' gå hjem, 
+nu det mig der bli'r inviter'd
+\endverse
+
+
+
+\beginverse
+ Laver videnskab
+har min' egne teorier
+det' mit resultat
+som eksperterne citerer
+Det' min ambition
+at ku vinde turingspriser
+det' med min logik at
+alle underviser
+\endverse
+
+\beginverse
+ Videnskab, 
+yeah, jeg lever for at forske,
+det er kun en flab
+der vil prøve at brute force det.
+Jeg er intet skår
+(men) Min hjerne er en gave
+og det er en nørd
+alle pigerne vil have
+\endverse
+
+
+
+\beginverse
+ Videnskab,
+har min' egne teorier
+det' mit resultat
+som eksperterne citerer
+Det' min ambition
+at ku vinde turingspriser
+det' med min logik at
+alle underviser
+\endverse
+
+\beginverse
+ Videnskab, 
+yeah, jeg lever for at forske,
+det er kun en flab
+der vil prøve at brute force det.
+Jeg er intet skår
+(men) Min hjerne er en gave
+og det er en nørd
+alle pigerne vil have
+\endverse
+
+
+\endsong

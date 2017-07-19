@@ -1,0 +1,51 @@
+\beginsong{Jeg koder C}[sr={Melodi:When you say nothing at all -- Ronan Keating}, by={DIKUrevy 2000}]
+\beginverse
+ Dengang jeg i morges, sku' læse min post
+Der gik min Verden ned, og det var hård kost
+Jeg sku' på kursus, det sagde min Chef
+Jeg ku' virk'li' ikk' fatte en kæft.
+\endverse
+
+\beginverse
+ Og han sagde:
+\endverse
+
+\beginverse
+ "De ting som du koder er gået af mode
+Det er ikke spor trendy med din gamle kode"
+Men hva' der dog galt, når vi begge to rigtiggodt ve'
+at jeg koder bedst, når det er, jeg koder C.
+\endverse
+
+\beginverse
+ Der' mere prestige i de helt nye ting
+Det kan man bare se, når man ser sig omkring
+Li' meget om, det man laver er slet
+bar' man koder det på internet
+\endverse
+
+\beginverse
+ For i dag skal alt være totalt WEB-designet
+Og min kvalitetskode bli'r nu helt forklejnet
+bar' man kan lidt VB, lidt PERL og lidt ASP.
+Men jeg koder bedst, når det er, jeg koder C.
+\endverse
+
+\beginverse
+ Han koder bedst, når det er, han koder C
+Han koder bedst, når det er, han koder C
+\endverse
+
+\beginverse
+ "For de ting, som jeg koder er gået af mode
+Det er ikke spor trendy med min gamle kode"
+Men hva' skal jeg gør', når jeg nu er den en'ste, der ve'
+at jeg koder bedst, når det er, jeg koder C.
+\endverse
+
+
+
+
+
+
+\endsong

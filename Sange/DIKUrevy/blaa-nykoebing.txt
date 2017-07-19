@@ -1,0 +1,37 @@
+\beginsong{Blå Nykøbing}[sr={Melodi:``Rap jul''}, by={DIKUrevy 1985}]
+\beginverse
+%
+Se kantinen fra en blå's synspunkt
+tror I det hele flasker sig?
+bare af med knappen
+og ned i suppen
+sådan er der no'n der tømmer mig.
+Alle går og får en lille fjer på
+osse i hof og grøn og fad
+selv de lyse de kan gå an
+men går sgu' ikke med vand.
+\endverse
+
+\beginverse
+Uden om mig er der automater
+det hele kører rundt for mig
+der er dejlig kølig'
+og mange øl i
+og vi skal ale samme vej.
+Når jeg hører at en mønt den falder
+tænker jeg ``bar' det ik' er mig''.
+Det' det ikke blevet endnu
+men en dag så sker det vel, uhhh.
+\endverse
+
+\beginverse
+Vi fra Falster er i sær-klasse
+os kan du altid stole på.
+Ikke som de lette
+nej, etikette det har man vel når man er blå.
+de drøner rundt og taber os
+og så tørres vi op med en klud
+jeg ku' aldrig drikke en stud.
+\endverse
+
+\endsong

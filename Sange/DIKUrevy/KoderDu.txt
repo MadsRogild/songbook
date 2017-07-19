@@ -1,0 +1,45 @@
+\beginsong{Koder du}[sr={Melodi:Kai Normann Andersen: ``Glemmer du''}, by={DIKUrevy 2008}]
+\beginverse
+   Koder du. Jeg oversætter bit for bit
+ofte har jeg under fejlsyntaxer lidt
+At programmere er svært min ven
+virker det ikke, så prøv igen
+Husker du de timer der som dug forsvandt
+Husker du de mange lus vi sammen fandt
+Hver en fil og procedure har du kaldt
+koder du, jeg oversætter alt
+\endverse
+
+\beginverse
+   En kodeslaves liv er kort
+at programmere C er hårdt
+Hver en linje kode skal jeg rette til
+Lusene skal findes når
+compileren fejler
+først et lille let program
+'Hej til verden' toner frem
+Men så bli'r det rigtig svært
+oversætter'n ta'r det nært
+og så siger den til mig
+\endverse
+
+\beginverse
+   koder du. Jeg oversætter ord for ord
+   Jeg kan kode...
+   ... Det er noget som du tror
+   At programmere er svært min ven.
+   Det virker ikke
+   Så prøv igen
+   Husker du de timer der som dug forsvandt
+   Husker du de mange lus vi sammen fandt
+   Hver en fil og procedure har jeg/du kaldt
+   Koder jeg/du. Du/Jeg oversætter ...
+   Galt!
+\endverse
+
+
+
+
+
+
+\endsong

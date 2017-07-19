@@ -1,0 +1,76 @@
+\beginsong{Skæg med pegere}[sr={Melodi:Hr. Skæg: ``Skæg med bogstaver''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Kom med, min ven, vi skal lege med C
+Her er en peger, den kalder vi p
+Men lige nu er der garbage i den
+Hvor skal den dog pege hen?
+\endverse
+
+\beginverse
+Vi sætter den, så den nu peger på 'k'
+Den peger gern' på både store og små
+Vi kan jo også pege den på din mor
+Hun er på hoben -- hun er jo ret stor
+\endverse
+
+\beginverse
+Vi ska' ha' skæg med pegere
+Vi peger fingre og så følger vi dem
+Peger' er ikke så slemm'
+\endverse
+
+\beginverse
+Vi ska' ha' skæg med pegere
+Vi hilser gerne, ja på må og på få
+C gør det let at forstå:
+\endverse
+
+\beginverse
+char stjerne p (tekst: '\texttt{char *p}')
+lig malloc tre (tekst: '\texttt{= malloc(3)}') 
+stri'n-copy p (tekst: '\texttt{strncpy(p}')
+kom-ma streng hej og tre (tekst: '\texttt{, "hej", 3)}') 
+put-s af p (tekst: '\texttt{puts(p)}') 
+Hvor er det dejligt!
+Din mor er -- jo på besøg igen!
+\endverse
+
+\beginverse
+Lad os sig' farvel
+stri'n-copy p (tekst: '\texttt{strncpy(p}')
+komma farvel, og den er længde seks (tekst: '\texttt{, "farvel", 6)}')
+put-s af p (tekst: '\texttt{puts(p)}') 
+Nu skal vi huske
+Vi skal altid rydde op igen
+Vi kalder free på p (tekst: '\texttt{free(p)}')
+\endverse
+
+\beginverse
+%
+Ja, det' skægt med pegere
+Vi peger fingre og så følger vi dem
+Peger' er ikke så slemm'
+\endverse
+
+\beginverse
+Vi ska' ha' skæg med pegere
+Derefererer, siger hej til din mor
+Pegeren ved hvor hun bor
+\endverse
+
+\beginverse
+%
+Vi ska' ha' skæg med pegere
+Og når vi' færdig rydder vi op igen
+Peger' er ikke så slemm'
+\endverse
+
+\beginverse
+Vi ska' ha' skæg med pegere
+Vi peger fingre og så følger vi dem
+Peger' er ikke så slemm'
+\endverse
+
+
+\endsong

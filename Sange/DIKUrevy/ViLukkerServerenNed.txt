@@ -1,0 +1,84 @@
+\beginsong{Vi lukker server'n ned}[sr={Melodi:Birthe Kjær ``Vi maler byen rød''}, by={DIKUrevy 2001}]
+
+
+\beginverse
+   Da jeg kom ind på DIKU
+  syns jeg alt var noget skidt
+  For jeg vidste jo ikke,
+  at nørder var et Hit
+  Så jeg blev ramt af lynet
+  da jeg så dig kode C
+  Slip nu din terminal,
+  for nu skal vi lade tingene ske!
+\endverse
+
+\beginverse
+  Omkvæd:
+   Vi lukker server'n ned
+  og logger ud af spillet der.
+  Du vrænger ansigt mens
+  jeg ta'r din slashdot hat.
+  Så smider jeg mit tøj,
+  du tænker "nørj" og piller her,
+  og først når solen
+  si'r godmorgen og ta'r fat,
+  si'r vi godnat! (skat)
+\endverse
+
+\beginverse
+  2. vers:  
+  De briller du har på,
+  er fedtet til og sidder skråt.
+  Din t-shirt der er for laset,
+  (suk) jeg syn's du er så flot!
+  Og du kan meget mere
+  end at kode hvis du vil.
+  Tag og se dig omkring,
+  tag joysticket frem og vis mig dit spil!
+\endverse
+
+\beginverse
+  Omkvæd...
+\endverse
+
+\beginverse
+  C-stykke: 
+  Sidder du stadig herinde,
+  glider hænderne ned.
+  Glæderne fås hos en kvinde,
+  (så) slip den nu og tag med!
+\endverse
+
+\beginverse
+  
+\endverse
+
+\beginverse
+   Slip den nu og tag med!
+\endverse
+
+\beginverse
+  Omkvæd:   
+  Vi lukker server'n ned
+  og logger ud af spillet der.
+  Du vrænger ansigt mens
+  jeg ta'r din slashdot hat.
+  Så smider jeg mit tøj!
+\endverse
+
+\beginverse
+  
+  
+  
+\endverse
+
+\beginverse
+   Så smider jeg mit tøj,
+  du tænker "nørj" og piller her,
+  og først når solen
+  si'r godmorgen og ta'r fat,
+  si'r vi godnat! (du er min skat)
+\endverse
+
+
+\endsong

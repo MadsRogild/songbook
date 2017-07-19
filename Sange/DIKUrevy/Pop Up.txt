@@ -1,0 +1,112 @@
+\beginsong{Pop Up}
+[by={DIKUrevy 2011}
+,sr={Melodi:Michael Jackson - Smooth Criminal}
+]
+
+\beginverse
+Sikkerheden i din Windows,
+Er elendig jeg må stop' dig.
+Må jeg spør' dig, kære bruger:
+Vil du køre, Windows Update?
+Henter mange nye gadgets,
+Installerer disse patches.
+Gem nu dine dokumenter!
+Det for sent du,
+Lukker ned nu!
+\endverse
+
+
+\beginverse
+Bruger, er du sikker?
+Så, bruger skal jeg slette?
+Vil du virk'lig, bruger?
+Bruger vil du forfra?
+Så, bruger måske næste?
+Vil du virk'lig, bruger?
+Bruger vil du stoppe?
+Så, bruger skal jeg lukke?
+Vil du virk'lig, bruger?
+Bruger, vil du update?
+Så, bruger skal jeg genstart?
+Du skal genstart, bruger!
+\endverse
+
+
+\beginverse
+Bruger du skal genstart!
+Jeg har patchet, opdatering, bruger!
+Bruger se, popup-vindue!
+Tag nu stilling
+Tag nu stilling, bruger!
+Det er vigtigt, kom nu bruger!
+Bruger, fejlen du beskuer.
+Gem nu dine dokumenter
+Det for sent du
+Lukker ned nu!
+\endverse
+
+
+\beginverse
+Bruger, er du sikker?
+Så, bruger skal jeg slette?
+Vil du virk'lig, bruger?
+Bruger vil du forfra?
+Så, bruger måske næste?
+Vil du virk'lig, bruger?
+Bruger vil du stoppe?
+Så, bruger skal jeg lukke?
+Vil du virk'lig, bruger?
+Giv mig adgang
+Giv mig adgang
+Til mit filsystem
+\endverse
+
+
+\beginverse
+Aaow!
+\endverse
+
+
+\beginverse
+Tak fordi du var ihærdig,
+Opdatering er nu færdig.
+Licenser skal accepteres
+Et par spørgsmål, processeres
+\endverse
+
+
+\beginverse
+Bruger, må jeg gi' dig?
+Så, bruger må jeg gi' dig?
+Må jeg gi' dig, bruger?
+Bruger, en ny toolbar?
+Så, bruger må jeg gi' dig?
+Flere gadgets, bruger?
+Bruger, gratis download?
+Så, bruger må jeg gi' dig?
+Nyt menupunkt, bruger?
+Bruger, flere widgets?
+Så, bruger må jeg gi' dig?
+Må jeg gi' dig, bruger?
+\endverse
+
+
+\beginverse
+Bruger, jeg er færdig
+Jeg har patchet, opdateret, bruger!
+Se de mang' nye gadgets
+Jeg har plantet
+På dit desktop, bruger
+Du har få't en lækker toolbar
+gratis download, vi er så klar!
+Men hvad er nu det her?
+Hov, hvad sker der?
+Det er virus!
+Bruger, jeg må stoppe
+Så, bruger jeg må lukke
+Jeg må lukke, bruger!
+Det' for sent nu
+Det' for sent nu
+\endverse
+
+\endsong

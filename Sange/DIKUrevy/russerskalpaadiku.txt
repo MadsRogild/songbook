@@ -1,0 +1,114 @@
+\beginsong{Russer skal på DIKU}[sr={Melodi:Kim Larsen: ``Familien skal i skoven''}, by={DIKUrevy 2016}]
+\beginverse
+Det er efterår og russer skal på DIKU
+De er på rustur, meget na-iv-e nu
+De snupper et læs Guld Tuborg og drikker sig ned i hegnet
+Hytten den er våd, russerne de synger
+En pegerpeger, mange de kun nynner
+Vejlederen gi'r alt - hvad han ved - men der' i-ingen der lytter
+\endverse
+
+\beginverse
+ Russerne de tigger om at få (mo)bil igen
+Bubris siger,
+Så snart vi kommer hjem
+\endverse
+
+
+
+\beginverse
+Det har de spurgt om så mange gange før
+og det gør de nok igen
+\endverse
+
+\beginverse
+ Det har de spurgt om så mange gange før
+og det gør de nok igen
+\endverse
+
+
+
+\beginverse
+ Rusturen er væk, først' dag på uni
+For'læsninger, som russerne de sparkes rundt i
+Hvordan skal vi  vid' hvor vor's data den er ud-en reference?
+ Hjemmelavet C, russerne de skråler
+SML det - er - svært, instruktor'ne skåler
+Russen si'r "nu siger uret tolv - 
+lad os gå op til kantinen"
+\endverse
+
+
+
+\beginverse
+ Der er ikke plads (-), eduroam er ned'
+Og nu falder russerne i søvn
+\endverse
+
+\beginverse
+Sådan har det været så mange gange før
+og nu er det det igen
+\endverse
+
+\beginverse
+ Sådan har det været så mange gange før
+og nu er det det igen
+\endverse
+
+
+\beginverse
+ Klokken den er et, ned til øvetime
+Instruktor si'r hej
+ing'n for-trækker en mine
+Instruktoren taler vist om Java, statiske abstrakte klasser
+Sej' algoritmer, tjuhej hvor det sejler
+Bobbel-sor-te-ring-er-ne, de standser og fejler
+ Kan ikk' bevise, (-) nu er jeg sur og faget det I dumper
+ Nå, nå, nå
+\endverse
+
+\beginverse
+ Uuuh!
+\endverse
+
+
+
+\beginverse
+ Woouuh!
+\endverse
+
+\beginverse
+ Det er blevet sent, (rap)porten skal skrives
+De sidder fast i \LaTeX, hvor ingen tri(-)ves
+Ned' i receptionen der står der ikke nogen som kan hjælpe
+Printer i udu, der er ikke papir
+Russerne ligger på der's datamater
+Nu sidder de fast i både abstract og konklusionen
+\endverse
+
+\beginverse
+ Russerne de siger, sikke dog et dejligt fag
+Dem må vi tag nog'n flere af!
+\endverse
+
+\beginverse
+Det har de sagt så mange gange før
+og nu gør de det igen
+\endverse
+
+\beginverse
+ Det har de sagt så mange gange før
+og nu gør de det igen 
+\endverse
+
+\beginverse
+ Det har de sagt så mange gange før
+og nu gør de det igen 
+\endverse
+
+\beginverse
+ Det har de sagt så mange gange før
+Og nu gør de det igen 
+\endverse
+
+\endsong

@@ -1,0 +1,85 @@
+\beginsong{Floskelsangen}[sr={Melodi:``Karbad baby''}, by={DIKUrevy 1983}]
+\beginverse
+     Jeg startede på DIKU
+              for 7 år siden nu
+              her gik jeg så og læste
+              det de sa' at man sku' ku'
+\endverse
+
+\beginverse
+    men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+
+\beginverse
+     Her er for mange mænd
+              maskiner styrer dem
+              de kører bar' derudaf
+              men jeg ved hvor jeg vil hen
+\endverse
+
+\beginverse
+    men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+
+\beginverse
+     De lever rationelt
+              tror det er ideelt
+              men det er helt forkert
+              mit liv er meget mer' reelt
+\endverse
+
+\beginverse
+         men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+
+\beginverse
+     Jeg har min følsomhed
+              den gør mig til lidt ked
+              men det gør ingenting
+              det minder mig om det jeg ved
+\endverse
+
+\beginverse
+         men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+
+\beginverse
+     Se i mit nye liv
+              der er der perspektiv
+              som arbejdsløs så har man
+              nok af tid til ini'tiv
+\endverse
+
+\beginverse
+         men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+
+\beginverse
+     Hvordan kan det så vær'
+              jeg blev så længe her
+              jo, de mænd er som maskiner
+              de vil altid en gang mer'
+\endverse
+
+\beginverse
+         men jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort \emph{uhuhu}
+                        ja jeg er blevet bevidstgjort
+                        så jeg vil ikke være her mer' \emph{dua}
+\endverse
+\endsong

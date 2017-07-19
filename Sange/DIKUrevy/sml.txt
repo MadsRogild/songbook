@@ -1,0 +1,70 @@
+\beginsong{S.M.L}[sr={Melodi:Dr. Bombay: ``S.O.S''}, by={DIKUrevy 2015}]
+\beginverse
+
+  
+  Jeg drog til UP-1
+  det var herre-hammer fedt
+        % Undskyld
+  
+  Jeg havde kodet Python, og det var så let
+  
+  Preben er mit navn
+  Og min makker hedder Vagn
+  
+  Vi skulle have have IP men der blev vi svedt
+\endverse
+
+\beginverse
+  
+  S M L -- instrukto'rn si'r vi dumper
+  S M L -- vi føler os som tumper
+  S M L -- min hjerne går i stumper
+  S M L -- vi bli'r aldrig kandidaaaaaat
+\endverse
+
+\beginverse
+  
+  Jeg kom til Oversætter'
+  Cosmins kode var så flot
+  
+  Men da jeg skulle kode selv
+  gik det ej godt
+  
+  Da instruktor'n så min kode
+  Fik jeg en på sid'n af ho'det
+  
+  For koden den sku' skrives kun i SML
+\endverse
+
+\beginverse
+  
+  S M L -- instrukto'rn si'r vi dumper
+  S M L -- vi føler os som tumper
+  S M L -- min hjerne går i stumper
+  S M L -- vi bli'r aldrig kandidaaaaaat
+\endverse
+
+\beginverse
+  
+  Vi tog kurserne igen
+  
+  Så blev SML vor ven
+  
+  Koden den blev flot
+  og eksamen gik godt
+  
+  Da pengene blev knap
+  tog vi hver instruktorat
+        % Undskyld
+  
+  Så nu det os der råber vredt af russerne
+\endverse
+
+\beginverse
+  
+  S M L -- instrukto'rne si'r I dumper
+  S M L -- I føler jer som tumper
+  S M L -- jer's hjerne går i stumper
+  S M L -- I bli'r aldrig kandidaaaaaat
+\endverse
+\endsong

@@ -1,0 +1,54 @@
+\beginsong{Hvem vil ikke være datalog?}[sr={Melodi:Everybody wants to be a cat}, by={DIKUrevy 2001}]
+\beginverse
+
+Hvem vil ikke være datalog?
+fordi en datalog han ved
+når koden er god
+utroligt hvad man kan brug' algoritmer til
+når der' en DIKU-datalog på spil
+\endverse
+
+\beginverse
+Hver arkitektur, hver en datastruktur
+kendes udenad
+når enhver instruktion bruges til perfektion
+er han rigtig glad
+\endverse
+
+\beginverse
+ rikki tikki tinki
+\endverse
+
+\beginverse
+
+Så hvem vil ikke være datalog?
+for hver en datalog han ved
+en hemmelighed
+det gælder ikke om at blive færdig først
+når bare lønchecken den bliver størst
+\endverse
+
+
+
+\beginverse
+Når vi gi'r den lak på en god gammel Vax
+hvem kan ønske mer'?
+ja lidt slam skal der til, og det bedste vi ved
+det bitfedteri'r
+\endverse
+
+\beginverse
+ rikki tikki tinki
+\endverse
+
+\beginverse
+
+Ja, hvem vil ikke være datalog?
+fordi en datalog han ved
+når koden er god
+alle sku' ha' lov at lave sjove ting
+til vores diku-data-kode swing!
+\endverse
+
+
+\endsong

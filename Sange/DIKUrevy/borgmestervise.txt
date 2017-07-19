@@ -1,0 +1,61 @@
+\beginsong{Borgmestervisen}[sr={Melodi:Skilfinger: ``Borgmestervisen''}, by={DIKUrevy 1981}]
+\beginverse
+Der var en mand på landet
+som var EDB-programmør bl.a.
+at ha' struktur er programmørens fag
+og manden fik en ny hver eneste dag
+han skrev det hele sammen til et "`smukt"' program
+det blev kørt på Recku, jo han kunne sit kram 
+\endverse
+
+\beginverse
+Han prøved' at køre det gang på gang
+men de var mange om maskinen så tiden var lang
+han regned' igennem og tested af
+og så på de ting som programmet ham gav
+ hvor godt hans tal var blevet sammentalt
+og det var jo i grunden ikke så galt
+\endverse
+
+\beginverse
+Javist, således siger han for sig selv
+systemprogrammør blir jeg med lidt held
+jeg vil sidde solidt på databasen
+det blir mig der bestemmer når der åbnes for gassen
+jeg vil føre mig frem li'som Peter Naur
+og alting blir udtrykt i danske termer
+\endverse
+
+\beginverse
+Jeg lukker en abis, ja tænk jer bare
+at fyre typografer det er holdne varer
+skal en virksomhed betale for forældet teknik
+typografer skal væk det almindelig logik
+ledelsen blir glad når jeg sparer dem ud
+jeg blir så populær, du søde gud
+\endverse
+
+\beginverse
+Så blir jeg forfremmet og skifter politik
+til den berømte socioteknik
+extern konsulent blir mit nye job
+hvorved min løn sættes klækkeligt op
+døren står åben til mit kontor
+men jeg retter mig sjældent efter brugerens ord
+\endverse
+
+\beginverse
+Men bedst som det kørte gik maskinen i stå
+strukturer og bit i muddergrøften lå
+med dem den hele lyksagelighed faldt
+som den gamle digter engang har fortalt
+\endverse
+
+
+\beginverse
+Men drømme forgår nu ikke så snart
+selvom de blir dyppet i muddergrøftens pløre
+snart var han ansat i et lektorat
+og nu er han ikke længere bare programmør
+\endverse
+\endsong

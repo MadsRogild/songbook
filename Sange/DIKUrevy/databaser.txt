@@ -1,0 +1,72 @@
+\beginsong{Databaser}[sr={Melodi:``Can't you dance the polka''}, by={DIKUrevy 1977}]
+\beginverse
+%
+Først i semest'ret gik jeg og skulle vælge fag
+og vennerne de sagde straks: ``Hør her hvad du skal ta':
+vælg dog databaser, af mange grunde
+senere ved jobvalg er det det, som du skal kunne.
+\endverse
+
+\beginverse
+Og næste år, du ved nok, er Zahle på dat to
+så det ku' faktisk ikke være mere apropos
+at ta' databaser, det er lutter
+gode ting, som du bør lære før dit studie slutter.''
+\endverse
+
+\beginverse
+Til første time troppede alle talstærkt op
+da Zahle kom og så det var han ved at få en prop:
+``Vælg ej databaser, overflødigt
+når I engang bli'r færdige, er det helt underlødigt.''
+\endverse
+
+\beginverse
+De hundred' skrevne timer blev divider't med to
+de firs personer satte sig dog bare ned at glo:
+``Vi tar databaser, vi kan li' det
+det er et fag med fremtid i, der forskes meget i det.''
+\endverse
+
+\beginverse
+Så blev der dannet grupper á fem personer hver
+at finde sig en mødetid, det voldte stort besvær:
+``Vælg dog databaser, lørdag aften
+vi starter med et festmåltid, tag basser med til kaffen.''
+\endverse
+
+\beginverse
+Det blev lidt sent før Zahle projektarbejdet gav
+men folket var ej skrumpet ind, og hele mængden sa':
+``Lær os databaser, lær os noget
+vi planlagt har vort studium, men kurset er for broget.''
+\endverse
+
+\beginverse
+Først ved semest'rets slutning blev schemaet gjort klart
+og grupperne de ønskede at starte i en fart:
+``Hvor er databasen, er den færdig?
+Vi håber sandelig at den er centergruppen værdig.''
+\endverse
+
+\beginverse
+De femten grupper arbejded' sammen tre og to
+og det umuliggjorde straks at løsningen blev go':
+``Har du databasen, er den inde?
+Nu har jeg prøvet alle elemente jeg ku' finde.''
+\endverse
+
+\beginverse
+Før Zahle aflevered' det færdige produkt
+sa' testgruppen: desværre så er løsningen defekt.
+``Vælg ej databaser, de du'r ikke
+for data findes aldrig der, hvor de reelt sku' ligge.''
+\endverse
+
+\beginverse
+Folk lærte dog en masse om de sociale ting
+og arbejde i grupper med det bare ingenting
+``Vælg kun databaser, for at fejre
+at det sociale sammenvær kan det faglige besejre.''
+\endverse
+\endsong

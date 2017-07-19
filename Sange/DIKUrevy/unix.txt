@@ -1,0 +1,75 @@
+\beginsong{Unix? (titel er et gæt)}[sr={Melodi:Peggy Lee: ``Fever''}, by={DIKUrevy 1982}]
+\beginverse
+   Alle vi på DIKU har fået
+            os en ny og dejlig lækker steg
+            I kan tro hun er lige noget
+            hun si'r kom og leeeg med mig
+\endverse
+
+\beginverse
+   Hun gi'r mig feberrrr, når jeg tænder
+            feber når jeg starter hende op
+            feber, mine hænder brænder
+            feber udi sjæl og krop
+\endverse
+
+\beginverse
+   UNIX det er navnet på dyret
+            hun kan alting det er kort fortalt
+            uh du har det som du har fyret
+            hun bli'r hurtigt dit et og alt
+\endverse
+
+\beginverse
+   Hun gi'r mig feberrrr, køre-syge 
+            feber, dine hænder giver op
+            feber, lisom Thyge 
+            hun over-tar din sjæl og krop
+\endverse
+
+\beginverse
+   Kære børn har maaaange navne
+            DIKUNIX blandt venner bli'r hun kaldt
+            hende vil du aaaldrig savne
+            hun kører i din hjerne overalt
+\endverse
+
+\beginverse
+   Hun gi'r mig feberrrr når hun kører
+            feber selv når huuun går ned
+            feber, vi bli'r skøre
+            hun er vores kærlighed
+\endverse
+
+\beginverse
+   Alle I der sidder derude
+            I kender ikk' en skid til dette her
+            I er bare som en flok stude
+            der tror at jeres liv er noget værd
+\endverse
+
+\beginverse
+   Men vi får feber, når vi taster
+            feber når vi rører hendes krop
+            feber, vi får laster
+            feber vi kan ikke holde op
+\endverse
+
+\beginverse
+   Hvis du sku få lyst til at prøve
+            hende, ja så ska' du bare slå dig løs
+            find en terminal uden at tøve
+            du kan tro hun er en dejlig tøs
+\endverse
+
+\beginverse
+   Hun gi'r dig feberrr, parringsleg
+            feber når du savner no'en
+            feber, hun forstår dig
+            feber som en ladt kanon.
+\endverse
+
+
+
+
+\endsong

@@ -1,0 +1,25 @@
+\beginsong{Lokalnetsang}[sr={Melodi:Dire Straits: ``Money for nothing''}, by={DIKUrevy 1986}]
+\beginverse
+
+Hvad skal vi gøre, det hele flyder
+skal det her være en arbejdsplads ?
+de samme skærme skal kunne bruges
+til RECKU og VAX, vi må ha' linier en masse
+Det er umuligt, det hele flyder
+\endverse
+
+\beginverse
+
+Åh, pjat med dig, man kan hvad man vil
+nu skal du høre, hva' vi kan gøre
+et stort lokalnet er hvad der skal til
+\endverse
+
+\beginverse
+
+Vi installerer bokse og kasser
+forbinder skærme med dit og med dat, hey hey
+vi trækker kabler, så nettet passer
+lokale netværk er sagen, min skat
+\endverse
+\endsong

@@ -1,0 +1,65 @@
+\beginsong{Pigesang}[sr={Melodi:Grease: ``Summernights''}, by={DIKUrevy 1986}]
+\beginverse
+
+Jeg har læst nu i mange år
+det er let nok hvis du forstår
+otte drenge for hver en pi'
+la' dem pukle, mens du holder fri
+studiet -- går ganske let
+for en pige på datalogi
+%
+er det sandt, er det sandt, læser du stadigvæk
+er det sandt, er det sandt, eller driver du gæk
+\endverse
+
+\beginverse
+ RC-tekst har jeg derhjmme
+ Skrive ind, sætter jeg dem te'
+ Mod en pige er jeg social
+%
+Jeg får tit hans terminal
+hver rapport -- går jo som smurt
+ for en pige på datalogi
+%
+er det sandt, er det sandt, er det virk'lig så let
+er det sandt, er det sandt, fandt du ham på dat-i
+\endverse
+
+\beginverse
+ Jeg kan næsten aldrig få kurser
+ Jeg får del i DIKU's ressourcer
+ Med et smil på rette sted
+%
+Går jeg op, mens han går ned
+så et smil klarer en del
+ for en pige på datalogi
+%
+er det sandt, er det sandt, er du kommet så langt
+er det sandt, er det sandt, vi har hørt der er trængt
+\endverse
+
+\beginverse
+ Til en fest danser jeg gerne
+ jeg kan vælge mel'm alle her'ne
+ men jeg får mig oftest lidt røg
+%
+hvis jeg vil -- låne en smøg
+gør jeg så'n , så falder de straks
+ for en pige på datalogi
+ er det sandt, er det sandt, får du aldrig et hvil
+ er det sandt, er det sandt, ta'r du hende med stil
+\endverse
+
+\beginverse
+ Der er altid masser af fyre
+ jeg gi'r vin -- en af de dyre
+ Øller køber jeg aldrig selv
+ dem gi'r jeg -- og håber på held
+ spar SU -- fest på DIKU
+ for en pige på datalogi
+%
+er det sandt, er det sandt, fik du hende med hjem
+er det sandt, er det sandt,
+ jeg er ikke så nem
+\endverse
+\endsong

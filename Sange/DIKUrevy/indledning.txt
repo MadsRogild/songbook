@@ -1,0 +1,55 @@
+\beginsong{Indledning}[sr={Melodi:Strawbs: ``Part of the union''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ God aften, bien venue
+  til 84-revy
+  mes dames, messieurs
+  sig ej adjø
+  vi ønsker jer ``salut''
+  Big Bertel's watching you
+  især her på DIKU
+  men hans falkeblik
+  og rammer ingen nu
+\endverse
+
+\beginverse
+Slå gækken løs, nu starter revyen
+  Vær ej nervøs, nu starter revyen
+  Og kys din tøs/knøs, nu starter revyen
+  Hele natten lang, hele natten lang
+\endverse
+
+
+
+\beginverse
+
+  Vi er alle i samme båd
+  Her er ingen gode råd
+  Men at gå sin vej
+  Og begrave sig
+  Det kan ikke nytte noget
+  Luk blot mange nye ind
+  Vi må dele sol og vind
+  Der er ungefähr
+  Hundred fyrre her
+  Så 120 det er ingenting
+\endverse
+
+
+
+\beginverse
+
+  En professor har sagt stop
+  Det er slut, han holder op
+  Vil du forske - så flyt
+  Vort miljø er dødt
+  Flere andre følger stop
+  Instituttet folkes af
+  Vi har hejst det halve flag
+  Men hvor de gamle faldt
+  Er der ny overalt
+  De vil rejse sig i dag
+\endverse
+
+\endsong

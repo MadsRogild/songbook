@@ -1,0 +1,66 @@
+\beginsong{Skriver på specialet}[sr={Melodi:``Walking by Myself'' af Rogers/Lane (kopi: Gary Moore)}, by={DIKUrevy 1995}]
+\beginverse
+ Jeg går på DIKU
+ her er nu rart
+ men jeg vil ud nu
+ og det, i en fart
+\endverse
+
+\beginverse
+ Skriver, på specialet, mangler bare lidt
+ men det har jeg vist nok sagt så tit
+\endverse
+
+\beginverse
+ Glæder, mig så meget til jeg bliver fri
+ ud af sumpen som jeg hænger i
+\endverse
+
+\beginverse
+ Fritid, uden lektier bare ro og fred
+ holde fri med ren samvittighed
+\endverse
+
+\beginverse
+ Tænk-at, blive her og læse PhD
+ det var dog det værste der ku' ske
+\endverse
+
+\beginverse
+ Jeg går på DIKU
+ her er nu rart
+ men jeg vil ud nu
+ og det skal, vær' SNART
+\endverse
+
+\beginverse
+  Skriver, for specialet skriver ikk' sig-selv
+ (men)det gør renten på min studiegæld
+\endverse
+
+\beginverse
+ SU, har jeg ikke fået i mange år
+ jeg har måtte låne af min mor
+\endverse
+
+\beginverse
+ Jeg går på DIKU
+ her er nu rart
+ men jeg vil ud nu
+ og det, i en fart
+\endverse
+
+\beginverse
+ Glæder, mig så meget til jeg kommer væk
+ jeg skal tjene til mit overtræk
+\endverse
+
+\beginverse
+ Skriver, på specialet, håber jeg består
+ jeg vil bare være færdig
+ jeg vil bare være færdig
+ jeg vil bare være færd-i-år
+\endverse
+
+
+\endsong

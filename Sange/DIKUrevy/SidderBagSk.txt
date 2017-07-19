@@ -1,0 +1,65 @@
+\beginsong{Hvem sidder der bag Skærmen}[sr={Melodi:``Hvem sidder der bag skærmen''}, by={DIKUrevy 1988}]
+
+
+\beginverse
+
+Hvem sidder der bag skærmen
+og taster dagen lang,
+bag femten kopper kaffe
+og synger denne sang?
+Det er såmænd Karl Koder
+Ak intet har han lært
+at skrive go'e rapporter
+er nemlig temlig svært
+\endverse
+
+\beginverse
+
+Han banede for andre
+den vanskelige vej
+Skrev masser af programmer
+``Det er lige noget for mig''
+og resten af rapporten
+den skrev de andre nok.
+Karl dumped til eksamen
+han blev nummer sjok.
+\endverse
+
+\beginverse
+
+At kode i assembler
+kan være ganske flot,
+men i stystemarbejde
+der er det ikk' så godt.
+En stakkels mand fra ``klatten''
+i Lyngby han blev skør
+på grund af databasen
+som Karl fik til at kør'.
+\endverse
+
+\beginverse
+
+- Mikroprogrammering
+det var det rene svir,
+Karl koded' hele natten
+fik aldrig tid til lir.
+Men med lidt tekstbehandling
+så ku' han skrive hex.
+At se programmet køre
+er li'så godt som sex.
+\endverse
+
+\beginverse
+
+Karl Koder gik og syntes
+at livet var lidt surt,
+men så på vandreturen
+fik han et råd af Kurt.
+Nu har han nok en chance
+for det er ganske vist.
+Nu koder Karl kun Unix
+så alt blev godt til sidst.
+\endverse
+
+
+\endsong

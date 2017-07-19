@@ -1,0 +1,36 @@
+\beginsong{Kaptajn DIKU}[sr={Melodi:Theme: ``Might Mouse''}, by={DIKUrevy 2006}]
+\beginverse
+når den hører dette råb...
+"Tyngdekraften er en leg!"
+De ved at Kaptajn DIKU er på vej.
+\endverse
+
+\beginverse
+Hvis du har en enkelt fejl at ret'
+tager Kaptajn DIKU fat
+Hvis han bomber unipark
+så får doktor fysik straks et spark.
+\endverse
+
+\beginverse
+Og selv om der er fare
+er vi ik' bange mer
+for vi ved når der er fare
+er han her!
+er han her!
+i min park!
+på mit net!
+og PCér!
+\endverse
+
+\beginverse
+Og hvis en dag vi mister vores håb
+lytter vi blot til hans råb
+"Tyngdekraften er en leg!"
+Vi ved at Kaptajn DIKU er på vej.
+\endverse
+
+
+
+
+\endsong

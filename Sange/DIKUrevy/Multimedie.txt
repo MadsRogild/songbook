@@ -1,0 +1,58 @@
+\beginsong{Multimedie}[sr={Melodi:Brødrene Bisp ``Voldsom Volvo''}, by={DIKUrevy 2002}]
+
+\beginverse
+  Top tunet keyboard, med Internet-tast
+  Surfer på nettet med lynets hast
+  Netradio streamer
+  Nul koncentration
+  For Mediaplayer viser animation
+\endverse
+
+\beginverse
+  Multimedie
+  Lyd, video og grafik 
+  Multimedie             
+  Hvad er det godt for? Jeg ved det ik'
+\endverse
+
+\beginverse
+  Firewire, en ordentlig bus
+  Men kan den bruges sammen med min mus?
+  Et Gforce-4
+  Fantastisk grafik
+  Til Nibbles under DOS i QBasic
+\endverse
+
+
+
+\beginverse
+  Multimedie
+  Lyd, video og grafik 
+  Multimedie             
+  Hvad er det godt for? Jeg ved det ik'
+\endverse
+
+\beginverse
+  En overclocket og varm CPU
+  to-hundred Watt i strømforbrug
+  Maskinen knokler
+  Det er mit gæt
+  Mens jeg bruger pine over telnet
+\endverse
+
+\beginverse
+  Multimedie
+  Lyd, video og grafik 
+  Multimedie             
+  Hvad er det godt for? Jeg ved det ik'
+\endverse
+
+\beginverse
+  Multimedie
+  Lyd, video og grafik 
+  Multimedie             
+  Hvad er det godt for? Jeg ved det ik'
+\endverse
+
+
+\endsong

@@ -1,0 +1,35 @@
+\beginsong{Og om lidt}[sr={Melodi:Svantes semilykkelige dag}, by={DIKUrevy 1999}]
+
+\beginverse
+ Se jeg har købt ny PC,
+Mange penge sku' der til
+Denher har masser af RAM,
+så jeg skriver kodeslam
+Bill Gates er ikke det værste vi har
+-- og om lidt er windows klar
+\endverse
+
+
+\beginverse
+ En gang der var jeg godt tilfreds
+med commodore 64
+Den started når knappen blev vendt
+og så var vi alle tændt!
+SmartDrive er ikke det værste vi har
+-- og om lidt er windows klar?
+\endverse
+
+\beginverse
+ Jeg skriver nok endnu et vers,
+Microsoft kom lidt på tværs,
+men sangen skal også ha sagt,
+at nu starter andet akt.
+FAT16 er ikke det værste vi har
+Og om lidt er win\ldots
+\endverse
+
+\beginverse
+{\em (Råber)}FUCK! Nu gider jeg ikke mere! Det må sgudda være grunden til at det 
+kommer til at hedde Windows 2000! Anden akt er startet, fat det!
+\endverse
+\endsong

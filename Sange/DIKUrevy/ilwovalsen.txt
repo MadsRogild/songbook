@@ -1,0 +1,32 @@
+\beginsong{Ilwo valsen}[sr={Melodi:Original melodi}, by={DIKUrevy 1975}]
+\beginverse
+(Omkvæd; synges efter hvert vers)
+Dagen begynder i DIKU-land
+først når der kommer en ILWO-mand.
+\endverse
+
+\beginverse
+Timerne tidligt om morg'nen
+er værre end man tror
+man prøver forgæves at tænke
+mens maverne rumler i kor
+Ved indkøb af snitter og basser
+det sikres skal at det passer
+sådan at man morg'nen derpå
+en lille bid brød kan få
+\endverse
+
+\beginverse
+Ole og Peter de springer
+når klokken kvart i ti ringer
+så sidder de bare og titter
+og venter på basser og snitter
+\endverse
+
+\beginverse
+Om morgenen fimperne vinder
+end ikke en knægt sidst man finder
+men kommer der to kasser basser
+så går de på konger i masser.
+\endverse
+\endsong

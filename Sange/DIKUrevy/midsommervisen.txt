@@ -1,0 +1,46 @@
+\beginsong{Midsommervise}[sr={Melodi:Midsommervise}, by={DIKUrevy 1981}]
+\beginverse
+
+Vi elsker vort fag.
+Oh, du Datalogi!
+I dit siliconhjerte klogskabet tegnet.
+Ret som runer i sten
+er en boolsk algebra
+ridset i dig med snørkler så snedigt designet.
+Når disken i takt til mit hjerte vibrerer,
+når tus'ner af tal du så kvikt dividerer:
+Da  bli'r jeg født igen
+som din tro følgesvend,
+der er draget mod dig med en kraft, der er stærk're end viljen.
+\endverse
+
+\beginverse
+
+Vi elsker vort fag
+men ved forårstid mindst
+når panikken med sidste rarport den er højest.
+Når programmet går ned
+uden skygge af grund,
+og når søvnløse nætter gør skrivningen drøjest.
+Ja af og til hader jeg faget forbandet.
+Man skulle måske have valgt noget andet.
+Og bli' men'ske igen,
+slut som tekniker, men
+der er noget, der trækker, jeg bli'r nok et år til på DIKU.
+\endverse
+
+\beginverse
+
+Vi elsker vort fag
+ Hvorfor fa'en sku' vi det?
+ Vi kan frydes ved synet af smart programmering
+ Er du aldrig i tvivl?
+ Næ, min sjæl den er ren
+ Hvad med misbrug, profit, militær, registrering?
+ Men men'sker i nød søger hjælp hos maskinen
+ Måske slår det bak og fordobler blot pinen.
+ Ja, jeg elsker mit fag
+ Jeg står nok af en dag.
+ Men ia aften så bliver vi her, der øl i kantinen.
+\endverse
+\endsong

@@ -1,0 +1,71 @@
+\beginsong{DIKUsjov}[sr={Melodi:Disney: ``Dem allesammen''}, by={DIKUrevy 2013}]
+
+\beginverse
+\textit{Luftens Helte}
+*Dam dam dam dam dam dam dam dam dam*
+\endverse
+
+\beginverse
+Dam dam dam dam dam dam dam dam dam
+Dam dam dam dam dam - det skal trådes!
+Å-i-æ - prøv at kode!
+Å-i-å - uden tråde!
+Med en binær semafor, koster tråde ikke spor!
+\endverse
+
+
+\beginverse
+\textit{Det rent og skær nødvendige}
+Der' intet der bli'r testet her
+Så ved man aldrig hvad der sker
+Hvis det blot kører virker det vel fint
+Beviser er kun til besvær
+Dem kan vi ikke bruge her
+Desuden har jeg kodet alting selv
+\endverse
+
+
+\beginverse
+\textit{Der er ingen bånd der binder mig}
+Der' ingen semaforer her
+Og pointerfejl jeg overser
+Typetjekkes kan jeg ej
+Der' oversætterfejl!
+\endverse
+
+\beginverse
+Push, pop og stak og hob
+Hopper ind og ud af scope
+Head, tail og cons en list'
+Semicolon, linjeskift
+\endverse
+
+
+\beginverse
+\textit{Havet er skønt}
+Revy'rne er ens
+Revy'rne er ens
+Samme melodier
+Samtlige revyer
+Uden essens
+At skrive en sang er faktisk nemt
+Bare skriv på "Havet det er skønt"
+Skrot fantasien
+Start nostalgien
+Revy'rne er ens!
+\endverse
+
+\beginverse
+Ja, vor revyer
+aldrig fornyer
+Revyerne er ens!
+Fysikkens stumper
+Bryster og bomber
+Matematikken
+dræber komikken
+DIKUrevyen
+Skriver os på'en
+Revyerne er ens!
+\endverse
+
+\endsong

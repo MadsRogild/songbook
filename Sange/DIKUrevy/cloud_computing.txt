@@ -1,0 +1,43 @@
+\beginsong{Cloud Computing}[sr={Melodi:Bjarne Liller: ``Knap en bajer op''}, by={DIKUrevy 2015}]
+\beginverse
+Sæt én server op
+Sæt to server' op
+Sæt hellere tre, næ jeg får en idé
+Sæt fire op!
+\endverse
+
+\beginverse
+Stil fem server' op
+Stil seks server' op
+I tror det er lyv, men det kræver nok syv
+Stil otte op
+\endverse
+
+\beginverse
+Læg ni server' op
+Læg ti server' op
+Gør elleve kold, i racket kommer tolv
+Læg tretten op
+\endverse
+
+\beginverse
+Start fjorten op
+Start femten op
+Værs'go at skyl, når (-) bufferen er fyldt
+Start seksten op
+\endverse
+
+\beginverse
+Put sytten op
+Put atten op
+Det kilder i min krop, når en server starter op
+Put nitten op
+\endverse
+
+\beginverse
+Sæt tyve op
+Sæt tyve op
+Vi holder her, vi ka' altid få lidt fler'
+Sæt tyve op
+\endverse
+\endsong

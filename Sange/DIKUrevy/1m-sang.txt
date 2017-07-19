@@ -1,0 +1,63 @@
+\beginsong{Censormanden}[sr={Melodi:``Sårhus'' -- Shubidua}, by={DIKUrevy }]
+\beginverse
+ Det' et sted fuld af X'er \hfill
+               men uden modsatte sex'er.
+               Hundrede unge i angst og i skræk, \hfill
+               der binariserer og HEX'er
+\endverse
+
+\beginverse
+               Her går en struktor og venter \hfill
+               på høje dumpeprocenter, \hfill
+               og glæder sig til at nedsable alt
+               fra de små 1M-studenter! \hfill
+\endverse
+
+\beginverse
+               "Uha, uha! Det var dog den fæleste simulator! \hfill
+               03, 03! Vi ses næste år, see you alligator!" \hfill
+               
+    Så kommer Censor-manden, \hfill
+               han har gedehorn i panden,
+ og de er ikke forlorn', 
+               de der gedehorn, 
+               det' fordi han er Fanden! \hfill
+    Han kan kun tælle til 4, 
+               men som han altid siger,
+ så kan man ik' få kredit, 
+               for det ringe skidt, 
+               det ku' vær' lavet af piger! \hfill
+\endverse
+
+\beginverse
+   Og til de heldige stakler
+               med karakter over 5 \hfill
+               til dem har vi ændret kernen i år,
+               nu' den mindst dobbelt så slem!
+\endverse
+
+
+\beginverse
+   Og sku' du være så heldig
+               at komme til at bestå,
+               har vi en 4-timers skriftlig eksamen \hfill
+               man ku' bruge en uge på!!!!
+\endverse
+
+\beginverse
+    Så kommer Censor-manden,
+               han har gedehorn i panden,
+ og de er ikke forlorn', 
+               de der gedehorn, 
+               det' fordi han er Fanden! \hfill
+    Han kan kun tælle til 4, 
+               men som han altid siger,
+ så kan man ik' få kredit, 
+               for det ringe skidt, 
+               det ku' vær' lavet af piger! \hfill
+\endverse
+
+\beginverse
+{\large\verb|292D FEAC 5F9B 87D DA39 8AB 25CA 4B2|}
+\endverse
+\endsong

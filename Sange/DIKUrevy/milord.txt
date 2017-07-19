@@ -1,0 +1,85 @@
+\beginsong{Milord}[sr={Melodi:?}, by={DIKUrevy 1975}]
+\beginverse
+Det er sgu synd, student.
+Du har talent, student,
+men her hos os, her har vi kriser permanent.
+Vi har en spildprocent,
+som er halvfems omtrent,
+så hvis dit håb er tændt, så bli'r det snart nedbrændt.
+Lyt til et argument:
+Er du intelligent,
+så tag og skrid, for du bli'r aldrig cand.scient.
+\endverse
+
+\beginverse
+(Mellemspil)
+Du står alene her,
+skønt mange går forbi.
+Gå hel're selv forbi.
+Vi lover alle alt,
+men ingenting bli'r holdt.
+Du tror på videnskab,
+du tror, men jeg, jeg ved,
+at videnskab bli'r solgt.
+Søg aldrig lykken her,
+gå hel're hjem igen.
+Gå andre steder hen,
+kom aldrig mer igen.
+\endverse
+
+\beginverse
+Du skal have det present:
+DIKU er ej fuldendt,
+og der sker ting her, som du aldrig før har kendt.
+Jeg er din konsulent,
+og du er sikkert spændt,
+men du bli'r aldrig undervisningsassistent.
+Hvis videnskabsskribent
+du være vil, student,
+med Datalogisk Institut du er ej tjent.
+\endverse
+
+\beginverse
+(Mellemspil)
+Og starter du hos os
+i trods, men dog i håb,
+find først et sted at bo,
+et værelse i byen,
+en fange i et rum.
+Et djævelsk mareridt.
+Fra studiets trummerum
+til aftenens ensomhed.
+Så søger du en ven
+blandt folk, der går og ler,
+men bag de smil, du ser,
+er alting hårdt og koldt.
+\endverse
+
+\beginverse
+Du snart vil få erkendt,
+du bliver ej docent.
+Vi her har lært, at man ej bliver eminent
+DIKUs genikvotient
+er ikke stort bevendt,
+så hvis du vælger os, så bli'r du ej forvænt.
+Ja, vi er insolvent,
+det er da evident,
+for vi har ikke nogen, der er kompetent.
+\endverse
+
+\beginverse
+(Efterspil)
+Sangen er ufuldendt.
+Vi har et regiment
+af rim vi ikke her har anvendt, os bekendt:
+En himmelvendt patient,
+en transcendent klient.
+Potent agent og konkurrent med Pepsodent.
+Lidt excellent cement.
+En indadvendt tangent.
+Betændt, fallent og monument af præsident.
+En korpulent betjent,
+en dekadent regent.
+Retvendt og omvendt og nu er revyen... slut.
+\endverse
+\endsong

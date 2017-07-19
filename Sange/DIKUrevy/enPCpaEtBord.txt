@@ -1,0 +1,74 @@
+\beginsong{En Pc på et bord}[sr={Melodi: To lys på et bord}, by={DIKUrevy }]
+
+
+\beginverse
+ En pc på et bord
+fyldt med 8 bit's ord
+disketten der straks løber fuld
+et pc tastatur 
+men et nyt vækkeur,
+det er det som jeg allerhelst vil.
+\endverse
+
+\beginverse
+ Til dat 0, var du stor
+        mens du stod på mit bord,
+        som jeg sad ved hver eneste nat
+        Til Dat 1 dur du ej,
+        ud til højre med dig,
+        du har været min egen skat
+\endverse
+
+\beginverse
+ En pc på et bord
+fyldt med 16 bit's ord
+og en harddisk der er løbet fuld
+med et stort tastatur 
+og et indbygget ur
+det er det som jeg allerhelst vil.
+\endverse
+
+\beginverse
+ Men hvad gør jeg nu ?
+        du kan slet ikke du'
+        når jeg skal læse på Dat 2.
+        Disken den er fyldt op
+        {\sc ms}-dossen sa' stop
+        Til Dat 1 var du altså god !
+ En pc på et bord
+32-bit's ord
+og den disk fyldt med herlige spil
+tastatur og en mus
+vga, vesa ``bus''
+det er det som jeg allerhelst vil.
+\endverse
+
+\beginverse
+ Igen gik det galt,
+        det har snydt mig totalt!
+        du ku' windows og {\sc os}/2
+        men på 2.~del her
+        er det yt med det der
+        Berkely UNIX  er {\em vores tro}
+\endverse
+
+\beginverse
+ en pc på et bord
+fyldt med 64 bit's ord
+optisk disk på 2 {\sc gb}
+Mikrofron og lydkort
+ViDeO Grabber {\sc board}
+det er det som jeg allerhelst vil.
+\endverse
+
+\beginverse
+ Men til hvad ska jeg brug'?
+        Hele Herligheden nu?
+        Hvor studiet er forbi
+        Et par breve til mor
+        ud på printeren stor
+        er min elskedes alibi
+\endverse
+
+
+\endsong

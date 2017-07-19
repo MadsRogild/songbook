@@ -1,0 +1,55 @@
+\beginsong{Bøf med løg}[sr={Melodi:?}, by={DIKUrevy 1983}]
+\beginverse
+ Det bedste jeg ved er at køre på dig
+          dette er livets mening for mig
+          maskinstuens fronning, husets clou
+          hedeste længsler af mine er du
+          jeg vil ikke forlade dig lige nu
+\endverse
+
+\beginverse
+ oh P
+          P D P
+          endelig to
+          i aft'nens ro
+          oh P
+          PDP
+          sæt i gang
+          natten er lang
+\endverse
+
+\beginverse
+ Når jeg sidder ved din konsol
+          og hører disketten snurre i mol
+          ser på UNIXes ømme ord
+          der ligger i udskrift på mit bord
+          drømmer om din skønne arkitektur
+\endverse
+
+\beginverse
+ oh P
+          PDP
+          aldrig, nej
+          svigter jeg dig
+          oh P
+          PDP
+          kærlighed
+          der varer ved
+\endverse
+
+\beginverse
+ Jeg har hørt de vil skrotte dig
+          vær ikke bange, stol blot på mig
+          Maskin udvalg ordner jeg
+          VAX'ernes spøgelse manes ned
+          så du jeg igen kan få ro og fred
+\endverse
+
+\beginverse
+ Oh P
+          P D P
+          kun os to (VAX)
+          i vort bo (aldrig, nej)
+          oh V (tager jeg dig)
+\endverse
+\endsong

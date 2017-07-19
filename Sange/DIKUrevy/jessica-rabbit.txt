@@ -1,0 +1,25 @@
+\beginsong{Jessica Rabbit}[sr={Melodi:Melodien til "`Jessica Rabbit"' eller hvad fanden den nu hedder}, by={DIKUrevy 1989}]
+\beginverse
+
+Du sidder og spiller hele natten lang
+Hvor har du dog fået denne sære trang
+Gå dog i byen
+Ud i det rigtige liv
+På fing'ren ud!
+Vis nu lit initiv
+\endverse
+
+\beginverse
+Gå med til nogle fester, se hvad der kan ske
+Måske du møder en, der har den samme idé
+Gå dog i byen
+\endverse
+
+\beginverse
+Så glem du alt om mig og min HD-grafik
+Brug hel're natten på lidt ægte erotik
+Gå dog i byen...
+\endverse
+
+
+\endsong

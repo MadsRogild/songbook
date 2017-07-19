@@ -1,0 +1,38 @@
+\beginsong{Hvad skal jeg med DKD?}[sr={Melodi:Look at me, I'm Sandra Dee}, by={DIKUrevy 1995}]
+\beginverse
+     Hvad ska' jeg med D -- K -- D?
+               Nej det kan jeg ikke se
+               Bowling og Barbie og rigtige mænd
+               Sådan er D -- K -- D
+\endverse
+
+\beginverse
+     Marie er mit navn -- det' sandt
+               (Mit) job er studierelevant
+               Kælderens mørke med kodning og blå
+               (Jeg) mit kald i kæld'ren fandt
+               
+[tale] DKD dag og nat
+               Sikke noget pjat
+               Jeg skal kode og pudse mit bat
+               For hvis ikk' jeg' på Uni
+               Hvem skal så lukke konti?
+               Se på {\tt yacc}-okser til jeg bliver mat
+\endverse
+
+\beginverse
+[sang]På caf\' e -- det' meget godt
+               (Men) jeg skal altså spille Mud
+               Embla og Ask -- ja, det ved man hvad er
+               Jeg' ikk' til D -- K -- D
+\endverse
+
+\beginverse
+[tale]    Fyre, fyre -- hold jer væk!
+                         Jeres stolthed får et knæk
+[sang]   Det er da klart -- jeg er ikk' desperat
+[tale]    Ha! Gu' er hun så!
+\endverse
+
+
+\endsong

@@ -1,0 +1,68 @@
+\beginsong{Linux det kører}[sr={Melodi:Money for Nothing -- Dire Straights}, by={DIKUrevy 2000}]
+
+
+\beginverse
+ Hør nu på os nørder, DET er sådan man gør det
+installerer Linux på en PC
+Windows virker ikke, ligemeget hvad man prøver
+Linux det kører, ingen blå skærm at se
+\endverse
+
+\beginverse
+ Ja hør nu på mig, DET er sådan det virker
+Selve kernen er klippestabil
+Måske cracher Netscape eller mailprogrammet
+Men så får de blot en 'kill-minus-9'
+\endverse
+
+\beginverse
+ Du installerer Microsoft Windows
+Skønt det crasher hvert andet øjebli-i-k
+Du tar' en genstart og venter trofast
+Og hører startlyden een gang til
+\endverse
+
+\beginverse
+ Se på den computer, den har kørt i fire måneder
+Jeg lyver ikke: UDEN genstart!
+Din egen Windows den har kørt i fire timer
+og nu crasher dit system vist snart
+\endverse
+
+\beginverse
+ Du installerer Microsoft Windows
+Skønt det crasher hvert andet øjebli-i-k
+Du tar' en genstart og venter trofast
+Og hører startlyden een gang til
+\endverse
+
+\beginverse
+ Du sku' ha' lært, at bruge det der UNIX
+Du sku' ha' lært, at bruge en SHELL
+Hør nu på os  nørder, vi kan alt på en kommandoprompt
+Hmm, du skal vist vist lære det selv
+\endverse
+
+\beginverse
+ ja, du må indse, Linux skal man køre
+Windows, hvad kan man bruge det til?
+Det virker ikke, ligemeget hvad man prøver
+spar dine penge og bliv fri for det
+\endverse
+
+\beginverse
+ Du installerer Microsoft Windows
+Skønt det crasher hvert andet øjebli-i-k
+Du tar' en genstart og venter trofast
+Og hører startlyden een gang til
+\endverse
+
+\beginverse
+ Så hør nu på mig, DET er sådan det virker
+Windows invaliderer din PC
+Det virker ikke, ligemeget hvad man prøver
+Linux det kører, bare prøv at se
+\endverse
+
+
+\endsong

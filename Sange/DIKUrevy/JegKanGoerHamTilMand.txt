@@ -1,0 +1,31 @@
+\beginsong{Jeg kan gør dig til mand!!}[sr={Melodi:I can make you a man}, by={DIKUrevy 1997}]
+
+
+\beginverse
+ En svækling, der magter kun et par gram
+med kikset påklædning er måske for klam
+Hvem tror snavsed' t-shirts er'n nydelig stil
+og en DOS-manual, det gi'r sex-appeal
+Men med ændring li' der 
+og lidt nyt tøj, ka' han blive helt kær
+Så får i se, hvad der sker!
+Han bli'r en stor mand 
+[i hvert fald kan man sige]
+at det tror han
+\endverse
+
+\beginverse
+Han dropper Chipsne og cola'n, spiser grøntsager, gerivital
+og så får han solarium i sin X-terminal.
+Han skal nok får scor't, bare se hva' han kan,
+for på bar' et par da' kan jeg gør' ham til mand!
+\endverse
+
+\beginverse
+Lidt nyt tøj,  gør' ham lækker, helt i stil med Niels Brock
+Han træner som Schwarzenegger, og får pi'rne i chok.
+La' mig ændre hans image, så det virk'li' går an
+for på bar' et par dag', kan jeg gør ham til mand!
+\endverse
+
+\endsong

@@ -1,0 +1,44 @@
+\beginsong{Sang om studietider}[sr={Melodi:``Scarborough Fair''}, by={DIKUrevy 1987}]
+\beginverse
+%
+Hvis du kommer på datalogi,
+PC Mo-torola og Vax
+så hils fra mig til Anne-Mari.
+Hun har gået der i el've år.
+\endverse
+
+\beginverse
+Sig hun skulle ha' droppet sit job,
+PC Mo-torola og Vax
+eller ved tyve timer sagt stop.
+Så ku' det klares på el've år.
+\endverse
+
+\beginverse
+Sig hun skulle ha' holdt sig fast ved
+PC Mo-torola og Vax
+det første bifag hun startede med.
+Så ku' det klares på el've år.
+\endverse
+
+\beginverse
+Sig hun skulle ha' taget ej mer
+PC Mo-torola og Vax
+end tusind mundtlige timer der.
+Så ku' det klares på el've år.
+\endverse
+
+\beginverse
+Sig hun skulle ha' passet på mæ'
+PC Mo-torola og Vax
+sin ambition for projekterne
+Så ku' det klares på el've år.
+\endverse
+
+\beginverse
+Hvis det hænder du får hende set,
+PC Mo-torola og Vax
+så sig til hende at det er sket,
+at det er klaret på el've år.
+\endverse
+\endsong

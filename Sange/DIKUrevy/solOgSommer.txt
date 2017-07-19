@@ -1,0 +1,108 @@
+\beginsong{Sol og sommer}[sr={Melodi:Summer Nights}, by={DIKUrevy 1995}]
+\beginverse
+       Sol og sommer -- på Ama'r Strand
+       Sol og sommer -- hjerter i brand
+       Så en fyr -- wow, tænkte jeg
+       Så en pi' -- li' no'et for mig
+\endverse
+
+\beginverse
+   Sommerdag
+                Går slag i slag
+                Me-en, åh, så'n en sommernat
+\endverse
+
+\beginverse
+     Nåmen, nåmen, nåmen, kom!
+                Sig lidt mer', sig lidt mer'!
+      Har han selv en PC?
+     Sig lidt mer', sig lidt mer'!
+      Har hun d\' et, der skal til?
+\endverse
+
+
+
+\beginverse
+       Jeg tog ``hoppet'' -- styred' det show
+       Hun var ene -- læste en bog
+       Sagde: Hej -- er du mon ``fri''?
+       Smiled' hun? -- (ja), det må jeg si'!
+\endverse
+
+\beginverse
+   Tiden sku'
+                Standse li' nu
+                Me-en, åh, så'n en sommernat
+\endverse
+
+\beginverse
+     Nåmen, nåmen, nåmen, kom!
+                Sig lidt mer', sig lidt mer'!
+      Var det alt, hvad du gjord'?
+     Sig lidt mer', sig lidt mer'!
+      Har du mødt hendes mor?
+\endverse
+
+
+
+\beginverse
+       Jeg var sulten -- han ville gi'
+       Spiste pizza -- d\' et ku' hun li'
+       Gik på ``disk'' -- bød ham en ``Blå''
+       Måneskin -- alt gik i stå
+\endverse
+
+\beginverse
+   Natten gik
+                Morgenen kom
+                Å-åh, ja, sikken sommernat
+\endverse
+
+
+
+\beginverse
+     Sig lidt mer', sig lidt mer'!
+      Var det bedre end C?
+     Sig lidt mer', sig lidt mer'!
+      Hvad sa' moar til det?
+\endverse
+
+
+
+\beginverse
+       Vi sku' mødes -- inde på Strøget
+       Han kom først, og -- nyd'ligt var tøjet
+       Søvnløs nat -- ses vi mon mer'?
+       Gik i Park -- Star Trek gik d\' er
+\endverse
+
+\beginverse
+   Alt for snart
+                Sommeren gik
+                Me-en, åh, så'n en sommernat
+\endverse
+
+
+
+\beginverse
+     Sig lidt mer', sig lidt mer'!
+      Kør' han UNIX og DOS?
+     Sig lidt mer', sig lidt mer'!
+      Hvad med piger til os?
+\endverse
+
+\beginverse
+       DIKU vented' -- jeg stakked' af!
+       Det, der må ske, skete en dag!
+       Nåmen pyt, -- det er forbi!
+       Som man si'r: Venner er vi!
+\endverse
+
+\beginverse
+   Sommerdrøm
+                Nu er det slut
+                Me-en, åh, disse sommernætter
+\endverse
+
+
+\endsong

@@ -1,0 +1,34 @@
+\beginsong{Nogen bruger piller}[sr={Melodi:Shu-Bi-Dua: ``Karbad, baby''}, by={DIKUrevy 1990}]
+\beginverse
+   Nogen bruger piller
+            andre et pessar.
+            Men jeg ved godt, hvad jeg ta'r med,
+            når jeg går på bar:
+                Jeg bruger gummi, baby!
+                Jeg bruger gummi, baby!
+                Jeg bruger gummi, baby,
+            For der er plads til lidt af hvert.
+\endverse
+
+\beginverse
+            En gang var jeg uskyldig,
+            erotisk amatør.
+            Så mødte jeg en aftenstund
+            en elskovs-instruktør.
+                Hun brugte gummi, baby!
+                Hun brugte gummi, baby!
+                Hun brugte gummi, baby,
+            Og hun ku' sand'lig lidt af hvert.
+\endverse
+
+\beginverse
+            Så hvis du går i byen
+            en svedig lørdag nat.
+            Så husk at ta' din sikring med,
+            hvis bøssen, den er ladt.
+                Husk på dit gummi, baby!
+                Husk på dit gummi, baby!
+                Husk på dit gummi, baby,
+            Hvis du er ud' på lidt af hvert.
+\endverse
+\endsong

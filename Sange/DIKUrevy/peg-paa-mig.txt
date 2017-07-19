@@ -1,0 +1,47 @@
+\beginsong{Peg på mig}[sr={Melodi:``Rør ved mig''}, by={DIKUrevy 1991}]
+\beginverse
+%
+Når man er record,
+ka' det godt være svært.
+Her svæver man rundt i universet.
+Jeg mangler en hægte, som kan pege på mig nu,
+åh hjælp mig dog, programmør:
+\endverse
+
+\beginverse
+Peg på mig,
+jeg vil gerne refereres.
+Peg på mig,
+så jeg kan mærke at jeg er til.
+\endverse
+
+\beginverse
+Jer sidder i nævnet,
+og med eet står det klart.
+Der' ingen, der gider høre på mig.
+Jeg blander mig ellers gerne i debatterne,
+nu beder jeg -- for sidste gang:
+\endverse
+
+\beginverse
+Hør på mig,
+jeg vil gerne refereres.
+Hør på mig,
+så jeg kan mærke at jeg er til.
+\endverse
+
+\beginverse
+Når man er forsker,
+ka' det godt være svært.
+Hvordan skal jeg egentlig forklare,
+hvad jeg har bedrevet siden jeg blev ansat her,
+bevillinger -- SKAL jeg ha':
+\endverse
+
+\beginverse
+Læs dog mig,
+jeg vil gerne refereres.
+Læs dog mig,
+så jeg kan mærke at jeg er til.
+\endverse
+\endsong

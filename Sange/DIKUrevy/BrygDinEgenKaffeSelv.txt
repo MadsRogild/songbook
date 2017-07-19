@@ -1,0 +1,33 @@
+\beginsong{Bryg din egen kaffe selv}[sr={Melodi:"Dream a little dream of me"}, by={DIKUrevy 2002}]
+
+
+\beginverse
+  Når DIKU ligger øde
+  er der et sted man altid kan møde
+  de folk som bli'r, når dag går på hæld
+  bryg din egen kaffe selv
+\endverse
+
+\beginverse
+  Der mødes dem man kender
+  opvasken hilser på dig som venner
+  husk blot en ting, der klarer du vel
+  bryg din egen kaffe selv
+\endverse
+
+\beginverse
+  Lad blot fysiker sid' i rummet
+  og drik' sig ihjel
+  nej, DIKUs kantine den summer
+  af liv og sjæl
+\endverse
+
+\beginverse
+  Når studiet er besværligt
+  er det det sted der modtar' dig kærligt
+  med mad og automatmaskinel
+  men bryg din egen kaffe selv
+\endverse
+
+
+\endsong

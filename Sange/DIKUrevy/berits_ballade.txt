@@ -1,0 +1,57 @@
+\beginsong{Berits Ballade}[sr={Melodi:Ukendt}, by={DIKUrevy 1982}]
+\beginverse
+   Dette er historien om en kærlighed til DIKU
+            som blev grundlagt i de første studieår.
+            Rundt på RECKU hele dagen
+            COBOL det var lige sagen
+            træthed, raseri, når de sa' stop
+            DIKU var vor fælles sag
+            studenterne fra alle lag
+            stod sammen for at kæmpe for vort fag
+            I dagligdagens virkelighed
+            med studiet som en mulighed
+            i håb om drømmen bli'r til virkelighed.
+\endverse
+
+\beginverse
+   Dette er historien om en kærlighed til DIKU
+            som slog revner efter et par studieår.
+            Eksamensræs tog overhånd
+            da censor lagde hårde bånd
+            rapportarbejdet blev til tyranni.
+            DIKU var vor fælles sag
+            ordene gav dårlig smag
+            vi kappes om at få en konsulent.
+            Fra dagligdagens rodløshed
+            til studieplanens modløshed
+            i håb om drømmen bli'r til virkelighed.
+\endverse
+
+\beginverse
+   Dette er historien om en kærlighed til DIKU
+            som blev svigtet, da ballonen endelig sprang.
+            Da ideal om sammenhold
+            var ødelagt på alle hold
+            og eneste motiv var præstation.
+            DIKU var vor fælles sag
+            men staten den fik overtag
+            og studieplanerne blev hulet ud.
+            Fra dagligdagens tyranni
+            til studietidens hykleri
+            i håb om drømmen bli'r til virkelighed.
+\endverse
+
+\beginverse
+   Dette er historien om en kærlighed til DIKU
+            som blev dræbt, men som skal bygges op påny.
+            Eliteræsets snæverhed
+            mod fællesskabets rum'lighed
+            bli'r kampen som vi alle må ta' op.
+            DIKU er vor fælles sag
+            studenterne fra alle lag
+            forsamles overalt på 1. sal.
+            I dagligdagens virkelighed
+            med studiet som en mulighed
+            i håb om drømmen bli'r til virkelighed.
+\endverse
+\endsong

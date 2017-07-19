@@ -1,0 +1,68 @@
+\beginsong{Vi koder kernen}[sr={Melodi:Frank Sinatra ``My Way''}, by={DIKUrevy 2002}]
+
+
+\beginverse
+Og nu er tiden nær
+den sidste frist sig hastigt nærmer
+vi sidder alle her
+på stribe med opsmøg'ne ærmer
+Vi taster tegnene ind
+mens koden flyder over skærmen
+og træthed sætter ind
+Vi koder kernen
+\endverse
+
+\beginverse
+Vi spildte meget tid
+med at forstå hvad vi skul' gøre
+vi fatted' ik' en skid
+og måtte vor instruktor spørge
+Han sagde "hør nu her
+I skal jo bare bruge hjernen"
+så hjalp han ikke mer'
+Vi koder kernen
+\endverse
+
+\beginverse
+Så husk at din stak
+den kan bli' stor
+og pas godt på
+din semafor
+Husk at din kode får en prop
+hver gang at uret siger stop
+så går den ned
+som alle ved
+der koder kernen
+\endverse
+
+\beginverse
+Vi nåede det til sidst
+med mange hacks og megen kaffe
+et sekstal er så trist
+så vi vil på Cafeen? daffe
+når flasken den er tom
+da vil GT'en stille fjerne
+enhver erindring om
+at kode kerne
+\endverse
+
+\beginverse
+Nej, aldrig vil vi
+sidde en nat
+hvor hver en alpha
+er besat
+med pergere der ikke du'r
+og det der irriter'ne ur
+nu højt vi ler
+skal aldrig mer'
+kode en kerne
+\endverse
+
+
+
+\beginverse
+Det var vor's kerne
+\endverse
+
+
+\endsong

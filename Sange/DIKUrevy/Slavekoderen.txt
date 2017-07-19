@@ -1,0 +1,82 @@
+\beginsong{Slavekoderen}
+[sr={Melodi:Four Jacks - Mandalay}
+,by={DIKUrevy 2013}
+]
+
+\beginverse
+På et mørkt kontor på Bryggen
+sidder der en datalog
+Han har kodet hele natten
+Han får aldrig, aldrig ro
+For han deadline var i forgårs
+han er tem'lig ramt af stress
+Kom igen, du kodeslave
+for din chef er utilfreds.
+\endverse
+
+
+\beginverse
+Kod, du slavekoder nu
+Arbejd hele natten du
+Sæt dig ned ved datamaten
+Du skal kode lidt endnu.
+For du slavekoder, uh!
+det ' din lod som datalog.
+Du skal sidde på din flade
+til din backend går itu.
+\endverse
+
+
+\beginverse
+På en bænk i Kongens Have
+sidder der en datalog.
+Han er stakkels og forhutlet
+men engang, der var han go'
+Ak, hans job, det røg til Østen
+Da konturerne gik ned
+Kom igen, du kodeslave
+det' der ikk' nog't at gøre ved.
+\endverse
+
+
+\beginverse
+Stakkels kodeslave, nu
+der er ingen jobs mer nu.
+Det er slut med datamaten
+Men du lever her endnu.
+For du slavekoder, uh!
+det ' din lod som datalog.
+Du skal sidde på din flade
+til din backend går itu.
+\endverse
+
+
+\beginverse
+På et mørkt kontor i Østen
+sidder der en datalog
+Der på væggen er et webcam
+Det er her, han nu skal bo
+Han får tjent til dag'n og vejen
+han kan li' det, kan du tro
+Han får end'lig brugt sin backend
+(og) du kan tro, at han er go'
+\endverse
+
+
+\beginverse
+Og den kodeslave, du!
+fester hele natten nu
+Det er slut med stress og kode,
+og han tjener penge nu
+For vor's slavekoderven
+han er end'lig glad igen
+han får sex af en hr. Cheng Weng
+der kan lide hans backend.
+\endverse
+
+
+\beginverse
+(for) Det er nu, den tredje Verden, der kan kode os, min ven
+\endverse
+
+\endsong

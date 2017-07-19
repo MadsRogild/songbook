@@ -1,0 +1,62 @@
+\beginsong{Studerende}[sr={Melodi:Randy Newman: ``Short People''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Studerende - er dovne
+Studerende - er dovne
+Studerende - er dovne fordi
+\endverse
+
+\beginverse
+De dump(er) deres kurser
+spilder tid
+Har studiejobs
+synes det' et slid
+Siger - de er stressed',
+at de bliver syge
+Men så laver de en studenterrevy!
+\endverse
+
+\beginverse
+Så jeg
+Synes vi ska' ha' en
+Synes vi ska' ha' en
+Synes vi ska' ha' en reform!
+\endverse
+
+\beginverse
+ Husk på at du selv engang studerede
+ Jeg husker det ej!
+ Flere og flere bli'r deprimerede
+ De ka' bare droppe ud!
+\endverse
+
+\beginverse
+%
+Studerende - de nasser
+Studerende - de nasser
+Studerende - de nasser på os!
+\endverse
+
+\beginverse
+Nu har de - slet in'et job
+de læser bar'
+de yder ingenting
+næh, alting de tar'
+Får bar' SU
+bruger klip, klip, klip
+Det er derfor
+vi skærer, fyrer VIP, VIP, VIP
+Siger de er så fattige
+ikk' har råd til mad
+Men ta'r på Caféen? og er glade!
+\endverse
+
+\beginverse
+Så jeg
+Synes vi skal skære
+Synes vi skal skære
+Synes vi skal skære SU!
+\endverse
+
+
+\endsong

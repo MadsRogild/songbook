@@ -1,0 +1,78 @@
+\beginsong{Kom tilbage Per Brinch Hansen}[sr={Melodi:Står ikke}, by={DIKUrevy 1987}]
+\beginverse
+Vil I vide noget om kerner
+så 'r det mig som I skal spørg'.
+Jeg ved alt om databaser
+bare ikke hvord'n de kør'.
+\endverse
+
+\beginverse
+Jeg har lige købt PC-en
+Den var dyr, det kan I tro.
+Den kan ike bruges mere
+med ny lærer på dat 2.
+\endverse
+
+\beginverse
+Kom tilbage Per Brinch Hansen.
+Du er savnet kan du tro.
+Det er dig vi står og mangler.
+Kom tilbage til dat 2
+\endverse
+
+\beginverse
+Jeg har lige fulgt dat 1,
+skal ha' dat 2 til næste år
+med min IBM - PC'er
+-- hvordan mon nu det går?
+\endverse
+
+\beginverse
+Edison og Pascal *
+de var in, nu er de yt.
+Nu dur parsergenerator
+YACC og meget andet dyt.
+\endverse
+
+\beginverse
+Fortran, OS ellevehundred
+og MIMER, dot ' forbi,
+LISP, PROLOG og alt det nye
+Ku' her Hansen ikke li'.
+\endverse
+
+\beginverse
+Nu er alle professorer
+men den bedste, det var dig.
+Nyt dat 2 system de bruger
+Pascal * var en leg.
+\endverse
+
+\beginverse
+Teori for programmører
+Hvad er det for noget pjat?
+Skal vi ikke kode mere
+Ja, så bli'r dat 2 for fladt.
+\endverse
+
+\beginverse
+Alle skal nu til at læse
+og slide dagen lang
+mens Brinch Hansen er derude
+Bar' han hører denne sang.
+\endverse
+
+\beginverse
+Og nu er revyen færdig
+Vi ku' ikke finde på mer'
+Syng nu med på sidste omkvæd
+og se så hvad der sker.
+\endverse
+
+\beginverse
+Kom tilbage Per Brinch Hansen
+Kom tilbage til dat 2.
+Kom tilbage Per Brinch Hansen
+Kom tilbage til DIKU.
+\endverse
+\endsong

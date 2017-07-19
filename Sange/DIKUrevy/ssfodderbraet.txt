@@ -1,0 +1,50 @@
+\beginsong{Stewards Instistut}[sr={Melodi:}, by={DIKUrevy 2004}]
+\beginverse
+    
+ Vær velkommen, hver en ny student
+her studeres alt der' int'resant
+vores forskning er i top og vor's studer'ne står i kø
+for vi har både øller og et studiemi-li-ø
+og kan du ikke li' det, ja så får du fanme klø
+velkom'n til Stewarts lille ø
+\endverse
+
+\beginverse
+Vi har piger på en pc-skærm
+drenge letter trykket på der's spe... 
+- vi har vild grafik, der gør quake er det rene vand
+og mange frags beviser at du er en rigtig mand
+for spillets teori det er den en'ste der er sand
+Velkom'n til Stewarts spilleland
+\endverse
+
+\beginverse
+Algoritmer har vi her på fad
+tristlab gør dig lykkelig og glad
+du slipper for et studiejob som vagt på et depot
+vi kræver bare at du ik' gir' op og bli'r pilot
+til gengæld garanterer jeg du ik' bli'r idiot
+Her hersker Stewart som despot
+\endverse
+
+
+
+\beginverse
+Det er ikke bare pjat og leg
+det er kun godt hvis du er lidt sej
+For jobbene er få og konkurrencen den er tæt
+men du skal bare kunne klare mit eksamenssæt
+og før end du har dumpet det så har du aldrig grædt
+velkom'n til Stewarts K-Z
+\endverse
+
+\beginverse
+Går det galt; lad vær' at tude snot
+Studienævnet ka' gør' det hele godt
+Så søg dispenstionen ellers er det hele slut
+Bar' se at kom' igang, du skal ad trappen ned til Ruth
+når den bli'r afvist, ryger du mod muren og bli'r skudt
+velkom'n til Stewarts Institut!
+    
+\endverse
+\endsong

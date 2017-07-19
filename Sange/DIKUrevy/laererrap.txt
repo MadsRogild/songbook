@@ -1,0 +1,46 @@
+\beginsong{Lærerrap}[sr={Melodi:? (generisk rap-beat)}, by={DIKUrevy 1989}]
+\beginverse
+  Lærerne på DIKU er en broget flok
+  allerførst i spidsen går Gregers Koch
+\endverse
+
+\beginverse
+  Valget til studienævnet klarer de nemt
+  lodtrækning sørger for at ingen bli'r glemt
+\endverse
+
+\beginverse
+  Skelboe sætter tonen med næsen i skyen
+  Tucker danser for med pigerne i byen
+\endverse
+
+\beginverse
+  Hasse Clausen skriver bøger for bløde bruger'
+  Torben Ulrik Zahle skriver baser der duer
+\endverse
+
+\beginverse
+  Klaus Grue stilled' opgave; ingen ku' forstå'et
+  Frøkjær han snakker, men siger ikke no'et
+\endverse
+
+\beginverse
+  Netværk er Klaus Hansens ekspertis
+  Gregers Koch holder mest af Gries
+\endverse
+
+\beginverse
+  Troldmanden Jones har semantik som passion
+  PJo blev dekan; han savnes ikke af no'en
+\endverse
+
+\beginverse
+  Kritikeren Naur han er altid på tværs
+  DIKU passer ikke i hans univers
+\endverse
+
+\beginverse
+  Lærerne på DIKU er en broget flok
+  Studenterne på DIKU de har mer' end nok!
+\endverse
+\endsong

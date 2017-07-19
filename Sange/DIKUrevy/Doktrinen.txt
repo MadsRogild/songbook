@@ -1,0 +1,46 @@
+\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
+,
+by={ DIKUrevy 2009}
+,
+cr={}]
+\beginverse
+Alle russer skal lære doktrinen
+man skal kode i Moscow ML
+men de modsætter sig disciplinen
+når de sidder bag skærmene selv
+
+\endverse
+\beginverse
+Og koder i Java, C\# eller Ada
+selv Fortran og Matlab, og HTML
+Foruden lidt Delphi, og Python og Ruby
+og Visual Basic med MySQL
+
+\endverse
+\beginverse
+Som instruktor er ansvaret mit
+russers uvaner skal rettes ind
+de skal ik' tro at valget er frit
+for de lærer jo ikke en pind
+
+\endverse
+\beginverse
+Og koder i Java, C\# eller Ada
+selv Fortran og Matlab, og HTML
+Foruden lidt Delphi, og Python og Ruby
+og Visual Basic med MySQL
+\endverse
+\beginverse
+Efter tolv år er jeg kandidat
+Kapitalen den kalder på mig
+min doktrin havde nul resultat
+for på arbejdet der sidder jeg
+
+\endverse
+\beginverse
+Og koder i Java, C\# eller Ada
+selv Fortran og Matlab, og HTML
+Foruden lidt Delphi, og Python og Ruby
+og Visual Basic med MySQL
+\endverse
+\endsong

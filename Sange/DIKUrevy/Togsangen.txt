@@ -1,0 +1,76 @@
+\beginsong{Jen slide}[sr={Melodi:Tørfisk ``VMTJ (togsangen)'' }, by={DIKUrevy 2002}]
+
+
+\beginverse
+   En gang i mellem så sker det at
+  æ forelæsning lidt vel hurtig går
+  ja når æ mand han ta'r rigtig fat
+  så er'd man æ så møj forstår
+  ({\bf K*} {\it klør sig i håret med højre hånd})
+  så er'd man æ så møj forstår
+  ({\bf K*} {\it klør sig i håret med højre hånd})
+  af havd der foregår
+\endverse
+
+\beginverse
+  [stigende tempo] 
+  ({\bf K2 + K3} {\it lægger slides på og} {\bf K0 + K1} {\it tager slides af.})
+  Jeeeeen slide og to og tre og fir
+  der flyver rundt mej det papir
+  jen hundred' stykker får man nået på jen jenste tim'
+  transparenter er en ting som man ska bruge rigtig mange af før man ka bli'
+  en forelæser her hos os
+\endverse
+
+\beginverse
+  [langsomt igen] At følge med i den rivne fart
+  ja det en kunst der slet ik' er let
+  æ forelæser han tror vel snart
+  at undervise kan man ett
+  ({\bf K*} {\it ryster på hovedet})
+  at undervise kan man ett
+  ({\bf K*} {\it ryster på hovedet})
+  helt ud'n en overhead
+  ({\bf K*} {\it klapper OHP med den hånd der er denne nærmest})
+\endverse
+
+\beginverse
+  [stigende tempo]
+  ({\bf K2 + K3} {\it lægger slides på og} {\bf K0 + K1} {\it tager slides af.})
+  Jeeeeen slide og to og tre og fir
+  der flyver rundt mej det papir
+  jen hundred' stykker får man nået på jen jenste tim'
+  transparenter er en ting som man ska bruge rigtig mange af før man ka bli'
+  en forelæser her hos os
+\endverse
+
+\beginverse
+   En gang imel' går ed rigtig gal
+  så er ed lige til man får'n prop
+  så sidder stille den hele sal
+  og lytter skønt de vil sig stop
+  ({\bf K*} {\it laver STOP-tegn med venstre hånd})
+  og lytter skønt de vil sig stop
+  ({\bf K*} {\it laver STOP-tegn med venstre hånd})
+  på jen der læser op
+\endverse
+
+\beginverse
+  [stigende tempo]
+  ({\bf K2 + K3} {\it lægger slides på og} {\bf K0 + K1} {\it tager slides af.})
+  Jeeeeen slide og to og tre og fir
+  der flyver rundt mej det papir
+  jen hundred' stykker får man nået på jen jenste tim'
+\endverse
+
+
+
+\beginverse
+  transparenter er en ting som man ska bruge rigtig mange af før man ka bli'
+  en forelæser her hos os
+\endverse
+
+\beginverse
+  {\it gentages ad nausium \ldots}
+\endverse
+\endsong

@@ -1,0 +1,175 @@
+\beginsong{root}[sr={Melodi:Boney M: ``Gotta Go Home'', ``Sunny'', ``Daddy Cool'' og ``Rasputin''}, by={DIKUrevy 2013}]
+
+
+\beginverse
+ roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ Når du bruger UNIX
+ (-) Er det \texttt{root}, der styrer alt
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ Det mig som er \texttt{root}
+ UID 0 bliver han kaldt
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ \texttt{tar}' på vores mapper
+Og \texttt{chown}er hver en fil
+Fil fil fil--
+\endverse
+
+\beginverse
+ Sig hva' I vil have
+ Heyeah-ah, kan vi få et smil?
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ UID 0, 0, 0
+UID 0, 0, 0
+UID 0, 0, 0
+UID 0, 0, 0
+UID 0
+\endverse
+
+\beginverse
+(Sang: ``Sunny'')
+\endverse
+
+\beginverse
+ Bruger, kan du logge ud og ind igen?
+Bruger, vil \texttt{kerberos} godkende din klient?
+ Kør' \texttt{finger} på mig, efter jeg logger på
+\texttt{root} han er altid ovenpå
+ \texttt{sudo} er forbudt, giv os \texttt{root}
+\endverse
+
+\beginverse
+ Bruger, hva' sku' du gøre uden (din) \LaTeX{}? (og \texttt{vim} og \texttt{date})
+Bruger, kan du køre \texttt{-j2} på din \texttt{make}?
+ \texttt{root} giver os kun - \texttt{zsh}
+Installér - nu Sims2!
+ \texttt{sudo} er forbudt, \texttt{su} \texttt{root}
+\endverse
+
+\beginverse
+(Sang: ``Daddy Cool'')
+\endverse
+
+\beginverse
+ Hun vil så gern' ha' \texttt{root}
+ Substitute (-) user do
+Jeg vil så gern' ha' \texttt{root}
+Substitute (-) user do
+\endverse
+
+\beginverse
+ Super-user do
+Super-user do
+Super-user do
+Super-user do
+\endverse
+
+\beginverse
+(Sang: ``Rasputin'')
+\endverse
+
+\beginverse
+ramte snart flere og flere af systemets brugere.
+De samlede sig for at tage magten fra ham, ved at udnytte et sikkerhedshul i hans ego.
+\endverse
+
+
+
+\beginverse
+ Hey hey hey hey hey hey hey hey
+ Hey hey hey hey hey hey hey hey
+ Hey hey hey hey hey hey hey hey
+ Hey hey hey hey hey hey hey hey
+\endverse
+
+\beginverse
+ Jeg spurgte \texttt{who} ``hvem der?'', kan ingen bruger' se
+ Vi er logget af, og gør klar til \texttt{scp}
+ Men hov, hvad er nu det I \texttt{scp}er op?
+ Tag det roligt, \texttt{root}, det er intet du bør stopp'
+\endverse
+
+\beginverse
+ Ventede til root han var i fuld hast
+Logged' ind uden om ham
+Kørt' \texttt{gcc} under alias
+Afvikled' vort program
+\endverse
+
+\beginverse
+ \texttt{v}-\texttt{v}-\texttt{vmsplice()}
+Brugte endnu 2.6.20
+Da oppetid var vigtigt for ham
+\texttt{v}-\texttt{v}-\texttt{vmsplice()}
+Rettighed til 777
+Fik filerne igen med det samm'
+\endverse
+
+\beginverse
+ Nu nu er vi \texttt{root}
+Lænkerne er blevet brudt
+Nu er det os, som kør' \texttt{chown}
+Nu nu er vi \texttt{root}
+Magtmisbruget det er slut
+Vi fjerner alting udenfor \texttt{/home}
+\endverse
+
+
+
+\beginverse
+(Reprise: ``Gotta Go Home'')
+\endverse
+
+\beginverse
+ roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+ roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+roo-oo-oo-oo-oo-oo-oo-oo-oo-oo-oot
+\endverse
+
+\beginverse
+(Evt. mere reprise)
+\endverse
+
+\beginverse
+ UID 0
+UID 0
+UID 0
+UID 0
+\endverse
+
+\beginverse
+ UID 0, 0, 0
+UID 0, 0, 0
+UID 0, 0, 0
+UID 0, 0, 0
+UID 0
+\endverse
+
+
+\endsong

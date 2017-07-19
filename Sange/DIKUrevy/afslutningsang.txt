@@ -1,0 +1,64 @@
+\beginsong{Dette var revyen}[sr={Melodi:In The Mood}, by={DIKUrevy 1995}]
+
+
+\beginverse
+ Dette var revyen -- her på {\sc DIKU}
+           Den skal til at slutte, og det gør den så nu
+           Denne sang må vi dog først ha' sunget til ende
+           Men når den er færdig, hvad mon der så vil hænde?
+           Jo, mon ikke vi sku' ta' og finde en fest
+           -- Så kom dog med os op, I ka' jo vær' vor gæst!
+\endverse
+
+\beginverse
+ Revyen den er færdig, nu skal vi op og feste
+           Vi håber, I ku' li' det, vi har gjort vores bedste 
+           Anderledes bli'r det ikke -- bordet har fanget
+           Vi har efter DIKU og alt andet langet
+           Og hvis ikke I har grinet, er der kun eet at sige:
+           -- Vi er nærmest ligeglad,' I har betalt
+\endverse
+
+\beginverse
+ Sommerfest -- Li'som vi plejer
+               Sommerfest -- Vi ta'r bajer'
+               Sommerfest -- Måske os kvajer
+               Vi vil danse hele natten, til det bli'r lyst
+\endverse
+
+\beginverse
+               Sommerfest -- Vi siger ærligt
+               Sommerfest -- Det er nu herligt
+               Sommerfest -- Der' noget særligt
+               Det' sommer, det' ferie, og vi holder fest
+\endverse
+
+\beginverse
+ Vent et øjeblik, der er vist no'n, vi har glemt:
+           Musikken er der også, skønt de sidder lidt klemt.
+           Uden dem, hvad sku' vi så ha' gjort med revyen?
+           Vi kan jo ikke hyre et orkester i byen.
+           Li'så vigtigt er det, at vi har en ``teknik''
+           -- Ud'n musik og teknikere gik det ikk'!
+\endverse
+
+
+
+\beginverse
+ Henriette hun er skredet, så hvad skal vi dog gøre?
+           Om lidt er sangen færdig $\Leftarrow$ I er fulde som ``pløre''
+           I aften har vi set en masse, det var s'gu sjov'
+           Ind i mellem har vi måske været for grov'
+           Poul Kjøller, Timm og Gordon var på besøg
+           -- Dem vil vi la' sejle deres egen sø
+\endverse
+
+\beginverse
+               Sommerfest -- Vi siger ærligt
+               Sommerfest -- Det er nu herligt
+               Sommerfest -- Der' noget særligt
+               Det' sommer, det' ferie, og vi holder fest
+\endverse
+
+
+\endsong

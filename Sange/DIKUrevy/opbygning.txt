@@ -1,0 +1,31 @@
+\beginsong{Universitetets opbygning}[sr={Melodi:``Langt ude i skoven lå et lille hus''}, by={DIKUrevy 1990}]
+\beginverse
+   Langt inde i byen lå et universitet
+            - aldrig så jeg så dejligt et universitet
+            Universitetet ligger langt inde i byen
+\endverse
+
+\beginverse
+   På det lille universitet, der lå et fakultet
+            - aldrig så jeg så dejligt et fakultet
+            Fakultetet på universitetet
+            Universitetet ligger langt inde i byen
+\endverse
+
+\beginverse
+   På det lille fakultet, der lå et central-institut
+            - aldrig så jeg så dejligt et central-institut
+            Central-instituttet på fakultetet 
+            Fakultetet på universitetet
+            Universitetet ligger langt inde i byen
+\endverse
+
+\beginverse
+   På det lille central-institut, der lå et institut 
+            - aldrig så jeg så dejligt et institut
+            Instituttet på central-instituttet 
+            Central-instituttet på fakultetet 
+            Fakultetet på universitetet
+            Universitetet ligger langt inde i byen
+\endverse
+\endsong

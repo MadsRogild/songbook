@@ -1,0 +1,38 @@
+\beginsong{Dengang jeg startede på DIKU}[sr={Melodi:Killing me softly}, by={DIKUrevy 1990}]
+\beginverse
+     Dengang jeg started' på DIKU
+              da var det slet ikke let
+              dengang da tro'de vi, vi ku'
+              klare det hele
+              i FORTRAN
+              skrive rapporter
+              i FORTRAN
+              alting i FORTRAN \ldots fire
+\endverse
+
+\beginverse
+    
+\endverse
+
+\beginverse
+     Jeg snart at ALGOL
+              var DIKUs nye svar
+              skrev mange go' programmer
+              fyldt med kommentar'
+              og så som ny dat2'er
+              så blev jeg end'li' hædret
+\endverse
+
+\beginverse
+     Jeg blev instruktor på DIKU
+              og det var slet ikke let
+              russerne tro'de at de ku'
+              klare det hele
+              i BASIC
+              skrive rapporter
+              i BASIC
+              alting i BASIC
+\endverse
+
+
+\endsong

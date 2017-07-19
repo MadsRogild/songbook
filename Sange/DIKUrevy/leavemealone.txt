@@ -1,0 +1,167 @@
+\beginsong{Leave me alone}[sr={Melodi:Leave me alone -- Michael Jackson}, by={DIKUrevy 1998}]
+
+
+\beginverse
+         Aaow!-Hoo hoo!
+                        Jeg ved ik' hvad I synes om sagen
+                        % I don't care what you talkin' 'bout baby
+                        Vort årtusindproblem
+                        % I don't care what you say
+                        Jeg ved bar' at snart har vi sgu dagen
+                        % Don't you come walkin' beggin' back mama
+                        Dødt er hvert et system                         
+                        % I don't care anyway
+                        Dag eller tid skal rettes til i programmer      
+                        % Time after time I gave you all of my money
+                        Intet går os forbi                              
+                        % No excuses to make
+                        Intet Windue som ikke skal lukkes               
+                        % Ain't no mountain that I can't climb baby
+                        nu hvor verden er vor                          
+                        % All is going my way 
+\endverse
+
+\beginverse
+             Men revyen gik i gang                           
+                        %Cause there's a time when you're right
+                        I har hørt hver en sang                         
+                        %And you know you must fight
+         Husk sommerfesten, husk den nu!                 
+                        %Who's laughing baby, don't you know
+             Og I har nydt vor menu                          
+                        % And there's the choice that we make
+                        I har set vor revy                              
+                        % And this choice you will take
+\endverse
+
+\beginverse
+         Hvem klapper af os?                             
+                        % Who's laughin' baby
+                        Det var DIKU Revy'n, ja,
+                        DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+                        Stop nu!
+                        Vi skal sommerfeste nu                          
+                        % Just stop doggin' me around
+             Vi skal sommerfeste                             
+                        % Just stop doggin' me
+\endverse
+
+\beginverse
+         Der var en tid hvor vi håndkøred' programmer    
+                        % There was a time I used to say girl I need you
+                        Hvem mon tænker på det?                         
+                        % But who is sorry now
+                        Den virklig sved, den der dat2p eksamen         
+                        % You really hurt, you used to take and deceive me
+                        Hvem mon tænker på det?                         
+                        % Now who is sorry now
+                        aaaaaaaaaaaaaaa                                 
+                        % You got a way of making me feel so sorry
+                        bbbbbbbbbbbbbbb                                 
+                        % I found out right away
+                        ccccccccccccccc                                 
+                        % Don't you come walkin'-beggin' I ain't lovin' you
+                        ddddddddddddddd                                 
+                        % Don't you get in my way
+                        Men
+             Revyen gik i gang                               
+                        %Cause there's a time when you're right
+                        I har hørt hver en sang                         
+                        %And you know you must fight
+         Husk sommerfesten, husk den nu!                 
+                        %Who's laughing baby, don't you know
+             Og I har nydt vor menu                          
+                        % And there's the choice that we make
+                        I har set vor revy                              
+                        % And this choice you will take
+\endverse
+
+\beginverse
+         Hvem klapper af os?                             
+                        % Who's laughin' baby
+                        Det var DIKU Revy'n, ja,
+                        DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+                        Stop nu!
+                        Vi skal sommerfeste nu                          
+                        % Just stop doggin' me around
+             Vi skal sommerfeste                             
+                        % Just stop doggin' me
+\endverse
+
+
+
+\beginverse
+             Men revyen gik i gang                           
+                        %Cause there's a time when you're right
+                        I har hørt hver en sang                         
+                        %And you know you must fight
+         Husk sommerfesten, husk den nu!                 
+                        %Who's laughing baby, don't you know
+             Og I har nydt vor menu                          
+                        % And there's the choice that we make
+                        I har set vor revy                              
+                        % And this choice you will take
+\endverse
+
+\beginverse
+         Hvem klapper af os?                             
+                        % Who's laughin' baby
+                        Det var DIKU Revy'n, ja,
+                        DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n
+                        Stop nu!
+     Vi skal sommerfeste nu                          
+                        % Just stop doggin' me
+                        DIKU Revy'n, ja, DIKU Revy'n
+             DIKU Revy'n, DIKU Revy'n
+         DIKU Revy'n, ja,
+             DIKU Revy'n
+                        DIKU Revy'n
+         Stop nu!
+                        Vi skal sommerfeste nu
+             Vi skal sommerfeste
+         Vi skal feste nu                                
+                        %Don't come beggin' me
+                        Vi skal feste                                   
+                        % Don't come beggin'
+                        Vi skal danse nu                                
+                        % Don't come lovin' me
+                        Vi skal feste                                   
+                        % Don't come beggin'
+                        Ja vi skal                                      
+                        % I love you
+                        Vi skal ikke
+                        Vi skal\ldots
+                        Vi skal\ldots
+                        Vi skal\ldots
+                        Vi\ldots{}, Vi\ldots{}, aaow!
+                        Hee hee!
+                        Vi skal feste nu                                
+                        %Don't come beggin' me
+                        Vi skal feste                                   
+                        % Don't come beggin'
+                        Vi skal danse nu                                
+                        % Don't come lovin' me
+                        Vi skal feste                                   
+                        % Don't come beggin'
+                        Ja vi skal                                      
+                        % I love you
+                        Vi skal drikke                                  
+                        % I don't want it
+                        Vi skal ørle                                    
+                        % I don't need it
+\endverse
+
+
+\endsong

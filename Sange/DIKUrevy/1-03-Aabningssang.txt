@@ -1,0 +1,78 @@
+\beginsong{Åbningssang}[sr={Melodi:Arh der -- MC Einar}, by={DIKUrevy 1997}]
+\beginverse
+Revyen er klar
+Og auditoriet er fuldt
+Publikum har drukket
+og stillet der's sult
+Så nu kører det 
+Vi har det, der skal til
+I de næste par timer
+går det helt som vi vil
+\endverse
+
+\beginverse
+Programmet det er fedt
+og den får ikke for lidt
+og vi lover
+at auditoriet bliver hedt
+Men vi vil ikke røbe her
+Hvad der egentlig skal ske
+Så I må bare blive hængende og høre og se
+Måske der Tina Kjær
+Måske er der Arne, I får se
+Hvis ikke at en vagt kommer far'nde
+Men en sød lille sang 
+og en latterlig sketch
+Sku' der nok ku' blive tid til, se nu bare en gang
+li' her!
+\endverse
+
+\beginverse
+Arh der
+Så' der revy her
+Hva' mon der nu sker
+Hvis at der sker mer'
+Det' nu at showet det kører
+For femogtyvende gang
+Det er fedt at vi kan høre
+At I elsker hver en sang
+Arh der!
+\endverse
+
+\beginverse
+Der var en gang hvor revyen
+Endnu ikk' var blevet til
+Men så syntes Peter Jo at noget nyt sku' ske
+Så han laved' en revy
+Og holdt den langt væk fra en by
+Fordi DIKU var for lille, der var slet ikke plads
+Men der var en der had' en gård hvor der ku' være en mass'
+Og det var jo i halvfjerserne så de røg sikkert hash
+Traditoinen den var født og stilen den var lagt
+Selvom publikum er fulde vil de gerne synde med
+Men vi siger
+Vi' til den som ikke ved
+Det ska' vær' på to og fire, ellers spiller bandet ikke med
+Og hvis du tænder en smøg er revyen slut for dig
+Du bli'r smidt ud, døren lukker
+Det går let som en leg -- uden dig!
+\endverse
+
+\beginverse
+Og så kan du gå der og sige til dig selv\ldots
+\endverse
+
+\beginverse
+Arh der
+Nu der revy der
+Hva' mon der nu sker
+Hvis at der sker mer'
+Det' nu at showet det kører
+For femogtyvende gang
+Det er surt at jeg kan høre
+At de elsker hver en sang
+Arh der!
+\endverse
+
+
+\endsong

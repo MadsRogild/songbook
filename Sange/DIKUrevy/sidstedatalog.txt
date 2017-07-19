@@ -1,0 +1,56 @@
+\beginsong{Den sidste datalog}[sr={Melodi:``Det sidste tog er kørt\ldots''}, by={DIKUrevy 1982}]
+\beginverse
+     Det er længe siden, jeg begyndte her
+              dat-1.del gik rimeligt flot.
+              Men det går ikke længer' helt så hurtigt mer',
+              på 2.del går studiet småt.
+              Jeg sku' ha' scoret kurser med hundredvis af timer
+              og skriftlige projekter en masse,
+              men hos lærerne står folk i kø i stimer,
+              og på kurserne er der ikke plads.
+\endverse
+
+\beginverse
+     Den sidste datalog er færdig nu,
+              den sidste datalog er færdig nu.
+              Og det er kun en ringe trøst,
+              at jeg alligevel ikke havde lyst.
+\endverse
+
+\beginverse
+     Datalog sku' jeg være, det var min ide,
+              da jeg kom på dat-0 sidste år.
+              Men de lærere mente, at nu ku' de se,
+              at søgningen var for hård.
+              Så noget sku' der gøres, deres tålmodighed var strukket,
+              vi andre kan nu bare stå og glo,
+              for nu er andendelen lukket,
+              og jeg bli'r aldrig datalog.
+\endverse
+
+\beginverse
+     Den sidste datalog er færdig nu,
+              den sidste datalog er færdig nu.
+              Og det er kun en ringe trøst,
+              at jeg alligevel ikke havde lyst.
+\endverse
+
+\beginverse
+     Når jeg tænker tilbage, var DIKU paradis,
+              som alle kunne trives i.
+              Men miljøet herinde er blevet bare fis,
+              Kantinen en svinesti.
+              Nu er her alt for mange, instituttet exploderer,
+              jeg kender ingen mennesker mer'.
+              Nu rejser alle mine kolleger, så hvorfor dog blive her?
+\endverse
+
+\beginverse
+     Den sidste datalog er færdig nu,
+              den sidste datalog er færdig nu.
+              Og det er kun en ringe trøst,
+              at jeg alligevel ikke havde lyst.
+\endverse
+
+
+\endsong

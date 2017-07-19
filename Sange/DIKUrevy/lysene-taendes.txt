@@ -1,0 +1,53 @@
+\beginsong{Lysene tændes på DIKU}[sr={Melodi:``The Ballad og John and Yoko''}, by={DIKUrevy 1991}]
+\beginverse
+%
+Lysene tændes på DIKU
+Nu går dat-0'erne hjem
+Men jeg blive sid'ne
+Det smerter i led'ne
+Jeg tro'de at kernen var nem
+\endverse
+
+\beginverse
+Ak ja, man lær' jo så meget
+Det kan vær' svært at bestå
+Så'n en kerne er speget
+Hvor var det udskriften lå?
+\endverse
+
+\beginverse
+Kaffen er kold i min kande
+Og vagten siger godnat
+Nok en klump kode
+tager form i mit ho'de
+Og fingrene går som besat
+\endverse
+
+\beginverse
+Ak ja, man lær' jo så meget
+Det kan vær' svært at bestå
+Så'n en kerne er speget
+Hvorfor gik ormen i stå?
+\endverse
+
+\beginverse
+Freja går ned
+men jeg bliver ved
+De andre spiller Moria hele natten
+\endverse
+
+\beginverse
+Lysen slukkes på DIKU
+Og jeg logger ud af min sjæl
+NU kør' vores kerne
+Jeg slukker min hjerne
+Rapporten, den skriver sig selv
+\endverse
+
+\beginverse
+Ak ja, men lær' jo så meget
+Det kan vær' svært at bestå
+Så'n en kerne er speget
+Nu vil jeg have mig en blå!
+\endverse
+\endsong

@@ -1,0 +1,45 @@
+\beginsong{Afslutningssang 1987}[sr={Melodi:Kim Larsen: ``Højere op(??)''}, by={DIKUrevy 1987}]
+\beginverse
+%
+De kloge de siger, at enden er nær,
+når sommerfeste kommer.
+Nu har du fået din karakter,
+nu er det blevet sommer.
+\endverse
+
+\beginverse
+Nu har vi spillet og sunget sange for jer
+med mange hundrede vers i
+Nu vil vi ikke spille mer',
+nu er revyen færdig.
+\endverse
+
+\beginverse
+Nu er der fest
+nu er der sommerfest
+til natten den er omme
+og flaskerne er blevet -- tomme.
+\endverse
+
+\beginverse
+%
+Vi bygger scene op, vi lejer lys og lyd,
+det koster multimange hunded' kroner.
+Hva' gør man ikke for at skabe lidt liv
+i de offentlige institutioner.
+\endverse
+
+\beginverse
+De kloge de siger, at enden er nær,
+når sommerfesten kommer.
+NU ønsker vi jer hver især
+en rigtig festlig sommer.
+\endverse
+
+\beginverse
+Nu er der fest
+nu er der sommerfest
+og vi vil ikke stoppe
+før morgensolen den er -- oppe.
+\endverse
+\endsong

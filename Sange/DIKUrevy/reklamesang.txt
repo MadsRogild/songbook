@@ -1,0 +1,67 @@
+\beginsong{Reklamesang}[sr={Melodi:``Warswawianka''}, by={DIKUrevy 1986}]
+\beginverse
+
+Til dig, der er træt af dit benhåre arbejde,
+hvor du må knokle og får nerver og stress
+har vi et tilbud du ik' ka' sige nej te'
+hvor vi er skire på du bliver tilfreds.
+\endverse
+
+
+\beginverse
+
+Søg ind på DIKU, her kan du finde
+dig godt til rette i et fredeligt job
+frokosten er på en time herinde
+du sover længe og bli'r aldrig sagt op
+\endverse
+
+
+\beginverse
+
+Der snakkes så tit om de mange studenter
+og folk de hævder, at de udgør et problem,
+men det kommer helt an på, hvad du forventer
+du må jo tænke på, at du kan bruge dem.
+\endverse
+
+\beginverse
+
+Så søg ind på DIKU for her kan du få
+god, billig arbejdskraft fra massernes kor.
+Tænk på den forskning studenteren ku' nå
+og som du så ku blive krediteret for.
+\endverse
+
+\beginverse
+
+Forskningen får tit en ordentlig omgang
+men til kritikken kan vi bare sige et
+vist er vor forskning papirspild og tomgang,
+men gør det noget når vi forsker så lidt.
+\endverse
+
+\beginverse
+
+Så søg ind på DIKU, for her kan du få
+en stilling, hvor der er både roligt og trygt
+der snakkes så tit om de højder vi ku' nå,
+men det er endnu ikke blevet forsøgt.
+\endverse
+
+\beginverse
+
+Men der er bare én ting vi må vide,
+før du kan lukkes ind i videnskabens hal.
+Du må bevise du rigtig kan slide,
+at du er flittig og din forskning genial.
+\endverse
+
+\beginverse
+
+Så har du stress af maskiner, programmer
+og kan du nøjse med $\frac{1}{4}$ million
+søg ind på DIKU i rolige rammer
+læn dig tilbage og vent på pension.
+\endverse
+\endsong

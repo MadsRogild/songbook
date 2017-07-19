@@ -1,0 +1,56 @@
+\beginsong{Standard ML - og Mads}[sr={Melodi:Norse Black Metal---Red Warszawa}, by={DIKUrevy 1997}]
+\beginverse
+Studerende skal starte, men ingen er parate
+når de starter på DAT0
+For der sker det ofte, at det er Mads Tofte
+der skal fylde kundskabens hul
+Det første år er der hårde kår
+der er det SML man lærer
+Pascal har de kodet
+men hvem havde troet
+at funktionssprog ku' være svære
+\endverse
+
+\beginverse
+\emph{Omkvæd:}
+\endverse
+
+\beginverse
+Standard ML
+Standard ML
+Standard ML
+.... og Mads
+\endverse
+
+\beginverse
+Rapporten den stilles, kærester de skilles
+det er en prøvelse af rang
+DIKU roder, de studerende koder
+det er Mads, der har sat dem igang
+han dyrker det svære og elsker det sære
+kan li' strukturel induktion
+DAT0'er panikker, mens tiden den tikker
+de kan ikke fat' det, kan nogen?
+\endverse
+
+\beginverse
+omkvæd
+\endverse
+
+\beginverse
+Kurset er ovre, der' ingen der sover
+Eksamen den kommer snart
+Induktion og regioner, højer' ordens funktioner
+Det hele skal lær's i en fart
+Emerald er for nemt, og Lisp har de glemt
+De siger: ``Min hjerne er tom!''
+De prøver ihærdigt, men intet bli'r færdigt
+For det hele det drejer sig om
+\endverse
+
+\beginverse
+omkvæd
+\endverse
+
+
+\endsong

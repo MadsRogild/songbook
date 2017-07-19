@@ -1,0 +1,54 @@
+\beginsong{Kantine-automatens sang til Kurt}[sr={Melodi:Sebastian: ``En kos bekendelser''}, by={DIKUrevy 1983}]
+\beginverse
+ Jeg'r den lille automat,
+          din kantines surrogat
+          for en køledisk med øl og vand'er.
+          Prop en femmer i og stræk
+          hånden ud -- tryk -- og træk,
+          når du hører, at din femmer lander!
+\endverse
+
+\beginverse
+ Sådan står jeg i kantinen.
+          Du kommer fornøjet og glad.
+          Larm og brum fra ølmaskinen,
+          så nøj's du med kaffe og mad!
+          Å' syn's du, fornemmelsen er -- flad?
+\endverse
+
+\beginverse
+ Jeg'r den lille ølregent,
+          står i hjørnet som betjent,
+          vogter konsumeringen af øller.
+          Ølrationen laves om,
+          pluds'lig er min maves dom:
+          Ikke flere øl til fulde bøller!
+\endverse
+
+\beginverse
+ Sådan står jeg i kantinen.
+          Du kommer fornøjet og glad.
+          Larm og brum fra ølmaskinen,
+          så nøj's du med kaffe og mad!
+          Å' syn's du, fornemmelsen er -- flad?
+\endverse
+
+\beginverse
+ Jeg'r den smarte mekanik,
+          der kan skabe vild panik,
+          når jeg stopper dine bajerdrømme.
+          Kløj's i mønterne og går
+          i uend'lig løkke, så
+          vand'er vælter ud i stride strømme!
+\endverse
+
+\beginverse
+ Sådan står jeg i kantinen.
+          Du kommer fornøjet og glad.
+          Larm og brum fra ølmaskinen,
+          så nøj's du med kaffe og mad!
+          Å' syn's du, fornemmelsen er -- flad?
+\endverse
+
+
+\endsong

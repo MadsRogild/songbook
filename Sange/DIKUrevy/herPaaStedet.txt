@@ -1,0 +1,41 @@
+\beginsong{Her på stedet\ldots}[sr={Melodi:Rabalderstræde}, by={DIKUrevy }]
+\beginverse
+%
+Her på stedet, er vi t'et {\em (til det)},
+får vi slet, slet ikke helt for lidt af vores X-terminaler,
+så GIF'erne de ruller sig ud.
+\endverse
+
+\beginverse
+Man tør jo knapt nok drømme
+om Embla's I/O-kredse går ned.
+\endverse
+
+\beginverse
+Frække GIF's og rå bitplaner,
+bunkevis af nøgne damer
+\endverse
+
+\beginverse
+%
+Når timen kommer, og det er sommer,
+kan vi slet, slet ikke vente længere på {\sc diku}-revy'en,
+hvor stjernerne de ruller sig ud.
+\endverse
+
+\beginverse
+Jaa, de har gags i stride strømme, 
+om Maskinen, der aldrig går ned.
+\endverse
+
+\beginverse
+Vi skal feste, le og danse,
+til vi daggry knapt kan sanse,
+\endverse
+
+\beginverse
+Her på stedet, er vi t'et {\em (til det)},
+får vi slet, slet ikke helt for lidt af vores X-terminaler,
+så GIF'erne de ruller sig ud.
+\endverse
+\endsong

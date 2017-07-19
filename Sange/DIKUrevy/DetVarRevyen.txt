@@ -1,0 +1,54 @@
+\beginsong{Det var revyen}[sr={Melodi:Folkesang: ``Hava Nagila''}, by={DIKUrevy 2010}]
+\beginverse
+   'Vyen, det var re-
+vyen, det var re-
+vyen, det var den sidste sang
+\endverse
+
+\beginverse
+'Vyen, det var re-
+vyen, det var re-
+vyen, det var den sidste sang
+\endverse
+
+\beginverse
+Det var den sidste sang
+Nu er der fest og larm
+Dans publikummer, natten lang
+\endverse
+
+\beginverse
+Det var den sidste sang
+Nu er der fest og larm
+Dans publikummer, natten lang
+\endverse
+
+\beginverse
+fe-sten, fe-sten starter
+festen starter på Caféen?
+festen starter på Caféen?
+festen starter på Caféen?
+festen starter på Caféen?
+\endverse
+
+\beginverse
+Gå til fest!
+Gå til fest!
+\endverse
+
+\beginverse
+Dans nu natten lang
+\endverse
+
+\beginverse
+'Vyen, det var re-
+vyen, det var re-
+vyen, det var den sidste sang
+\endverse
+
+\beginverse
+'Vyen, det var re-
+vyen, det var re-
+vyen, det var den sidste sang
+\endverse
+\endsong

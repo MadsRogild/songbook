@@ -1,0 +1,58 @@
+\beginsong{Sangen Om Peter}[sr={Melodi:``Kalle från Spånga''}, by={DIKUrevy 1973}]
+\beginverse
+   Studenter, studerer i datalogi
+   Hos Peter, Peter, Peter, Peter vor lærer.
+   Lære lidt informationsteori
+   Af Peter, Peter, Peter, Peter vor lærer.
+   Om informationer, der gælder iblandt:
+  De afhænger af, om et udsagn er sandt.
+   Ja, se, det er sandt, ja det er eklatant!
+  Si'r Peter
+   Hvem Peter?
+   Joh Peter!
+   Hvilken Peter?
+   Jo, Peter, Peter, Peter, Peter med skægget.
+\endverse
+
+\beginverse
+   Det er et eksempel på information
+   Om, Peter, Peter, Peter, Peter med skægget.
+   Fra, Peter, Peter, Peter, Peter med skægget:
+  Men ikke ham Jensen, med Jensens device!
+  Ham Peter
+   Hvem Peter?
+   Joh Peter!
+   Hvilken Peter?
+   Jo, Peter, Peter, Peter, Peter med briller.
+\endverse
+
+\beginverse
+   En Peter med briller?  Men det er jo ham.
+   Ham, Peter, Peter, Peter, Peter med briller.
+   Thi når han gør fejl, nemli(?) i et program
+   Ham, Peter, Peter, Peter, Peter med briller.
+   Så er den så lille og rudimentær
+  Det kræver briller at komme den nær
+   Hvem er det, du mener?  Sig frem, hvem det er!
+  De'er Peter
+   Hvem Peter?
+   Joh Peter!
+   Hvilken Peter?
+   Jo, Peter, Peter, Peter, Peter DOKTOREN!
+\endverse
+
+\beginverse
+   En doktor jo nok en begivenhed er
+   For Peter, Peter, Peter, Peter, doktoren
+   Og når den tilmed er helt regulær
+   Hos Peter, Peter, Peter, Peter, doktoren
+   Mon så han er dr. i stjernernes lys?
+  Jeg er en bestyretet bestyrer har ny(?)
+   Jeg ved det, jeg har det i det er(?)
+  Ja Peter
+   Peter jooh
+   Jah Peter!
+   Peter jooh
+   Ja, Peter, Peter, Peter, Peter AHA
+\endverse
+\endsong

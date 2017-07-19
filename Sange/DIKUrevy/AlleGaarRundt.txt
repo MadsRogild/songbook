@@ -1,0 +1,93 @@
+\beginsong{Alle går rundt og forelsker sig}[sr={Melodi:Alle går rundt og forelsker sig}, by={DIKUrevy 2004}]
+
+
+\beginverse
+ Gates han har det let,
+Hvergang han indta'r vores lille runde klode.
+Programmer dukker op i min lille shop
+Jeg kan gå amok
+Alle min' idoler, har jeg hængt på væggene hos mig der hjemme
+Amiga'n hænger sidst
+Men det er ik' så trist
+For jeg ved ganske vidst  ...at
+\endverse
+
+\beginverse
+Alle går rundt og forelsker sig
+nogen i drenge men ikke Jeg
+det der tænder mig er en datamat
+en lille grå krabat
+med tastatur og mus og skærm og Linux
+Før var jeg mere til Microsoft
+jeg tog på messe i Ebeltoft
+for at lære noget mere
+om ham Bill Gates ideer
+tryk Control Alt Del
+\endverse
+
+\beginverse
+Jeg var nær besvimet
+Ved det allerførste møde med min pc
+Maskinen den gik ned
+den var ik' så fed
+Nøj hvor var den led
+Microsoft produkter viser hensyn til de folk der ik' ka kode
+Og ingen er i tvivl
+om det er et plus,
+at kunne c ++.
+\endverse
+
+\beginverse
+Pluds'lig en dag gik det og for mig
+ham der Bill Gate er et kæmpe kvaj
+for med Windows og Office er den gal
+de har et arsenal
+på mer' end 400.000 bugs. Så
+hver gang jeg tændte min terminal
+blev skærmen blå den var ik' normal
+og jeg satte mig på halen
+da der stod i manualen
+tryk Control Alt Del
+\endverse
+
+\beginverse
+Så jeg måtte holde mig fra alle spil og rejse ud på landet
+Det var ikke let,
+Egentlig ganske slet
+Jeg blev ikke mæt.
+Afhængigheden steg, jeg måtte finde mig en ordning intet andet
+Så tog jeg ind til by'n
+med alle mine gryn
+ramt som af et lyn
+\endverse
+
+\beginverse
+Da faldt min' øjne på OS 2
+bedre end Windows det kan du tro
+Men da jeg skulle spille Counter Strike
+og en Quake look alike
+der var der stadig alt for mange bugs i
+En dag i våren jeg fik et praj
+Sats du på Linux det lønner sig
+for med prompt som gamle dag
+er der ingen grund til klage
+tryk Control Alt Del
+\endverse
+
+\beginverse
+Alle går rundt og forelsker sig
+nogen i drenge men ikke Jeg
+det der tænder mig er en datamat
+en lille grå krabat
+med tastatur og mus og skærm og Linux
+Nu vil jeg læse til datalog
+udbrede Linux i flade sko
+det ville være herligt
+dog en smule besværligt
+tryk Control Alt Del
+\endverse
+
+
+
+
+\endsong

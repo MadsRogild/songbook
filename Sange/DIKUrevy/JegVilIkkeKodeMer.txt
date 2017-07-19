@@ -1,0 +1,74 @@
+\beginsong{Jeg vil ikke kode mer}[sr={Melodi:Pockets ``I won't be there anymore''}, by={DIKUrevy 2004}]
+
+
+\beginverse
+Sidder på min pind og skriver
+nok en nat hvor midnat nærmer sig
+Timer har jeg brugt
+men helt til målet er der lige lang en vej
+Og de andre spørger mig "hvornår
+har du sidst bevæget dig udenfor
+Og god arbejdslyst siger de og går hjem til sig selv
+\endverse
+
+\beginverse
+Men jeg vil ikke kode mer
+variable og funktioner der ik' vil helt som jeg vil
+Jeg vil ikke kode mer
+Jeg er træt af algoritmer
+det er den slags ting der slår en sjæl ihjel
+\endverse
+
+\beginverse
+Ofte har jeg tænkt på bare
+helt at give op og gå min vej
+Men stædigheden melder sig
+rapporten den skal ikke knække mig
+så jeg giver den en skalle mer
+uanset hvor meget den sig ter
+og mens bitterheden vokser tænker jeg til mig selv
+\endverse
+
+\beginverse
+Jeg vil ikke kode mer....
+\endverse
+
+
+
+\beginverse
+ Sæt dig lille ven
+nu skal høre hvad det er du gør forkert
+Læs først denne bog 
+til både forret, hovedret og til dessert
+Og så skriver du din rapport som om
+du har tænkt dig meget grundigt om
+Og så stjæler du fra andre til der's konto er tom
+\endverse
+
+\beginverse
+Så skal du ikke kode mer
+du får gode karakterer, bli'r berømt viden om
+Nej du skal ikke kode mer
+Bare snyd og tag det rolig
+du er sikkert ik' den eneste derom
+\endverse
+
+
+
+\beginverse
+ Jeg vil ikke kode mer
+variable og funktioner der ik' vil helt som jeg vil
+Jeg vil ikke kode mer
+Jeg er træt af algoritmer
+det er den slags ting
+ Du skal ikke kode mer
+du får gode karakterer, bli'r berømt videnom
+ Vi skal aldrig kode mer
+Skønt vi snyder så det driver
+er vi sikkert ik' de eneste derom
+\endverse
+
+
+
+
+\endsong

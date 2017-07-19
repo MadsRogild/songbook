@@ -1,0 +1,47 @@
+\beginsong{(Du gi'r mig) Virus}[sr={Melodi:Peggy Lee: ``Fever''}, by={DIKUrevy 2006}]
+
+
+\beginverse
+"Never know how much I love you, never know how much I care"
+Sådan lyder første linje, på denne email i min indbake her
+Du gi'r mig virus - når du mailer, virus når du sender til mig
+Virus - installeret, jeg kan ikke sige nej
+\endverse
+
+\beginverse
+Tidlig morgen når jeg vågner, åbner jeg min windows PC
+Venter 25 minutter, med sådn' en sygdom er der meget der kan ske
+Du gi'r mig virus - når du mailer, virus når du sender til mig
+Virus - installeret, jeg kan ikke sige nej
+\endverse
+
+\beginverse
+[bro]Frustrationer vokser, scanninger ta'r tid
+Endelig! Jeg har fjernet den, sikke dog et voldsomt slid
+Du gi'r mig virus - når du mailer, virus når du sender til mig
+Virus - installeret, jeg kan ikke sige nej
+Allesammen har en virus, det er noget mange ved
+virus er jo ingen ny ting, nu ved du altså også besked
+\endverse
+
+\beginverse
+Endnu en hvad er nu dette, det må altså holde op
+Ringer til min software pusher, 'Kan du ikke sætte et stop?'
+For jeg har virus - på min PC, windows er et sikkerhedshul
+Virus - ikke mere, nu skal jeg tilbage til nul.... (han gir mig linux)
+\endverse
+
+
+\beginverse
+Kæmper med at finde rundt nu, windowmanageren er svær
+hvor er start og hvor er spil'ne, jeg har stadig meget at lær'
+For jeg har linux - på min PC, linux fylder hele min dag
+Linux - installeret, virusser de er ingen sag.
+\endverse
+
+\beginverse
+Sikke dog en dejlig dag
+Sikke dog en dejlig dag
+\endverse
+
+\endsong

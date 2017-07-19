@@ -1,0 +1,59 @@
+\beginsong{Den Røde Tråd}[sr={Melodi:``Den Røde Tråd''}, by={DIKUrevy 1988}]
+
+
+\beginverse
+
+Hvad mon man var før man kom ind? 
+Fortiden er blot tankespind.	
+En grøn student -- en kodekarl	
+man var i hvert fald ikk' normal.
+\endverse
+
+\beginverse
+
+Studiestarten ku jeg li		
+for på dat0 der fik jeg ti	
+på dat1 sku alting ske		
+men målet var ret  svært at se.
+\endverse
+
+\beginverse
+
+Første del tog mange år	
+mit bifag havde trange kår	
+nu gik man indtil i hvert fald	
+Aladdins hule af frit valg.	
+\endverse
+
+\beginverse
+
+Jeg søgte -- med lygte		
+der var ikk' nok ressourcer	
+de kurser som jeg ønsked havde ikke plads.
+\endverse
+
+\beginverse
+
+på 2.del gik jeg i stå	
+trods alt der jeg ville nå	
+og vennerne gav bare op		
+de gik ud og fik et job.	
+\endverse
+
+\beginverse
+
+Jeg søgte -- med lygte 	
+de tabte idealer		
+specialerne kom lige ud på samlebånd.
+\endverse
+
+\beginverse
+
+Hvad mon man blir som kandidat	
+skal man mon bruge sin datamat?	
+alle kurserne man har fåed	
+de må for fa'en ku' bruges til noget.
+\endverse
+
+
+\endsong

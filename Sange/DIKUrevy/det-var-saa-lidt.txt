@@ -1,0 +1,76 @@
+\beginsong{Det var så lidt}[sr={Melodi:Gitte Hænning: ``Ta' med ud å fisk''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Mit system går helt i fisk
+og er tungt at bruge
+Ting'ne fylder på min disk
+%
+Så det' tid at luge
+ud i alle filerne
+og starte frisk
+Vi sletter systemet
+det' ikke magisk
+\endverse
+
+\beginverse
+%
+Find dig en Live-USB
+og så skal du bare se
+Det' en go' ide at starte på en frisk,
+så vi har tilladt os at slette din disk.
+\endverse
+
+\beginverse
+%
+Det gik godt nok hurtigt, du
+Det er sat'me service
+(men) Outlook ligner ikk' sig selv
+(og) hvor er dog Word Perfect?
+%
+Alt er splinternyt
+du har hva' du ska' bruge
+og alt dit gamle ragelse
+har vi taget og smidt u'
+\endverse
+
+\beginverse
+%
+Find dig en Live-USB
+og så skal du bare se
+Det' en go' ide at starte på en frisk,
+så vi har tilladt os at slette din disk.
+\endverse
+
+\beginverse
+%
+Jeg har brugt systemet lidt
+og har mig nogle kvaler:
+(Jeg) savner lidt min Windows-knap
+og hvor er mit speciale?
+%
+Tag det roligt
+det er ikke gået tabt
+Du tager vel backup,
+så det var så lidt.
+\endverse
+
+\beginverse
+%
+Find dig en Live-USB
+og så skal du bare se
+Det' en go' ide at starte på en frisk,
+så vi har tilladt os at slette din disk.
+\endverse
+
+
+
+\beginverse
+%
+Find dig en Live-USB
+og så skal du bare se
+Det' en go' ide at starte på en frisk,
+så vi har tilladt os at slette din disk.
+\endverse
+
+
+\endsong

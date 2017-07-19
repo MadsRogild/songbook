@@ -1,0 +1,83 @@
+\beginsong{Jeg kan Ikke Rigtig Lade Være}
+[sr={Melodi:Otto Brandenborg - Når en sailor går i land}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+Tøser, jeg ved
+at søde pigehjerter
+De kan li' dirty kode, når de mærker
+\endverse
+
+
+\beginverse
+Min kode sejler
+Min kode sejler og man ved
+sgu' aldrig helt hvad der nu vil ske
+Nondeterministisk, intermistisk og lidt sær.
+Jeg kan bare ikke helt la' vær'
+\endverse
+
+
+\beginverse
+Min kode sejler
+sejler, sejler
+Min kode sejler og man ved
+jeg er en cowboy, hvad gør så det
+(at det) ligner lidt en tarball eller rar-ball, men hey, se!
+Det compiler, ship det, skidt nu med det.
+\endverse
+
+
+\beginverse
+Det' copy-pastet fra nær og fjern på internet
+Jeg er DIKUs Frankenstein
+Der' lige en snært
+af Node og lidt Perl
+Jeg' skudt i Ruby, sku vi bruge' det her
+\endverse
+
+
+\beginverse
+Min kode sejler
+sejler, sejler
+Min kode sejler og man ved
+at den slags, det gir jobsikkerhed
+Den er avanceret,
+obfuskeret, krypterer't
+\endverse
+
+
+\beginverse
+Min kode sejler ...
+\endverse
+
+
+\beginverse
+Min kode sejler
+sejler, sejler
+Min kode sejler og man ved
+at den slags, det gir jobsikkerhed
+Den er avanceret,
+obfuskeret, krypterer't
+\endverse
+
+
+\beginverse
+Min kode, den er et kulinatisk mesterværk
+Den' spagetti, som i ser
+Der er måske nog'n
+uend'lig rekursion
+Mit loop i Ruby, det er sgu' da for sejt
+\endverse
+
+
+\beginverse
+Min kode sejler
+Min kode sejler og man ved
+sgu' aldrig helt hvad der nu vil ske
+Nondeterministisk, intermistisk og lidt sær.
+Jeg kan ikke rigtig la' vær'
+\endverse
+
+\endsong

@@ -1,0 +1,68 @@
+\beginsong{GUI}[sr={Melodi:Drengene fra Angora: ``Blind Date''}, by={DIKUrevy 2005}]
+
+
+\beginverse
+Jeg tog et kursus på ITU i brugerno'ed
+Jeg skulle lære nå'ed GU-I
+Så sku' vi skrive opgave og jeg fandt i grupp'
+(sam)men med denneher pi-i-ige
+Hun kom fra RUC og hun vidste alt om brugere
+Og også noget om Ja-va
+Hun havd' en laptop og jeg synes den var vildt lækker
+Lavet af børstet stål, ja
+Men da hun åbned' den så gav mit hjerte et hop
+(for) der var pluds'lig et frugtlogo der lyste op
+Lig' midt på dens skærm
+\endverse
+
+
+
+\beginverse
+Det er en Mac, hallo, Det er en Mac
+Det er en Mac, det er en blå Mac, hun må være på crack
+Det er en Mac, hallo, Det er en Mac
+Det er en blå Mac, hun må være på crack
+\endverse
+
+
+
+\beginverse
+Hun så på mig, og jeg kigged' herrelæng' på den
+Så sagd' jeg tem'lig chokeret
+Er det en Macintosh som du hev op af tasken?
+Hun svared', "Ja, det er så"
+Måske er det mig, der er lidt gammeldags, men det der med peg og klik, 
+det er noget stads
+'Hvert fald i mit univers
+\endverse
+
+
+
+\beginverse
+Det er en Mac, hallo, Det er en Mac
+Det er en Mac, det er en blå Mac, hun må være på crack
+Det er en Mac, hallo, Det er en Mac
+Det er en blå Mac, hun må være på crack
+\endverse
+
+
+
+\beginverse
+Pluds'lig så sagd' hun, "den kører jo OS-X"
+Og nedenunder i ker-nen, er der FreeBSD-e-e!!!!
+\endverse
+
+
+
+\beginverse
+De't BSD! Ja tak, men stadig Mac
+Det er en Mac, det er en blå Mac, hun må være på crack
+De't BSD! Ja ja, men stadig Mac
+Det er en Mac, det er en blå Mac, hun må være på crack
+De't BSD (oh jaaah, de't BSD på en Mac)
+Det er en Mac (det er både UNIX og Apple)
+De't BSD (det gør mig, det gør mig, det gør mig så forvirr'd)
+Det er en blå Mac, hun må være på crack
+\endverse
+
+\endsong

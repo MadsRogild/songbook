@@ -1,0 +1,130 @@
+\beginsong{Lones Sang}[sr={Melodi:Shu-bi-dua: ``Krig og Fred''}, by={DIKUrevy 1982? (årstal stod ikke i papiret, men den lå blandt 1982-materiale)}]
+\beginverse
+     Det er ikke særlig let
+              (selvom man har dat 1)
+              at ta' dat 2 her til foråret.
+              Og det ved Lone godt
+\endverse
+
+\beginverse
+     Kom så, Lone
+              hold den gående,
+              du skal op den 14. maj.
+              Læs nu bogen,
+              hold dig vågen,
+              drik din kaffe sort som beg.
+\endverse
+
+\beginverse
+     Og Lone, hun læser
+              mens læberne mumler,
+              og hjernen den koger
+              mens tankerne tumler:
+\endverse
+
+\beginverse
+     Semantik, streng logik,
+                parallel Pascal på PDP.
+                Algebra, cons og car,
+                teoretisk EDB.
+\endverse
+
+\beginverse
+     Der er for mange her,
+              der vil studere mer,
+              så der må lukkes for bredden.
+              For når eliten skal frem,
+              må resten sendes hjem,
+              så Lone hun skal ha' tretten.
+\endverse
+
+\beginverse
+     Kom så, Lone
+              hold den gående,
+              du skal op den 14. maj.
+              Læs nu bogen,
+              hold dig vågen,
+              drik din kaffe sort som beg.
+\endverse
+
+\beginverse
+     Og skruen, den strammes
+              endnu en kende.
+              De fleste studenter
+              må blive herhjemme.
+\endverse
+
+\beginverse
+     Semantik, streng logik,
+                parallel Pascal på PDP.
+                Algebra, cons og car,
+                teoretisk EDB.
+\endverse
+
+\beginverse
+     Nu nærmer tiden sig,
+              hun sidder dødsensbleg.
+              Der mangler hundrede sider.
+              Hun er nervøs og træt
+              og sover alt for lidt,
+              for Lone er blevet en slider.
+    
+     Kom så, Lone
+              hold den gående,
+              du skal op den 14. maj.
+              Læs nu bogen,
+              hold dig vågen,
+              drik din kaffe sort som beg.
+\endverse
+
+\beginverse
+     Og pensummet terpes,
+              for nu er det alvor.
+              Hun fælder en tåre,
+              når teksten bli'r halvhård:
+\endverse
+
+\beginverse
+     Semantik, streng logik,
+                parallel Pascal på PDP.
+                Algebra, cons og car,
+                teoretisk EDB.
+\endverse
+
+\beginverse
+     Og selve dagen kom,
+              som visen handler om,
+              hvor Lone sku' vise sin kunnen.
+              Men det gik gruelig galt,
+              hun glemte alt totalt.
+              Hun havned' helt ned' i bunden.
+    
+     Kom så, Lone
+              hold den gående,
+              til august skal du igen
+              repetere,
+              memorere,
+              så du kan få mer' end fem.
+\endverse
+
+\beginverse
+     Men Lone hun opgi'r
+              går helt ned med flaget.
+              Hun sku' ta' sig sammen
+              og læse på faget:
+\endverse
+
+\beginverse
+     Semantik, streng logik,
+                parallel Pascal på PDP.
+                Algebra, cons og car,
+                teoretisk EDB.
+\endverse
+
+\beginverse
+     Semantik, streng logik,
+                parallel Pascal på PDP.
+                Algebra, cons og car,
+                teoretisk EDB.
+\endverse
+\endsong

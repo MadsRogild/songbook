@@ -1,0 +1,25 @@
+\beginsong{Poul Kjøllers greatest cache hits}[sr={Melodi:medley over Poul Kjøllers sange}, by={DIKUrevy }]
+\beginverse
+Hvis I hører om no'ed,
+der er frygtligt og svært, 
+som tager måneder og dage,
+før du får det lært.
+Så' det mig, Miranda!
+\endverse
+
+\beginverse
+Jeg er temmelig dov'n,
+skal jeg sige det selv, 
+når I lærer om lister,
+synes jeg det er held.
+I har mig, Miranda!
+\endverse
+
+\beginverse
+Og når året er omme,
+og du dumper 1P,
+er det temmeligt sikkert,
+at dette vil ske:
+På grund af mig, Miranda!
+\endverse
+\endsong

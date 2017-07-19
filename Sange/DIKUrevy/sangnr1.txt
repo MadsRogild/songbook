@@ -1,0 +1,41 @@
+\beginsong{Sang nr. 1 (?)}[sr={Melodi:``Kom, kom, kom til frelsermøde''}, by={DIKUrevy 1973}]
+\beginverse
+ Kom, kom, kom til datalogisk
+sommerfest hos Rosenquist,
+der er øl og der er mad
+spis og drik og vær nu glad
+for i morgen fejrer vi jo Sankte Hans.
+\endverse
+
+\beginverse
+Se, se, se nu op på scenen
+nu vi spille vil for jer,
+stykket er måske lidt tyndt
+for vi er jo knap' begyndt
+men til moro vil det være for enhver.
+\endverse
+
+\beginverse
+Nu, nu, nu vil vi fortælle
+lidt om vores institut
+vi har ikke megen plads
+når vi lager en gang gas
+må vi bruge bibli'otekets indgangsdør.
+\endverse
+
+\beginverse
+Kom, kom, kom til kaffepause
+kom og hyg jer her hos os
+Vi har kaffe, vi har fløde
+Og lidt sukker til at søde
+denne bitre drik som vi nu brygger her.
+\endverse
+
+\beginverse
+Her, her, her er kaffestue
+og skam også bibliotek,
+her du kan få lov at læse
+hvis du prøver på at blæse
+på at vi vil more os, måske lidt højt.
+\endverse
+\endsong

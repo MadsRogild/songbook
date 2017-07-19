@@ -1,0 +1,49 @@
+\beginsong{Deportationsnummer}[sr={Melodi:Woody Guthrie: ``Deportee''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Jeg var lærer på DIKU og en af de første
+  Sad som var min røv limet fast til min stol
+  Vel har jeg da aldrig hørt til blandt de største
+  Skønt jeg badede mig lidt i 70'ernes sol
+  Men selvom der er over 1000 studenter
+  Der står her hver dag foran lærenes dør
+  Så er det som om DVU de forventer
+  At der forskes det samme - eller mere end før
+\endverse
+
+\beginverse
+Farvel da til DIKU, farvel kære venner
+  Farvel HCØ og de steder, jeg kender
+  Jeg er vejet og fundet for let til at vær' her
+  Jeg er blevet deporteret op til AUC
+\endverse
+
+
+
+\beginverse
+ Fra direktoratet, der kom cirkulærer
+  ``Jeres årsproduktion vil blive vejet og målt
+  og Gud se i nåde til de dovneste lærere
+  For slapt sløseri vil sgu' ikke bli' tålt
+  Den, hvis produktion er på under en meter
+  Kan godt se sig om efter nyt institut''
+  Så tre fjerdedel har måttet følge med Peter
+  Naur, som selv var så klog og sige slut
+\endverse
+
+\beginverse
+Farvel da til DIKU, farvel kære venner
+  Farvel HCØ og de steder, jeg kender
+  Jeg er vejet og fundet for let til at vær' her
+  Jeg er blevet deporteret op til AUC
+\endverse
+
+\beginverse
+Farvel da til DIKU, farvel kære venner
+  Farvel HCØ og de steder, jeg kender
+  Jeg er vejet og fundet for let til at vær' her
+  Jeg er blevet deporteret op til AUC
+\endverse
+
+\endsong

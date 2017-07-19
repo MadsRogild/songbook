@@ -1,0 +1,110 @@
+\beginsong{Dat0-revysion}
+[sr={Melodi:Folk og røvere i Kardemomme By - Kasper og Jesper og Jonathan}
+,by={DIKUrevy 1994}
+]
+
+\beginverse
+Vi reviderer det Dat0,
+I alle sammen kender.
+Og no'en vil sikkert vær' imod,
+men vi har mange venner.
+For vi er nemlig overklog',
+vi køber ej en lærebog.
+Vi sparer de penge og laver den selv
+båd' til Emerald, Lisp og så SML.
+\endverse
+
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+
+\beginverse
+Dat0'erne har længe haft
+det alt for nemt i starten.
+Vi syn's Pascal det er for let,
+vi ta'r det af plakaten.
+Og re-gel-sty-ret ind-læs-ning
+er yt, det er en væm'li' ting.
+Til håndkøring vil vi nu sige farvel
+og kør' Emerald, Lisp og så SML.
+\endverse
+
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+
+\beginverse
+Vi lægger ud med Common Lisp
+og grafisk grænseflade.
+Dat0'erne de skriger gisp!
+Men vi er ligeglade.
+Til prøven kræves et bevis,
+ved induktion - naturligvis.
+Med \texttt{CONS} og med \texttt{QUOTE} og med \texttt{CDR} og \texttt{CAR}
+så Dat0'erne ikke en chance har.
+\endverse
+
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+
+\beginverse
+Et typet sprog det skal der til,
+for det er godt at kende.
+Så de må lære om ML,
+hvor er vi ellers henne?
+Hvis de har typedisciplin,
+bli'r koden ikke helt til grin.
+Og mønstre, exceptions og polymorfi
+det er noget Dat0'erne vil ku' li'.
+\endverse
+
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+
+\beginverse
+Dat0'erne skal også kunne
+tænke i objekter.
+Det' vigtigt at de lærer om det
+uden brug af hægter.
+Så valget faldt på Emerald.
+Jeg kender det til hudløshed.
+Nu håber jeg bare det ikke går ned,
+for så vil de ik' la' mig vær' i fred.
+\endverse
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+\beginverse
+En fordel har vor revision,
+det må vi ikke glemme.
+PC'erne skal på pension,
+og det er bedst det samme.
+For vi har altid ønsket os,
+at DIKU ville droppe DOS.
+Der spilles for meget på vores PC'r
+mens vor UNIX forhindrer at dette sker.
+\endverse
+
+\beginverse
+Daa dam da dam dadam dadam
+Daa dam da dam dadam dadam
+\endverse
+
+\endsong

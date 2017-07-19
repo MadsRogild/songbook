@@ -1,0 +1,51 @@
+\beginsong{Ping}[sr={Melodi:``Mio Mao temamelodi''}, by={DIKUrevy 2014}]
+
+
+\beginverse
+ Ping
+\endverse
+
+\beginverse
+ Pong
+\endverse
+
+\beginverse
+ Ping
+\endverse
+
+\beginverse
+ Pong
+\endverse
+
+\beginverse
+ la la la la la
+\endverse
+
+\beginverse
+ Ping
+\endverse
+
+\beginverse
+ Pong
+\endverse
+
+\beginverse
+ Ping
+\endverse
+
+\beginverse
+ Pong
+\endverse
+
+\beginverse
+ La la la la la
+\endverse
+
+
+
+
+
+
+
+
+\endsong

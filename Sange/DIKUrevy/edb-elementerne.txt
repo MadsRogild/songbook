@@ -1,0 +1,52 @@
+\beginsong{Sangen om EDB-elementerne}[sr={Melodi:Generalmajorens vise}, by={DIKUrevy 1978}]
+\beginverse
+   Vi lærer dem om sumkontrol, totalkontrol, kopikontrol,
+  og nonsens- og kontroltotal samt brug af kontrolkonsol,
+  om semantik og pragmatik og dynamik og heuristik
+  og spadestik og overstik og kobberstik og øvrige stik
+\endverse
+
+\beginverse
+  Heltal og tilfældige tal på hexadecimale tal,
+  normale, kolossale, optimale, digitale tal
+  og tidstro drift og tidsdelt drift og bundet drift og ud'af drift
+  og cyklisk skrift og logisk skift og højreskift og studieskift.
+\endverse
+
+\beginverse
+  Hvordan man pakker, ordner, søger, gætter, sætter, sletter, fletter
+  overføring, overhuldning, overløb og oversætter,
+  indre lager, arbejdslager, ydre lager, hjælpelager,
+  pladelager, hejste flag og skrivning af eksamensklager.
+\endverse
+
+\beginverse
+  
+\endverse
+
+\beginverse
+   Om cyklustid og nyttetid og lukket tid og ventetid
+  og fil/register, bånd og blok og bit og post og individ
+  om kilokroner, kilobyte og kildetekst og kildelæsning
+  ophold i et opkald koblet op til optisk skriftindlæsning.
+\endverse
+
+\beginverse
+  Kortforsiders kortkolonner tegnet i en kort rapport,
+  om styrekort og spillekort og lidt om marmelade-kort,
+  med højremargen, venstremargen, øvremargen, sidenummer
+  skrevet på maskine i students søde natteslummer.
+\endverse
+
+\beginverse
+  Om bittranchering, træbeskæring, båndsalat og bonuskog,
+  og Algol, Cobol, Snobol, Lisp, Pascal og simuleringssprog,
+  et struktureret multi-mikro-makro-programmeringssprog,
+  og rigtig brug af termer fra den danske EDB-ordbog.
+\endverse
+
+\beginverse
+  ... og det var så de emner, som vi lærer dem på DIKU,
+  der findes også andre som vi ikke synes de sku' - ku'.
+\endverse
+\endsong

@@ -1,0 +1,68 @@
+\beginsong{IBM}[sr={Melodi:Bjørn Tidmand: ``Nu ta'r jeg til Dublin''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Vil du frem i verd'nen så brug EDB
+  Men hos IBM der er der bedst (men hos IBM er bedst)
+  For man glemmer alt hvad man har lært
+  Om en verden udenfor
+\endverse
+
+\beginverse
+ Der er ingen brug for Lo
+  Og en/at strejke det er out
+  Det er dejligt nemt at være her
+  I et firma der kan mer'
+\endverse
+
+\beginverse
+Her hos IBM der går det altid godt
+  Vi har altid gjort det flot
+  Og det lykk'es os at være først
+  Det er derfor vi er størst
+\endverse
+
+\beginverse
+ Der er sommerskolen for de unge
+  Vi må ha' eliten frem
+  Det en pragtfuld chance for at fjerne/finde
+  De får der tænker selv
+\endverse
+
+\beginverse
+ IBM er mere end jobbet
+  Der stribevis af tilbud
+  Du kan bruge al din fritid her
+  I et firma der kan mer'
+\endverse
+
+\beginverse
+Her hos IBM der går det altid godt
+  Vi har altid gjort det flot
+  Og det lykk'es os at være først
+  Det er derfor vi er størst
+\endverse
+
+\beginverse
+ Og når nu vor stat skal spare
+  Er det godt med IBM
+  For vi ser en chance til at gi'
+  Jer et nyt maskineri
+\endverse
+
+\beginverse
+ Der er alt hvad I skal bruge
+  Der er terminaler nok
+  Og det er en dejlig gave fra
+  Det firma der kan mer'
+\endverse
+
+\beginverse
+Her hos IBM der går det altid godt
+  Vi har altid gjort det flot
+  Og det lykk'es os at være først
+  Det er derfor vi er størst
+\endverse
+
+
+\endsong

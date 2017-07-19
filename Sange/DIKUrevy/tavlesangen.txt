@@ -1,0 +1,71 @@
+\beginsong{Tavlesangen}[sr={Melodi:Ukendt}, by={DIKUrevy 1982}]
+\beginverse
+   På 1. sal på DIKU
+            lidt til højre i Kantinen
+            hænger der en tavle med sedler lag på lag.
+            Tavlen er delt op i seks
+            med strimler fra maskinen
+            og hvis at man er heldig kommer der besked en dag.
+\endverse
+
+\beginverse
+   Hvornår mon de skriver til mig
+            hvornår mon jeg kan komme med
+            bare jeg engang ku' få
+            en enkelt lille krøllet seddel
+            ja, bare der engang ku' hænge en besked
+\endverse
+
+\beginverse
+   Dengang jeg var ny
+            og ikke kendte særlig mange
+            var der selvfølgelig ikke nogen sedler til mig
+            alligevel gik jeg hen og så
+            de allerfleste gange
+            men hvergang blev jeg skuffet, skyndte mig at gå min vej.
+\endverse
+
+\beginverse
+   Hvornår mon de skriver til mig
+            hvornår mon jeg kan komme med
+            bare jeg engang ku' få
+            en enkelt lille krøllet seddel
+            ja, bare der engang ku' hænge en besked
+\endverse
+
+\beginverse
+   År fulgte år og
+            1. del var snart til ende
+            stadig var jeg ensom og kendte ikke nogen,
+            men hver dag gik jeg hen og kigged'
+            for jeg tænkte: Det ku' jo hænde
+            at der ku' være en seddel fra en sød og rar person
+\endverse
+
+\beginverse
+   Hvornår mon de skriver til mig
+            hvornår mon jeg kan komme med
+            bare jeg engang ku' få
+            en enkelt lille krøllet seddel
+            ja, bare der engang ku' hænge en besked
+\endverse
+
+\beginverse
+   Men så forleden dag
+            medens sommervinden blæste
+            så jeg mit navn på tavlen, jeg knapt nok det forstod
+            med rystende hænder
+            tog jeg sedlen ned og læste
+            ``Betal 20 kr. for dit kursus'', Værsågod!
+\endverse
+
+\beginverse
+   Hvornår mon de skriver til mig
+            hvornår mon jeg kan komme med
+            bare jeg engang ku' få
+            en enkelt lille krøllet seddel
+            ja, bare der engang ku' hænge en besked
+\endverse
+
+
+\endsong

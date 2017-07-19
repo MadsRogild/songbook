@@ -1,0 +1,51 @@
+\beginsong{MicroVaxen}[sr={Melodi:Bruce Springsteen: ``I'm going down...''}, by={DIKUrevy 1989}]
+\beginverse
+Jeg er en microvax
+og jeg er rede til at køre straks.
+Jeg skal bare boote fra disken,
+så er jeg klar til at svinge pisken.
+Brugerne af Dat-1 systemet
+vil snart lære at kende problemet
+\endverse
+
+\beginverse
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+\endverse
+
+\beginverse
+Eric Jul han blev så henrykt
+da om alle os der blev ansøgt
+Jeg trække 2 til 4 bruger'
+Afhængigt af om argumentet duer
+Teknologi af 1. klasse
+si'r Eric Jul; men kan det nu passe?
+\endverse
+
+\beginverse
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+\endverse
+
+\beginverse
+Digital har produceret
+og har også alt for sent leveret.
+Manualer skal man bruge
+og de kommer nok i næste uge.
+Jeg er en maskine statur,
+jeg har ikke brug for et tastatur.
+Nu skal systemet eksporteres,
+bare synd, at disken eksploderer
+\endverse
+
+\beginverse
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+Jeg går ned, ned, ned, ned
+\endverse
+\endsong

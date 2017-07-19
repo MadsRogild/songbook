@@ -1,0 +1,45 @@
+\beginsong{Skub til grenen}[sr={Melodi:Morten Hampenberg \& Alexander Brown: ``Skub Til Taget''}, by={DIKUrevy 2016}]
+
+
+\beginverse
+%
+Vi skubber allesammen til den gren
+Vi skubber allesammen til den gren
+\endverse
+
+\beginverse
+Allesammen... skubber til den gren
+Allesammen... skubber til den gren
+Skubber til den gren
+Skubber til den gren
+Allesammen sk-skubber, skubber til den gren
+\endverse
+
+\beginverse
+Skub, skub til den gren
+\endverse
+
+\beginverse
+Skub, skub, skub til grenen
+Skub, skub, skub til grenen
+Skub, skub, skub til grenen
+Lad mig se din' git skillz ved træet
+\endverse
+
+\beginverse
+Skub, skub, skub til grenen
+Skub, skub, skub til grenen
+Skub, skub, skub til grenen
+Lad mig se din' git skillz ved træet
+\endverse
+
+
+
+
+
+
+
+
+
+
+\endsong

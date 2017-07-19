@@ -1,0 +1,118 @@
+\beginsong{Vi er alle i samme båd}[sr={Melodi:Kunstner: ``Vi er alle i samme båd''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Her har vi DIKU og her har vi MAI
+  Her er plads til mange, men ikke plads til dig
+\endverse
+
+\beginverse
+ Her er DIKU - her er MAI
+  Hvor der ikk' er plads til dig
+  Her er hele instituttet
+  Mon vor glanstid nu er sluttet?
+\endverse
+
+\beginverse
+ TAP'er, studenter
+  Professor', lektorer
+  Køleskab, kopimaskiner
+  VAX og piccolo'er
+  Budgetterne lægges
+  Får vi mon noget?
+  Vi er alle i samme båd
+\endverse
+
+\beginverse
+ Ovre på MAI har vi fået en kantine
+  Med ost og med wienerbrød, så vi kan rigtig svine
+\endverse
+
+\beginverse
+ Vi må ikke gå og svine
+  I den nye MAI kantine
+  Her er DIKU - her er MAI
+  Hvor der ikk' er plads til dig
+  Her er hele instituttet
+  Mon vor glanstid nu er sluttet?
+\endverse
+
+\beginverse
+ TAP'er, studenter
+  Professor', lektorer
+  Køleskab, kopimaskiner
+  VAX og piccolo'er
+  Budgetterne lægges
+  Får vi mon noget?
+  Vi er alle i samme båd
+\endverse
+
+\beginverse
+ Vi syns' at DVU planlægger rodet!
+  Det virker som om de har glemt at bruge ho'det
+\endverse
+
+\beginverse
+ Der er planen der er rodet
+  Der er DVUden ho'det
+  Vi må ikke gå og svine
+  I den nye MAI kantine
+  Her er DIKU - her er MAI
+  Hvor der ikk' er plads til dig
+  Her er hele instituttet
+  Mon vor glanstid nu er sluttet?
+\endverse
+
+\beginverse
+ TAP'er, studenter
+  Professor', lektorer
+  Køleskab, kopimaskiner
+  VAX og piccolo'er
+  Budgetterne lægges
+  Får vi mon noget?
+  Vi er alle i samme båd
+\endverse
+
+\beginverse
+ Vi har så mange problemer her på stedet
+  Men nu bli'r det bedre - vi har været i Ekstra Bladet
+\endverse
+
+\beginverse
+ Der problemer her på stedet
+  Det er noget for Ekstra Bladet
+\endverse
+
+\beginverse
+ Der problemer her på stedet
+  Det er noget for Ekstra Bladet
+  Der er Naur der er gået
+  Der den nye vi har fået
+  Der er planen der er rodet
+  Der er DVUden ho'det
+  Vi må ikke gå og svine
+  I den nye MAI kantine
+  Her er DIKU - her er MAI
+  Hvor der ikk' er plads til dig
+  Her er hele instituttet
+  Mon vor glanstid nu er sluttet?
+\endverse
+
+\beginverse
+ TAP'er, studenter
+  Professor', lektorer
+  Køleskab, kopimaskiner
+  VAX og piccolo'er
+  Budgetterne lægges
+  Får vi mon noget?
+  Vi er alle i samme båd
+\endverse
+
+
+
+
+
+
+
+
+\endsong

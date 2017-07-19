@@ -1,0 +1,45 @@
+\beginsong{Mit Institut}[sr={Melodi:Frank Sinatra: My kind of town (Chicago)}, by={DIKUrevy 2003}]
+
+
+\beginverse
+
+Der' længe vær't en herre over dette sted
+en mand som alle andre syn's er sej.
+Men fra i morgen der ved jeg med sikkerhed
+at da vil denne herre være mig
+\endverse
+
+\beginverse
+
+det....er.... mit instititut
+Stig Skelboe, din
+tid er nu slut
+Stig Skelboe, du
+kan ikke længre, du
+du bli'r sgu
+fyret nu, og alt hvad du ser
+Stig Skelboe, er
+blot mig der ler
+Stig Skelboe, din
+sidste eksamen er slut
+det' mit institut!
+\endverse
+
+
+
+\beginverse
+
+Mit institut
+Stig Skelboe, det'
+mit institut
+Stig Skelboe, du
+kan intet gøre
+Stig Skelboe, du
+kan mig ik' røre
+Stig Skelboe, du
+sku' tag' at komme herut
+det' mit institut!
+\endverse
+
+
+\endsong

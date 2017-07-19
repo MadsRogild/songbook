@@ -1,0 +1,59 @@
+\beginsong{Lidt kærlighed}[sr={Melodi:``Ein bisschen Liebe''}, by={DIKUrevy 1982}]
+\beginverse
+   Fremtiden tegnes i sort perspektiv,
+            problemerne truer med skændsel og kiv,
+            mistro og had overalt, hvor vi går,
+            trængsel og ringe kår.
+\endverse
+
+\beginverse
+   Kamp mod hinanden, i slag efter slag,
+            ingen vil opgi' en eneste dag.
+            Frihed og lighed er floskler i flæng,
+            venskab et groft refræn.
+\endverse
+
+\beginverse
+   Lidt kærlighed og lidt tolerance.
+            Et institut, vi vil gi' en chance.
+            Lidt kærlighed og en smule tillid
+            og at ku' vedgå hinandens krav.
+\endverse
+
+\beginverse
+   Lidt kærlighed og lidt hjertevarme
+            i følsomt samspil med dikucharme.
+            Lidt kærlighed og en fælles fremtid,
+            hvor vi ta'r hensyn til andres tarv.
+\endverse
+
+\beginverse
+   Ku' vi mod værne om DIKU i flok?
+            Ville gensidig accept være nok,
+            at respektere hinandens behov?
+            Jamen, så gør det dog!
+\endverse
+
+\beginverse
+   Lidt kærlighed og lidt tolerance.
+            Et institut, vi vil gi' en chance.
+            Lidt kærlighed og en smule tillid
+            og at ku' vedgå hinandens krav.
+\endverse
+
+\beginverse
+   Lidt kærlighed og lidt hjertevarme
+            i følsomt samspil med dikucharme.
+            Lidt kærlighed og en fælles fremtid,
+            hvor vi ta'r hensyn til andres tarv.
+\endverse
+
+\beginverse
+   Syng i kor
+            en lille sang:
+            DIKU tror
+            på fred engang!
+\endverse
+
+
+\endsong

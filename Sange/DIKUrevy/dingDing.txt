@@ -1,0 +1,34 @@
+\beginsong{Aflyttersang}[sr={Melodi:Trier-Bruel: ``Ding, dingeling''}, by={DIKUrevy 1988}]
+\beginverse
+Ding dingeling ding ding dingeling
+Røret siger dut og siger ellers ingenting
+ding ding dingeling ding ding dingeling
+jeg tæller hvert minut så bare prøv og ring'.
+\endverse
+
+\beginverse
+
+Jeg venter på at du skal kalde
+venter på du si'r hallo.
+Jeg lytter gerne med hos alle
+hvadenten den er el've eller to.
+\endverse
+
+\beginverse
+
+Jeg venter på at du skal ringe
+på at du ska' snakke lidt med no'en
+og hvis du snakker alt for længe
+så kommer jeg og ta'r din telefon.
+\endverse
+
+\beginverse
+
+Af og til så ta'r jeg røret 
+og si'r det koster en million 
+Når du snakker kan jeg hør'ed
+når du bruger DIKUs telefon
+\endverse
+
+
+\endsong

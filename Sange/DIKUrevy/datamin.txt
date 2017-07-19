@@ -1,0 +1,56 @@
+\beginsong{Datamin}[sr={Melodi:Kim Larsen: ``Kvinde min''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Datmat, jeg elsker dig
+  Fordi du elsker mig
+  Og når jeg tænder dig
+  Så bibber du
+  Så sødt til mig
+\endverse
+
+\beginverse
+ Selvom du har drillet tit
+  Og jeg har svedt og stridt
+  Så ved jeg det fordi
+  Du ved at jeg
+  Så godt ka' li'
+\endverse
+
+\beginverse
+Du tirrer mig
+  Du pirrer mig
+  Og mens jeg kæler for
+  Dit tastatur
+  Så glemmer jeg, at jeg
+  Jo blot er kød og blod
+  Åhja, åhja
+  Uhwa uhwa, bibibelibib
+  For du er stadigvæk
+  Akkurat lige så smuk
+  Som allerførste gang
+  Da jeg trykked' på dig
+  Så inderligt
+\endverse
+
+\beginverse
+ Andre men'sker
+  Siger tit
+  At jeg har fået pip
+  Men når programmet kø'r
+  Så griner vi
+  For vi er fri
+\endverse
+
+\beginverse
+ Alle men'sker lugter fælt
+  Og tænker ej reelt
+  De grimmer kolde folk
+  Forstår os ej
+  Åh min datamat
+\endverse
+
+
+
+
+\endsong

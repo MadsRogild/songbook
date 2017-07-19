@@ -1,0 +1,56 @@
+\beginsong{Manden pa måtten}[sr={Melodi:Står ikke}, by={DIKUrevy 1985}]
+\beginverse
+%
+Her står jeg hver morgen på måtten
+på måtten ved DIKU's dør
+og nyder lærdommen sådden
+så jeg bliver ganske ør
+studerende er jeg næsten
+hver dag til Dat-0 jeg går
+og lytter spændt til Kaj Madsen
+jeg klogskab og kunnen får
+jeg har med rapporter og bøger
+ej vrøvl som de andre har her
+forstår ganske alt hvad jeg hører
+og lidt til og meget er'
+Jeg elsker at regne flydende
+og pascal er mit yndlingssprog
+men jeg får aldrig andet end lydende
+men af dem kan man godt blivk klog
+mens de derinde har øv'lser i yordon og bobs
+bliver jeg datalogisk af ekkoet fra Reckus jobs
+\endverse
+
+\beginverse
+Jeg elsker at afprøve eksternt
+og internt og bruger især,
+desværre ligger det lidtfjernt
+når man ikke har øvelser her.
+\endverse
+
+\beginverse
+Men allermest elsker jeg kerner,
+i assembler laver jeg dem.
+Men Motorola'n de fjerner
+når man kun har 7 , 5.
+\endverse
+
+\beginverse
+For søvnløse næter jeg slippe
+for skrivekrame og stress.
+Jeg har al min tid til at flippe
+og leve og ryge græs.
+\endverse
+
+\beginverse
+Min auditoriedør
+jeg har den i smug på klem.
+Tilfreds med bare at høre.
+Med mit snit på 7 , 5.
+\endverse
+
+\beginverse
+Nu gad jeg vide, om lyden fra englenes kor,
+an være bedre, end lyden fra datalo'r!
+\endverse
+\endsong

@@ -1,0 +1,87 @@
+\beginsong{40 år}[sr={Melodi:Gitte Hænning: ``Bare 16 år''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Bare 40 år
+Stadig rig på tungmetaller
+Sikke tiden går
+(Men) data har jo ingen alder
+Vi kan køre hele koden hele tiden, I ka' tro vi tør
+Det er gåpåhumør!
+\endverse
+
+\beginverse
+Bare 40 år
+Godt at hulkort er vort idol
+Men om vi forstår
+Folk der ikke koder COBOL
+Denne mainframe er fantastisk, den kan regne, den kan printe
+Og den gør dig også klog
+\endverse
+
+\beginverse
+%
+Køre, koden skal køre
+Løkken er lav't af os
+Program, det er vor program
+Og maskinen kan så skrive data til et bånd!
+\endverse
+
+\beginverse
+%
+Bare 40 år
+Ingen indbrud, sikken rekord
+Den kan ikke hack's
+for den har ik' noget netkort
+Sådan nog't som flere kerner, mer' RAM og en SSD
+Øger jo ikke ens humør!
+    
+
+\endverse
+
+\beginverse
+%
+Køre, koden skal køre
+Løkken er lav't af os
+Program, det er vor program
+Og maskinen kan så skrive data til et bånd!
+\endverse
+
+
+\beginverse
+%
+Gange, plusse, dividere, og med mere
+Blir' man mon lidt skør i så'n et godt humør?
+\endverse
+
+\beginverse
+Bare 40 år!
+Der er kun 10.000 linjer
+som blev skrev't i går
+Resten er dog lig' lidt ældre
+Knapperne de er ret slidte, nogl' vejrbidte, er det så'n det går
+når man er 40 år?
+    
+%
+Køre, koden skal køre
+Løkken er lav't af os
+Program, det er vor program
+Og maskinen kan så skrive data til et bånd!
+\endverse
+
+\beginverse
+%
+Bare 40 år!
+Aj, det er da ik' så meget!
+Hvis I ik' forstår
+Skal I vid': Den er velplejet!
+Dag for dag bli'r koden større, altså bedre, vi er nog'n der
+selv ved alt om programmel
+\endverse
+
+\beginverse
+Din IBM-motor
+Fyrre år!
+\endverse
+
+
+\endsong

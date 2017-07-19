@@ -1,0 +1,49 @@
+\beginsong{Til Ungdommen}[sr={Melodi:Totalpetroleum: ``Tivoli er yt''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+
+  Danmark en'ste råstof
+  Det er jo vores viden
+  Vi lærte det i skolen og
+  Har glemt det meste siden
+  Men når vi nu skal kæmpe på
+  Det store verdensmarked
+  Så skal vi ku' det sidste nye
+  Ellers får vi sparket
+\endverse
+
+\beginverse
+
+  Samfundsfag, historie og gymnastik er yt
+  Hvis du ikke har haft datalære
+  Er du blevet snydt
+  Samfundsfag, historie og gymnastik er yt
+  Hvis du ikke lær' at splejse gener
+  Er du blevet snydt
+\endverse
+
+\beginverse
+
+  Når du nu skal ønske dig
+  Ting til fødselsdagen
+  Så ved du nok hvad du skal ha'
+  For det er lige sagen
+  Og når vi kommer hen mod jul
+  Og far og mor bru'r penge
+  Så kan du få lidt mer' af det
+  Du ønsked' dig så længe
+\endverse
+
+\beginverse
+
+  Legoklodser, bløde pakker, bøger det er yt
+  Hvis du ikke får et bipspil, ja
+  Så er du blevet snydt
+  Bøger, kørekort og udlandsrejser det er yt
+  Hvis du ikke får din egen mikro
+  Er du blevet snydt
+\endverse
+
+
+\endsong

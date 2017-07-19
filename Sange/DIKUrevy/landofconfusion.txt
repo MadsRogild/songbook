@@ -1,0 +1,111 @@
+\beginsong{I DAG er verden vor}[sr={Melodi:Land of confusion -- Genesis}, by={DIKUrevy 1998}]
+
+
+\beginverse
+En fysiker, en datanom
+En fyr med ingeniør diplom
+De koder på det store system
+Kan ikke løs' der's problem
+\endverse
+
+\beginverse
+De flår sig i det tynde hår
+For tidsfristen var sidste år
+Men chefen ved, hvordan han får ro.
+Han hyrer en datalog
+\endverse
+
+\beginverse
+Ingen panik
+Ingen problemer
+vi kan klare det hele.
+Og ta'r os ret godt betalt.
+For det her er datalogernes verden
+\endverse
+
+\beginverse
+Vi kan analysere \emph{(Å-å-åh)}.
+Og så kan vi optimere \emph{(Å-å-åh)}.
+lig'gyldigt hvad vi laver \emph{(Å-å-åh)}.
+så kan ingen overta' vor'
+jobs
+\endverse
+
+
+
+\beginverse
+En datalogisk superman.
+Der' ingenting jeg/han ikke kan.
+Når ingeniøren har givet op,
+så klarer jeg/han straks det job.
+\endverse
+
+\beginverse
+Ingen panik
+Ingen problemer
+vi kan klare det hele.
+Og ta'r os ret godt betalt.
+For det her er datalogernes verden
+\endverse
+
+\beginverse
+\newpage
+Vi kan analysere \emph{(Å-å-åh)}.
+Og så kan vi optimere \emph{(Å-å-åh)}.
+lig'gyldigt hvad vi laver \emph{(Å-å-åh)}.
+så kan ingen overta' vor'
+jobs
+\endverse
+
+\beginverse
+jeg kan huske dat0.
+Jeg fik et job i Netto.
+(Jeg) tjente ikk' en skid
+spildte min tid
+så blev jeg konsulent for, der belønnes flid.
+\ldots Det var dat0.
+\endverse
+
+\beginverse
+Mit bankkonto er overfyldt,
+Som datalog er jeg forgyldt,
+Og cheferne må fedte for mig
+for ellers si'r jeg goodbye
+\endverse
+
+\beginverse
+Ingen panik
+Ingen problemer
+vi kan klare det hele.
+Og ta'r os ret godt betalt.
+For det her er datalogernes verden
+\endverse
+
+\beginverse
+Vi kan analysere \emph{(Å-å-åh)}.
+Og så kan vi optimere \emph{(Å-å-åh)}.
+lig'gyldigt hvad vi laver \emph{(Å-å-åh)}.
+så kan ingen overta' vor'
+jobs
+\endverse
+
+\beginverse
+Vi kan analysere \emph{(Å-å-åh)}.
+Og så kan vi optimere \emph{(Å-å-åh)}.
+Følg med i vores færden \emph{(Å-å-åh)}.
+Vi HERSKER! I DAG ER VERDEN
+VOR!!!
+\endverse
+
+
+
+\beginverse
+% Bemærk at linieskift
+%            tages bogstaveligt i {\sf song}-environment'et
+%            Og man kan godt  hvordan sangeren agerer
+\endverse
+
+
+
+
+\endsong

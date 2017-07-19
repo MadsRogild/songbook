@@ -1,0 +1,50 @@
+\beginsong{Solskin ombord}[sr={Melodi:``Solskin ombord''}, by={DIKUrevy 1985}]
+\beginverse
+%
+Der var en student her fra vores institut
+han sagde til sig selv nu skal det være
+tiden hvor jeg for en gang slår mig løs
+så vendte han om og gik ned til sin
+Apple og skrev sig et BASIC-program
+men så sagde hans kæreste hun var færdig med
+det program som hun havde siddet med længe
+men nu havde hun også fået rigelig med
+datalogi
+oppe hele natten
+kæmper med BOBS og med LISP og med VAX
+nu var hun færdig med
+datalogi
+\endverse
+
+\beginverse
+Og pigen hun droppede binær og hex
+og ville i byen og ha' en gang
+pølser med ketchup og møde et slæng
+og finde en fyr der var god i en
+robåd og så ville de sejl' til en kyst
+og så kunne pigen sige nu har jeg
+brug for at hive i snoren til bøjen
+og så vil jeg hjem og gå med ham i
+
+kæmper hele natten
+både med BOB og med KURT og med MAX
+det skal blive godt med lidt
+
+\endverse
+
+\beginverse
+Men pigen var træt af det natlige pjat
+og hun ville hellere hjem til sin'
+studier på DIKU og gør' karrier'
+så kæresten sagde du må hellere la'
+mig ordne huset og passe ores børn
+og vaske og stryge og tage min
+kone i byen og spise en and
+og pigen blev noget så glad for sin
+datalogi
+oppe hele natten
+møder sin BOBS og sin LISP og sin VAX
+nu var hun glad for sin
+datalogi
+\endverse
+\endsong

@@ -1,0 +1,49 @@
+\beginsong{Sammenhæng}[sr={Melodi:Junglebogen: ``Sammenhold''}, by={DIKUrevy 1988}]
+
+
+\beginverse
+
+Sammenhæng
+Sammenhång
+Revisioner gi'r sammenhæng
+\endverse
+
+\beginverse
+
+Når kurserne
+er sandet til
+så vid at stu-
+dienævnet vil
+erstatte opgaver med læsning, teorier i flæng.
+Det er sammenhæng
+\endverse
+
+\beginverse
+
+Eksaminer så man kan dumpe,
+karakter, point.
+Det er sammenhæng
+\endverse
+
+\beginverse
+
+Er no'en i nød
+helt kørt fast
+så hjælper vi
+med lynets hast
+for studienævnet tager sig af hver person
+vi mindes ikke nogen der ikke fik dispensation (sensation)
+\endverse
+
+\beginverse
+
+Ny første del
+grafteori
+Kompleksitet
+mer' terperi
+matematik samt hackerteint
+Det er sammenhæng.
+\endverse
+
+
+\endsong

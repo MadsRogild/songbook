@@ -1,0 +1,75 @@
+\beginsong{Eksamensdag}[sr={Melodi:``Enter Sandman'' -- Metallica}, by={DIKUrevy 1996}]
+\beginverse
+ %
+Bed en bøn, lille ven
+nu skal du såmænd
+til eksamen igen
+Pensum læst, knap og nap
+Hej du sorte klap
+ingen dag uden den!
+\endverse
+
+\beginverse
+Ho'det under armen
+timerne flyver bort!
+\endverse
+
+\beginverse
+ Angstens sved
+        hagler ned
+        du bli'r svag
+        for nu er det eksamensdag!
+\endverse
+
+\beginverse
+Det bli'r lidt af et job
+censor er en snob
+du kan kun bli' et flop
+svimmelhed i din krop
+du skal kaste op
+tyndskid flyder non-stop
+\endverse
+
+\beginverse
+Ho'det under armen
+timerne flyver bort!
+\endverse
+
+\beginverse
+ Angstens sved
+        hagler ned
+        du bli'r svag
+        for nu er det eksamensdag!
+
+\endverse
+
+\beginverse
+\pagebreak[2]
+\endverse
+
+\beginverse
+\texttt{f} og \texttt{g} er hvad du har
+\texttt{f} og \texttt{g} er hvad jeg har
+\texttt{f} er
+$\texttt{int}\rightarrow\texttt{int}\rightarrow\texttt{char}$
+\texttt{f} er ikke særlig klar
+applicer nu \texttt{f} på \texttt{g}
+applicer---ak og ve
+hvad er typen så af det
+det kan jeg sku' ikke se
+\endverse
+
+\beginverse
+ruderne dugger - pulsen er høj
+dit hoved fyldes med mystisk støj
+verden svømmer - alt går i sort
+FUCK! Du dumper! Så'nod LORT!
+\endverse
+
+\beginverse
+ Angstens sved
+        hagler ned
+        du bli'r svag
+        for nu er det eksamensdag!
+\endverse
+\endsong

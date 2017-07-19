@@ -1,0 +1,37 @@
+\beginsong{Datababy}[sr={Melodi:Joan Javits/Philip Springer/Fred Ebb: ``Santa Baby''}, by={DIKUrevy 2010}]
+\beginverse
+   Dataloger, jeg er helt ny her på DIKU,
+Hjælp mig, jeg kan ikke kode,
+Hvis du lyster, så kom her hen og kod lidt med mig
+\endverse
+
+\beginverse
+   Rekursioner, strukturer, typecheck og fun fact
+  Eksplosioner, i mit lille hoved,
+  Vil du ikke, kom her hen og kod lidt med mig.
+\endverse
+
+\beginverse
+   Jeg er helt alene her
+  Hvordan skal jeg ku' tyde al' de tegn jeg ser
+  Jeg er bare så hjælpeløs
+  Hvis du gider hjælpe skal du nok få et kys
+\endverse
+
+\beginverse
+   Dataloger, ensom pige søger lidt hjælp,
+  Tror du, du kan klare mosten
+  Hvis du tør det, så kom her hen og kod lidt for mig
+\endverse
+
+
+
+\beginverse
+   Datababy, uh hvor ku' jeg brug' en pause
+  Måske, vi skulle fortsæt' derhjem'
+  Sig nu ja pus, kom herhen og kod lidt med mig
+  Kom med hjem og kod lidt min skat
+  Kom med hjem og kod - i nat.
+\endverse
+
+\endsong

@@ -1,0 +1,45 @@
+\beginsong{Takkesang}[sr={Melodi:The Archies: ``Summerprayer for Peace''}, by={DIKUrevy 1986}]
+
+
+\beginverse
+[omkvæd]
+Tusinder af kroner
+fornærmet, fortæret
+tusinder af kroner
+til at lave en revy
+\endverse
+
+\beginverse
+[vers 1]
+\begin{verbatim}
+Fagrådet      3000 kr. til at bygge scene for -- under
+              forudsætning af, at de bliver venligt
+              omtalt. Det være hermed gjort !
+Naturfagsbogladen  5000 kr til et lydanlæg
+Kantineforeningen  3000 kr i overskud fra julefrokosten
+              og 2000 kr af FLB's penge, som de allige-
+              vel opbevarede
+\end{verbatim}
+\endverse
+
+\beginverse
+[mellemstykke og omkvæd]
+Åh, tak for Jeres støtte
+Tak for alt I gav
+tak for det hele, fordi I ku' dele
+vi takker Jer i dag
+\endverse
+
+\beginverse
+[vers2]
+\begin{verbatim}
+Sidste 3 års revyer 4500 kr i opsparet overskud
+DIKU's bestyrelse   Et sæt nogler  -  til låns  - under
+              forudsætning af, at de bliver venligt omtalt.
+              Det være hermed gjort.
+HCØ's administration for lån af dette prægtige lokale
+Publikum i år       kr
+       - Tak skal I ha' -
+\end{verbatim}
+\endverse
+\endsong

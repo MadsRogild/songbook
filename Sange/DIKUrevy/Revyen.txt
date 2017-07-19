@@ -1,0 +1,86 @@
+\beginsong{Revyen (velkomstsang)}[sr={Melodi:P3 og venner: ``Go' morgen''}, by={DIKUrevy 2009}]
+
+
+\beginverse
+
+Hvis du vågner i kantinen
+en tirsdag klokken 10
+
+og du fejler Turing-testen
+når en pige går forbi
+
+Hvis din SU den er røget
+og dit studiekort er tomt
+
+og det hele minder dig om støj
+fra en kommandoprompt
+
+Hvis din bachelorvejleder
+li' er blevet skåret væk
+
+og du ta'r et kursus for at lære TeX
+\endverse
+
+\beginverse
+
+(Kom) til revyen, revyen
+kom ind og få en krammer
+og læn dig godt tilbag'
+Revyen, revyen
+Velkommen til
+det bli'r en dejlig dag
+\endverse
+
+\beginverse
+
+Hvis strålingen fra skærmen
+
+har gjort dig alt for bleg
+
+og det kun er Henrik Busch
+
+der gider --- at ''ansætte'' dig 
+
+Hvis din hjemmeside aldrig
+får besøg af Googlebot
+
+og Karl Koder er den eneste
+der syn's du koder godt
+
+Er der spam i din inbox?
+(ske)letter i dit skab?
+
+og Vista på din nye datamat?
+\endverse
+
+\beginverse
+
+(Kom) til revyen, revyen
+kom ind og få en krammer
+og læn dig godt tilbag'
+Revyen, revyen
+Velkommen til
+det bli'r en dejlig dag
+\endverse
+
+
+
+
+
+\beginverse
+
+(Kom) til revyen, revyen
+Kom ind og få en krammer
+Og læn dig godt tilbag'
+Revyen, revyen
+\endverse
+
+\beginverse
+Velkommen til
+det bli'r en dejlig dag
+Ja velkommen til
+det bli'r en dejlig dag
+\endverse
+
+
+\endsong

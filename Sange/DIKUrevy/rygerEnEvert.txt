@@ -1,0 +1,60 @@
+\beginsong{Vi Ryger en Skævert}[sr={Melodi:Palle, Polle og Ruth: Nu Ruller Vi Alle}, by={DIKUrevy 2003}]
+
+
+\beginverse
+ Vi ryger en skævert
+\endverse
+
+\beginverse
+ første ryger Evert
+\endverse
+
+\beginverse
+ så ryger Hasse
+\endverse
+
+\beginverse
+ så ryger Stig
+\endverse
+
+\beginverse
+ Mens fede vi fyrer
+mister vi styret
+her over DIKU, og det er fordi
+\endverse
+
+\beginverse
+ Vi mister alt
+\endverse
+
+\beginverse
+ Vi mister alle pengene i kassen
+\endverse
+
+\beginverse
+ Undtagen det
+\endverse
+
+\beginverse
+ Undtagen det som vi har brugt på hashen.
+\endverse
+
+\beginverse
+ Så pyt med udstyr og tappernes kroner
+\endverse
+
+\beginverse
+ pyt med vi mister nog'n rengøringskoner
+\endverse
+
+\beginverse
+ Pyt med' alle forsker' og studer'ne bliver kede
+\endverse
+
+\beginverse
+ så længe vi kan fyre en fed!
+Vi kan fyre en fed
+\endverse
+
+
+\endsong

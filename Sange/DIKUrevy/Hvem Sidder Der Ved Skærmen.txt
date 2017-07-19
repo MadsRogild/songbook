@@ -1,0 +1,72 @@
+\beginsong{Hvem Sidder Der Ved Skærmen}[sr={Melodi: Jens Vejmand}
+,
+by={ DIKUrevy 1973}
+,
+cr={}]
+\beginverse
+Hvem sidder der ved skærmen
+Med strimler om sin hånd
+Med hulkort op til halsen
+Og om sin sko et bånd?
+Det er jo datalogen
+Som sidder dagen lang
+Ved skærmen og forvandler
+Sit Algol 5 til Slan
+
+\endverse
+\beginverse
+Og vågner du en morgen
+I allerførse gry
+Og ser at skærmen skriver
+På ny, på ny, på ny
+Det er jo datalogen
+Som på dig sindssygt glor
+Og taster vildt og blodigt
+Ved terminalens bord
+
+\endverse
+\beginverse
+Og vandrer du til stuen
+Hvor alt er fint i stand
+Og møder du en stakkel
+Hvis øjne står i vand -
+Det er jo datalogen
+Som kommer dig på tværs
+Og ikke mer' kan finde
+En fejl i line halvfjerds
+
+\endverse
+\beginverse
+Og vender du tilbage
+I bygger og i blæst
+Mens aftenstjernen skælver
+Af kulde fra nordvest
+Og klinger terminalen
+Bag ryggen ganske nær
+Det er jo datalogen
+Som endnu sidder der
+
+\endverse
+\beginverse
+Dog dataskærmen jævned
+For ham den slemme vej
+Men da det led mod julen
+Da sagde skærmen nej;
+Det er jo datalogen
+Hans fingre slap den brat
+De bar ham væk fra stuen
+En kold december nat
+
+\endverse
+\beginverse
+Det er på opslagstavlen
+Et gammelt grønnet kort
+Hvor hulningen er ussel
+Og skriften ganske bort
+Det er jo datalogen
+Som aldrig gav et gny
+Men på hans plads ved skærmen
+Der sidder snart en ny
+
+\endverse
+\endsong

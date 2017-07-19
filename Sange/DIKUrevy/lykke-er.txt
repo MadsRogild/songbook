@@ -1,0 +1,52 @@
+\beginsong{Lykke er...}[sr={Melodi:``Stars and Stripes'' og ``Lykke er ...''}, by={DIKUrevy 1977}]
+\beginverse
+
+%
+Vors lands sikkerhed, det er os.
+EDB gi'r os svar med det samme.
+Hvis kommunerne byder os trods,
+ryger byrådet ind på en fil.
+\endverse
+
+\beginverse
+Vi programmerer perfekt,
+der er aldrig så meget som en løkke,
+løkke, løkke, løkke,....
+\endverse
+
+\beginverse
+
+%
+Lykke er, når løkken den er lykkedes,
+lykke er, når løkken den er lykkedes......
+\endverse
+
+\beginverse
+Lykke er den første dag på HCØ
+Lykke er at skulle stille sig i kø
+Lykke er at kende bare én, når man skal på ruskursus.
+\endverse
+
+\beginverse
+Lykke er at finde Auditorium 1
+Lykke er at se sin første over-head
+Lykke er at kunne hør' hvad Steensgaard si'r i mikrofonen -- eller hvad?
+\endverse
+
+\beginverse
+At skrive galdt i sin rapport
+At tabe alle sine kort
+At finde Snog på anden sal
+Når man skal kør' Pascal.
+\endverse
+
+\beginverse
+Lykke er at kunne ta' det lidt fra oven
+Når man ser, at Mat-1 er helt i skoven
+Lykke er at få en rædselsfuld eksamen suspenderet -- og hvad mer'?
+\endverse
+
+\beginverse
+\underline{Lykke er}
+\endverse
+\endsong

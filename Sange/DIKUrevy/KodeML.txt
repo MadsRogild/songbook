@@ -1,0 +1,62 @@
+\beginsong{Kode ML}[sr={Melodi:West Side Story ``I feel pretty''}, by={DIKUrevy 2004}]
+
+
+\beginverse
+ Kode ML
+Kode ML
+Kode Ml, ja ML og C
+Kode ML, det er meget bedre end VB
+Lala-lala-lala Lala-lala
+\endverse
+
+
+
+\beginverse
+Kode ML
+Kode ML
+Kode ML, ja ML og C
+ ++
+Kode C, det' det bedste som en koder ve'
+Lala-lala-lala Lala-lala Lala
+\endverse
+
+\beginverse
+ Se den koder der, han er rigtig hård
+ Hvem koder, hvor?
+ Han kan kode ML og C
+ Ikke VB!
+ For som Bjarne sa'
+Når man har sagt A
+må man sig' Bb
+og så kode C
+ Og så kode i SML!
+\endverse
+
+\beginverse
+ Kode ML
+Kode ML
+Kode ML, ja ML og C
+ ++
+ Kode C, det' det bedste som en koder ve'
+Lala-lala-lala Lala-lala Lala
+\endverse
+
+\beginverse
+ Se den koder der, han er rigtig hård
+ Hvem koder, hvor?
+ Han kan kode ML og C
+ Ikke VB!
+ Hvis vi koder mer'
+må vi moduler'
+og hvis man er skrap
+bli'r det til C\#
+\endverse
+
+\beginverse
+[Laaangsomt, stigende tempo] Kode ML
+Kode ML
+Kode ML, ja ML og C
+Kode C, det' det bedste som en koder ve'
+\endverse
+
+\endsong

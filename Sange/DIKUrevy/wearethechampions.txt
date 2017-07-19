@@ -1,0 +1,39 @@
+\beginsong{Det var så DIKU-revyen Part II}[sr={Melodi:We are the champions - Queen}, by={DIKUrevy 1998}]
+\beginverse
+ Dem på fysik
+               de blev til grin
+               også dekanen
+               det ga-amle svin
+                  
+               Det var så det
+               I fik at se
+               vores revy
+               med alt det gas der hører til
+\endverse
+
+\beginverse
+ Det var så DIKU-revyen
+               Vi si'r på gensyn til år nul
+               Det var revyen - DIKU revyen
+               Nu skal vi feste - for det var revyen
+               - sommerfest
+\endverse
+
+\beginverse
+ Halvdelen af TOPPS
+               på ITU
+               tog vores Mads og Henglein
+               men revyen vi bli'r her, her på DIKU
+\endverse
+
+\beginverse
+               Oppe i kantinen
+               - Åh sommerfest
+               Vi vælter os i øl og sprut
+               - Det DIKU når DIKU er bedst
+\endverse
+
+
+
+
+\endsong

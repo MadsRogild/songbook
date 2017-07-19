@@ -1,0 +1,80 @@
+\beginsong{Rigtig Kode}[sr={Melodi:TV-2: ``Rigtige Mænd''}, by={DIKUrevy 2015}]
+
+\beginverse
+  
+  Hva så vil min vejleder spørge
+  hva så så, hva så, hva så
+  hva så vil han sikkert spørge
+  Ska' kode slam på job
+  i kapitalens sold
+  Og blive ved indtil jeg dør
+\endverse
+
+\beginverse
+  Jeg har min grad, hør nu, det må være det!
+  Specialet færdigt, nu skal jeg være rig
+\endverse
+
+
+\beginverse
+  Jeg har et forslag, du sku' ta' dig -- en PhD
+\endverse
+
+
+\beginverse
+  Job og fritid er her balanceret
+  Her er koden altid indenteret
+  Ikke noget Java, kunde-ønsker til en grænseflade
+  Ikke mere tid at spilde
+\endverse
+
+\beginverse
+  Her er Haskell, her er algoritmer
+  Her er Knuth og Curry favoritter
+  Ikke flere fejlrapporter om en browsergrænseflade
+  Ikke mere tid at spilde
+\endverse
+
+\beginverse
+  Nej tak må jeg så sige til dig
+  Så tak men, nej, nej tak
+  Nej tak må jeg helt sikkert sige
+  Tre år mere på KU
+  Er det du si'r (helt ærligt hvad)
+  Tre år med det bureaukra-ti
+\endverse
+
+\beginverse
+  Jeg har min grad, hør nu, det må være det!
+  Specialet færdigt, nu skal jeg vær' rig
+  Jeg lover dig for at jeg aldrig -- bli'r PhD
+\endverse
+
+\beginverse
+  Job og fritid er her kombineret
+  Arbejdstiden ikke defineret
+  Ikke flere valg om hvor'n weekenden skal bruges, nej
+  Ikke særligt mange penge
+\endverse
+
+\beginverse
+  Her er Absalon og SCIENCE-IT
+  Her er Eduroam -- til tider ikke
+  Rette hele dagen, forske hele natten, for jeg har
+  Ikke nogen tid at spilde.
+\endverse
+
+\beginverse
+  Job og fritid er her kombineret
+  Arbejdstiden ikke defineret
+  Ikke noget Java, kunde-ønsker til en grænseflade
+  Ikke mere tid skal spildes
+\endverse
+
+\beginverse
+  Her er Haskell, her er algoritmer
+  Her er Knuth og Curry favoritter
+  Ikke flere fejlrapporter om en browsergrænseflade
+  Ikke mere tid skal spildes
+\endverse
+\endsong

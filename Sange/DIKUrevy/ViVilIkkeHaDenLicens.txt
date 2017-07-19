@@ -1,0 +1,98 @@
+\beginsong{Vi vil ikke ha' den licens}[sr={Melodi:Tom Lundén: ``I kan ikke slå os ihjel''}, by={DIKUrevy 2007}]
+\beginverse
+% [Snak]: (tales over indledende musik)
+% I gamle dage kunne jeg afmelde licensen,
+% men nu om dage skal jeg betale blot for muligheden
+% for at gå ind på DRs hjemmeside.
+% Men der har de kun plads til 1000 seere på een gang,
+% selvom alle nu skal betale.
+% Licensen har alle dage være en skæv skat.
+% Den straffer den enlige studerende forholdsvis hårdere
+% end en kernefamilie med to indtægter.
+% Hvorfor er det lige at DR ikke kunne bruge adganskoder,
+% som en anden landsdækkende tv-station allerede har formået?
+% Licensen skulle finansieres som resten af vores skattegoder,
+% alt andet er en dårlig tendens...
+\endverse
+
+\beginverse
+[Tager fjernsynet frem] Den her gælder det allerede for
+ Ja
+[Tager mobiltelefon frem] Hvad så med den her?
+ Jeps
+[Tager lille netværkskabel frem] Hvad så med den her?
+ Ja
+[Tager stort netværkskabel frem] Også den lange?
+ Også den
+[Tager palmpilot frem] Hvad så med\ldots
+ Ja
+[Tager laptop frem] \ldots
+ Også den
+[kommer ind med tilmeldingsblanketer] Nåh, men der er vel
+ingen vej udenom, vel?
+ Nej
+ Nej
+ Så må vi hellere se at få tilmeldt os den pokkers
+           medielicens.
+\endverse
+
+\beginverse
+[vers] De har ændret licensen
+Nu skal alle betale
+De har fjernet vor chance
+for at være legale
+Nu kan alle se fjernsyn
+på deres hjemmeside
+men de har kun plads til tusind
+vi andre må lide
+\endverse
+
+\beginverse
+[omkvæd synges 2 gange] Vi vil ikke ha' den licens
+Vi vil ikke ha' den licens
+Vi vil ikke ha' den licens
+Det' en dårlig tendens 
+\endverse
+
+\beginverse
+%2. vers: (Anisette magter ikke versefødder)
+[vers]Hvordan kan det være
+at rige direktører
+der har penge som græs
+kun skal betale håndører
+Men os studerende
+på SU og med lån
+med en månedsløn, betaler vi, for Danmarks Radios hån
+\endverse
+
+\beginverse
+[omkvæd synges 2 gange] Vi vil ikke ha' den licens
+Vi vil ikke ha' den licens
+Vi vil ikke ha' den licens
+Det' en dårlig tendens 
+\endverse
+
+\beginverse
+[vers] I kan sende dem et budskab
+hvis ellers at I tør det
+de kan bruge adgangskoder
+som de andre de gør det
+I kan afmelde licensen
+glemme alt om deres løgne
+for I er alle sortseere
+set med Danmarks Radios øjne
+\endverse
+
+\beginverse
+[modificeret omkvæd synges 2 gange] I skal ikke betale licens
+I skal ikke betale licens
+I skal ikke betale licens
+(hvis) I har intelligens
+\endverse
+
+\beginverse
+
+\endverse
+
+
+\endsong

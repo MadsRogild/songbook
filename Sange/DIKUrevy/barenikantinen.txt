@@ -1,0 +1,54 @@
+\beginsong{Baren i Kantinen}[sr={Melodi:Gasolin: ``Det bedste til mig og mine venner''}, by={DIKUrevy 1990}]
+\beginverse
+      Revy'n den er slut for i aften
+              musikken den dør stille ud
+              men det var rart at ha' haft den
+              ved trommerne sidder Knud
+\endverse
+
+\beginverse
+     og publikum - ja - er nu på den
+              I spørger, hvor skal vi nu gå hen?
+              vi si'r i baren
+              oppe i Kantinen - ja ja ja
+\endverse
+
+\beginverse
+     Vi skal nu til fest resten af natten - ja ja ja
+              ca. 8 timer på sprut - kan du
+              ikke klare den så er du slatten - ja ja ja
+              kom nu find en pige og trut
+\endverse
+
+\beginverse
+     og publikum - ja - er nu på den
+              I spørger, hvor skal vi nu gå hen?
+              vi si'r i baren
+              oppe i Kantinen - ja ja ja
+\endverse
+
+\beginverse
+     I har ondt i røv'n - den er vi kold i - ja ja ja
+              baren den er fyldt med flotte pi'r - ha ha ha
+              discofil musik med Steen Bartoldi - ja ja ja
+              nu ska' vi sgu ha' lidt lir
+\endverse
+
+\beginverse
+     og publikum - ja - er nu på den
+              I spørger, hvor skal vi nu gå hen?
+              vi si'r i baren
+              oppe i Kantinen - ja ja ja
+\endverse
+
+\beginverse
+     Vi skal nu til fest \ldots
+\endverse
+
+\beginverse
+     og publikum - ja - er nu på den
+              I spørger, hvor skal vi nu gå hen?
+              vi si'r i baren
+              oppe i Kantinen - ja ja ja
+\endverse
+\endsong

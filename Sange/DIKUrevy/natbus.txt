@@ -1,0 +1,74 @@
+\beginsong{Natbus til Rådhusplads'n}[sr={Melodi:I \& T Turner: ``Nutbush City Limits''}, by={DIKUrevy 1987}]
+\beginverse
+%
+Rapportskrivning natten lang.
+Sommerfest, dans og sang.
+Problemer med hjemtransport
+Svaret er ganske kort
+\endverse
+
+\beginverse
+Så ta' en natbus -- ååh natbus.
+Så ta' en natbus te' Rådhusplads'n.
+\endverse
+
+\beginverse
+Den hedder ni-otte-fem.
+Fra to til fem ta'r den dig hjem.
+Nul-otte er minutterne,
+så du må rubbe futterne.
+\endverse
+
+\beginverse
+Du ta'r en natbus -- ååh natbus.
+Du ta'r en natbus te' Rådhusplads'n.
+\endverse
+
+\beginverse
+Hvis du skal den anden vej,
+har vi også råd til dig.
+Fra et til fire som et lyn,
+ka' du komme ud af by'n.
+\endverse
+
+\beginverse
+Du ta'r en natbus -- ååh natbus.
+Du ta'r en tabsu FRA Rådhusplads'n.
+\endverse
+
+\beginverse
+Hillerød det ka' du nå.
+Ved Fælledparken står du på.
+Ni-femogfirser'n ta'r afsted
+tre-og-tred've -- ve' du med..
+\endverse
+
+\beginverse
+en natbus -- ååh natbus.
+Så ta' en natbus fra Rådhusplads'n.
+\endverse
+
+\beginverse
+Til Tagensvej der ka' du gå
+og klokken otte'r-tred-ve få
+en bus te' Farum uden stress,
+der hedder ni-hundred'hal'treds.
+\endverse
+
+\beginverse
+Du ta'r en natbus -- ååh natbus.
+Du ta'r en natbus fra Rådhusplads'n.
+\endverse
+
+\beginverse
+Otte'r-tred've -- Farum.
+Tre-og-tred've -- Hillerød.
+Nul-otte -- Rådhusplads'n.
+En gang i timen får den gassen.
+\endverse
+
+\beginverse
+Du ta'r en natbus -- ååh natbus.
+Du ta'r en natbus te' Rådhusplads'n.
+\endverse
+\endsong

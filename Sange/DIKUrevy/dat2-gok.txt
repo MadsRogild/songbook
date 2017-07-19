@@ -1,0 +1,79 @@
+\beginsong{Dat2-gok}[sr={Melodi:Admiralens vise}, by={DIKUrevy 1975}]
+\beginverse
+
+Som grøn student bestemte jeg
+at EDB sku' nyde godt af mig
+så jeg startede på DIKU, og ganske let
+bestod jeg først dat0 og næste år dat1
+ bestod hun først dat0 og næste år dat1
+ Efter tvende år uden megen brok
+så endte jeg hos Naur og hos Gregers Koch.
+ Efter tvende år uden megen brok
+så endte hun hos Naur og hos Gregers Koch.
+\endverse
+
+\beginverse
+
+I år jeg begyndte altså på dat2
+med glæde - Peter Naur sku' jo vær' så go'
+men om SIMULA han snakked' flere timer i træk
+og jeg ha'de bogen selv, så derfor blev jeg væk.
+ Og hun ha'de bogen selv, så derfor blev hun væk
+ Næh, jeg ha'de sandelig sat mere pris
+på at høre lidt om det der skulle stå i Gries
+ Næh, hun ha'de sandelig sat mere pris
+på at høre lidt om det der skulle stå i Gries
+\endverse
+
+\beginverse
+
+Undervejs var der megen administration
+jeg sku' hele tid'n bedømme noget eller nogen
+alt sku' skrive på maskine, kravene blev fler' og fler'
+så jeg endte med at skriv' på millimeterpapir.
+ Så hun endte med at skriv' på millimeterpapir.
+ Så tidligt fik jeg mer' end nok
+tilbag' var kun at håbe lidt på Gregers Koch.
+Så tidligt fik hun mer' end nok
+tilbag' var kun at håbe lidt på Gregers Koch.
+\endverse
+
+\beginverse
+
+Det startede så godt, jeg kom og så
+men høre noget ku' jeg ej opnå
+jeg ved ej hvilket sprog han talte i
+men han mumlet vistnok om et Chomsky-hiearki
+ men han mumlet vistnok om et Chomsky-hiearki
+ Og artiklerne vi fik at læse i
+var ikke meget andet end fix teori.
+ Og artiklerne vi fik at læse i
+var ikke meget andet end fix teori.
+\endverse
+
+\beginverse
+
+Og de små opgaver som jeg regne sku'
+har jeg faktisk ikke helt forstå't endnu
+først da han viste hvad han han tro'de han spurgte om
+fandt jeg ud af hvorfor de idéer aldrig kom.
+ Fandt hun ud af hvorfor de idéer aldrig kom.
+ Men hvis af små opgaver du ej fik nok
+så kan du bare hente fler' hos Gregers Koch
+ Men hvis af små opgaver du ej fik nok
+så kan du bare hente fler' hos Gregers Koch
+\endverse
+
+\beginverse
+
+Små og store opgaver var hjemme nu
+blot en sidste forhindring jeg klare sku
+jeg regned' og jeg læste og jeg hørte bånd
+for dermed på dat2 at få lagt sidste hånd
+ for dermed på dat2 at få lagt sidste hånd
+ Men til eksamen fik jeg et ordentligt gok
+af både Peter Naur og af Gregers Koch.
+ Men til eksamen fik hun et ordentligt gok
+af både Peter Naur og af Gregers Koch.
+\endverse
+\endsong

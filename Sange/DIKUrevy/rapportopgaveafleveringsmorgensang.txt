@@ -1,0 +1,42 @@
+\beginsong{Rapportopgaveafleveringsmorgensang}[sr={Melodi:Bifrost: ``Det er morgen''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Det er morgen og solen står op
+  Du gaber søvnigt og strækker din krop
+  Og skrivemaskinen summer endnu
+  I nat har vi skrevet på vores rapport
+  Ja, nogen gange er det tem'li' hårdt
+  Vi når det nok \ldots
+  Og det er morgen (men?)
+  Solen står op
+  Ja, det er morgen
+  Og solen står op
+\endverse
+
+\beginverse
+ Det er den sidste nat vi kan ta'
+  Vi afleverer idag klokken tre
+  Vi mangler lo sider endnu
+  Og vi har slet ikk' fået sovet inat
+  På trods af kaffen er jeg faktisk træt
+  Vi når det nok \ldots
+  Og det er morgen (men?)
+  Solen står op
+  Ja, det er morgen
+  Og solen står op
+\endverse
+
+\beginverse
+ Fuglene synger på Østerallé
+  Skal jeg nu søëge for morgenkomplet
+  Når vi så har spist kan vi ta' en lur
+  For nu har jeg skrevet den sidste sid'
+  Igen blev vi færdig med vores slid
+  Vi nåede det \ldots
+  Og nu er det morgen
+  osv.
+\endverse
+
+
+\endsong

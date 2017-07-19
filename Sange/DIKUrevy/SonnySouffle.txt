@@ -1,0 +1,61 @@
+\beginsong{DIKU revy}[sr={Melodi:``Sonny Souffl\'e''}, by={DIKUrevy 2002}]
+
+\beginverse
+  Nogen går på jobbet
+  Jeg har meldt mig syg
+  Andre går og keder sig
+  Men jeg vil ha' revy
+\endverse
+
+\beginverse
+  DIKU revy
+  Det er min hobby
+  Revy, revy, DIKU revy
+\endverse
+
+\beginverse
+  Nogen vil det gamle
+  Andre vil forny
+  Alle vil satire
+  Så, ah, de vil ha' revy
+\endverse
+
+\beginverse
+  DIKU revy
+  Har nosser af bly
+  Revy, revy, DIKU revy
+\endverse
+
+
+\beginverse
+  Ja, revy... 
+  det det' vi vil ha'
+  Revy, revy, DIKU-revy
+\endverse
+
+
+\beginverse
+  Nogen de vil drikke
+  Andre de vil spy
+  Alle vil se bryster
+  Velkommen til revy
+\endverse
+
+\beginverse
+  DIKU revy
+  Har nosser af bly
+  Revy, revy, DIKU revy
+\endverse
+
+\beginverse
+  Revy, revy, DIKU revy
+  Det er ik'
+  som fysik
+  DIKU-Revy
+\endverse
+
+\beginverse
+  1, 2, 3, 4
+\endverse
+
+\endsong

@@ -1,0 +1,51 @@
+\beginsong{Bye Bye DIKU}[sr={Melodi:The Beatles: ``Maxvell's Silver Hammer''}, by={DIKUrevy 1984}]
+
+
+\beginverse
+ Som professor må jeg hele tiden tænke på
+  Mit institut og mit fag
+  Jeg har ansvar for forskningsniveauet
+  Hvis man blæser på det så går vi helt i stå
+  Og dør en skønne dag
+  Men inden det så taber vi modet
+  Jeg anser næsten DIKU for kvalt
+  Og derfor siger jeg
+\endverse
+
+\beginverse
+Bye, Bye DIKU jeg er skredet
+  Nu går jeg min vej
+  Du er død og jeg er skredet
+  Og si'r DIKU, bye bye
+\endverse
+
+\beginverse
+ De studerende er så irriterende
+  Ingen ro og fred
+  Bunkevis af vakse studenter
+  Og når al min flid går med undervisningstid
+  Går min forskning ned
+  Udenfor står køen og venter
+  120 lukker de ind
+  Og jeg, ja jeg vil ud
+\endverse
+
+\beginverse
+Bye, Bye DIKU jeg er skredet
+  Nu går jeg min vej
+  Du er død og jeg er skredet
+  Og si'r DIKU, bye bye
+\endverse
+
+\beginverse
+Bye, Bye DIKU jeg er skredet
+  Nu går jeg min vej
+  Du er død og jeg er skredet
+  Og si'r DIKU, bye bye
+\endverse
+
+\beginverse
+ Bye Bye DIKU-U  DIKU bye bye
+\endverse
+
+\endsong

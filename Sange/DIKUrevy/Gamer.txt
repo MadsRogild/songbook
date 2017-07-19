@@ -1,0 +1,69 @@
+\beginsong{Gamer}[sr={Melodi:Alice Cooper: `Poison`}, by={DIKUrevy 2012}]
+
+
+\beginverse
+ Er datalog
+er delt i to
+Jeg hader dig
+Du styrer mig
+\endverse
+
+\beginverse
+Bør bruge Gentoo og smukt kode ML
+har alle svar'ne men har også andre behov
+helt fri for GUI, bar et smukt lille shell
+jeg nyder drømmen, men hvad nytter det: Jeg er gamer!
+Er gamer uden anden vej,
+jeg gamer,
+Kan ik' leve uden dig
+\endverse
+
+\beginverse
+Kan ik' bli' ved
+i hem'lighed
+Ej brugerskabt
+Min sjæl fortabt
+\endverse
+
+\beginverse
+Helt ind til kernen er du ineffektiv
+fyldt med blå skærme og en sikkerhed som en si
+det' tyd'ligt du blev kod't mens Ballmer var stiv
+men jeg er fanget, jeg kan ik' sig' fra: Jeg er gamer!
+Er gamer uden anden vej,
+jeg gamer,
+Kan ik' leve uden dig
+Gamer!
+\endverse
+
+\beginverse
+Jeg hader dig
+Du styrer mig
+\endverse
+
+\beginverse
+Bør bruge Gentoo og smukt kode ML
+har alle svar'ne men har også andre behov
+helt fri for GUI, bar et smukt lille shell
+jeg nyder drømmen, men hvad nytter det: Jeg er gamer!
+jeg gamer,
+Kan ik' leve uden dig
+Gamer!
+\endverse
+
+\beginverse
+Må træffe valget, skønt de kalder mig svin
+Jeg fragger noobs imens jeg giver Clippy high-five
+Har accepteret, lever uden pingvin
+jeg nyder livet, med mit Windows: Ja, jeg er gamer!
+Er gamer uden anden vej,
+jeg gamer,
+Kan ik' leve uden dig
+ønsker ingen anden vej,
+Jeg gamer,
+vil ik' leve uden dig
+Gamer
+\endverse
+
+
+\endsong

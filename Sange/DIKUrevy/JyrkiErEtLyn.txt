@@ -1,0 +1,57 @@
+\beginsong{Jyrki er et lyn}[sr={Melodi:``Bølle Bob'' af Per Borgsten}, by={DIKUrevy 1995}]
+\beginverse
+ Jyrki er et lyn,
+er maskinernes skræk
+Hele DIKUs bølle
+overfølsom og fræk
+Han slukker alle lamper og er tem'lig nervøs
+Hopper, skriger op og river ledninger løs
+\endverse
+
+\beginverse
+ Men han er sjov
+og vi er grov'
+skaber spænding ud'n at vi har fået lov
+Men når Katajainen elsker at ta' strøm på enhver
+Er det ikke vores skyld, han får konta-a-aktbesvær
+-- Båt blippe båt blippe båt båt
+-- Blip båt blippe båt blippe båt båt
+\endverse
+
+\beginverse
+ Flux ud af døren
+flyver finnen af sted
+med egen geigertæller
+-- Den er go at ha' med
+Når Jyrki er i stødet, er han tem'lig forrykt
+Han suser ned i kæld'ren og får noterne trykt 
+\endverse
+
+\beginverse
+{\em (omkvæd)}
+\endverse
+
+\beginverse
+Jyrki er en ``leder''
+ja -- en positiv kraft
+Det ved de på 1M
+for DE har ham haft.
+Han zapp!er lidt i pensum -- ``det er godt med lidt fyld''
+Han adderer et par sider -- (så'n) for vindingens skyld.
+\endverse
+
+\beginverse
+{\em (omkvæd)}
+\endverse
+
+\beginverse
+Er din alfa ``gået ned''
+og er DIKU i sort
+så er du temmelig sikker
+på at Jyrki har gjort
+en masse for at gøre en lektor til grin
+når han stikker lidt til Eric og hans helvetsmaskin!
+\endverse
+
+
+\endsong

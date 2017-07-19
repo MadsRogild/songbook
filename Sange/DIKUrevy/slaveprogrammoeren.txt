@@ -1,0 +1,58 @@
+\beginsong{Slaveprogrammørens sang}[sr={Melodi:``Play that funky music, white boy''}, by={DIKUrevy 2004}]
+\beginverse
+ 
+Jeg var en kodeslave  
+for en koorporeret gigant
+men jeg vil' noget andet lave
+nog't jeg synes var mer' intresant
+\endverse
+
+\beginverse
+Jeg ville skifte stilling
+den gik ik', så jeg fik det skidt
+men opgi' min bestilling
+det sag'd kontrakten det ku' jeg ik'
+\endverse
+
+\beginverse
+
+For der var chefer, og leder' og masser' komiteer
+og kunder med penge der alle stod og råbte
+Kod nu bar' programmet, slave
+programmer som aldrig før
+kod nu bar' programmet, slave
+Sæt dig med cola og skriv så på programmet til du dør!
+\endverse
+
+\beginverse
+ Så tog jeg ind på DIKU
+for jeg sku' lære teori
+der er så mange ting man skal ku'
+for at starte noget med penge i
+\endverse
+
+\beginverse
+Jeg fik mit eget firma
+Jeg søgte folk, men uden held
+Så derfor sidder jeg en søndag
+og koder hele lortet selv
+\endverse
+
+\beginverse
+\textit{For jeg er chefen, og leder'n, og alle komiter'ne
+og kunder med penge står stadigvæk og råber
+Kod nu bar' programmet, slave
+programmer som aldrig før
+Kod nu bar' programmet, slave
+Sæt dig med cola og skriv så på programmet til du dør!}
+\endverse
+
+\beginverse
+[skiftevis nogle gange] Kod nu bar' programmet
+\endverse
+
+\beginverse
+
+    
+\endverse
+\endsong

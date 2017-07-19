@@ -1,0 +1,51 @@
+\beginsong{I en sal på instituttet}[sr={Melodi:``I en seng på hospitalet''}, by={DIKUrevy 1991}]
+\beginverse
+%
+I en sal på instituttet
+hvor de små maskiner står
+sad en ny og grøn studerende
+med et mørkt og fedtet hår
+\endverse
+
+\beginverse
+Alles hjerter vandt den unge
+som han sad der nat og dag
+bar sin byrde uden klage
+og han var blot en af tre.
+\endverse
+
+\beginverse
+Og han spurgte sin instruktor
+vil min kerne køre snart
+kan jeg nå at holde weekend
+slappe af og ha' det rart.
+\endverse
+
+\beginverse
+Ugen gik og det blev weekend
+blomsterklædt stod mark og eng
+men studenten sad og knokled
+og kom aldrig hjem i seng.
+\endverse
+
+\beginverse
+Søndag aften i kantinen
+uden kaffe, uden rom.
+Der var ikke flere cola,
+poopcornhylden den var tom.
+\endverse
+
+\beginverse
+Og da ugerne var gået
+kunne kernen ikke kør'
+der ingen orm på skærmen
+primtalsørknen løbet tør.
+\endverse
+
+\beginverse
+Og de sidder nu ved skærmen
+læser news hele dagen lang.
+Og når sommeren er gået
+går de om endnu en gang
+\endverse
+\endsong

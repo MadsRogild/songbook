@@ -1,0 +1,58 @@
+\beginsong{Doublespace mit hjerte}[sr={Melodi:You're the one that I want}, by={DIKUrevy 1995}]
+\beginverse
+Jeg har kigget alle vejne
+        i min windows-manual,                  
+        men der står ikke no'et om drenge
+        Jeg bliver splittergal.
+\endverse
+
+\beginverse
+  Jeg vil op,
+        op og kør' på dig,
+        Men din sti er gemt for mig,
+        og dit krop-
+                \qquad[sprog]
+        det forvirrer mig.
+        Din semantik er bar' for sej.
+\endverse
+
+\beginverse
+  Gi'r du mig passwordet til dit hjerte, så får du mit.
+\endverse
+
+
+\beginverse
+        For du er den, jeg vil ha'
+ Den, jeg vil ha'
+        en rigtig nørd, nørd, nørd.
+        Du er den, jeg  vil ha'
+Den, jeg vil ha'
+        under mit skørt, skørt, skørt.
+  Jeg er den kvinde,
+        som du vil vinde.
+\endverse
+
+\beginverse
+  Jeg føler alt for stor en smerte,
+        for du er bare alt for sej.
+        La' mig dobbeltspace dit hjerte,
+        så der bliver plads til mig.
+\endverse
+
+\beginverse
+  Jeg går amok,
+        jeg er desperat,
+        melder mig ind i DKD
+        Jeg syn's nok,
+        at du' for oversmart.
+        Du er den lækreste, jeg ve'.
+\endverse
+
+\beginverse
+  Gi'r du mig passwordet til dit hjerte, så får du mit
+\endverse
+
+\beginverse
+{\em 3 $\times$ omkvæd}
+\endverse
+\endsong

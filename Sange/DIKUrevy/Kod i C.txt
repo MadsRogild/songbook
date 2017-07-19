@@ -1,0 +1,100 @@
+\beginsong{Kod i C}
+[sr={Melodi:Trans-Siberian Orchestra - What Child Is This?}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+Hvad sprog er det
+Du bruger her?
+(Hvor) kalder du din kerne?
+Forstod du ikk'
+Opgav'n du fik?
+Hvor har du lagt din hjerne?
+\endverse
+
+
+\beginverse
+Det skal nemmelig kodes i C
+Jeg vil ikk' se det der VB
+Det er i UNIX's hjertesprog, et sandt program er kodet
+\endverse
+
+
+\beginverse
+Hvad sprog er det
+Du prøver her?
+Til at behandle lister
+Python kan ej
+Nu hjælpe dig
+Når spildopsamler'n brister
+\endverse
+
+
+\beginverse
+Det skal nemmelig kodes i C ...
+\endverse
+
+
+\beginverse
+Så lav opgaven om
+Du har dumpet, min ven
+Jeg vil kun se på kode
+Programmeret af mænd
+\endverse
+
+
+\beginverse
+Cast til \texttt{int}
+Cast til \texttt{float}
+Cast til \texttt{char}
+Cast til \texttt{*void}!
+\endverse
+
+
+\beginverse
+Ku' du kod' i C
+Så ville du nok forstå
+\endverse
+
+
+\beginverse
+Kod i C
+\endverse
+
+
+\beginverse
+Med \texttt{malloc()}, og \texttt{fseek()}
+Når signal bringer bud
+Og \texttt{memset()} og \texttt{printf()}
+(Er) alle gaver fra GUd!
+\endverse
+
+
+\beginverse
+C giver dig kontrol
+Over all' dine RAM
+Så din kode kan styr'
+Ethvert andet program
+\endverse
+
+
+\beginverse
+Kod i C
+\endverse
+
+
+\beginverse
+Det skal nemmelig kodes i C ...
+\endverse
+
+
+\beginverse
+Hvad sprog er det
+Du brug'r endnu
+Er klasser værd at have?
+(Hørt) du ikk' en lyd
+(Af) den lange dyd
+(Fra) Richties anden udgave
+\endverse
+
+\endsong

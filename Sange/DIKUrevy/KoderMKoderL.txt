@@ -1,0 +1,65 @@
+\beginsong{Koder M, koder L}[sr={Melodi:Stig Rossen: ``Danser Rock, Danser rul''}, by={DIKUrevy 2008}]
+\beginverse
+Ka' du li' rekursioner og typesikkerhed
+høj'reordensfunktioner, der gør din kode fed
+Så mød os her på DIKU, på første sal mod nord
+det er her (det er her), hvor det sker (hvor det sker),
+her hvor TOPPS-gruppen den bor
+\endverse
+
+\beginverse
+vi Koder M, Koder L,
+Koder alle linjer selv,
+til den lyse morgen,
+ved skærmene i Hel
+tag din bærbare med,
+hvis nu serveren går ned
+hver en rus på DIKU
+bør kode M, kode L
+\endverse
+
+\beginverse
+ML er for DIKU, hvad bomber er for fred
+Har du tjek på de typer, så blir' din parser glad
+vort sprog det er forældet, men vi bli'r troligt ved
+for vi har (SML), rekursion (kod det selv)
+i en uend'lighed
+\endverse
+
+\beginverse
+vi Koder M, Koder L,
+Koder alle linjer selv,
+til den lyse morgen,
+ved skærmene i Hel
+tag din bærbare med,
+hvis nu serveren går ned
+hver en rus på DIKU
+bør kode M, kode L
+\endverse
+
+\beginverse
+[mellemstykke] Hvis ik' du taber modet, så går ML i blodet
+halerekursioner bider lidt i sig selv
+vi kigger på logikker (i) formelle semantikker
+og vil du tjene bobs, så læs i TOPPS
+\endverse
+
+
+
+\beginverse
+vi Koder M, Koder L,
+Koder alle linjer selv,
+til den lyse morgen,
+ved skærmene i Hel
+tag din bærbare med,
+hvis nu serveren går ned
+hver en rus på DIKU
+bør kode M, kode L
+\endverse
+
+\beginverse
+Hver en rus på DIKU
+bør ku' ML!
+\endverse
+
+\endsong

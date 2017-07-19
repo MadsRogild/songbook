@@ -1,0 +1,47 @@
+\beginsong{Er der nogen som har set mit løsen?}[sr={Melodi:Troels Trier: ``Er der nogen der har set min klaphat''}, by={DIKUrevy 2016}]
+\beginverse
+%
+Der' hændt mig noget frygteligt og det hændte i går,
+jeg glemte mit løsen, og jeg aner ik' hvorfor
+\endverse
+
+\beginverse
+Jeg har prøvet al' teknikker, jeg skal skal bruge det lige om snart
+er der nogen der kan fortælle mig hvad det var mit løsen var
+\endverse
+
+\beginverse
+Er der nogen der har set mit løsen,
+det jeg havde i mit sind
+siden jeg har glemt mit løsen
+har jeg ikke logget ind
+\endverse
+
+\beginverse
+Er der nogen der har set mit løsen,
+er der nogen der har taget det, hva'?
+Kom tilbage med mit løsen, det' det eneste jeg har
+Kom tilbage med mit løsen, det' det eneste jeg har
+\endverse
+
+
+
+\beginverse
+%
+Er der nogen der har set mit løsen,
+det jeg havde i mit sind
+siden jeg har glemt mit løsen
+har jeg ikke logget ind
+\endverse
+
+\beginverse
+Er der nogen der har set mit løsen,
+er der nogen der har taget det, hva'?
+Kom tilbage med mit løsen, det' det eneste jeg har
+Kom tilbage med mit løsen, det' det eneste jeg har
+\endverse
+
+
+
+
+\endsong

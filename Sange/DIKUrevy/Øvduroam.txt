@@ -1,0 +1,101 @@
+\beginsong{Øvduroam}
+[sr={Melodi:Rasmus Bjerg - Godt du kom}
+,by={DIKUrevy 2012}
+]
+
+\beginverse
+s: Kom på DIKU, og satte mig
+Jeg sku' på nettet, men der fik jeg et NEJ
+Er det' mit løsen der giver fejl?
+helt ærligt hvor besværligt med Eduroam?
+\endverse
+
+
+\beginverse
+e: Du vil ha' internet (sig wo-hoo-hoo)
+Men det er ikke let (sig bu-hoo-hoo)
+Du kommer aldrig på (sig bu-hoo-hoo)
+Nu bli'r jeg fand'me stresset, nu må jeg gå
+\endverse
+
+
+\beginverse
+e: Men var det min fejl?
+Var jeg lidt for længe om at godkend' dig?
+du fik da 2 minutter, men du bad om mer', meget mer'
+jeg sagd' nej-a-i-a-i-aaa-i-ai
+\endverse
+
+
+\beginverse
+s: Læser reddit.com/r/big-boobs
+Ahem, jeg mener for'læsning på YouTube
+mens jeg løser, min Rubiks cube
+jeg surfer helt forgæves med Eduroam!
+\endverse
+
+
+\beginverse
+e: Du vil' ha' internet (sig wo-hoo-hoo)
+Hva' fejlen, prøv at gæt? (vi ved det ik')
+Jeg ved det heller ik' (sig bu-hoo-hoo)
+Jeg spørger Science IT, vent lige lidt
+\endverse
+
+
+\beginverse
+e: Hov, det var min fejl!
+Jeg var fejlagtigt sat til kun at svare NEJ
+det burde virke nu så I kan bar' log' på
+Det ska' nok gå
+Stol på mig--ei-ei-eieieeej
+\endverse
+
+
+\beginverse
+s: Det var på tide, at jeg kom på
+Eksamen slutter snart og jeg vil gern' bestå-å-å
+Jeg trykker upload - den gik i stå!
+helt ærligt, u-retfærdigt, jeg blev smidt af!
+\endverse
+
+
+\beginverse
+a: Du vil' på Absalon (sig wo-hoo-hoo)
+det kan du ikke kom' (sig bu-hoo-hoo)
+Jeg tror du skal gå om (sig bu-hoo-hoo)
+du kan jo også bare send' en CD-rom?
+\endverse
+
+
+\beginverse
+s: Men jeg har deadline!
+Jeg har kun tre minutter, og jeg' ik' online!
+\endverse
+
+
+\beginverse
+e: Det' KUnet der sejler, det er Absalon!
+a: Eduroam!
+a+e: Det' ikk' mig! Ei-jei-ja-ha-hai
+\endverse
+
+
+\beginverse
+s: Hvorfor gør de det her?
+Hvorfor er det lort altid itu?
+Og hvorfor lige præcis nu
+Når vi er midt i eksamensuge-uh-uh-uh
+Vi vil ha' internet her!
+Helt ærligt hvor svært kan det vær?
+\endverse
+
+
+\beginverse
+a+e: I vil ha' internet (Kom nu-u-u)
+I gør det ikke let (Kom nu-u-u)
+I stresser min logik (Kom nu-u-u)
+Nu må I stoppe presset, for stor trafik!
+\endverse
+
+\endsong

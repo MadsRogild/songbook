@@ -1,0 +1,59 @@
+\beginsong{Vores Historie Starter}[sr={Melodi:Science Fiction - double feature}, by={DIKUrevy 1997}]
+\beginverse
+        Peter Naur var der,
+        fuld af fixe id\'er
+        så han skrev sig en lille bog
+        - fuld af øregejl
+        (dog uden kommafejl)
+        og han bragte andres pis i kog!
+\endverse
+
+\beginverse
+        Og jeg hørte et støn
+        fra ham Niels Andersen
+        "Tror han, han er en led humanist!
+        Han kan fa'me tro nej!"
+        Og så tog han på vej
+        gammelt fjendskab blussed' op til en tvist,
+\endverse
+
+\beginverse
+        Arvefjender i grøftegrave
+        udgjorde DIKUs børnehave.
+        Den var sgu' ynkelig, hele akten.
+        Nogen måtte jo tage magten     
+        Uåh åh åh åh åååh 
+        Det er her, at vor's historie starter nu
+\endverse
+
+\beginverse
+        Og så var der Kurt Keller
+        han var, fa'en heller
+        kompetent, men altså ikk' datalog.
+        Så dem fra Semantik
+        de fatted' ikke en brik,
+        Han var over deres hjernes niveau.
+\endverse
+
+\beginverse
+        De ku' virk'li' sno
+        reglerne kan man tro.
+        Kompetencen kom hurtigt til kort.
+        Så blev Frøkjær - hurra! -
+        Og hr. Clausen tilbag'
+        imens resten de var flygted' bort
+\endverse
+
+\beginverse
+        Arvefjender i grøftegrave
+        udgjorde DIKUs børnehave.
+        Den var sgu' ynkelig, hele akten.
+        Nogen måtte jo tage magten     
+        Uåh åh åh åh åååh 
+        Det er her, at vor's historie starter nu
+        så fuld af gru.
+        Det er her, at vor's historie starter nu
+        om lidt endnu. 
+        Det er her, at vor's historie starter nu.
+\endverse
+\endsong

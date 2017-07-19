@@ -1,0 +1,66 @@
+\beginsong{AI-sang}[sr={Melodi:Shu-bi-dua: ``Knuen''}, by={DIKUrevy 1989}]
+\beginverse
+Jeg er et lille program
+og jeg er skrevet i RAM
+Jeg har 7 procedurer
+men dem kan jeg ikke styre
+så hvad kan man lære af det?
+\endverse
+
+\beginverse
+Mon jeg var god nok,
+hvis jeg var Prolog?
+Men jeg hedder BUD
+er skrevet af Knud
+så jeg ser Pascal-agtig ud
+\endverse
+
+\beginverse
+Min fare er en skør amatør:
+Han er AI-programmør
+Han kan dårligt nok vente
+til vi bli'r intelligente
+og så bli'r han lærer af det!
+\endverse
+
+\beginverse
+Mon jeg var god nok,
+hvis jeg var Prolog?
+Men jeg hedder BUD
+er skrevet af Knud
+så jeg ser Pascal-agtig ud
+\endverse
+
+\beginverse
+Bar' jeg ku' bli' skrevet om
+bli' til logik eller brændt ind i ROM
+for jeg har det så skidt mæ'
+min gamle algoritme
+for hvad kan jeg lære af den?
+\endverse
+
+\beginverse
+Omkvæd: Mon jeg bli'r god nok
+når jeg bli'r Prolog?
+Så hedder jeg GUD
+er skrevet af KNUD,
+nu ser jeg AI-agtig ud
+\endverse
+
+\beginverse
+Jeg fik en fin heuristik
+men det er kun en teknik
+Mine træer er specielle
+for de er konceptuelle
+og kan man mon lære af det?
+\endverse
+
+\beginverse
+Nu er jeg Prolog
+men er jeg god nok?
+Maskinen bli'r tændt
+min Gud jeg er spændt
+måske er jeg intelligente?
+\endverse
+
+\endsong

@@ -1,0 +1,120 @@
+\beginsong{Compile}[sr={Melodi:Blues Brothers: ``Rawhide''}, by={DIKUrevy 2016}]
+\beginverse
+     {
+        Lexer lexer lexer
+        Lexer lexer lexer
+    }
+     {
+        Parser parser parser
+        Parser parser parser
+    }
+     {
+        Compile
+    }
+\endverse
+
+\beginverse
+     {
+        Lexer lexer lexer
+        Mange kildetekster
+        Opdeler i tokens
+        Compile
+    }
+\endverse
+
+\beginverse
+     {
+        Jeg læser dine konstanter
+        Hvor mange fejl de venter
+        Hvis du glemmer at lukke din streng
+    }
+\endverse
+
+\beginverse
+     {
+        Når koden er i bidder
+        Så sender jeg den videre
+        Til parseren ved siden af mig
+    }
+\endverse
+
+\beginverse
+     {
+        Del det op 
+        Byg et træ 
+        Del det op 
+        Compile
+        LR
+        Shift-reduce 
+        LR
+        Når jeg skal compile
+    }
+    
+     {
+        Parser, parser, parser
+        Altimens du raser
+        For din syntax sejler
+        Gi’r fejl
+    }
+\endverse
+
+\beginverse
+     {
+        Der hvor jeg præcederer
+        Bli’r præcedens dikteret
+        Fortolkningen er entydig hos mig
+    }
+\endverse
+
+\beginverse
+     {
+        Jeg ved ikke hvad du mener
+        Når typerne ikke forener
+        Det her jeg giver dig typefejl
+    }
+\endverse
+
+\beginverse
+     {
+        Del det op 
+        Byg et træ 
+        Del det op 
+        Compile
+        LR 
+        Shift-reduce 
+        LR
+        Når jeg skal compile
+    }
+\endverse
+
+\beginverse
+     {
+        Del det op 
+        Byg et træ 
+        Del det op 
+        Compile
+        LR 
+        Shift-reduce 
+        LR
+        Når jeg skal compile
+    }
+\endverse
+
+\beginverse
+     {
+        Lexer lexer lexer
+        Lexer lexer lexer
+    }
+     {
+        Parser parser parser
+        Parser parser parser
+    }
+     Compile
+\endverse
+
+\beginverse
+     {
+        Compile!
+    }
+\endverse
+\endsong

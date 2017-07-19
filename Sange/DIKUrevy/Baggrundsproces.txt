@@ -1,0 +1,102 @@
+\beginsong{Baggrundsproces}[sr={Melodi:Cherry Poppin' Daddies - Zoot Suit Riot}, by={DIKUrevy 2013}]
+\beginverse
+  
+  Når du bruger en terminal
+  Og vil køre mer’ end ét kald
+  Så har jeg et råd til dig
+  Så det stadig kan vær’ en leg
+\endverse
+
+\beginverse
+  
+  For når alle kaldene, de hober sig op
+  Så lad ikke terminalen få dig til at stopp’
+\endverse
+
+\beginverse
+  
+  Baggrundsproces! (proces!)
+  Slut dit kald med et og
+  Baggrundsproces! (proces!)
+  (-) Hvis din shell gi'r dig lov
+  Baggrundsproces! (proces!)
+  Slut dit kald med et og
+  Baggrundsproces! (proces!)
+  (-) Hvis din shell gi'r dig lov
+\endverse
+
+\beginverse
+  
+  Kør, og-tegn!
+\endverse
+
+\beginverse
+  
+  Forgrund er noget som alle kan
+  Næh nej, jeg er (-) baggrundsmand
+  Koder C, vil teste det
+  Control-z, så gcc
+\endverse
+
+\beginverse
+  
+  Også dine data kør'r i baggrunden
+  Hvordan tror du ellers din GUI[gu-i] får fat i dem?
+\endverse
+
+\beginverse
+  
+  Baggrundsproces! (proces!)
+  Slut dit kald med et og
+  Baggrundsproces! (proces!)
+  (-) Hvis din shell gi'r dig lov
+\endverse
+
+\beginverse
+  
+  Kør nu en baggrundsproces!
+  Kør nu en baggrundsproces!
+  Kør nu en baggrundsproces!
+\endverse
+
+\beginverse
+  
+  Brug et ogtegn
+  Eller hvad med bg?
+  Efter ctrl+z
+  Ikk’ ctrl+c
+  Der også dæ-æ-moner
+  /etc/init.d (et-c-in-it d)
+  Også din server
+  Kan ikke ses
+\endverse
+
+\beginverse
+  
+  Også dine data kør'r i baggrunden
+  Hvordan tror du ellers din GUI[gu-i] får fat i dem?
+\endverse
+
+\beginverse
+  
+  Baggrundsproces! (proces!)
+  Slut dit kald med et og
+  Baggrundsproces! (proces!)
+  (-) Hvis din shell gi'r dig lov
+\endverse
+
+\beginverse
+  
+  Baggrundsproces! (proces!)
+  Slut dit kald med et og
+  Baggrundsproces! (proces!)
+  (-) Hvis din shell gi'r dig lov
+\endverse
+
+\beginverse
+  
+  Kør nu en baggrundsproces!
+  Kør nu en baggrundsproces!
+  Kør nu en baggrundsproces!
+\endverse
+\endsong

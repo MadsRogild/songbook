@@ -1,0 +1,123 @@
+\beginsong{Revy'n er slut!}[sr={Melodi:Tubthumping -- Chumbawamba}, by={DIKUrevy 1998}]
+
+
+\beginverse
+                         % We'll be singing 
+                         % When we're winning 
+                         % We'll be singing
+ Vi er færdig'\ldots
+            og er ærlig'
+            vi er færdig'
+\endverse
+
+\beginverse
+                         % I get knocked down
+                         % But I get up again
+                         % You're never going to keep me down
+ Revy'n er slut
+               Så 'der sommerfest
+               nu ska'vi fanme op og slå os løs!
+{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\em (tages fire gange)}
+                         % Pissing the night away
+                         % Pissing the night away
+Pis kun på lokummet!
+Pis kun på lokummet!
+\endverse
+
+\beginverse
+ Vi ta'r en cola drink
+                  Vi ta'r en pinsler drink {\em (ref.\ til e.t.c.)}
+                  Vi spyr en pepsi drik
+                  Vi ta'r sgu' alle drinks
+\endverse
+
+\beginverse
+                  Vi tager en dans med de piger
+                  som ser godt
+                  De tager en dans med de fyre 
+                  der ser bedre ud
+\endverse
+
+\beginverse
+                         % He drinks a whisky drink
+                         % He drinks a vodka drink
+                         % He drinks a lager drink
+                         % He drinks a cider drink
+                         % He sings the songs that remind him
+                         % Of the good times
+                         % He sings the songs that remind him
+                         % Of the better times:
+\endverse
+
+\beginverse
+                         % "Oh Danny Boy
+                         % Danny Boy
+                         % Danny Boy..."
+ Åh--Sommerfest
+            Gin \& Urge
+            Druk og hor\ldots
+                          
+ Revy'n er slut
+               Så 'der sommerfest
+               nu ska'vi fanme op og slå os løs! 
+{~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\em (2 el.\ 4 gange)}
+                         % I get knocked down
+                         % But I get up again
+                         % You're never going to keep me down
+\endverse
+
+\beginverse
+                         % Pissing the night away
+                         % Pissing the night away
+ Pis kun på lokummet!
+            Pis kun på lokummet!
+\endverse
+
+\beginverse
+                         % He drinks a whisky drink
+                         % He drinks a vodka drink
+                         % He drinks a lager drink
+                         % He drinks a cider drink
+                         % He sings the songs that remind him
+                         % Of the good times
+                         % He sings the songs that remind him
+                         % Of the better times:
+ Vi ta'r en cola drink
+Vi ta'r en pinsler drink
+Vi spyr en pepsi drik
+Vi ta'r sgu' alle  drinks
+\endverse
+
+\beginverse
+Vi tager en dans med de piger
+som ser godt
+De tager en dans med de fyre 
+der ser bedre ud
+\endverse
+
+\beginverse
+                         % "Don't cry for me
+                         % Next door neighbour..."
+ Græd ik' for mig\ldots
+            ~~~~\ldots{}jeg brækker mig
+\endverse
+
+\beginverse
+                         % I get knocked down
+                         % But I get up again
+                         % You're never going to keep me down
+ Revy'n er slut\ldots {\em (ad lib.)}
+\endverse
+
+
+
+\beginverse
+                         % We'll be singing
+                         % When we're winning
+                         % We'll be singing
+\endverse
+
+
+
+
+\endsong

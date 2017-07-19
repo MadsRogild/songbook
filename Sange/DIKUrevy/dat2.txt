@@ -1,0 +1,118 @@
+\beginsong{Datalogi-2}[sr={Melodi:Ukendt melodi, men nok en kendt en}, by={DIKUrevy 1977}]
+\beginverse
+Hver eneste Dat-2'er
+Som tror han kan sit kram
+Bestiller ikke andet end
+At teste sit program.
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+%
+Man taster og man tamper
+I sindsforvirret takt
+Og sine fingerspidser
+Får man ganske ødelagt.
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+Når nogen nævner satsvis
+Forstår jeg ikke spor
+De står jo op og venter
+De har ho'det fuldt af jord!
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+Man holder fri til frokost
+Men efter en agurk
+Der får man glød i blikket:
+Nu skal skærmen ha', den skurk!
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+%
+Programmet er nu færdigt
+Det synger rent og pænt
+Nu mangler vi at teste kun
+De sidste 80 procent.
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+%
+En listning skal man have
+Og SIMULA med M
+Gi'r nyd'lig overtrykning
+Men papiret før's ej frem.
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+%
+På afleveringsdagen
+Man møder sammenbidt
+Men Hjørdis er jo aldit flink
+Det gi'r os lidt respit.
+\endverse
+
+\beginverse
+Man ta'r en terminal
+Og bli'r der dagen lang
+Man editerer, oversætter
+Mapper gang på gang.
+\endverse
+
+\beginverse
+%
+Nej vi vil råbe hurra
+Og det skal ske med smæld
+Når Peter Naur prøver på
+At bruge RECKU selv
+\endverse
+
+\beginverse
+Han ta'r en terminal
+Og bli'r der dagen lang
+Han editerer, oversætter
+Mapper gang på gang.
+\endverse
+\endsong

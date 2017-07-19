@@ -1,0 +1,36 @@
+\beginsong{Musikmaskiner og audioalisering af flowcharts}[sr={Melodi:"We Will Rock You" af Queen}, by={DIKUrevy 1995}]
+\beginverse
+ Er du træt af semantik
+er det lidt for svært?
+Er det ikke lige til at få det lært
+så kom til mig og kig
+ta' musik
+kom og skriv no't kode, slip for hjernegymnastik
+Vi skal, vi skal kode
+Vi skal, vi skal kode
+\endverse
+
+\beginverse
+Træt af bifag i fysik
+det er helt til grin
+Du er træt af alle de andre\ldots
+Så drop det mekanik 
+ta' musik
+Kom og spil på strenge, så det hele slår klik
+Vi skal, vi skal kode
+Vi skal, vi skal kode
+\endverse
+
+\beginverse
+Er du klar til noget sjovt?
+er dat2 for trist?
+Knokler på rapporter for at nå din frist
+Drop pragmatik
+ta' musik
+Kom og prøv no't nyt, drop det pladder-logik
+Vi skal, vi skal kode
+Vi skal, vi skal kode
+\endverse
+
+
+\endsong

@@ -1,0 +1,64 @@
+\beginsong{DatNulFunk}[sr={Melodi:Shubidua ``Rundfunk''}, by={DIKUrevy 2001}]
+
+
+\beginverse
+ Jeg er Dat Nuller
+ Og jeg er ligeglad
+ Går i tøj med huller
+ Og går alt for lidt i bad
+ Du' en Nørd med briller
+ og du' en hidsigprop.
+ Når programmet driller
+ så ringer du mig op!!!
+\endverse
+
+\beginverse
+
+Vi mødes over kildekoden
+og taster nallerne af led.
+Vi slider neglene til roden,
+men intet virker - det går stadig ned!
+\endverse
+
+\beginverse
+Og det bli'r ved med at crashe
+    Vi ta'r en login - og lidt debuggin
+\endverse
+
+\beginverse
+Og det bli'r ved med at crashe
+    Vi ta'r en login - og lidt debuggin 
+\endverse
+
+\beginverse
+Men op' i Midgård går en struktor rundt og ler
+har vi problemer kan han sagtens give os fler'
+\endverse
+
+
+
+\beginverse
+
+Men op' i Midgård går en struktor rundt og ler
+Og synes vi er rent til grin
+har vi problemer kan han sagtens gi' os fler'
+Vi fylder ham med fryd og os selv med koffein
+\endverse
+
+\beginverse
+
+Og det går ned, som det plejer
+Vi ta'r en login - og lidt debuggin
+Gid jeg dog havde en bajer.
+Vi ta'r en login - og lidt debuggin
+Men vi bli'r ved at gå te'en
+Vi ta'r en login - og lidt debuggin
+Hvad med en tur på Cafeen?
+Vi ta'r en login - og lidt debuggin
+Bare en enkelt til ganen?
+Vi ta'r en login - og lidt debuggin
+Kom, lad os hoppe i kanen!
+\endverse
+
+
+\endsong

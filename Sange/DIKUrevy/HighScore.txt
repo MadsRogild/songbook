@@ -1,0 +1,83 @@
+\beginsong{HighScore}[sr={Melodi:Tom Jones: ``If I Only Knew''}, by={DIKUrevy 2008}]
+\beginverse
+   WoW
+Yeah
+Yeah
+\endverse
+
+
+
+\beginverse
+[Vers A]
+Står her
+På min færd
+Jeg har lige fået helt nyt selvværd
+Når jeg går omkring i min base camp
+føler jeg mig rigtig som en mean "in your face"-champ
+Nyt eventyr
+Live Action, nu skal kampene end'lig kæmpes
+Det er her hvor hi-scoren hentes
+Byttet skal sikkert slås ned, forulempes
+Hvem, bider på!
+Når jeg slår mig lidt løs skal de nok få
+og ' jeg tror vist da
+jeg har lige fået plus fem (i) karisma
+Overvind, over sind, overtag, og forsvind
+Overstige og bekrige.
+\endverse
+
+\beginverse
+[Omkvæd A]
+For jeg ta'r sku det, 
+som der skal til
+at gi' mig næste level *2
+\endverse
+
+\beginverse
+[Vers B]
+Ja, nu - er mit liv forandret
+for i "The Game" er jeg - fast forankret
+Jeg var en nørd, jeg var grim, umulig
+Men nu er jeg ukuelig.
+Det er et "Mystery", jeg har indeni
+En forvandling i mig
+vil jeg sig'. [Det er] Narko!
+For min sjæl og min krop
+Alle piger omkring mig, scor' jeg
+Får jeg nok?
+Jeg er en en junkie
+Jeg må ha' mer, jeg er fræk og funky
+Jeg lever kun for at fange den næste
+og de fleste
+dem får jeg
+Jeg har gennemført.
+Banen, jeg spilled'
+er skabt i mit billed.
+\endverse
+
+\beginverse
+[Omkvæd B]
+For jeg ta'r sku det, 
+som der skal til
+at gi' mig næste base *4
+\endverse
+
+\beginverse
+Delte mit liv og min færd op i baner
+Clubbingen blev som et level af lagener
+\endverse
+
+\beginverse
+(pige kommer ind point-markering (et tal) over hovedet.)
+Kvinder: Ta' mig, ta' mig (slår dem ned med en "club"- wow så i ordspillet?).
+Er det for let nu?
+Er mit game nu gået ned, kørt træt nu?
+Overvid, over sind, over hend' og forsvind
+Overlegen - og alene.
+\endverse
+
+\beginverse
+While (true)
+   [Omkvæd B];
+\endverse
+\endsong

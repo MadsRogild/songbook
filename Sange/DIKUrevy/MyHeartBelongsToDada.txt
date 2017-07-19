@@ -1,0 +1,27 @@
+\beginsong{My Heart Belongs To Dada}[sr={Melodi:?: ``My Heart belongs to Daddy''}, by={DIKUrevy 2001}]
+
+
+\beginverse
+Hvor er han dog kæk
+Jeg smelter væk  
+hvad sker der dog i mine trusser?
+Jeg bliver forført
+af den gamle nørd
+og de søde unge russer
+\endverse
+
+\beginverse
+Jeg er fanget ind af dada
+det et maskulint kraft-katalog
+det er til at blive besat af
+dadada dadada dada dada
+Jeg ta'r alt undtag'n min hat af
+for min udkærne hr. datalog
+Og mit hjerte kan kun sige Ja da
+Lad det endeligt blive os to
+\endverse
+
+
+
+
+\endsong

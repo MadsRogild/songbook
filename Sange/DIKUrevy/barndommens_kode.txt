@@ -1,0 +1,56 @@
+\beginsong{Barndommens kode}[sr={Melodi:Anne Linnet: ``Barndommens Gade''}, by={DIKUrevy 1989}]
+\beginverse
+  Jeg er din barndoms kode
+  jeg er dit første sprog
+  Jeg er din måleenhed
+  for alt, hvad du siden tog.
+  Jeg er din lærers omhu
+  og din instruktors mod.
+  Jeg er de første timers
+  spaghettiprogrammers rod.
+\endverse
+
+\beginverse
+  Det er mig, der har lært dig om hægter,
+  jeg lærte dig labels og hop.
+  Jeg gav dig de første problemer,
+  som du aldrig fik til at gå op.
+  Jeg gik i uend'lig løkke,
+  da du glemte en ordre et sted
+  og så viderede jeg med nul,
+  da du talte indexet ned.
+\endverse
+
+\beginverse
+  Jeg er din barndoms kode,
+  jeg er dit første sprog.
+  Jeg gav dig de rødranded' øjne,
+  på dem kan man kende dig nu.
+  Møder du en med samme blik
+  kan du se, han er hacker som du.
+\endverse
+
+\beginverse
+  Møder du nye systemer
+  et velstruktureret program
+  skal du længes efter de første
+  goto-programmers slam.
+  Og når du skifter stilling
+  tror du vi er færdige, men...
+  jeg er din barndoms koe,
+  du finder mig altid igen!
+\endverse
+
+
+
+\beginverse
+  Jeg er din barndoms kode,
+  jeg er dit første sprog.
+  Jeg gav dig de rødranded' øjne,
+  på dem kan man kende dig nu.
+  Møder du en med samme blik
+  kan du se, han er hacker som du.
+\endverse
+
+
+\endsong

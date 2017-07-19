@@ -1,0 +1,92 @@
+\beginsong{Det var så DIKU-Revyen}[sr={Melodi:Don't Cry for Me Argentina - Andrew Lloyd \emph{Webber}}, by={DIKUrevy 1997}]
+
+
+\beginverse
+Det er desværre
+ved at vær' forbi
+men vi håber nu at I forstår
+og humøret er stort
+efter alt vi har gjort.
+\endverse
+
+\beginverse
+I tror os ikke,
+alt har I set, og der sker ikke mer...
+- VIP'erne gør korsets tegn
+mens TAP'erne sidder og ler
+\endverse
+
+\beginverse
+Men vi har jubilæum
+femogtyve år \emph{("femog" på et slag!)}
+siden første revy blev ført op
+Peter Jo sikkert husker
+som var det i går.
+\endverse
+
+\beginverse
+For traditionen
+den lever på DIKU, vi har vor revy
+år efter år er vi klar
+vi synger og spiller påny
+\endverse
+
+\beginverse
+  Det var så DIKURevyen
+  Kom op til sommerfesten
+  hvor vi skal danse
+  og sludre sammen
+  Vi holdt vort løfte, vi laved' rammen
+\endverse
+
+\beginverse
+Revyens fremtid?
+Datalogi?
+Hvor føres vi hen? -- og af hvem?
+Professorer, lektorer
+i et elfenbenstårn
+\endverse
+
+\beginverse
+Vi er studer'ne
+har viden, og magt, og ta'r alt vi kan ta',
+selv kurser der aldrig blev af
+forbandet! den andendelsdag
+\endverse
+
+\beginverse
+  Det var så DIKURevyen\ldots
+  \ldots{}Vi holdt vort løfte
+\endverse
+
+\beginverse
+  Det var så DIKURevyen\ldots
+  \ldots{}Vi holdt vort løfte, vi laved' rammen
+\endverse
+
+\beginverse
+\emph{(præsentation af folk og band)}
+\endverse
+
+\beginverse
+Og ekstranumre
+Det er noget der altid gi'r helt vild applaus
+selv fysikerne klapper med
+Vi griner og siger go' Gauss
+\endverse
+
+\beginverse
+  Det var så DIKURevyen\ldots
+  \ldots{}Vi holdt vort løfte
+\endverse
+
+\beginverse
+  Det var så DIKURevyen\ldots
+\endverse
+
+\beginverse
+DIKU revy!
+\endverse
+
+
+\endsong

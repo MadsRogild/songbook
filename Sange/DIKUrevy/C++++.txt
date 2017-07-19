@@ -1,0 +1,57 @@
+\beginsong{C++++}
+[sr={Melodi:Doris Day - Que Sera Sera}
+,by={DIKUrevy 2014}
+]
+
+\beginverse
+Da jeg var blot en lille rus
+Spurgt’ jeg instruktor’n, hvor’n bli’r jeg sej?
+Skal jeg kod’ Java? Eller ML?
+Så sagde han til mig:
+\endverse
+
+
+\beginverse
+C++, ++
+Så længe at du kan C
+...plus plus, skal du bare se!
+C++, ++
+++, C++
+\endverse
+
+
+\beginverse
+Nu er jeg blevet instruktor
+Men min' studer'nes kod' er grim
+De koder Java, og SML
+Så jeg siger til dem:
+\endverse
+
+
+\beginverse
+C++, ++
+Så længe at I kan C
+...plus plus, skal I bare se!
+C++, ++
+++, C++
+\endverse
+
+
+\beginverse
+Nu er jeg blevet kandidat
+Men kapitalens kode er slam
+De bruger Ruby, og Javascript
+Så jeg siger til dem:
+\endverse
+
+
+\beginverse
+C++, ++
+Så længe at I kan C
+...plus plus, skal I bare se!
+C++, ++
+++, C++
+C++, ++!
+\endverse
+
+\endsong

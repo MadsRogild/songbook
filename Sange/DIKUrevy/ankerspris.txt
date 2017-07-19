@@ -1,0 +1,43 @@
+\beginsong{Ankers Pris}[sr={Melodi:"`Ankers Pris"' m. violon og englekor}, by={DIKUrevy 1975}]
+\beginverse
+  Gartner Anker går sin runde
+  alle blomster kender ham
+  gartner Anker gi'r dem vand
+  han holder ømt sin lille spand
+\endverse
+
+\beginverse
+  Gartner Anker vander blomster
+  gartner Anker planter om
+  Hvorfor Neriens blomster kom
+  (ja) det ved Anker alting om
+\endverse
+
+\beginverse
+  Plantens nød er Ankers smerte
+  plantens lyst er Ankers fryd
+  heftigt banker Ankers hjer-
+  te, når han skuer DIKU's pryd
+\endverse
+
+\beginverse
+  Anker passer vores blomster
+  deres tarv er Ankers mål
+  DIKU's blomster er ham tro
+  og kun for ham vil planten gro
+\endverse
+
+\beginverse
+  Hvis vor gartner os forlader
+  blomster visner, blade dør
+  Hvem skal så os gi' musik
+  fra blomsterblades mosaik?
+\endverse
+
+\beginverse
+  Plantens nød er Ankers smerte
+  plantens lyst er Ankers fryd
+  heftigt banker Ankers hjer-
+  te, når han skuer DIKU's pryd
+\endverse
+\endsong

@@ -1,0 +1,25 @@
+\beginsong{Afslutning 1986}[sr={Melodi:``Farewell, farewell''}, by={DIKUrevy 1986}]
+\beginverse
+
+Farvel, farvel -- for denne gang
+vi synger nu på sidste vers
+mod enden det lakker igen så småt
+så ha' det rigtig godt
+\endverse
+
+\beginverse
+Farvel, farvel -- en afskedssang
+det sidste blad har vi nu vendt
+vi takker fordi at i gad høre på
+nu skal vi til at gå
+\endverse
+
+\beginverse
+
+
+Farvel, farvel -- et ømt farvel
+revyens stjerner år i hi
+vi håber, vi ikke har spildt vores krudt
+for nu' revyen slut, Farvel farvel.
+\endverse
+\endsong

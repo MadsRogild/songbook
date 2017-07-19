@@ -1,0 +1,77 @@
+\beginsong{ML}[sr={Melodi:Rawhide -- Blues Brothers}, by={DIKUrevy 2000}]
+
+
+\beginverse
+ Kode kode kode
+kode kode kode
+kode kode kode
+kode kode kode ML
+\endverse
+
+
+
+\beginverse
+ Kode kode kode
+nu det er på mode
+vil jeg ud og kode ML
+Jeg har fået jobbet
+DIKU det er droppet
+nu skal ML vær' kommerciel
+DIKUs datalære
+lød andre sprog er sære
+så vil du lære dem klar' du det selv
+\endverse
+
+\beginverse
+Cons en list,  head og tail
+head og tail,  cons en list
+cons en list,  head og tail,  ML
+ Pattern match,  rekursion
+ rekursion,  pattern match
+ pattern match,  rekursion, ML
+\endverse
+
+
+
+\beginverse
+ Det kører kører kører
+men cheferne er skøre
+de vil ikke køre ML
+(De) ka' ik' li' rekursionen
+i webapplikationen
+NT-serveren si'r farvel.
+Men ASP og scripting
+det er bare en skidt ting
+i bund og grund nog't værre programmel.
+\endverse
+
+
+
+\beginverse
+ Jeg styrer styrer styrer
+men cheferne er fyre
+der ik' ka' se jeg styrer ML
+(De si'r:) Der er kun eet der duer:
+Det, alle andre bruger
+C++ og Java er det vel?
+(Nej) væk fra rotteræset
+til universitetet  
+Der kan jeg kod' ML for mig selv.
+\endverse
+
+
+\beginverse
+ Kode kode kode
+kode kode kode
+kode kode kode
+kode kode kode ML
+\endverse
+
+
+
+\beginverse
+ ML!
+\endverse
+
+
+\endsong

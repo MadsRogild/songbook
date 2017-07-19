@@ -1,0 +1,46 @@
+\beginsong{Databørge}[sr={Melodi:Slikke-Hans}, by={DIKUrevy 1974}]
+\beginverse
+  Har I hørt om Data-Børge?
+  Han var fra Kerise
+  En af dem man uden a' spørge
+  Kalder datagrise
+  Databørge, Databørge
+  Han skal ha' en vise
+\endverse
+
+\beginverse
+  Ned og hulle sit program
+  hutig må han være
+  vise at han kan sit kram
+  så han sig kan blære
+  Databørge, Databørge
+  Han har nok at lære.
+\endverse
+
+\beginverse
+  Børge har det rigtig nød
+  glemte alt om orden
+  Hulkort over bordet flød
+  bag ham står der fjorten
+  Databørge, Databørge
+  bli' nu ikke knorten.
+\endverse
+
+\beginverse
+  Datamaten lød forpint
+  da børges kort den æder
+  outputtet er ikke fint
+  så Børge på det træder
+  Databørge, Databørge
+  bli'r det aldrig 'bedder'
+\endverse
+
+\beginverse
+  Rette fejl, men ej fuldtud
+  nærmest som et lotto
+  hulkort ind og output ud
+  det er Børges motto
+  Databørge, Databørge
+  Hvem ligner mon hans foto.
+\endverse
+\endsong

@@ -1,0 +1,96 @@
+\beginsong{Colapanik}
+[sr={Melodi:Ricky Martin - Livin' La Vida Loca}
+,by={DIKUrevy 2014}
+]
+
+\beginverse
+Mandag - DIKU-kantinen
+Et sted hvor alt kan ske
+Jeg finder mig en plads, så
+nu skal der kodes C.
+\endverse
+
+
+\beginverse
+Så kommer frokostpausen
+russerne strømmer ind.
+De køber alle cola
+tror også jeg ta’r en
+\endverse
+
+
+\beginverse
+Jeg rejser mig fra pladsen
+og skal ha’ en fra Dupont
+Jeg stikker kortet ind i den
+men jeg ser det er for sent
+Automaten den er tom!
+Udsolgt!
+\endverse
+
+
+\beginverse
+Russen foran mig
+han købte den sidste cola
+Maskinen lyser rødt
+han købte den sidste cola
+Trykker på hver en knap
+er løbet helt tør for cola
+Han sidder bare dér
+og drikker den sidste cola
+Udsolgt!
+Drikker den sidste cola
+Udsolgt!
+Han drikker den sidste cola
+\endverse
+
+
+\beginverse
+Øvelser på H.C. Ørsted
+Tørsten omfavner mig
+Ved tavlen der snakker min instruktor
+Hvornår er pausen - har brug for dig...
+\endverse
+
+
+\beginverse
+Går ned af trapperne til
+Vandrehallens automat
+Men russerne de har LinAlg
+og pausen den er straks
+Den er tom på nær for Max!
+Åh nej!
+\endverse
+
+
+\beginverse
+Russen foran mig...
+\endverse
+
+
+\beginverse
+Får endelig svar på mailen
+Jeg sendte til colapanik
+De siger der er blevet fyldt op nu
+Så jeg spurter til DIKU
+Men nu er den gået itu!
+Itu!
+\endverse
+
+
+\beginverse
+Russen foran mig
+han købte den sidste cola
+Maskinen lyser rødt
+han købte den sidste cola
+Trykker på hver en knap
+er løbet helt tør for cola
+Han sidder bare dér
+og drikker den sidste cola
+Udsolgt!
+Drikker den sidste cola
+Udsolgt!
+Han drikker den sidste cola
+\endverse
+
+\endsong

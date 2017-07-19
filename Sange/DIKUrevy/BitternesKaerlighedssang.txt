@@ -1,0 +1,44 @@
+\beginsong{Bitternes kærlighedssang}[sr={Melodi:Mozart: ``Piano Concerto no. 21 Andante''}, by={DIKUrevy 2012}]
+
+
+\beginverse
+%
+\endverse
+
+\beginverse
+ Åh, mit nul, min skat, du er det største nul
+Når, jeg ser dig, tænker jeg kun på hul 
+Årrh
+ Du' min kærlighed 
+ Når
+ vi er sam-
+ -men 
+ kan vi være aaaa..alle ting
+\endverse
+
+\beginverse
+ Et, du er, for mig, ikk' kun en lige streg
+Du, fylder mig, med lyst til boolean-leg 
+ Nul
+ ..er jeg uden dig
+ Et
+ ..er vi sam-
+ -men 
+ Nu bliver vi tooo.... du og jeg.
+\endverse
+
+
+
+\beginverse
+ Åh, mit nul, min skat, nu er du min igen
+ Et, lov mig nu, vi ikk' skal skill's igen
+Lad
+ ..os bli' skrevet ned
+ På
+ ..en CD-
+ ..-rom
+ Så kan vi ej skii...les igen.
+\endverse
+
+
+\endsong

@@ -1,0 +1,65 @@
+\beginsong{Lektorsangen}[sr={Melodi:``Den gamle gartner''}, by={DIKUrevy 1991}]
+\beginverse
+%
+Når jeg ser på små programmer,
+dukker glemte traumer frem.
+Om min gamle, skøre lektor,
+som nu sidder på et hjem.
+\endverse
+
+\beginverse
+Jeg skal aldrig, aldrig glemme,
+hans kedsommelige stemme.
+Han var vis og han var klog,
+han had' kigget i en bog.
+\endverse
+
+\beginverse
+Kode C og kode Fortran,
+bruge U-forstå'ligt sprog.
+Lave alting om til LISP,
+og finde fejl i hver en krog.
+\endverse
+
+\beginverse
+Når jeg læste til eksamen,
+blev jeg tavs og ganske stum.
+Og mit hoved blev forvandlet,
+til det store tomme rum.
+\endverse
+
+\beginverse
+Det var strengt for en dat-0'er,
+med en viden fuld af huller.
+Da'n var barsk og hård og trang,
+når den gamle lektor sang.
+\endverse
+
+\beginverse
+Give FEM og give NUL-TRE,
+give fryg-te-lig kritik.
+Slagte løs på alle kræ,
+og skabe angst og vild panik.
+\endverse
+
+\beginverse
+Når jeg ser på små maskiner,
+ka' jeg bli'e no'et så træt,
+og jeg tænker på assembler,
+og de timer jeg har grædt.
+\endverse
+
+\beginverse
+Jeg får stadig frustrationer,
+af Motorola-instruktioner.
+Når man load'ed koden ned,
+blev det ren til-fæl-dig-hed.
+\endverse
+
+\beginverse
+Kode orm og kode kerne,
+kode uret ligeså.
+Kigge på de små processer,
+til de pluds'lig gik i STÅ!
+\endverse
+\endsong

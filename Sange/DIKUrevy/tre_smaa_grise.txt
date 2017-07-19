@@ -1,0 +1,50 @@
+\beginsong{3 små grise}[sr={Melodi:Shu-bi-dua: ``De 3 små grise''}, by={DIKUrevy 1988}]
+\beginverse
+Vi er / tre studenter og vi / har det svært /
+bange for den næste faste / dead line /
+retter i programmet men vi / synes det er sært, det /
+kører bar' løs men komme r/ Ingn vegn' rap- /
+portopgaven p ådat1 den / løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / morgen / morgen / morgen.  Da vi /
+\endverse
+
+\beginverse
+fik den stillet så den / enkel ud /
+solen var på himlen da vi / fik den /
+tiden næsten gået, vi er / tæt på sammenbrud og /
+tordenvejr er vejrud / sigten. Rap /
+portopgaven på dat1 den løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / morgen / morgen / morgen.  Næste /
+\endverse
+
+\beginverse
+gang så kør vi efter / arbejdsplan /
+den er nemlig større end den / første /
+starter gruppen op imens vi / læser en roman, i /
+solskin i græs foran / Ørsted. Rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / rap /
+portopgaven på dat1 den / løser vi nok bedst i mor- /
+gen / morgen / morgen / morgen.  Onsdag /
+\endverse
+
+\beginverse
+torsdag, fredag, lørdag, søndag, / mandag med kan vi /
+sammen spille A D / og D'e /
+tirsdag går det løs, så skal vi / styrte afsted, og /
+bare vi nu kan holde / til de' de kan /
+stille den eksamen de vil / vi ved vi /
+altid kan bestå en til / vi ved sgu /
+godt / at dat1 står på spil / / / /
+\endverse
+\endsong

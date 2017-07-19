@@ -1,0 +1,62 @@
+\beginsong{Hvor'n havde du forventet}[sr={Melodi:Patrick Isakson (og Christian, den fims) ``Hvad havde du forventet''}, by={DIKUrevy 2002}]
+
+
+\beginverse
+  Hvor'n havde du forventet 
+  at studiet sku' være
+  masser af fritid, spændende fag
+  Naive små russer 
+  det er skam værre
+  det vil I selv nok
+  indse en dag
+\endverse
+
+\beginverse
+  Til forelæsning
+  øvelsestimer
+  snart vil du sove
+  sove så sødt
+  de dyre bøger
+  siger dig intet
+  du vil fortryde
+  at du blev født
+\endverse
+
+\beginverse
+  Du kan gøre hvad du vil, men aldrig bestå de fag
+  du prøver at bestå
+  du kan gøre hvad du vil, men aldrig forstå de ting
+  du læser
+\endverse
+
+\beginverse
+  Alt hvad du lærte
+  før du begyndte
+  vil ikke hjælpe
+  hjælpe dig stort
+  læser som sindsyg
+  du sover aldrig
+  til det er døgnet
+  alt alt for kort
+\endverse
+
+\beginverse
+  koder om natten
+  spørger instruktor'n
+  går i panik når
+  han lige er gået
+  Naive små russer
+  ta'r på Cafeen
+  søger en trøst der
+  er gylden og våd
+\endverse
+
+\beginverse
+  Du kan gøre hvad du vil, men aldrig bestå de fag
+  du prøver at bestå
+  du kan gøre hvad du vil, men aldrig forstå de ting
+  du læser
+\endverse
+
+
+\endsong

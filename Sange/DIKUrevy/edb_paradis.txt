@@ -1,0 +1,57 @@
+\beginsong{Edb-paradis}[sr={Melodi:``Disko-dronning''}, by={DIKUrevy 1983}]
+\beginverse
+ Velkommen i edb-paradis,
+          her er terminaler i massevis,
+          her går man hen når livet bli'r for hårdt,
+          her kan man lege og drømme tiden bort.
+\endverse
+
+\beginverse
+ Der er også plads til dig, så bare stig på,
+          du får det hurtigt lært, det skal nok gå,
+          med edb går alting som en leg
+          ja teknologien den bedøver dig
+\endverse
+
+\beginverse
+ For når først datamaten går i gang,
+          og du hører printerens skarpe klang,
+          vendes virk'ligheden op og ned
+          du rives med:
+\endverse
+
+\beginverse
+ Spil edb-spil, spil med edb
+          skærmens lys bedøver dine sanser
+          spil edb-spil, spil med edb
+          livet er så hårdt så snart maskinen standser
+\endverse
+
+\beginverse
+ Ja lyset er skarpt og maskinen er støjende,
+          forsker jeg kan se i dine øjne,
+          at drømmene fylder dig mens du tænker
+          og maskinen langsomt lægger dig i lænker.
+\endverse
+
+\beginverse
+ Ja, ideerne var mange og forskningen kogende,
+          du hørte ikke dem, der råbte i krogene,
+          dine tanker er guld -- ikke sandt
+          og algoritmer de er næsten som diamandter.
+\endverse
+
+\beginverse
+ Nu er tiden en anden, men forsk mens du kan,
+          forsk i dit DIKU-drømmeland.
+          Tiden er kold og jobbet er hårdt,
+          glem det nu, drøm dig bort:
+\endverse
+
+\beginverse
+ Forsk edb forsk i edb,
+          sindets lys bedøver dine sanser,
+          forsk edb forsk i edb
+          livet er så hårdt så snart maskinen standser.
+\endverse
+\endsong

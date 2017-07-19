@@ -1,0 +1,15 @@
+\beginsong{På Loftet sidder Jyrki}[sr={Melodi:``På loftet sidder nissen''}, by={DIKUrevy 2008}]
+\beginverse
+
+   På loftet sidder Jyrki med en sjov accent
+en sjov accent
+en sjov accent
+hans oversætter siger kom nu nok en gang
+for finsk på dansk, det har en særlig klang
+men rundt om sidder alle de studerende
+de studerende
+de studerende
+de synes Jyrkis sprog er for krypterende
+og de svarer alle tavst i kor
+\endverse
+\endsong

@@ -1,0 +1,41 @@
+\beginsong{Skabelsesberetning}[sr={Melodi:Farinelli: ``Herren som skabte alt på jord''}, by={DIKUrevy 1980}]
+\beginverse
+Herren som skabte alt på jord
+skabte vel også datalo'er
+For, som han sagde den gode Gud:
+"`Her ser sgu noget rodet ud.
+Vi må have skabt en god ekspert,
+en der kan klare lidt af hvert,
+som aldrig regner noget forkert"'.
+Så skabtes datalogen.
+\endverse
+
+\beginverse
+Fra dengang af
+og til i dag
+har vi nu fået set hvad edb betyder.
+Nu sidder Han
+på himlens rand
+og spekulerer på om han fortryder.
+\endverse
+
+\beginverse
+Fanden så til fra helvedets port
+sagde til sig selv: "`Det går som smurt.
+Her må jeg have e nfinger med,
+så de kan komme galt afsted"'.
+Da var det overløb blev skabt
+og decimaler som går tabt,
+indeksfejl, og som ærligt skrapt
+så skabte fanden {\em go to}
+\endverse
+
+\beginverse
+Til Fanden selv
+står vi i gæld
+for hvert problem vi skaber for hinanden.
+Hver ting der kør',
+hver programmør
+har fået lidt af både Gud og Fanden.
+\endverse
+\endsong

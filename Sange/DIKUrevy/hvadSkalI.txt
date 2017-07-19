@@ -1,0 +1,43 @@
+\beginsong{Hvad skal I med nøgler}[sr={Melodi:``One node samba''}, by={DIKUrevy 1988}]
+
+
+\beginverse
+
+Hvad skal I med noegler
+I skal ikke komme her.
+Hvad skal I med nøgler
+I er bare til besvær.
+Hvad skal I med nøgler
+når vi lukker klokken fem.
+Hvad skal I med nøgler
+I sku' hel're bli'e hjem'.
+\endverse
+
+
+
+\beginverse
+
+Jeg har gået og set
+at de studerende har
+mistet disciplinen
+-- se denne svinen.
+Så jeg har besluttet
+at vi ganske simpelt
+lukker for kantinen
+og for maskinen.
+\endverse
+
+\beginverse
+
+Se på de studenter
+der er startet her i år.
+Se hvor de dog sviner
+hvor de nu end går og står.
+Se på de studenter
+deres uansvarlighed.
+Hvad skal vi med russer
+vi vil hel're vær' i fred.
+\endverse
+
+
+\endsong

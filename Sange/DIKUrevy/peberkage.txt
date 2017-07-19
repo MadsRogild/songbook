@@ -1,0 +1,45 @@
+\beginsong{Kantinesangen}[sr={Melodi:Når en peberkagebager...}, by={DIKUrevy 1975}]
+\beginverse
+Når som ny kantinebørge
+du skal for det hele sørge
+ta'r du først et kilo kaffe
+og en lille ekstra sjat
+derpå varmer du med møje
+fire liter i det høje
+som du hælder ned på kaffen
+og så går det hele glat
+\endverse
+
+\beginverse
+Når det sidste vand er løbet
+fra det høje ned i dybet
+ta' kontakten ud af væggen
+og sæt kaffen hen på plads
+derpå henter du så fløde
+og så noget til at søde
+som man hælde kan i kaffen
+så det bliver noget stads
+\endverse
+
+\beginverse
+Derpå tænder du for vasken
+under megen larm og pjasken
+spiser basser, brød og snitter
+til den viser firs og tres
+når det lyser i den fjerde
+ta' en teske sæbe mere
+hvis det halve bliver renset
+kan du være godt tilfreds
+\endverse
+
+\beginverse
+Klokken tolv så tar' du sedlen
+og går ned til bag'ren med den
+klokken to du henter mælken
+og ta'r vand og øller frem
+Og når det er blevet sent
+si'r du bare der er pænt
+skriver ik' et ord på sedlen
+og ta'r nøglen med dig hjem.
+\endverse
+\endsong
