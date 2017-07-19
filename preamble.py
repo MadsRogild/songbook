@@ -12,7 +12,7 @@ standard = ["arabic", "roman", "Roman", "alph", "Alph","binary","hex","oct"]
 
 
 
-def create_preamble(author, name, style, logo, empty):
+def create_preamble(author, name, style, logo, empty, twosided):
     if """.svg""" in logo:          #check if the logo is in svg format
         tempf = open(logo,'r')      #open the file for reading
         s = tempf.read()
@@ -49,13 +49,17 @@ def create_preamble(author, name, style, logo, empty):
 
     f = open("Sanghaefte.tex", 'w+')        #now create the tex file for the songbook itself
 
-    f.write("""\\documentclass[11pt, pdftex]{article}
-\\usepackage{latexsym,fancyhdr}
-\\usepackage[a4paper,includeheadfoot,margin=2.5cm]{geometry}
-\\usepackage[lyric]{songs}
+    f.write("""\\documentclass[pdftex,12pt]{article}
+\\usepackage{latexsym,fancyhdr}\n""")
+    if twosided:
+        f.write("""\\usepackage[a4paper,includeheadfoot,left=1.8cm,right=1.2cm,,top=2cm,bottom=2cm,twoside]{geometry}\n""")
+    else:
+        f.write("""\\usepackage[a4paper,includeheadfoot,margin=1.5cm,top=2cm,bottom=2cm]{geometry}\n""")
+    f.write("""\\usepackage[lyric]{songs}
 \\usepackage[utf8]{inputenc}
-%\\usepackage[danish, english]{babel}
-\\usepackage[english]{babel}
+\\DeclareUnicodeCharacter{FEFF}{}
+\\usepackage[english,danish]{babel}
+%\\usepackage[english]{babel}
 \\usepackage{amssymb}
 \\usepackage{stmaryrd}
 \\usepackage{amsmath}
@@ -65,33 +69,42 @@ def create_preamble(author, name, style, logo, empty):
 \\usepackage{hyperref}
 \\usepackage{multicol}
 \\input binhex
-\\setlength{\columnsep}{2cm}
+\\setlength{\columnsep}{1.5cm}
 \\newindex{titleidx}{titlefile}
 \\sepindexesfalse
+\\noversenumbers
 \\title{Sangbog """ + name + """ \\the\\year}\n""")           #create preamble
     if author != "":
         f.write("""\\author{"""+author+"""}\n""")        #
     f.write("""\\date{\\today}
-\\addtolength{\\headwidth}{\\marginparsep}
-\\addtolength{\\headwidth}{\\marginparwidth}
-\\renewcommand{\\headrulewidth}{0.4pt}
-\\renewcommand{\\footrulewidth}{0.4pt}
-\\fancyhead[LE,RO]{\\LHeadFont Sangbog}
-\\fancyhead[CE,CO]{\\CHeadFont\\thepage}
-\\fancyhead[RE,LO]{\\RHeadFont\\RelDate}\n""")
+%\\addtolength{\\headwidth}{\\marginparsep}
+%\\addtolength{\\headwidth}{\\marginparwidth}
+\\renewcommand{\\headrulewidth}{.4pt}
+%\\renewcommand{\\footrulewidth}{0.4pt}
+\\fancyhead{}
+\\fancyhead[CE,CO]{}
+\\fancyhead[RE,LO]{\\thepage}
+\\fancyfoot{}\n""")
+    if twosided:
+        f.write("""\pagestyle{fancy}\n""")
     if """renew""" in style:
         f.write("""""" + style + """\n""")
     else:
-        f.write("""\\input{page_numbering}
-\\pagenumbering{""" + style + """}\n""")
+        f.write("""\\newcommand{\\countstyle}{""" + style + """}
+\\input{page_numbering}
+\\pagenumbering{shiftedpage}\n""")
     f.write("""\\begin{document}
 \\newcounter{temp}
-\\newcounter{temppage}\n""")          #continue preamble
+\\newcounter{temppage}
+\\newcounter{pageoffset}
+\\setcounter{page}{0}\n""")          #continue preamble
     if not empty:       #if empty is not specified start writing a front page
-        f.write("""\\thispagestyle{empty}
+        f.write("""\\newgeometry{margin=.5cm,top=4cm,bottom=.5cm}
+\\thispagestyle{empty}
+\\addtocounter{pageoffset}{-1}
 \\centering
 \\phantom{test}
-\\vspace{1cm}\n""")          
+\n""")          
         if """.svg""" in logo:
             scale_height = 1122.519685 / height_l
             scale_width = 818.110236 / width_l
@@ -109,17 +122,25 @@ def create_preamble(author, name, style, logo, empty):
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
             else:
                 f.write("""\\mbox{\\includegraphics[scale="""+str(scale)+"""]{"""+logo+"""}}\n""")
-        f.write("""\\vspace{1cm}
+        elif """.pdf""" in logo:
+            f.write("""\\mbox{\\includegraphics[width=\\textwidth]{"""+logo+"""}}\n""")
+        f.write("""\\vspace{.5cm}
 \\begin{center}\n""")
-        f.write("""\\fontfamily{phv}\\selectfont\\Huge """+name+""" \\the\\year\n""")         #put the title for the songbook below the logo
-        f.write("""\\end{center}\n""")
-    f.write("""\\vspace{2.5cm}
-\\newpage
-\\setcounter{page}{0}
+        if name == "":
+            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont \\the\\year\n""")         #If name is empty, only show the year
+        else:
+            f.write("""\\fontfamily{phv}\\fontsize{50}{60}\\selectfont """+name+"""\\\\\\the\\year\n""")         #put the title for the songbook below the logo
+        f.write("""\\end{center}\n\\restoregeometry""")
+    f.write("""
 \\raggedright
 \\songpos{0}
-\\spenalty=-10
+\\spenalty=50
 \\vvpenalty=100
+\\vcpenalty=100
+\\cvpenalty=100
+\\ccpenalty=100
+\\interlinepenalty=200
+\\setlength{\parindent}{1cm}
 \\begin{songs}{}
 \\setcounter{songnum}{0}
 """)        #end the preamble

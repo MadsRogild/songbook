@@ -2,11 +2,12 @@
 import sys, os, getopt, re
 import preamble, style_tex, auxiliary
 from subprocess import call
+from random import shuffle, seed, randint
 current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_sangbog(author, name, style, logo, empty, sort, fixed):
+def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random):
     index = 1
     songs = []
     filer = auxiliary.recursive_walk("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -21,7 +22,7 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
     elif style == "oct":
         style = "octX"
 
-    preamble.create_preamble(author, name, style, logo, empty)       #create the preamble of the tex file
+    preamble.create_preamble(author, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
             sang = open(fil, 'r')
@@ -47,24 +48,11 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
     if sort:
-        songs = sorted(songs, key=lambda songs: songs[0])       #sort the songs according to name
-        order = []
-        index = []
-        for i in range(0,len(songs)):
-            (_,_,o) = songs[i]
-            if o < sys.maxint:
-                order.append(songs[i])
-                index.append(i)
-        index = sorted(index)
-        for i in range(0,len(index)):
-            del songs[index[i]]
-        order = sorted(order, key=lambda order: order[2])
-        for i in range(0,len(order)):
-            (_,_,o) = order[i]
-            songs.insert(o, order[i])
-
+        songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
+    if random:
+        shuffle(songs)
     if fixed:
-        songs = sorted(songs, key=lambda songs: songs[0])
+        songs = sorted(songs, key=lambda songs: songs[2])
         order = []
         index = []
         for i in range(0,len(songs)):
@@ -72,9 +60,11 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
             if o < sys.maxint:
                 order.append(songs[i])
                 index.append(i)
-        for i in range(0,len(index)):
-            del songs[index[i]]
-        order = sorted(order, key=lambda order: order[2])
+
+        for i in range(len(index)-1,-1,-1):
+            del songs[i]
+        if not(random):
+            songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
         for i in range(0,len(order)):
             (_,_,o) = order[i]
             songs.insert(o, order[i])
@@ -98,13 +88,12 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
 \\setcounter{songnum}{12}"""        #set a counter to the current song number, and force the song number to be 12, all done in latex
                     end += """
 \\setcounter{songnum}{\\thetemp}"""         #change the song number back to the original
-                start += """\\setcounter{temppage}{\\value{page}}       
-\\pagenumbering{arabic}
-\\setcounter{page}{10}"""           #set counter to the current page number, change the pagenumbering to arabic and change the page number to 10
+                start += """\\renewcommand{\\thepage}{10}
+\\addtocounter{pageoffset}{-1}"""           #Set page number to 10 and shift remaining page numbers by 1
                 text = start + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song""" + str(counter) + """}\n""" + text[j+1:] + """
 \\newpage
 """ + end           #put all the pieces together and make a hypertarget for use in pagereferences ind indexing
-                next_page = 2
+                next_page = 1
             elif title == "I Morgen er Verden Vor" and (songs.index(tup) != 42):
                 text = """\\setcounter{temp}{\\thesongnum}
 \\setcounter{songnum}{42}""" + text[:j+1] + "\\hypertarget{" + title + "}{}\n\\label{song" + str(counter) + "}\n" + text[j+1:] + """
@@ -122,26 +111,47 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
                     if """renew""" in style:
                         text += """""" + style + """\n"""
                     else:
-                        text += """\\pagenumbering{""" + style + """}\n"""          #change the style back to the set style
-                    text += """\\setcounter{page}{\\value{temppage}}\n"""       #and change the pagenumber back to what it was
+                        text += """\\setcounter{temppage}{\\value{page}}\n\\pagenumbering{shiftedpage}\n\\setcounter{page}{\\value{temppage}}"""          #change the style back to the set style, using temppage to avoid the fact that pagenumbering resets page.
+                    text += """\n"""       #and change the pagenumber back to what it was
             f.write("""\n""" + text + """\n""")
             counter += 1
 
 
-    f.write("""\n\\end{songs}
+    f.write("""\n\\end{songs}""")
+    if twosided:
+        f.write("""\\makeatletter
+\\newcount\\divFour
+\\divFour \\c@page
+\\divide\\divFour by 4
+\\multiply\\divFour by 4
+\\advance\\divFour by-\\c@page
+\\edef\\remainFour{\\the\\divFour}
+\\ifnum\\remainFour = 0
+  \\clearpage\\null\\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -1
+  \\clearpage\\null\\clearpage\\null
+\\else\\ifnum\\remainFour = -2
+  \\clearpage\\null
+\\fi\\fi\\fi""")
+    f.write("""
+\\newgeometry{margin=2cm,top=2cm,bottom=2cm}
+\\setlength{\\headwidth}{\\textwidth}
 \\showindex[2]{Sange}{titleidx}
 \\end{document}""")                 #add the index
     index_file = open("titlefile.sbx",'w+')             #start writing to the index file
-    index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
+#    index_file.write("""\\begin{idxblock}\n\n""")       #start writing the index
+    index_file.write("""\\setlength{\parindent}{-4em}\\addtolength{\\leftskip}{4em}\n""")       #start writing the index
 
 
-    songs_index = sorted(songs, key=lambda songs: songs[0])
+    songs_index = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())
     for i in range(0, len(songs_index)):
         (title,_,_) = songs_index[i]            #get the title of the songs
         index = songs.index([item for item in songs if item[0] == title][0])
-        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+#        index_file.write("\\idxentry{" + title.replace('\\','') + "}{Sang nummer: \\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "} På side: \pageref{song" + str(index) + "}}\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
+        index_file.write("\makebox[2em][r]{\\hyperlink{" + title.replace('\\','') + "}{" + str(index) + "}} {\idxtitlefont " + title + "}\ \dotfill\ side~\pageref{song" + str(index) + "}\n\n")        #create the hyperlink to the hypertarget, and get the song number and pagenumber
 
-    index_file.write("""\\end{idxblock}""")     #end index
+
+#    index_file.write("""\\end{idxblock}""")     #end index
     f.close()
     index_file.close()
     call(["pdflatex", "Sanghaefte.tex"])
@@ -150,8 +160,8 @@ def create_sangbog(author, name, style, logo, empty, sort, fixed):
 
 
 def usage():
-    print("Usage: "+sys.argv[0]+" -a <used to set the name of the author of the songbook> -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of sangbook> -l <file for logo, svg or png>")
-    print("Options: -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number)")
+    print("Usage: "+sys.argv[0]+" -a <used to set the name of the author of the songbook> -p <used to define new pagenumbering style> -s <choose pagenumbering style> -n <name of songbook> -l <file for logo, svg or png>")
+    print("Options: -e (if you do no want a front page) -S (if you want the songs to be sorted by title) -f (if you want the songs to be sorted by a fixed number) -r (if you want the songs shuffled. Combines with -f to shuffle only the non-fixed songs) -t (twosided print intended for booklets) --seed (specify seed for -r)")
 
 def main(argv):
     author = ""
@@ -159,11 +169,16 @@ def main(argv):
     style = ""          #the chosen style
     new_style = ""      #the new style to be defined
     empty = False       #if you want a front page or not
+    twosided = False       #if you want twosided for book print or not
     logo = ""           #the file containing the logo for the front page
     sort = False
     fixed = False
+    random = False
+    
+    strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
+    seed(strSeed)
     try:
-        opts, args = getopt.getopt(argv,"hea:p:s:n:l:Sf",["help","empty","author","new_style=","style=","name=", "logo=", "sort", "fixed"])     
+        opts, args = getopt.getopt(argv,"heatp:s:n:l:Sfr",["help","empty","author=","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -177,7 +192,7 @@ def main(argv):
             style = arg
         elif opt in ("-n", "--name"):           #option used to set the name
             name = arg
-        elif opt in ("-a","--author"):             #option used to set both unf to true
+        elif opt in ("-a", "--author"):         #option used to set both unf to true
             author = arg
         elif opt in ("-l", "--logo"):           #option used to get a logo on the front page
             logo = arg
@@ -187,10 +202,21 @@ def main(argv):
                 sys.exit()
             else:
                 empty = True
+        elif opt in ("-t","--twosided"):
+            twosided = True
         elif opt in ("-S","--sort"):
             sort = True
         elif opt in ("-f","--fixed"):
             fixed = True
+        elif opt in ("-r","--random"):
+            random = True
+        elif opt in ("--seed"):
+            if random:
+                strSeed = arg
+                seed(strSeed)
+            else:
+                usage()
+                sys.exit()
         else:
             usage()
             sys.exit()
@@ -201,8 +227,9 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_sangbog(author, name, style, logo, empty, sort, fixed)         #call to create sangbog
-
+    create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
+    if random:
+        print("Seed used for shuffling: " + strSeed)
 
 if __name__=='__main__':
     (main(sys.argv[1:]))
