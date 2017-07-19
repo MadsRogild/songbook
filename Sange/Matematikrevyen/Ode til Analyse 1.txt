@@ -47,7 +47,7 @@ Wowyeahhh
 \endverse
 
 \beginverse
-$2\,\times\,\emph{
+$2\,\times$ \emph{
 Denne sang den er til dig
 Åh Jan Philip Solovej
 Når funktionerne de ændrer sig
