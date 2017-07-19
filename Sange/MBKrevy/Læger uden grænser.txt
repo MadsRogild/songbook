@@ -1,0 +1,53 @@
+\beginsong{Læger uden grænser}
+[sr={Melodi:Johnny Reimar - Du burde købe dig en tyroler hat}
+,by={MBKrevy 2015}
+]
+
+\beginverse
+Vi har været i Afrika - La la la
+de var syge og de sag' - la la la
+hjælp os så vi ikke dør - La la la
+Vi klapped dem på skuld'ren, rolig sae' vi, ta' og hør
+\endverse
+
+
+\beginverse
+Vi burde lave os en ebola-kur.
+Den skal være smart, virke i en fart.
+Vi burde lave os en ebola-kur.
+Tredje verden skal ajour.
+\endverse
+
+
+\beginverse
+Vi har vidst i mange år - La la la
+At ebola det kom' og går - La la la
+Men det' kun i Afrika - La la la
+Og der bor vi ikke, så vi har vært' ligegla'
+\endverse
+
+
+\beginverse
+Vi burde lave os en ebola-kur.
+Den skal være smart, virke i en fart.
+Vi burde lave os en ebola-kur.
+Tredje verden skal ajour.
+\endverse
+
+
+\beginverse
+Men hallo, hvad sker der nu? - La la la
+En fra vesten fik det sgu - La la la
+Nu det alvor - ind i lab - La la la
+Funding er på plads, så nu forsker vi om kap
+\endverse
+
+
+\beginverse
+Nu har vi lavet os en ebola-kur.
+Den er blevet smart, virker i en fart.
+For penge kan du køb' en ebola-kur.
+Er du fattig, så det surt.
+\endverse
+
+\endsong
