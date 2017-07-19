@@ -1,0 +1,82 @@
+\beginsong{Bryder Kokonen}[sr={Melodi:Linkin Park: ``Breaking The Habit''}, by={Biorevy 2015}]
+
+
+\beginverse
+Engang jeg var
+Engang jeg var
+En sulten lille larv
+Så spandt jeg mig et hus omkring
+Jeg bli’r en star
+Når tiden den er klar
+Nu venter jeg blot her omkring
+\endverse
+
+\beginverse
+Jeg vil bare sidde her
+Og ændre mine træk
+Men larven i mig var tryg
+Metamorphose skræk
+\endverse
+
+\beginverse
+Jeg vælger mig en ny struktur
+Og rykker celler rundt
+Jeg vil i luften danse smukt
+Og suge nektar sundt
+Jeg er en lepidoptera
+Jeg kan ikk’ vente mer’
+Så jeg bryder kokonen
+Jeg bryder kokonen
+I nat
+\endverse
+
+\beginverse
+Nu er det tid
+Ikk’ mere larvefnid
+Der er så ked’ligt her omkring
+Blå og lidt hvid
+Min puppe er solid
+Nu vil jeg se mig lidt omkring
+\endverse
+
+\beginverse
+Men jeg kan blot sidde her
+Og ændre mine træk
+Men larven i mig var tryg
+Metamorphose skræk
+\endverse
+
+\beginverse
+Jeg vælger mig en ny struktur
+Og rykker celler rundt
+Jeg vil i luften danse smukt
+Og gumle nektar sundt
+Jeg er en lepidoptera
+Jeg kan ikk’ vente mer’
+Så jeg bryder kokonen
+Jeg bryder kokonen
+I nat
+\endverse
+
+\beginverse
+Jeg er en sommerfugl
+Jeg gør naturen cool
+Har vinger fyldt med skæl
+Og blomsten er min træl
+\endverse
+
+\beginverse
+Vi valgte os en ny struktur
+Og rykked’ celler rundt
+Vi danser nu i luften smukt
+Og suger nektar sundt
+For vi er \textit{Lepidoptera}
+Vi er nu helt komplet
+For vi har brudt kokonen
+Vi har brudt kokonen
+Vi har brudt kokonen
+I nat
+\endverse
+
+
+\endsong

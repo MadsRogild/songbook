@@ -1,0 +1,61 @@
+\beginsong{Skovsangen}[sr={Melodi:Povl Kjøller: ``Skovsangen''}, by={Biorevy 2013}]
+
+
+\beginverse
+%  [omkv] Ringe agt
+%  [omkv] Ringe agt
+\endverse
+
+\beginverse
+ Vil du med en tur i skoven? Der er så mange bær,
+ Vil du med en tur i skoven? Der er så mange bær,
+Rundt omkring dig og for oven.
+Men hovsa du er død, kvalkved var så rød
+Der er så fuld af sjov, inde i en skov
+\endverse
+
+\beginverse
+Se den smukke fine plante, pluk dig en buket
+Smerte har du nu i vente
+Halløjsa du er død, Bjørneklo dig snød
+Der er så fuld af sjov, inde i en skov.
+\endverse
+
+\beginverse
+Der er massevis af svampe, du spiser måske en,
+Men så sker det: Du får krampe! 
+Og hovsa du er død, men svampen den var sød,
+Der er så fuld af sjov, inde i en skov
+\endverse
+
+\beginverse
+Det kan være du får flåter, de suger al dit blod,
+På hospitalet, ka' du nå det?
+Halløjsa du er død, hjerne hjerne død
+Der er så fuld af sjov, inde i en skov.
+\endverse
+
+\beginverse
+Ræven jager mus og fugle, men hvis den bider dig,
+Kaster du op om en uge
+Halløjsa du er død, rabies du nød,
+Der er så fuld af sjov, inde i en skov.
+\endverse
+
+\beginverse
+Se en unge der kan snøfte, men hvis den har en mor
+Så lad hellere være og løfte det
+Halløjsa du er død, bjørnen den var blød,
+Der er så fuld af sjov, inde i en skov.
+\endverse
+
+\beginverse
+Hør engang vær ganske stille, en jæger lusker rundt,
+Og pludselig lyder der en trille
+Halløjsa du er død, vådeskud dig skød
+Halløjsa du er død, vådeskud dig skød
+Der er så fuld af sjov, inde i en skov
+\endverse
+
+
+\endsong

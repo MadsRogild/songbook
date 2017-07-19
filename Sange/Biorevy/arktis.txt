@@ -1,0 +1,59 @@
+\beginsong{I Arktis er der ingen kød}[sr={Melodi:Bob Dylan: ``The Times They Are a-Changin'''}, by={Biorevy 2015}]
+\beginverse
+Kom lyt til min visdom
+Kom lyt til min visdom
+min bjørnefornuft.
+Se min bjørnefigur
+Den er ved at forduft.
+Min ånde den har fået
+Så’n en mærkelig ren duft,
+Min diæt den består kun af grødis.
+\endverse
+
+\beginverse
+Så da ringsælen forsvandt,
+Så da ringsælen forsvandt,
+måtte jeg leve af vand.
+For i Arktis der er der ikke kød.
+\endverse
+
+\beginverse
+Klimaforandring
+Klimaforandring
+har taget mit sul.
+Mon jeg stadigvæk er her,
+når vi når til jul?
+For tiderne skifter,
+Jeg har mistet mit skjul.
+I må indse uden mad vil jeg uddø.
+\endverse
+
+\beginverse
+Hvis jeg bare kunne flyve
+Hvis jeg bare kunne flyve
+Langt væk som en fugl.
+For i Arktis der er der ikke kød.
+\endverse
+
+\beginverse
+Fat mod, sultne bjørn
+Fat mod, sultne bjørn
+For der er håb endnu.
+Den varme tiltrækker 
+Helt andet kød nu.
+Eksotisk delfinkød
+Eller flipper-ragout
+Sætter gang i en sulten bjørns mundvand.
+\endverse
+
+\beginverse
+Det er slet ikke skidt,
+Det er slet ikke skidt,
+Klimaændring – juhuu!
+For i Arktis er der nu delfin-kød!
+\endverse
+
+
+
+
+\endsong

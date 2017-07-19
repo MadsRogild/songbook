@@ -1,0 +1,40 @@
+\beginsong{Biologisk Korrekte Børnesange}[sr={Melodi:Forskellige Børnesange}, by={Biorevy 2015}]
+
+
+\beginverse
+Lille Petra edderkop
+Sad så fint i spindet
+Så kom fluen
+klistrede sig fast
+Så kom Petra 			
+forgifted' fluens krop
+Lille Petra edderkop
+spiste så sin mand
+\endverse
+
+\beginverse
+Tangokat
+Min kat den fanger mus og leger med dem
+Og den er ikke sulten
+Den gør det kun for sjov
+Min kat den er en psyko-patisk dræber
+Og så den verdens sød’ste lille missekat
+\endverse
+
+\beginverse
+Den tykke flodhest er så ond
+den løber med en rumlen,
+og da jeg ikk var hurtig nok,
+så endte jeg i vommen.
+Oja-oja uhaha, oja-oja uhaha,
+og da jeg ikk var hurtig nok,
+så endte jeg i vommen.
+\endverse
+
+\beginverse
+Hvis du ser en krokodille i dit badekar
+bør du virk’lig være bange, den er ikke rar
+for(den) kan spise både dig, din mor og din far
+\endverse
+
+\endsong

@@ -1,0 +1,91 @@
+\beginsong{BioBaren}[sr={Melodi:Dio: ``Holy Diver''}, by={Biorevy 2015}]
+
+
+
+
+\beginverse
+   Uhh
+   Uhh
+Yeah yeah
+\endverse
+
+\beginverse
+BioBaren
+Du er altid klar med en midnats-øl
+Og mange shots skal der tyl’s
+\endverse
+
+\beginverse
+Billig bajer
+Den er ikke kold’, men er stadig go’
+En rigtig helt køber to
+\endverse
+
+\beginverse
+ Jeg må snart derned
+BioBaren
+Yeah
+\endverse
+
+\beginverse
+Dansegulvet
+Alt for mange mænd på en stripperstang
+Jeg vil jo bar’ høre sang
+\endverse
+
+\beginverse
+Drik ud
+\endverse
+
+\beginverse
+Hygger i Gastro
+Femten timer i streg, til den lyse morn`
+Vor lever er i topform
+\endverse
+
+\beginverse
+Jeg må snart derned
+Snart derned
+\endverse
+
+\beginverse
+Imellem øl og sprut
+Her er alt hvad du vil ha’
+Aldrig er natten slut
+Fester til det bliver dag
+\endverse
+
+\beginverse
+BioBaren
+Elsker dig kære fredagsbar
+Altid så frisk, du er klar
+\endverse
+
+\beginverse
+Druk druk
+\endverse
+
+\beginverse
+Psykotredive
+Vi skal drikke øl med et heftigt spil
+Har du mon hvad der skal til
+\endverse
+
+\beginverse
+BioBaren
+Du er altid klar med en midnats-øl
+Og mange shots skal der tyl’s
+\endverse
+
+\beginverse
+Billig bajer
+Den er ikke kold’, men er stadig go’
+En rigtig helt køber to
+\endverse
+
+\beginverse
+Jeg må snart derned
+Snart derned
+
+\endverse
+\endsong

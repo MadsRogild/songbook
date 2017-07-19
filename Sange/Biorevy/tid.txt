@@ -1,0 +1,77 @@
+\beginsong{Giv mig Tid}[sr={Melodi:Tøsedrengene -- Ud under åben Himmel}, by={Biorevy 2012}]
+
+
+\beginverse
+7 uger er væk -- Alt for hurtigt
+7 uger er væk -- Alt for hurtigt
+Og blokken er slut -- Jeg er urolig
+Eksamen er snart
+Jeg er ej parat
+Nu læser jeg pensum i en fart
+\endverse
+
+\beginverse
+Det kursus var hårdt -- læser vid're
+Det kursus var hårdt -- læser vid're
+Og pensum er stort -- (for) mange sider
+Et opgavesæt
+(Det) burde være let
+(Jeg) Har brugt 10 timer på opgave 1
+\endverse
+
+\beginverse
+Giv mig tid -- til at forstå det hele
+Giv mig tid -- til at forstå det hele
+Giv mig tid -- til at fordybe mig
+Giv mig tid -- til at forstå det hele
+Ej blot de store dele
+Jeg vil forstå det hele!
+\endverse
+
+\beginverse
+2 dage igen -- til eksamen
+2 dage igen -- til eksamen
+Jeg læser konstant -- hele natten
+Min kaffe er væk
+der er stor panik
+for jeg behøver et kaffe-kick 
+\endverse
+
+\beginverse
+Eksamen er nu -- jeg lå søvnløs 
+Eksamen er nu -- jeg lå søvnløs 
+Har jeg husket alt? -- jeg er nervøs
+For lige om lidt
+Når klokken den slår ét
+Ved jeg om det gik godt eller skidt
+\endverse
+
+\beginverse
+Giv mig tid -- så jeg kan nå det hele
+Giv mig tid -- så jeg kan nå det hele
+Giv mig tid -- til at svare på alt
+Giv mig tid -- så jeg kan nå det hele
+Også de svære dele
+For jeg vil nå det hele
+\endverse
+
+\beginverse
+Eksamen er slut -- det gik jo nemt 
+Eksamen er slut -- det gik jo nemt 
+Forstod jeg mon alt? -- Hvad har jeg glemt?
+Bestå eller ej
+Det frustrerer mig
+For om nogle uger stresser jeg -- igen
+\endverse
+
+\beginverse
+Giv mig tid -- til at forstå det hele
+Giv mig tid -- til at forstå det hele
+Giv mig tid -- til at fordybe mig
+Giv mig tid -- til at forstå det hele
+Ej blot de store dele
+Jeg vil forstå det hele
+\endverse
+
+
+\endsong

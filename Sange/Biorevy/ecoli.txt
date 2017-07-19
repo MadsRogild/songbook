@@ -1,0 +1,49 @@
+\beginsong{E. coli}[sr={Melodi:Mek Pek: ``Åh Abe''}, by={Biorevy 2015}]
+\beginverse
+   I lab der var \textit{E. coli}
+   I lab der var \textit{E. coli}
+Den bo'de i en skål
+Og den mutered' let fra gen til gen
+Og fik funktioner
+Såd'n går det let
+Og specialet bli'r for fedt
+\endverse
+
+\beginverse
+  E. coli, E. coli, du vokser som en leg
+  E. coli, E. coli, du vokser som en leg
+E. coli, E. coli, jeg har virk'lig brug for dig
+\endverse
+
+\beginverse
+    Og baktusserne de lever
+    Og baktusserne de lever
+I tarmen her på mig
+Så den ka' dele sig fra en til to
+Og så til mange
+Såd'n får man bum
+Tarmens flora som er sund
+\endverse
+
+\beginverse
+  E. coli, E. coli, du vokser som en leg
+  E. coli, E. coli, du vokser som en leg
+E. coli, E. coli, tarmen den har brug for dig
+\endverse
+
+\beginverse
+    Jeg spist' engang en pizza
+    Jeg spist' engang en pizza
+Og den var dejlig sprød
+E. coli spredte sig fra røv til hånd
+Til pepperoni
+Så'en var den ond
+Madforgiftning med det vuns
+\endverse
+
+\beginverse
+  E. coli, E. coli, du vokser som en leg
+  E. coli, E. coli, du vokser som en leg
+E. coli, E. coli, dårlig mave gi'r du mig
+\endverse
+\endsong

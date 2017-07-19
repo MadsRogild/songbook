@@ -1,0 +1,59 @@
+\beginsong{Selektionssangen}[sr={Melodi: Sebastian - Hodja fra Pjort} %29
+,
+by={ BioRevy 2011}
+,
+cr={}]
+\beginverse
+		Jeg så en hjort, jeg så en hjort,
+		men den løb længere og længere bort
+		indtil jeg ramte den temmelig hårdt
+		Kørende i min Ford.
+		Jeg ved jo ik', hvad jeg ellers sku' ha gjort.
+\endverse
+\beginverse			
+		Jeg så en mår, jeg så en mår.
+		Den var så nuttet og dækket med hår.
+		Pelsen var filtret lidt li'som et får,
+		men det jeg ik' forstår,
+		hvordan min kam ku' gi så mange sår.
+\endverse
+\beginverse			
+		Naturens love
+		er bare så sjove.
+		Evolutionen,
+		vi sidder på tronen
+		med scepter
+		og styr' selektioooooneeen!
+\endverse
+\beginverse			
+		Jeg så en kat, jeg så en kat.
+		aldrig har jeg hørt så voldsomt et splat.
+		Pludselig lå der en kæmpestor klat
+		Lige der hvor jeg sat
+		Hvad sku jeg gøre, for helved' det var nat!
+\endverse
+\beginverse			
+		Jeg så en stær, jeg så en stær
+		og da det kribled' i fingrer og tær.
+		Måtte jeg simpelthen komme den nær,
+		kæle den med mit sværd,
+		Men det er mærk'ligt nu piiipper den ej mer.
+\endverse
+\beginverse	
+		Naturens love ...
+\endverse
+\beginverse			
+		Se den kanin, se den kanin
+		Den var så nuttet, så blød og så fin
+		Indtil jeg glemte den i min kamin
+		Jeg føler mig til grin
+		Hvorfor skulle den også dyppes i palmin?
+\endverse
+\beginverse			
+		Se den pingvin, se den pingvin
+		Jeg tror habitten er større end min!
+		Geværet frem, tømmer mit magasin
+		På det sort-hvide svin
+		Nu er der end'lig frisk mad i vor kantin'
+\endverse
+\endsong

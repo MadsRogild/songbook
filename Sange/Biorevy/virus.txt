@@ -1,0 +1,82 @@
+\beginsong{Virussangen}[sr={Melodi:``Ikke rigtig voksne''}, by={Biorevy 2013}]
+
+
+\beginverse
+%\textbf{Bemærkninger til Teknikken:} Spot på sangere, Lys i flere farver, Headsets hvis muligt
+\endverse
+
+\beginverse
+%  [omkv] Ringe agt
+%  [omkv] Ringe agt
+  Vi er ikke rigtig levende 
+  Vi er ikke rigtig levende 
+       vi er ikke rigtig døde
+       vi er både-og, og hverken enten-eller. 
+       Leder altid efter nye værter 
+       vi kan leve hos 
+       (I) ville ønske I ku' slippe af med os. 
+\endverse
+
+\beginverse
+: Influenza er så lille, "gør mig ikke spor" 
+               - du skal bare drikke te 
+               - citron og honning med en ske 
+               Husk at jeg jo inficerer både fugl og svin og køer
+               Jeg muterer meget mere end du tror. 
+\endverse
+
+\beginverse
+ Vi er ikke rigtig levende 
+       vi er ikke rigtig døde
+       vi er både-og, og hverken enten-eller. 
+       Leder altid efter nye værter 
+vi kan leve hos 
+       (I) ville ønske I ku' slippe af med os. 
+\endverse
+
+\beginverse
+: Jeg elsker dyr med fire poter -- ulv og ræv og hund. 
+               - fråden flyder fra din mund 
+               - det kan ikke være sund(t). 
+              Og hvis hunden bider dig så er du ramt på et sekund
+              Rabies så lille og så super ond. 
+\endverse
+
+\beginverse
+  Vi er ikke rigtig levende 
+        vi er ikke rigtig døde
+        vi er både-og, og hverken enten-eller. 
+        Leder altid efter nye værter 
+        vi kan leve hos 
+       (I) ville ønske I ku' slippe af med os. 
+\endverse
+
+\beginverse
+: Jeg er en retrovirus og min dødsliste er lang 
+              - HIV af første rang 
+              - jeg slår til endnu en gang. 
+              Jeg regerer over verden, nyder jeres klagesang 
+              (i) tror i fik mig, men muterer blot en gang. 
+\endverse
+
+\beginverse
+  Vi er ikke rigtig levende 
+        vi er ikke rigtig døde
+        vi er både-og, og hverken enten-eller. 
+        Leder altid efter nye værter 
+       vi kan leve hos 
+       (I) ville ønske I ku' slippe af med os.
+\endverse
+
+\beginverse
+ Vi er ikke rigtig levende 
+       vi er ikke rigtig døde
+       vi er både-og, og hverken enten-eller. 
+       Leder altid efter nye værter
+       vi kan leve hos 
+       (I) ville ønske I ku' slippe af med os. 
+       (I) ville ønske I ku' slippe af med os. 
+       (I) ville ønske I ku' slippe af med...... os. 
+
+\endverse
+\endsong

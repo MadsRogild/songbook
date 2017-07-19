@@ -1,0 +1,71 @@
+\beginsong{LUCA}[sr={Melodi:Suzanne Vega: ``Luka''}, by={Biorevy 2013}]
+
+
+
+
+\beginverse
+%  [omkv]
+%  [omkv]
+\endverse
+
+
+
+\beginverse
+   Jeg hedder LUCA
+   Jeg hedder LUCA
+I har måske hørt om mig
+Jeg er den celle som
+Startede livets vej
+Jeg er den sidste fælles form
+I hvert fald hvis du spørger nogen
+Biologerne har talt
+Darwin havde ret i ALT
+Jeg er livet -- helt basalt
+\endverse
+
+\beginverse
+Men kreationister
+De vil ikke tro på mig
+De siger det var ham dersens Gud
+Der skabte dig og dig og dig
+Og hør lige her -- det ka' da være
+Men pseudovidenskab det er
+Er jeg virkelig eller ej?
+Beviset udpeger jeg
+Det er dig og dig og dig
+\endverse
+
+\beginverse
+De kan ik' fatte
+Hvordan alt det liv blev skabt
+På små sekstusind' år
+Ja det ville sgu være skrapt
+Men giv mutationerne lidt tid
+En milliard år, så er de med
+Og la'r lillebitte mig
+Udvikle sig til dig og dig
+Evolutionen siger jeg
+\endverse
+
+\beginverse
+Jeg kom til verden
+I et mørkt og kog'ne hav 
+Men det er først i dag
+At jeg har fået mit eget navn
+Designet det er intelligent
+Men det har ikke været nemt
+For Mor Natur at finde frem
+Til opskriften på ren fremgang
+Det sker ikke på én gang
+\endverse
+
+\beginverse
+Jeg har sgu gjort det meget godt
+Fra encellet til noget temmelig råt 
+Plante, svamp, archæa, dyr
+Mikrober overalt på Jord
+Credits til Moder Natur
+\endverse
+
+
+\endsong

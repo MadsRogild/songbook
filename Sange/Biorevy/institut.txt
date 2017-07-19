@@ -1,0 +1,51 @@
+\beginsong{Der er et institut}[sr={Melodi:Adam Oehlenschläger: ``Der er et yndigt land''}, by={Biorevy 2014}]
+\beginverse
+ 
+ 
+Der er et institut,
+det står i Nørre Campus
+nær Rigets hospital
+nær Rigets hospital
+Et stenkast væk fra HCØ
+Her lever biologer
+Hvert mandfolk og hver mø
+Hvert mandfolk og hver mø
+\endverse
+
+\beginverse
+
+
+Der sad i fordums tid
+En mand i grønne waders
+Og en i kittel hvid
+Og en i kittel hvid
+De ville vide alt om liv
+Fra mus til mastodonter
+Fra andemad til siv
+Fra andemad til siv
+\endverse
+
+\beginverse
+Og folket det er skønt
+Der's viden er nødvendig
+Og studiet det er grønt!
+Og studiet det er grønt!
+Vi redder verden nat og dag
+Vi kæmper for miljøet
+Vi elsker vores fag
+Vi elsker vores fag
+\endverse
+
+\beginverse
+Hil hver en biolog!
+Hil dette store studie;
+et folk i Darwins tro!
+et folk i Darwins tro!
+Vort stolte studie skal bestå,
+så længe bøgen spejler
+sin top i bølgen blå
+sin top i bølgen blå
+\endverse
+
+
+\endsong
