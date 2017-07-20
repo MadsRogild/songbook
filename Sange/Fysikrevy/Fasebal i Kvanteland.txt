@@ -1,4 +1,4 @@
-\beginsong{Fasebal i Kvanteland}[sr={Melodi: Julebal i Nisseland} 
+﻿\beginsong{Fasebal i Kvanteland}[sr={Melodi: Julebal i Nisseland} 
 ,
 by={ FysikRevy 2004}
 ,
@@ -14,14 +14,12 @@ cr={}]
 		Se nu bare, de flyver rundt i ring
 \endverse
 \beginverse
-		Sikk' en dejlig energi,
-		Jeg kan li' entropi
-		Cæsium atomet står
-		For at tiden går
-		Til fasebal, til fasebal i Kvanteland
-		Elektroner flyver frit omkring
-		Skru' feltet op og styr dem som en kvantemand
-		Se nu bare, de flyver rundt i ring
+		Atomer absorberer
+		Det lys, vi sender ind
+		Et spejl reflekterer:
+		Pas på, du ik' bli'r blind!
+		Til fasebal, til fase-fase-fase-fase-fasebal
+		Bose-Einstein er lysets karneval
 \endverse
 \beginverse
 		Her er koldt uhadada
