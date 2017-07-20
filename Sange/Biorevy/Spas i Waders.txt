@@ -1,12 +1,12 @@
-\beginsong{Spas i Waders}[sr={Melodi:Hit'n'Hide - Space Invaders}
+﻿\beginsong{Spas i Waders}[sr={Melodi:Hit'n'Hide - Space Invaders}
 ,
 by={ Biorevy 2012}
 ,
 cr={}]
 \beginverse
-Spas i waders i en så
+Spas i waders i en sø
 Fanger Myggelarver, Super biolog
-Spas I waders I en så
+Spas i waders i en sø
 Se på makrofytter, mål pH og lys
 
 \endverse

@@ -1,4 +1,4 @@
-\beginsong{Åh, Maple}[sr={Melodi: Westlife - Mandy}
+﻿\beginsong{Åh, Maple}[sr={Melodi: Westlife - Mandy}
 ,
 by={ FysikRevy 2015}
 ,
@@ -6,9 +6,6 @@ cr={}]
 \beginverse
 Husker dengang jeg var rus
 MatIntro, tog det lidt på sjus'
-
-\endverse
-\beginverse
 En skygge af et blad
 Et håb om at ku løse
 Funktionen foran mig
@@ -19,9 +16,6 @@ Var det muligt
 Onsdag formiddag og jeg
 Mærker "deadline" nærme sig
 Skriver den funktion
-
-\endverse
-\beginverse
 Og beder dig plot' den
 Og alt du giver mig
 Er blot en fejlmelding åh Maple
