@@ -1,4 +1,4 @@
-\beginsong{Prins Henri}[sr={Melodi:Disneys Alladin: ``Prins Ali''}, by={Biorevy 2015}]
+﻿\beginsong{Prins Henri}[sr={Melodi:Disneys Alladin: ``Prins Ali''}, by={Biorevy 2015}]
 
 
 
@@ -46,10 +46,7 @@ Laver vin
 smagen er fin
 Nul terpentin
  Han si’r han laver det selv?
- Han si’r han laver det selv?
  Mens slaver knokles ihjel
- Mens slaver knokles ihjel
- Ing’n er så glad for sig selv
  Ing’n er så glad for sig selv
 \endverse
 
@@ -59,9 +56,7 @@ Jo, Prins henri
 
 \beginverse
  Han har femoghalvfjerds elskerinder
- Han har femoghalvfjerds elskerinder
 (Faktisk mange flere)
- Og de siger han er så potent
  Og de siger han er så potent
 \endverse
 
