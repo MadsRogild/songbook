@@ -1,46 +1,44 @@
-\beginsong{Kvanter i mÃ¥neskin}[sr={Melodi: Danse i mÃ¥neskin}
+\beginsong{Kvanter i måneskin}[sr={Melodi: Danse i måneskin}
 ,
-by={ FysikRevy 2004}
+by={FysikRevy 2004}
 ,
 cr={}]
 \beginverse
-Ved tavlen er jeg en charmÃ¸r,
-og pigerne bliâ€™r blÃ¸de som smÃ¸r.
-NÃ¥r jeg pertuberer, mere,
-sÃ¥ fÃ¥r jeg topkarakterer.
-I dag er det fredag, jeg gÃ¥r
-ned pÃ¥ Cafeen? og fÃ¥r
-en Guld Tuborg fra hanen, til
-ganen.
-Og sÃ¥ gÃ¥r jeg hjem til mig selv.
+Ved tavlen er jeg en charmør,
+og pigerne bli’r bløde som smør.
+Når jeg pertuberer, mere,
+så får jeg topkarakterer.
+I dag er det fredag, jeg går
+ned på Cafeen? og får
+en Guld Tuborg fra hanen, til ganen.
+Og så går jeg hjem til mig selv.
 
 \endverse
 \beginverse
-%[OmkvÃ¦d:]
-Og kvanter i mÃ¥neskin.
+%[Omkvæd:]
+Og kvanter i måneskin.
 Jeg regner ud og ind
-pÃ¥ energi og spin.
-Kvanter i mÃ¥neskin.
+på energi og spin.
+Kvanter i måneskin.
 
 \endverse
 \beginverse
-NÃ¥r piger de synes, jeg er sÃ¦r,
-sÃ¥ siâ€™r jeg: â€Detâ€™ sÃ¥dan jeg er.â€
-Jeg regner pÃ¥ atomer, tro mig,
+Når piger de synes, jeg er sær,
+så si’r jeg: ”Det’ sådan jeg er.”
+Jeg regner på atomer, tro mig,
 der er mindst ti millioner.
-Jeg sidder og lÃ¦ser Euklid,
+Jeg sidder og læser Euklid,
 Hun siger, jeg spilder min tid.
-Hun siger: â€Jeg vil haâ€™ dig. Taâ€™
-mig!â€
-Og sÃ¥ gÃ¥r jeg hjem til mig selv!
+Hun siger: ”Jeg vil ha’ dig. Ta’ mig!”
+Og så går jeg hjem til mig selv!
 
 \endverse
 \beginverse
-%[OmkvÃ¦d]
-Og kvanter i mÃ¥neskin.
+%[Omkvæd]
+\lrep Og kvanter i måneskin.
 Jeg regner ud og ind
-pÃ¥ energi og spin.
-Kvanter i mÃ¥neskin.
+på energi og spin.
+Kvanter i måneskin.\rrep
 
 \endverse
 \endsong

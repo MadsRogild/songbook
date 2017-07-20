@@ -1,6 +1,6 @@
-\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
+﻿\beginsong{Doktrinen}[sr={Melodi:Otto Brandenburg - Alle sømænd er glade for piger}
 ,
-by={ DIKUrevy 2009}
+by={DIKUrevy 2009}
 ,
 cr={}]
 \beginverse
@@ -25,10 +25,8 @@ for de lærer jo ikke en pind
 
 \endverse
 \beginverse
-Og koder i Java, C\# eller Ada
-selv Fortran og Matlab, og HTML
-Foruden lidt Delphi, og Python og Ruby
-og Visual Basic med MySQL
+Og koder i Java, C\# eller Ada ...
+
 \endverse
 \beginverse
 Efter tolv år er jeg kandidat
@@ -38,9 +36,7 @@ for på arbejdet der sidder jeg
 
 \endverse
 \beginverse
-Og koder i Java, C\# eller Ada
-selv Fortran og Matlab, og HTML
-Foruden lidt Delphi, og Python og Ruby
-og Visual Basic med MySQL
+Og koder i Java, C\# eller Ada ...
+
 \endverse
 \endsong

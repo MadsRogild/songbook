@@ -1,49 +1,48 @@
-\beginsong{MÃ¥lteorisangen}[sr={Melodi: Vi lister os afsted pÃ¥ tÃ¥}
+\beginsong{Målteorisangen}[sr={Melodi: Vi lister os afsted på tå}
 ,
 by={ MatematikRevy 2006}
 ,
 cr={}]
 \beginverse
-Vi lister os af sted pÃ¥ tÃ¥
-nÃ¥r vi skal integrere.
-Vi mÃ¥ler kun pÃ¥ det, vi mÃ¥,
-alt andet laâ€™r vi vÃ¦re.
-Jeg mÃ¥ler pÃ¥ en gammel spand.
-Jeg mÃ¥ler pÃ¥ din tissemand.
-Og ellers mÃ¥ler vi det, vi nu kan,
-bÃ¥de Tage og Flemming og Christian!
+Vi lister os af sted på tå
+når vi skal integrere.
+Vi måler kun på det, vi må,
+alt andet la’r vi være.
+Jeg måler på en gammel spand.
+Jeg måler på din tissemand.
+Og ellers måler vi det, vi nu kan,
+både Tage og Flemming og Christian!
 
 \endverse
 \beginverse
-Vi starter med et Radon-mÃ¥l
-og fjerner dig fra stÃ¸tten,
-og pludsâ€™lig har du mÃ¥l pÃ¥ nul
-hvor fÃ¸r du havde sytten.
-Du troâ€™de, at du var noâ€™ed stort,
-nu er du barâ€™ en lille lort,
-men det mÃ¥ vi gerne fordi vi har spurgt
-bÃ¥de Flemming og Tage og Christian!
+Vi starter med et Radon-mål
+og fjerner dig fra støtten,
+og pluds’lig har du mål på nul
+hvor før du havde sytten.
+Du tro’de, at du var no’ed stort,
+nu er du bar’ en lille lort,
+men det må vi gerne fordi vi har spurgt
+både Flemming og Tage og Christian!
 
 \endverse
 \beginverse
 Og Kurzweil-Henstock integralet
 det er helt umuligt!
 Halvtreds procent det rene pral,
-halvtreds procent ubruâ€™ligt!
-Og Riemann han blev pludsâ€™lig vÃ¦k,
-mÃ¥ske var det en fejl i \TeX,
-men sÃ¥ kan vi bruge den kÃ¦re Lebesgue,
-bÃ¥de Flemming og Tage og Christian!
+halvtreds procent ubru’ligt!
+Og Riemann han blev pluds’lig væk,
+måske var det en fejl i \TeX,
+men så kan vi bruge den kære Lebesgue,
+både Flemming og Tage og Christian!
 
 \endverse
 \beginverse
-\emph{Arjjjj! Du mÃ¥ ikke mÃ¥le pÃ¥ min}
-\emph{tissemand!}
-\emph{Bare rolig, jeg bruger tÃ¦llemÃ¥let.}
-Men hov, det kan jo ikke gÃ¥!
-Den her kan du ikke mÃ¥le pÃ¥!
-For udvalgsaksiomet det stoler vi pÃ¥,
-bÃ¥de Tage og Flemming og Christian!
+[Siges:] \emph{Arjjjj! Du må ikke måle på min tissemand!}
+\emph{Bare rolig, jeg bruger tællemålet.}
+Men hov, det kan jo ikke gå!
+Den her kan du ikke måle på!
+For udvalgsaksiomet det stoler vi på,
+både Tage og Flemming og Christian!
 
 \endverse
 \endsong

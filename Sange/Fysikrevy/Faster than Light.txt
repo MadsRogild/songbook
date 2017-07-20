@@ -1,6 +1,6 @@
 \beginsong{Faster than Light}[sr={Melodi:Backstreet Boys - Larger than Life}
 ,
-by={ FysikRevy  2012}
+by={FysikRevy  2012}
 ,
 cr={}]
 \beginverse
@@ -14,29 +14,24 @@ Small neutrinos - hard to see, hard to see
 we need to determine their velocity
 (to) concentrate is hard (with) pretty girls in sight
 And that makes them faster than light
-\endverse
 
+\endverse
 \beginverse
 Gorgeous bella donna make us drop our activity
 Now we have refuted general relativity
 blonde hair, stilleto, soft skin so bright
-\endverse
 
+\endverse
 \beginverse
-Small neutrinos - hard to see, hard to see
-we need to determine their velocity
-(to) concentrate is hard (with) pretty girls in sight
-And that makes them faster than light
-\endverse
+Small neutrinos - hard to see, hard to see ...
 
+\endverse
 \beginverse
 blonde hair, stilleto, soft skin so bright
-\endverse
 
+\endverse
 \beginverse
-Small neutrinos - hard to see, hard to see
-we need to determine their velocity
-(to) concentrate is hard (with) pretty girls in sight
-And that makes them faster than light
+Small neutrinos - hard to see, hard to see ...
+
 \endverse
 \endsong
