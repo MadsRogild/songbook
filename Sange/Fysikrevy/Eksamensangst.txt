@@ -4,67 +4,55 @@
 ]
 
 \beginverse
-Uret tikker, hjertet det slÃ¥r
-Jeg mÃ¦rker pulsen inde i mit Ã¸re
-Jeg fÃ¥r det vÃ¦rre, som tiden den gÃ¥r
-Men jeg har lovet, at jeg nok forsÃ¸ger
-Jeg har dumpet alle min fag
-Jeg hÃ¥ber i dag er min lykkedag
+Uret tikker, hjertet det slår,
+jeg mærker pulsen inde i mit øre.
+Jeg får det værre som tiden går,
+men jeg har lovet at jeg nok forsøger.
+Jeg har dumpet alle mine fag.
+Jeg håber i dag er min lykkedag.
 \endverse
-
 
 \beginverse
-Solen falder blidt pÃ¥ min kind
-og jeg mÃ¦rker trykket i min blÃ¦re
-Jeg kan ikke nÃ¥ at lette det nu
-Nu mÃ¥ bare briste eller bÃ¦re
-DÃ¸ren knirker, jeg giâ€™r et lille hvin
-Jeg hÃ¥ber snart at turen er min
+Solen falder blidt på min kind,
+og jeg mærker trykket i min blære.
+Jeg kan ikke nå at lette det nu;
+nu må det briste eller bære.
+Døren knirker, jeg gi'r et lille hvin.
+Jeg håber snart at turen er min.
 \endverse
-
 
 \beginverse
-Bare jeg nu kan fÃ¥ det sagt
-Det jeg har Ã¸vet og planlagt
-Det jeg har terpet ud og ind
-Eller gÃ¥r klappen ned igen?
+\emph{[Omkvæd:]
+Bare jeg nu kan få det sagt,
+det jeg har øvet og planlagt,
+det jeg har terpet ud og ind,
+eller går klappen ned igen?}
 \endverse
-
 
 \beginverse
-HÃ¥nden ryster, halsen er tÃ¸r
-Jeg sveder kraftigt under mine arme
-Jeg stirrer tomt lige ind pÃ¥ den dÃ¸r
-Der stÃ¥r imellem mig og helvedets varme
-De andre gÃ¸r det, gang pÃ¥ gang pÃ¥ gang
-for mig er det stadig ulidelig tvang
+Hånden ryster, halsen er tør.
+Jeg sveder kraftigt under mine arme.
+Jeg stirrer tomt lige ind i på den dør
+der står imellem mig og helvedets varme.
+De andre gør det gang på gang på gang,
+for mig er det stadig ulidelig tvang.
 \endverse
-
 
 \beginverse
-Bare jeg nu kan fÃ¥ det sagt...
+\emph{[Omkvæd]}
 \endverse
-
 
 \beginverse
-Bare jeg ku forklare
-bare censor ku prÃ¸v at forstÃ¥
-at mundtlig eksamen ik er sagâ€™n nÃ¥r man blir sÃ¥ nervÃ¸s at man gÃ¥r i stÃ¥.
+Bare jeg ku forklare,
+bare censor ku' prøv' at forstå,
+at mundtlig eksamen ik' er sag'n når man bli'r så nervøs at man går i stå.
 \endverse
-
 
 \beginverse
-Bare jeg nu kan fÃ¥ det sagt...
+\emph{[Omkvæd]}
 \endverse
-
 
 \beginverse
-Bare jeg nu kan fÃ¥ det sagt...
+\emph{[Omkvæd (moduleret)]}
 \endverse
-
-
-\beginverse
-Bare jeg nu kan fÃ¥ det sagt...
-\endverse
-
 \endsong

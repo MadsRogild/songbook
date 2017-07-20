@@ -1,6 +1,6 @@
 \beginsong{Forever DIKU}[sr={Melodi: Rick Astly - Never Gonna Give You Up}
 ,
-by={ DIKUrevy 2015}
+by={DIKUrevy 2015}
 ,
 cr={}]
 \beginverse
