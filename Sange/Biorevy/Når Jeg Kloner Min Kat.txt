@@ -1,4 +1,4 @@
-\beginsong{Når Jeg Kloner Min Kat}[sr={Melodi: Westlife - When You're Looking Like That}
+﻿\beginsong{Når Jeg Kloner Min Kat}[sr={Melodi: Westlife - When You're Looking Like That}
 ,
 by={ BIOrevy 2012}
 ,
@@ -22,7 +22,7 @@ Ikke tid til at grundforske
 
 \endverse
 \beginverse
-Ska' aldirg mere sig' farvel
+Ska' aldrig mere sig' farvel
 Når jeg kloner min kat
 Vil altid være perfekt, nuttet, sød
 For altid vær' min skat
@@ -47,7 +47,7 @@ ikke tid til at grundforske
 
 \endverse
 \beginverse
-Ska' aldirg mere sig' farvel
+Ska' aldrig mere sig' farvel
 Når jeg kloner min kat
 Vil altid være perfekt, nuttet, sød
 For altid vær' min skat
@@ -65,7 +65,7 @@ Så jeg kloner min kat
 
 \endverse
 \beginverse
-Aldirg mere sig' farvel
+Aldrig mere sig' farvel
 Når jeg kloner min kat
 Vil altid være perfekt, nuttet, sød
 For altid vær' min skat
@@ -76,7 +76,7 @@ Når jeg kloner min kat
 
 \endverse
 \beginverse
-Ska' aldirg mere sig' farvel
+Ska' aldrig mere sig' farvel
 Når jeg kloner min kat
 Vil altid være perfekt, nuttet, sød
 For altid vær' min skat
@@ -87,7 +87,7 @@ Når jeg kloner min kat
 
 \endverse
 \beginverse
-Ska' aldirg mere sig' farvel
+Ska' aldrig mere sig' farvel
 Når jeg kloner min kat
 Vil altid være perfekt, nuttet, sød
 For altid vær' min skat
