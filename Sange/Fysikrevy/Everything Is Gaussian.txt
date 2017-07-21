@@ -1,4 +1,4 @@
-\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} %11
+﻿\beginsong{Everything is Gaussian!!!}[sr={Melodi: Everything is Awesome!!!} 
 ,
 by={ FysikRevy 2016}
 ,
@@ -38,7 +38,7 @@ cr={}]
 \endverse
 \beginverse	
 		Nobody likes the poisson distribution
-		Binomial is worse and we need a solution, what's solution?
+		Binomial is worse and we need a solution, what's the solution?
 		N is big, P is small, you will see, your data will set you free
 \endverse
 \beginverse	
