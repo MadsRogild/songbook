@@ -227,7 +227,7 @@ def main(argv):
         else:
             print("There is already a style with that name.")
     create_songbook(author, name, style, logo, empty, fixed, sort, twosided)         #call to create sangbog
-    if random:
+    if sort.lower() == "random":
         print("Seed used for shuffling: " + strSeed)
 
 if __name__=='__main__':
