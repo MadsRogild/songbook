@@ -7,7 +7,7 @@ current_version = sys.version_info
 
 
 """This function is used to create the tex file that is the songbook"""
-def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random):
+def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
     index = 1
     songs = []
     filer = auxiliary.recursive_walk("Sange/")        #list of files in Sange/, this is where all the songs we want in the songbook is.
@@ -47,9 +47,9 @@ def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, ran
                 order = sys.maxint
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
             sang.close()      
-    if sort:
+    if sort.lower() == "sort":
         songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
-    if random:
+    if sort.lower() == "random":
         shuffle(songs)
     if fixed:
         songs = sorted(songs, key=lambda songs: songs[2])
@@ -63,7 +63,7 @@ def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, ran
 
         for i in range(len(index)-1,-1,-1):
             del songs[i]
-        if not(random):
+        if not(sort.lower() == "random"):
             songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
         for i in range(0,len(order)):
             (_,_,o) = order[i]
@@ -75,7 +75,7 @@ def create_songbook(author, name, style, logo, empty, twosided, sort, fixed, ran
     counter = 0
     f = open("Sanghaefte.tex",'a')      #open the tex file for the songbook
     for tup in songs:                   #go through the list of songtitles and files
-        (title, fil,order) = tup              #get the title and filename for each song
+        (title, fil, order) = tup              #get the title and filename for each song
         if fil.endswith(".txt"):        #only use txt files
             sang = open(fil, 'r')
             text = sang.read()         #get the entire song and append it to the text
@@ -171,9 +171,8 @@ def main(argv):
     empty = False       #if you want a front page or not
     twosided = False       #if you want twosided for book print or not
     logo = ""           #the file containing the logo for the front page
-    sort = False
+    sort = "none"
     fixed = False
-    random = False
     
     strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
     seed(strSeed)
@@ -205,11 +204,11 @@ def main(argv):
         elif opt in ("-t","--twosided"):
             twosided = True
         elif opt in ("-S","--sort"):
-            sort = True
+            sort = """sort"""
         elif opt in ("-f","--fixed"):
             fixed = True
         elif opt in ("-r","--random"):
-            random = True
+            sort = """random"""
         elif opt in ("--seed"):
             if random:
                 strSeed = arg
@@ -227,8 +226,8 @@ def main(argv):
             style_tex.new_page_style(n,s)
         else:
             print("There is already a style with that name.")
-    create_songbook(author, name, style, logo, empty, twosided, sort, fixed, random)         #call to create sangbog
-    if random:
+    create_songbook(author, name, style, logo, empty, fixed, sort, twosided)         #call to create sangbog
+    if sort.lower() == "random":
         print("Seed used for shuffling: " + strSeed)
 
 if __name__=='__main__':

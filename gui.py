@@ -6,7 +6,8 @@ from Tkinter import *
 import Songbook
 import auxiliary
 
-checks = "Sort the songs based on number in song","Sort the songs alphabetically","No front page"
+checks = "Sort the songs based on number in song","No front page"
+options = ["How to sort the songs"]
 fields = "Name:","Author:","Style:","Logo:","New style:"
 
 def fetch(entries, root):
@@ -20,8 +21,9 @@ def fetch(entries, root):
     new_style = ""      #the new style to be defined
     empty = False       #if you want a front page or not
     logo = ""           #the file containing the logo for the front page
-    sort = False
+    sort = "none"
     fixed = False
+    random = False
     for entry in entries:
         field = entry[0]
         if field == "Logo:":
@@ -79,23 +81,12 @@ def fetch(entries, root):
                 else:
                     lab = Label(root, text="*Empty is set while either logo or author is set.", fg="red").grid(row=root.grid_size()[1], sticky=W, pady=5, columnspan=10)
                     entry[1][1].configure(highlightbackground="red", highlightcolor="red")
-        elif field == "Sort the songs alphabetically":
-            if entry[1][0].get():
-                if not fixed:
-                    entry[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-                    sort = True
-                else:
-                    lab = Label(root, text="*You have both sort and fixed set, so fixed has been chosen.", fg="red").grid(row=root.grid_size()[1], sticky=W, pady=5, columnspan=10)
-                    entry[1][1].configure(highlightbackground="red", highlightcolor="red")
         elif field == "Sort the songs based on number in song":
             if entry[1][0].get():
                 fixed = True
-            if not sort:
-                for e in entries:
-                    if e[0] == "Sort the songs alphabetically" and not e[1][0].get():
-                        e[1][1].configure(highlightcolor="black", highlightbackground="#D3D3D3")
-                        break
-    Songbook.create_sangbog(author, name, style, logo, empty, sort, fixed)
+        elif field == "How to sort the songs":
+            sort = entry[1][0].get()
+    Songbook.create_songbook(author, name, style, logo, empty, fixed, sort, True)
     done = Tk()
     done.title("Songbook created")
     lab = Label(done, width=42, text="Songbook has been created, press ok to close this box.", anchor='w')
@@ -104,29 +95,39 @@ def fetch(entries, root):
     b.pack(padx=5, pady=5)
 
 
-def makeform(root, fields, checks):
+def makeform(root, fields, checks, options):
     entries = []
-    r = 0
+    r = 1
     for field in fields:
-        Label(root, text=field).grid(row=r, sticky=W, pady=6, columnspan=2)
+        Label(root, text=field).grid(row=r, sticky=W, pady=7, columnspan=9, column=1, padx=40)
         ent = Entry(root, width=30)
-        ent.grid(row=r, column=1, pady=5, sticky=W,columnspan=9)
+        ent.grid(row=r, pady=5, sticky=W, columnspan=9, column=5)
         entries.append((field, ent))
         r += 1
     for check in checks:
         var = IntVar()
-        Label(root, text=check).grid(row=r, sticky=W, pady=5, columnspan=9)
+        Label(root, text=check).grid(row=r, sticky=W, pady=5, columnspan=9, column=1, padx=40)
         chk = Checkbutton(root, variable=var)
-        chk.grid(row=r, column=9, sticky=E, pady=5)
+        chk.grid(row=r, pady=5, column=13, sticky=E)
         entries.append((check, (var,chk)))
+        r += 1
+    for option in options:
+        Label(root, text=option).grid(row=r, sticky=W, pady=5, columnspan=7, column=1, padx=40)
+        var = StringVar(root)
+        var.set("none") # initial value
+        opt = OptionMenu(root, var, "none", "alphabetically", "random")
+        opt.grid(row=r, sticky=E, pady=10, column=13)
+        entries.append((option, (var,opt)))
         r += 1
     return entries
 
 if __name__ == '__main__':
     root = Tk()
     root.title("Songbook")
-    ents = makeform(root, fields, checks)
+    root.geometry("530x350")
+    root.resizable(0, 0)
+    ents = makeform(root, fields, checks, options)
     root.bind('<Return>', (lambda event, e=ents: fetch(e,root)))   
-    Button(root, text='Create songbook', command=(lambda e=ents: fetch(e,root))).grid(row=root.grid_size()[1], column=0, sticky=W, pady=5)
-    Button(root, text='Quit', command=root.quit).grid(row=root.grid_size()[1]-1, column=1, sticky=W, pady=5)
+    Button(root, text='Create songbook', command=(lambda e=ents: fetch(e,root))).grid(row=root.grid_size()[1], pady=5, column=1, padx=35)
+    Button(root, text='Quit', command=root.quit).grid(row=root.grid_size()[1]-1, pady=5, column=2)
     root.mainloop()
