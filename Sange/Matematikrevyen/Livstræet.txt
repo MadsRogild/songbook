@@ -1,46 +1,46 @@
-\beginsong{LivstrÃ¦et}[sr={Melodi: Joan Jett - I Love Rock 'n' Roll}
+\beginsong{Livstræet}[sr={}
 ,
-by={ Erik Lindebjerg og Hans Holm}
+by={Erik Lindebjerg og Hans Holm}
 ,
 cr={}]
 \beginverse
-Der er sÃ¥ meget, der kan trykke,
-gÃ¸re dagen trist og grÃ¥.
+Der er så meget, der kan trykke,
+gøre dagen trist og grå.
 Se de folk, der uden lykke
-bare gÃ¥r og gÃ¥r i stÃ¥.
-\emph{Lad dem lege i livstrÃ¦ets krone,
-lad dem fÃ¸le, at livet er stort,
-lad dem skue de blÃ¥ horisonter
-og himmelhvÃ¦lvingens port.}
+bare går og går i stå.
+\emph{Lad dem lege i livstræets krone,
+lad dem føle, at livet er stort,
+lad dem skue de blå horisonter
+og himmelhvælvingens port.}
 
 \endverse
 \beginverse
-Der er sÃ¥ meget uden varme,
-uden Ã¥nd og uden liv.
+Der er så meget uden varme,
+uden ånd og uden liv.
 Folk bli`r fattige og arme,
-tÃ¦nker kun pÃ¥ tidsfordriv.
+tænker kun på tidsfordriv.
 \emph{Lad dem lege\ldots}
 
 \endverse
 \beginverse
-Der er sÃ¥ mange uden venner,
-uden kÃ¦rlighed og kys.
+Der er så mange uden venner,
+uden kærlighed og kys.
 Folk, som ingen andre kender
 hvor skal de mon finde lys?
 \emph{Lad dem lege\ldots}
 
 \endverse
 \beginverse
-Der er sÃ¥ hÃ¥rd en kamp om magten,
-alle kÃ¦mper for sig selv.
+Der er så hård en kamp om magten,
+alle kæmper for sig selv.
 Er der ingen, der har sagt dem,
-at de slÃ¥r sig selv ihjel?
+at de slår sig selv ihjel?
 \emph{Lad dem lege\ldots}
 
 \endverse
 \beginverse
-Der er sÃ¥ mange, der er slaver,
-lÃ¦nket fast til job og tid.
+Der er så mange, der er slaver,
+lænket fast til job og tid.
 Hvorfor bruges vore gaver
 uden tanke, uden vid?
 \emph{Lad dem lege\ldots}

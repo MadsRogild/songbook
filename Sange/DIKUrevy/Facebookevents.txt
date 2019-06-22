@@ -1,12 +1,12 @@
 \beginsong{Facebookevents}[sr={Melodi:TV2 - Det Mørke Jylland}
 ,
-by={ DIKUrevy 2014}
+by={DIKUrevy 2014}
 ,
 cr={}]
 \beginverse
 Jeg tjekker mails, der er intet nyt
 Jeg er ikk' inviteret
-For jeg er nemlig, slet ikk' på facebook 
+For jeg er nemlig, slet ikk' på facebook
 Men jeg vil stadig med
 
 \endverse

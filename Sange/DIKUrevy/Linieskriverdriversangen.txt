@@ -1,4 +1,4 @@
-\beginsong{Linieskriverdriversangen}[sr={Melodi:Dyrene i Hakkebakkeskoven "Peberkagebagesangen"}
+﻿\beginsong{Linieskriverdriversangen}[sr={Melodi:Dyrene i Hakkebakkeskoven "Peberkagebagesangen"}
 ,
 by={ DIKUrevy 2005}
 ,
@@ -39,7 +39,6 @@ fler' processer i hans RAM.
 
 \endverse
 \beginverse
-{colb}
 Ja, så må vi allokere
 fler' studerende med mere
 lager end der's lagerlærer

@@ -1,62 +1,55 @@
-\beginsong{Ode til Analyse 0}[sr={Melodi: Gimme! Gimme! Gimme!}
+\beginsong{Ode til Analyse 0}[sr={Melodi: ABBA -- Gimme! Gimme! Gimme! (Man After Midnight)}
 ,
 by={ Matematikrevy 2015}
 ,
 cr={}]
 \beginverse
-		NÃ¥r du skal
-		Op til An0 eksamen, er det ikke forkert
-		At ha' styr pÃ¥ uniform kontinuert 
-		Hvis du stÃ¥r
-		Og skal til at forklare lidt om HovedSÃ¦tning 3
-		bevise den det er jo ingen sag
+Når du skal
+Op til An0 eksamen, er det ikke forkert
+At ha' styr på uniform kontinuert
+Hvis du står
+Og skal til at forklare lidt om hovedsætning 3
+At bevise den det er jo ingen sag
 \endverse
+
 \beginverse
-		NÃ¥r slaget gÃ¥r igang
-		SÃ¥ husk blot denne sang
+Når slaget går igang
+Så husk blot denne sang
 \endverse
+
 \beginverse
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		SÃ¥ vÃ¦r' ikke bange, for der' noget du ved
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		Findes der et delta at parere det med
+\emph{Når vi, når vi, når vi har epsilon givet
+Så vær' ikke bange, for der' noget du ved
+Når vi, når vi, når vi har epsilon givet
+Findes der et delta at parere det med}
 \endverse
+
 \beginverse
-		Skal du til
-		At bevise Bolzano, eller Riemanns integral
-		(Vis) Begge to pÃ¥ samme tid helt uden pral
-		Husk da bare
-		At sÃ¥ fÃ¥r du brug for middelsummer og et I
-		Trekantsulighed det' noget vi ka' li'
+Skal du til
+At bevise Bolzano, eller Riemanns integral
+(Vis) Begge to på samme tid helt uden pral
+Husk da bare
+At så får du brug for middelsummer og et I
+Trekantsulighed det' noget vi ka' li'
 \endverse
+
 \beginverse
-		NÃ¥r slaget gÃ¥r igang
-		SÃ¥ husk blot denne sang
+Når slaget går igang
+Så husk blot denne sang
 \endverse
+
 \beginverse
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		SÃ¥ vÃ¦r' ikke bange, for der' noget du ved
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		Findes der et delta at parere det med
+\emph{Når vi, når vi, når vi\ldots}\rep{2}
 \endverse
+
 \beginverse
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet ...
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet ...
+Når slaget går igang
+Så husk blot denne sang
 \endverse
+
 \beginverse
-		NÃ¥r slaget gÃ¥r igang
-		SÃ¥ husk blot denne sang
+\emph{Når vi, når vi, når vi\ldots}\rep{2}
 \endverse
-\beginverse
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		SÃ¥ vÃ¦r' ikke bange, for der' noget du ved
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		Findes der et delta at parere det med
-\endverse
-\beginverse
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		SÃ¥ vÃ¦r' ikke bange, for der' noget du ved
-		NÃ¥r vi, nÃ¥r vi, nÃ¥r vi har epsilon givet
-		Findes der et delta at bekÃ¦mpe det med
-\endverse
+
+
 \endsong

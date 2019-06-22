@@ -1,4 +1,4 @@
-\beginsong{Jeg er fysiker}[sr={Melodi: The Lumberjack Song}
+\beginsong{Jeg er fysiker}[sr={Melodi: Monty Python - The Lumberjack Song}
 ,
 by={ MatematikRevy 2007}
 ,

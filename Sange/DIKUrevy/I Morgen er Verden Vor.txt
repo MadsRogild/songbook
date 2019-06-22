@@ -1,6 +1,5 @@
-\beginsong{I Morgen er Verden Vor}[sr={Melodi: Tomorrow belongs to me - Cabaret}
-,
-by={ DIKURevy 1998}
+\beginsong{I Morgen er Verden Vor}[by={DIKU},
+sr={Melodi:Tomorrow belongs to me - Cabaret}
 ,
 cr={}]
 \beginverse
@@ -30,7 +29,7 @@ I MORGEN ER VERDEN VOR!
 \beginverse
 Ã…H EDB, EDB,
 DU ER DET ORD,
-DER FÃ˜RER OS FREM MOD DE Ã¥R,
+DER FØRER OS FREM MOD DE ÅR,
 HVOR VERDEN BLI'R STYRET AF DATALOG'R
 I MORGEN ER VOR
 I MORGEN ER VOR

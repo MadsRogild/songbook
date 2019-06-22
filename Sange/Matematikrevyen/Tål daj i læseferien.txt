@@ -1,13 +1,17 @@
-\beginsong{TÃ¥l daj i lÃ¦seferien}[sr={Melodi: The Twelve Days of Christmas}
+\beginsong{Tål daj i læseferien}[sr={Melodi: 12 days of Christmas}
 ,
-by={ Julerevy 1987}
+by={Mona Holm og Marianne Bangsø, Julerevy 1987}
 ,
 cr={}]
 \beginverse
-		da' i lÃ¦seferien sa' jeg til mig selv
-		der er god tid, jeg pjÃ¦kker i dag
-
+Husk: der skal skåles efter 4. vers -- hver gang!
 \endverse
+
+\beginverse
+På den 1. da’ i læseferien sa’ jeg til mig selv:
+Der er god tid, jeg pjækker i dag.
+\endverse
+
 \beginverse
 		da'...
 		Mat'matik er trist
