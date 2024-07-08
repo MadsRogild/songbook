@@ -1,7 +1,4 @@
-\beginsong{Pest}
-[sr={Melodi:Aladdin - Prins Ali}
-,by={MBKrevy 2015}
-]
+\beginsong{Pest}[sr={Melodi:Aladdin - Prins Ali},by={MBKrevy 2015}]
 
 \beginverse
 \textit{Gør plads, der er et lig}

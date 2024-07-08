@@ -1,4 +1,4 @@
-\beginsong{Induktionssang}[sr={Melodi:Kim Larsen og Bellami $-$ Familien skal i skoven}, by={MatematikRevy 2015}]
+\beginsong{Induktionssang}[sr={Melodi:Kim Larsen og Bellami $-$ Familien skal i skoven}, by={MatematikRevy 2015}]
 \beginverse
 
 Det er efterår, jeg skal til Dis-eksamen

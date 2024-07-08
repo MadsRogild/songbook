@@ -7,11 +7,11 @@ cr={}]
 Først så var jeg bange, jeg var skrækslagen
 Jeg tænkte, det lød ligeså skrækkeligt som et stræklagen
 Og jeg sad søvnløs hele natten, stirred’ tomt ind i min pejs
-Før hed det naturvidenskab, nu skal man sige “science”
+Før hed det naturvidenskab, nu skal man sige “science
 \endverse
 \beginverse
 Syntes det var dumt - noget rigtigt lort
-Men nu der ingen vej tilbage, “science” er det nye sort.
+Men nu der ingen vej tilbage, “science er det nye sort.
 Jeg skulle ha sagt noget eller gjort noget, eller gået i protest
 Men sket er sket, og science er jo dansk når det er bedst
 \endverse

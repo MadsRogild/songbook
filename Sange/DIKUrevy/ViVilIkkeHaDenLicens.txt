@@ -1,4 +1,4 @@
-\beginsong{Vi vil ikke ha' den licens}[sr={Melodi:Tom Lundén: ``I kan ikke slå os ihjel''}, by={DIKUrevy 2007}]
+\beginsong{Vi vil ikke ha' den licens}[sr={Melodi:Tom Lundén: ``I kan ikke slå os ihjel''}, by={DIKUrevy 2007}]
 \beginverse
 % [Snak]: (tales over indledende musik)
 % I gamle dage kunne jeg afmelde licensen,

@@ -1,4 +1,4 @@
-\beginsong{Ekamen er nu}[sr={Melodi:O-Zone: ``Dragostea Din Tei''}, by={DIKUrevy 2005}]
+\beginsong{Ekamen er nu}[sr={Melodi:O-Zone: ``Dragostea Din Tei''}, by={DIKUrevy 2005}]
 \beginverse
 
 \endverse

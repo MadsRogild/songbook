@@ -10,7 +10,7 @@ For vi kan tage studierne med ud i det fri!
 (på DIKU) sidder de og roder, 
 bli'r træt' i deres ho'der, 
 så drop da nu de koder
-Ved de da ikke hvad "feltkurser" det vil sige' -- Nix!
+Ved de da ikke hvad feltkurser det vil sige' -- Nix!
 \endverse
 
 \beginverse

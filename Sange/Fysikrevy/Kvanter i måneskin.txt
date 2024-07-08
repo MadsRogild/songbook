@@ -25,13 +25,13 @@ Kvanter i måneskin.
 \endverse
 \beginverse
 Når piger de synes, jeg er sær,
-så si’r jeg: ”Det’ sådan jeg er.”
+så si’r jeg: Det’ sådan jeg er.
 Jeg regner på atomer, tro mig,
 der er mindst ti millioner.
 Jeg sidder og læser Euklid,
 Hun siger, jeg spilder min tid.
-Hun siger: ”Jeg vil ha’ dig. Ta’
-mig!”
+Hun siger: Jeg vil ha’ dig. Ta’
+mig!
 Og så går jeg hjem til mig selv!
 
 \endverse

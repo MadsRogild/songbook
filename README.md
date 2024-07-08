@@ -24,7 +24,7 @@ It has 7 options
 
 
 Usage example: python Sangbog.py -n Mat -c -s hex -l pic.svg
-This gives a songbook where the title is Mat, and it is a camo, it uses hexadecimal as pagenumbers, and the logo is pic.svg.
+This gives a songbook where the title is Mat, and it is a camp, it uses hexadecimal as pagenumbers, and the logo is pic.svg.
 
 
 For the new_style option one has to enter the new style of form: "name [regular expression", for example python Sangbog.py -p "example ([a-z]|[A-Z])\d"

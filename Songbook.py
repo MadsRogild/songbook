@@ -22,6 +22,7 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
     elif style == "oct":
         style = "octX"
 
+    
     preamble.create_preamble(author, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):
@@ -33,7 +34,7 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
                 try:
                     order = int(float(line0[line0.index("%")+1:]))
                 except ValueError:
-                    order = sys.maxint
+                    order = sys.maxsize
                     print("Misplaced % in file: " + fil)
                     import time
                     time.sleep(3)
@@ -44,9 +45,10 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
             elif "DAT62(1/2)80 Slagsang" in title:
                 order = 43
             else:
-                order = sys.maxint
+                order = sys.maxsize
             songs.append((title, fil, order))          #put the title in a list along with its respective filename
-            sang.close()      
+            sang.close()
+            
     if sort.lower() == "sort":
         songs = sorted(songs, key=lambda songs: songs[0].replace('\\','').replace('$','').lower())       #sort the songs according to name
     if sort.lower() == "random":
@@ -57,7 +59,7 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
         index = []
         for i in range(0,len(songs)):
             (_,_,o) = songs[i]
-            if o < sys.maxint:
+            if o < sys.maxsize:
                 order.append(songs[i])
                 index.append(i)
 
@@ -154,8 +156,8 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
 #    index_file.write("""\\end{idxblock}""")     #end index
     f.close()
     index_file.close()
-    call(["pdflatex", "Sanghaefte.tex"])
-    call(["pdflatex", "Sanghaefte.tex"])
+    #call(["pdflatex", "Sanghaefte.tex"])
+    #call(["pdflatex", "Sanghaefte.tex"])
 #    os.remove("Sanghaefte.tex")
 
 
@@ -174,7 +176,7 @@ def main(argv):
     sort = "none"
     fixed = False
     
-    strSeed = str(randint(0, sys.maxint))+str(randint(0,sys.maxint))+str(randint(0,sys.maxint))
+    strSeed = str(randint(0, sys.maxsize))+str(randint(0,sys.maxsize))+str(randint(0,sys.maxsize))
     seed(strSeed)
     try:
         opts, args = getopt.getopt(argv,"heatp:s:n:l:Sfr",["help","empty","author=","twosided","new_style=","style=","name=", "logo=", "sort", "fixed","random","seed="])     

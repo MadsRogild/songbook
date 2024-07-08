@@ -1,4 +1,4 @@
-\beginsong{Studiespøgelsets klagesang.}[sr={Melodi:My Chemical Romance: ``Welcome to the Black Parade''}, by={DIKUrevy 2007}]
+\beginsong{Studiespøgelsets klagesang.}[sr={Melodi:My Chemical Romance: ``Welcome to the Black Parade''}, by={DIKUrevy 2007}]
 \beginverse
  I tidernes morgen
 Var livet som sendt fra oven

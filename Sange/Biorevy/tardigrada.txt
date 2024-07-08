@@ -10,8 +10,8 @@
    Kom nu bare lille ven, petriskålen kalder, husk i morgen er der atter en dag (for nogen af os i hvert fald… høhø).
    Fint, så kan jeg hoppe i petriskålen i morgen.
    Fint, så kan jeg hoppe i petriskålen i morgen.
-   Pjat med dig, bjørnedyr! Hvis du er rigtig sød og hopper hurtigt i skålen, så synger jeg en ”godnat sang” for dig.
-   Pjat med dig, bjørnedyr! Hvis du er rigtig sød og hopper hurtigt i skålen, så synger jeg en ”godnat sang” for dig.
+   Pjat med dig, bjørnedyr! Hvis du er rigtig sød og hopper hurtigt i skålen, så synger jeg en godnat sang for dig.
+   Pjat med dig, bjørnedyr! Hvis du er rigtig sød og hopper hurtigt i skålen, så synger jeg en godnat sang for dig.
    Ej, det behøves ikke! Jeg skal nok hoppe op i petriskålen, men du skal ikke synge!
    Ej, det behøves ikke! Jeg skal nok hoppe op i petriskålen, men du skal ikke synge!
 \endverse
@@ -137,7 +137,7 @@ Men ak, Tardigrada du kommer jo tilbag’ hver gang
 
 
 For nu kan du kalde mig for Dr. Jack,
-jeg ”Ripper” dig til lunser!
+jeg Ripper dig til lunser!
 Min fråder vil ha' doggybag
 med bjørnefrikadunser.
 Damn, den kom hurtigt ned!

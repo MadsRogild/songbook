@@ -13,7 +13,7 @@ Men vejlederen hjalp
 \endverse
 
 \beginverse
- Han sagde: ”Husk på, at alle
+ Han sagde: Husk på, at alle
 Vi andre, vi også har problemer
 For det her fag er svært,
 Hvis du dumper, så glem det,
@@ -33,7 +33,7 @@ Fik næsten bugt med mig
 \beginverse
  Af og til og ganske ofte
 Har jeg lyst til at gi’ op
-Si’: ”Se dog på mig, jeg kan ikke mer’.”
+Si’: Se dog på mig, jeg kan ikke mer’.
 Men vennerne lader mig ik’ drop’
 Vores alles yndlingsfag
 Og jeg skal sgu nok forstå det hel’ en dag:
