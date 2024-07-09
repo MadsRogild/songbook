@@ -22,7 +22,6 @@ def create_songbook(author, name, style, logo, empty, fixed, sort, twosided):
     elif style == "oct":
         style = "octX"
 
-    
     preamble.create_preamble(author, name, style, logo, empty, twosided)       #create the preamble of the tex file
     for fil in filer:
         if fil.endswith(".txt"):

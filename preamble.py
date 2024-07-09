@@ -44,7 +44,7 @@ def create_preamble(author, name, style, logo, empty, twosided):
 
         from subprocess import call
         tempf.close()
-        call(["pdflatex", name+"Camp_tekst.tex"])       #use pdflatex on the tex file
+        #call(["pdflatex", name+"Camp_tekst.tex"])       #use pdflatex on the tex file
 
 
     f = open("Sanghaefte.tex", 'w+')        #now create the tex file for the songbook itself
